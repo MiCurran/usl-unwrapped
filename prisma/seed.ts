@@ -56,7 +56,7 @@ async function processAllFilesInDirectory(directoryPath) {
 
 async function main() {
   console.log(`Start seeding ...`);
-  //await seedUslTeams(uslTeams);
+  await seedUslTeams(uslTeams);
 
   const directoryPath = './mock/2023-week-26'; // Replace with the actual directory path
   await processAllFilesInDirectory(directoryPath);
@@ -156,9 +156,3 @@ main()
       await prisma.$disconnect();
     }
   }
-  
-  // Replace 'jsonData' with the actual JSON data from your file
-/*   const jsonData = require('../mock/2023-week-26/coloradospringsswitchbacksfc-louisvillecityfc-2345930_events.json');
-
-  seedUslTeams(uslTeams);
-  createMatchFromJSON(jsonData); */

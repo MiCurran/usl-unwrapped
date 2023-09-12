@@ -1,4 +1,4 @@
-import { Module } from '@nestjs/common';
+import { MiddlewareConsumer, Module } from '@nestjs/common';
 import { GraphQLModule } from '@nestjs/graphql';
 import { PrismaService } from './prisma/prisma.service';
 import { join } from 'path';
@@ -13,7 +13,9 @@ import { EventsController } from './events/events.controller';
 import { EventsService } from './events/events.service';
 import { EventsResolver } from './events/events.resolver';
 import { EventsModule } from './events/events.module';
-import { DocumentationController } from './documentation/documentation.controller';
+import { TeamsController } from './teams/teams.controller';
+import { TeamsService } from './teams/teams.service';
+import { TeamsModule } from './teams/teams.module';
 
 @Module({
   imports: [
@@ -23,9 +25,11 @@ import { DocumentationController } from './documentation/documentation.controlle
       buildSchemaOptions: { dateScalarMode: 'timestamp' },
     }),
     MatchesModule,
-    EventsModule
+    EventsModule,
+    TeamsModule
   ],
-  controllers: [AppController, MatchesController, EventsController, DocumentationController],
-  providers: [PrismaService, MatchResolver, AppService, MatchesService, EventsService, EventsResolver],
+  controllers: [AppController, MatchesController, EventsController, TeamsController],
+  providers: [PrismaService, MatchResolver, AppService, MatchesService, EventsService, EventsResolver, TeamsService],
 })
-export class AppModule {}
+export class AppModule { 
+}
