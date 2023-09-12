@@ -1,0 +1,886 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "FC Tulsa",
+      "formation": "4-2-3-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Gavin",
+        "players": [
+          {
+            "shirtNumber": "24",
+            "playerName": "Nelson",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "18"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "48",
+            "playerName": "Bird",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Seagrist",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Tetteh",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Bonet",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Ferri",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Yosef",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Worth",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Haji",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Epps",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Goodrum",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "14"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "53"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Wormell",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Bernal",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Corrales",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Hughes",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Fernandez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "McCabe",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Weah",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "69"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Birmingham Legion FC",
+      "formation": "4-2-3-1",
+      "score": "3",
+      "lineup": {
+        "managerName": "Soehn",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Van Oekel",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Smith",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Mensah",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Rufe",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Kavita",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Corcoran",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Agudelo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "89"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Enzo Martínez",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Kasim",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Nwegbo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Brett",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Penalty scored",
+                "eventTime": "19"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "21"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "33"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Spangenberg",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Gabriel Alves",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Dupont",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "96",
+            "playerName": "Freeman",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Mikey Lopez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Tabort Etaka",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "69.3%",
+        "Duels_Success_Rate": "62.9%",
+        "Ariel_Duels_Won": "72.2%",
+        "Interceptions": "4",
+        "Offsides": "1",
+        "Corners_Won": "5"
+      },
+      "away": {
+        "Possession": "30.7%",
+        "Duels_Success_Rate": "37.1%",
+        "Ariel_Duels_Won": "27.8%",
+        "Interceptions": "9",
+        "Offsides": "3",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "607",
+        "Long_Passes": "49",
+        "Passing_Accuracy": "84.2%",
+        "Passing_Accuracy_In_Opponent_Half": "76.3%",
+        "Crosses": "14",
+        "Crossing_Accuracy": "35.7%"
+      },
+      "away": {
+        "Passes": "263",
+        "Long_Passes": "51",
+        "Passing_Accuracy": "73.8%",
+        "Passing_Accuracy_In_Opponent_Half": "64.8%",
+        "Crosses": "9",
+        "Crossing_Accuracy": "44.4%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "13",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "38.5%"
+      },
+      "away": {
+        "Goals": "3",
+        "Shots": "11",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "36.4%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "20",
+        "Tackle_Success_Rate": "60.0%",
+        "Clearances": "13"
+      },
+      "away": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "30.8%",
+        "Clearances": "18"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "14",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "17",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Foul by Patrick Seagrist (FC Tulsa)."
+    },
+    {
+      "time": "1'",
+      "event": "Juan Agudelo (Birmingham Legion) wins a free kick on the right wing."
+    },
+    {
+      "time": "2'",
+      "event": "Attempt missed. Diba Nwegbo (Birmingham Legion) header from the centre of the box is close, but misses to the right. Assisted by Prosper Kasim with a cross following a set piece situation."
+    },
+    {
+      "time": "8'",
+      "event": "Attempt saved. Siad Haji (FC Tulsa) right footed shot from the centre of the box is saved in the centre of the goal."
+    },
+    {
+      "time": "9'",
+      "event": "Jake Rufe (Birmingham Legion) wins a free kick in the attacking half."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Phillip Goodrum (FC Tulsa)."
+    },
+    {
+      "time": "14'",
+      "event": "Goal!  FC Tulsa 1, Birmingham Legion 0. Phillip Goodrum (FC Tulsa) right footed shot from the right side of the box to the bottom left corner. Assisted by Milo Yosef."
+    },
+    {
+      "time": "17'",
+      "event": "Enzo Martínez (Birmingham Legion) wins a free kick on the right wing."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Ruxi (FC Tulsa)."
+    },
+    {
+      "time": "17'",
+      "event": "Offside, Birmingham Legion. Juan Agudelo tries a through ball, but Enzo Martínez is caught offside."
+    },
+    {
+      "time": "18'",
+      "event": "Penalty Birmingham Legion. Neco Brett draws a foul in the penalty area."
+    },
+    {
+      "time": "18'",
+      "event": "Penalty conceded by Michael Nelson (FC Tulsa) after a foul in the penalty area."
+    },
+    {
+      "time": "18'",
+      "event": "Michael Nelson (FC Tulsa) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "19'",
+      "event": "Goal!  FC Tulsa 1, Birmingham Legion 1. Neco Brett (Birmingham Legion) converts the penalty with a right footed shot to the bottom left corner."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt blocked. Diba Nwegbo (Birmingham Legion) right footed shot from the left side of the box is blocked. Assisted by Neco Brett."
+    },
+    {
+      "time": "21'",
+      "event": "Goal!  FC Tulsa 1, Birmingham Legion 2. Neco Brett (Birmingham Legion) right footed shot from the centre of the box to the centre of the goal. Assisted by Enzo Martínez with a cross."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt saved. Eric Bird (FC Tulsa) right footed shot from outside the box is saved in the centre of the goal."
+    },
+    {
+      "time": "23'",
+      "event": "Corner,  FC Tulsa. Conceded by Matt Van Oekel."
+    },
+    {
+      "time": "24'",
+      "event": "Offside, Birmingham Legion. Prosper Kasim tries a through ball, but Diba Nwegbo is caught offside."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "26'",
+      "event": "Marcus Epps (FC Tulsa) wins a free kick on the right wing."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Collin Smith (Birmingham Legion)."
+    },
+    {
+      "time": "29'",
+      "event": "Marcus Epps (FC Tulsa) wins a free kick on the left wing."
+    },
+    {
+      "time": "30'",
+      "event": "Delay in match   (FC Tulsa)."
+    },
+    {
+      "time": "32'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "33'",
+      "event": "Goal!  FC Tulsa 1, Birmingham Legion 3. Neco Brett (Birmingham Legion) left footed shot from the centre of the box to the top right corner. Assisted by Diba Nwegbo   following a fast break."
+    },
+    {
+      "time": "34'",
+      "event": "Phanuel Kavita (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "34'",
+      "event": "Foul by Phillip Goodrum (FC Tulsa)."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt blocked. Nathan Worth (FC Tulsa) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "38'",
+      "event": "Moses Mensah (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Eric Bird (FC Tulsa)."
+    },
+    {
+      "time": "40'",
+      "event": "Delay in match  because of an injury Neco Brett (Birmingham Legion)."
+    },
+    {
+      "time": "41'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt missed. Phillip Goodrum (FC Tulsa) right footed shot from outside the box is too high. Assisted by Nathan Worth with a headed pass."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "43'",
+      "event": "Patrick Seagrist (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "44'",
+      "event": "Moses Mensah (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by Eric Bird (FC Tulsa)."
+    },
+    {
+      "time": "45'",
+      "event": "Offside, FC Tulsa. Siad Haji tries a through ball, but Phillip Goodrum is caught offside."
+    },
+    {
+      "time": "45+2'",
+      "event": "Foul by Matthew Corcoran (Birmingham Legion)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+5'",
+      "event": "First Half ends, FC Tulsa 1, Birmingham Legion 3."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt missed. Eric Bird (FC Tulsa) right footed shot from the right side of the box misses to the left."
+    },
+    {
+      "time": "47'",
+      "event": "Delay in match  because of an injury Prosper Kasim (Birmingham Legion)."
+    },
+    {
+      "time": "49'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "51'",
+      "event": "Attempt missed. Prosper Kasim (Birmingham Legion) left footed shot from outside the box is close, but misses to the right. Assisted by Neco Brett."
+    },
+    {
+      "time": "53'",
+      "event": "Hand ball by Phanuel Kavita (Birmingham Legion)."
+    },
+    {
+      "time": "53'",
+      "event": "Phillip Goodrum (FC Tulsa) is shown the yellow card."
+    },
+    {
+      "time": "54'",
+      "event": "Corner,  FC Tulsa. Conceded by Phanuel Kavita."
+    },
+    {
+      "time": "55'",
+      "event": "Hand ball by Prosper Kasim (Birmingham Legion)."
+    },
+    {
+      "time": "56'",
+      "event": "Attempt blocked. Milo Yosef (FC Tulsa) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "56'",
+      "event": "Attempt saved. Phillip Goodrum (FC Tulsa) right footed shot from the centre of the box is saved in the top centre of the goal."
+    },
+    {
+      "time": "57'",
+      "event": "Corner,  FC Tulsa. Conceded by Matt Van Oekel."
+    },
+    {
+      "time": "57'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "57'",
+      "event": "Blaine Ferri (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "58'",
+      "event": "Corner,  Birmingham Legion. Conceded by Eric Bird."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt missed. Juan Agudelo (Birmingham Legion) header from the centre of the box misses to the right. Assisted by Matthew Corcoran with a cross following a corner."
+    },
+    {
+      "time": "61'",
+      "event": "Foul by Matthew Corcoran (Birmingham Legion)."
+    },
+    {
+      "time": "61'",
+      "event": "Milo Yosef (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "63'",
+      "event": "Milo Yosef (FC Tulsa) wins a free kick on the right wing."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Birmingham Legion. Tabort Preston replaces Diba Nwegbo."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Birmingham Legion. Mikey Lopez replaces Matthew Corcoran."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, FC Tulsa. Angel Bernal replaces Blaine Ferri."
+    },
+    {
+      "time": "64'",
+      "event": "Corner,  FC Tulsa. Conceded by Jake Rufe."
+    },
+    {
+      "time": "67'",
+      "event": "Juan Agudelo (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Phillip Goodrum (FC Tulsa)."
+    },
+    {
+      "time": "68'",
+      "event": "Neco Brett (Birmingham Legion) wins a free kick in the attacking half."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Rashid Tetteh (FC Tulsa)."
+    },
+    {
+      "time": "69'",
+      "event": "Attempt saved. Prosper Kasim (Birmingham Legion) left footed shot from outside the box is saved in the centre of the goal."
+    },
+    {
+      "time": "69'",
+      "event": "Offside, Birmingham Legion. Prosper Kasim tries a through ball, but Enzo Martínez is caught offside."
+    },
+    {
+      "time": "69'",
+      "event": "Substitution, FC Tulsa. Patrick Weah replaces Siad Haji."
+    },
+    {
+      "time": "70'",
+      "event": "Prosper Kasim (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Patrick Weah (FC Tulsa)."
+    },
+    {
+      "time": "73'",
+      "event": "Collin Smith (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "73'",
+      "event": "Foul by Patrick Weah (FC Tulsa)."
+    },
+    {
+      "time": "73'",
+      "event": "Foul by Moses Mensah (Birmingham Legion)."
+    },
+    {
+      "time": "73'",
+      "event": "Milo Yosef (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Corner,  Birmingham Legion. Conceded by Angel Bernal."
+    },
+    {
+      "time": "75'",
+      "event": "Delay in match   (FC Tulsa)."
+    },
+    {
+      "time": "77'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "77'",
+      "event": "Attempt missed. Neco Brett (Birmingham Legion) right footed shot from outside the box is high and wide to the right."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Mikey Lopez (Birmingham Legion)."
+    },
+    {
+      "time": "78'",
+      "event": "Marcus Epps (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt blocked. Tabort Preston (Birmingham Legion) left footed shot from the left side of the box is blocked. Assisted by Enzo Martínez."
+    },
+    {
+      "time": "79'",
+      "event": "Corner,  Birmingham Legion. Conceded by Angel Bernal."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Mikey Lopez (Birmingham Legion)."
+    },
+    {
+      "time": "80'",
+      "event": "Patrick Weah (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, Birmingham Legion. Gabriel Alves replaces Moses Mensah."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, Birmingham Legion. Tyler Freeman replaces Neco Brett."
+    },
+    {
+      "time": "82'",
+      "event": "Attempt saved. Phillip Goodrum (FC Tulsa) right footed shot from the centre of the box is saved in the bottom left corner. Assisted by Patrick Weah."
+    },
+    {
+      "time": "84'",
+      "event": "Tyler Freeman (Birmingham Legion) wins a free kick in the attacking half."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Eric Bird (FC Tulsa)."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt missed. Marcus Epps (FC Tulsa) right footed shot from outside the box is high and wide to the right. Assisted by Milo Yosef."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt missed. Eric Bird (FC Tulsa) left footed shot from very close range is high and wide to the left. Assisted by Angel Bernal with a headed pass."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Phanuel Kavita (Birmingham Legion)."
+    },
+    {
+      "time": "88'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "89'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "89'",
+      "event": "Juan Agudelo (Birmingham Legion) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Jake Rufe (Birmingham Legion)."
+    },
+    {
+      "time": "89'",
+      "event": "Eric Bird (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt blocked. Phillip Goodrum (FC Tulsa) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "90'",
+      "event": "Corner,  FC Tulsa. Conceded by Gabriel Alves."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt missed. Phillip Goodrum (FC Tulsa) header from the centre of the box is close, but misses to the left. Assisted by Milo Yosef with a cross following a corner."
+    },
+    {
+      "time": "90+1'",
+      "event": "Substitution, Birmingham Legion. Grayson Dupont replaces Juan Agudelo."
+    },
+    {
+      "time": "90+2'",
+      "event": "Tyler Freeman (Birmingham Legion) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Nathan Worth (FC Tulsa)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Tyler Freeman (Birmingham Legion)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Angel Bernal (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Gabriel Alves (Birmingham Legion)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+4'",
+      "event": "Grayson Dupont (Birmingham Legion) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+4'",
+      "event": "Foul by Angel Bernal (FC Tulsa)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Attempt blocked. Tabort Preston (Birmingham Legion) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "90+5'",
+      "event": "Corner,  Birmingham Legion. Conceded by Nathan Worth."
+    },
+    {
+      "time": "90+6'",
+      "event": "Second Half ends, FC Tulsa 1, Birmingham Legion 3."
+    }
+  ]
+}

@@ -1,0 +1,936 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Oakland Roots",
+      "formation": "3-4-2-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Delgado",
+        "players": [
+          {
+            "shirtNumber": "20",
+            "playerName": "Blanchette",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Barbir",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Hackshaw",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Red card",
+                "eventTime": "908"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Morad",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Tamacas",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Diaz",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Matsoso",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Nane",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Rodriguez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Cedeno",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "33"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "907"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Formella",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "87"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "904"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "47",
+            "playerName": "Bailey",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Klimenta",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Gómez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Her",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Prentice",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "904"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Reid",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Peláez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "80"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Memphis 901 FC",
+      "formation": "4-3-3",
+      "score": "1",
+      "lineup": {
+        "managerName": "Glass",
+        "players": [
+          {
+            "shirtNumber": "21",
+            "playerName": "Hamid",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Buckmaster",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Ward",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Smith",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Peters",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Molloy",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Kelly",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Kissiedou",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Bruno Lapa",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Luiz Fernando",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Pickering",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "90"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Romig",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Lucas Turci",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "9011"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Rodrigo da Costa",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "9011"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Hyndman",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Paul",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Borczak",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "90"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Dally",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "48.0%",
+        "Duels_Success_Rate": "53.9%",
+        "Ariel_Duels_Won": "73.7%",
+        "Interceptions": "10",
+        "Offsides": "3",
+        "Corners_Won": "1"
+      },
+      "away": {
+        "Possession": "52.0%",
+        "Duels_Success_Rate": "46.1%",
+        "Ariel_Duels_Won": "26.3%",
+        "Interceptions": "14",
+        "Offsides": "5",
+        "Corners_Won": "3"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "433",
+        "Long_Passes": "79",
+        "Passing_Accuracy": "81.1%",
+        "Passing_Accuracy_In_Opponent_Half": "67.0%",
+        "Crosses": "10",
+        "Crossing_Accuracy": "40.0%"
+      },
+      "away": {
+        "Passes": "472",
+        "Long_Passes": "68",
+        "Passing_Accuracy": "81.6%",
+        "Passing_Accuracy_In_Opponent_Half": "73.9%",
+        "Crosses": "13",
+        "Crossing_Accuracy": "23.1%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "9",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "2",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "33.3%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "14",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "8",
+        "Shooting_Accuracy": "35.7%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "6",
+        "Tackle_Success_Rate": "83.3%",
+        "Clearances": "12"
+      },
+      "away": {
+        "Tackles": "14",
+        "Tackle_Success_Rate": "85.7%",
+        "Clearances": "12"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "17",
+        "Yellow_Cards": "2",
+        "Red_Cards": "1"
+      },
+      "away": {
+        "Fouls_Conceded": "16",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "2'",
+      "event": "Foul by Guillermo Diaz (Oakland Roots)."
+    },
+    {
+      "time": "2'",
+      "event": "Bruno Lapa (Memphis 901) wins a free kick on the right wing."
+    },
+    {
+      "time": "4'",
+      "event": "Jeciel Cedeño (Oakland Roots) wins a free kick on the right wing."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Akeem Ward (Memphis 901)."
+    },
+    {
+      "time": "5'",
+      "event": "Attempt missed. Dariusz Formella (Oakland Roots) right footed shot from the centre of the box misses to the left. Assisted by Johnny Rodriguez following a set piece situation."
+    },
+    {
+      "time": "5'",
+      "event": "Offside, Oakland Roots. Dariusz Formella tries a through ball, but Daniel Barbir is caught offside."
+    },
+    {
+      "time": "6'",
+      "event": "Daniel Barbir (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Luiz Fernando (Memphis 901)."
+    },
+    {
+      "time": "6'",
+      "event": "Attempt missed. Jeciel Cedeño (Oakland Roots) left footed shot from outside the box misses to the right."
+    },
+    {
+      "time": "7'",
+      "event": "Joseph Nane (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Nighte Pickering (Memphis 901)."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Napo Matsoso (Oakland Roots)."
+    },
+    {
+      "time": "9'",
+      "event": "Jeremy Kelly (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "10'",
+      "event": "Offside, Oakland Roots. Guillermo Diaz tries a through ball, but Johnny Rodriguez is caught offside."
+    },
+    {
+      "time": "12'",
+      "event": "Guillermo Diaz (Oakland Roots) wins a free kick on the left wing."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Rece Buckmaster (Memphis 901)."
+    },
+    {
+      "time": "17'",
+      "event": "Attempt blocked. Laurent Kissiedou (Memphis 901) right footed shot from the centre of the box is blocked. Assisted by Rece Buckmaster."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Napo Matsoso (Oakland Roots)."
+    },
+    {
+      "time": "19'",
+      "event": "Bruno Lapa (Memphis 901) wins a free kick on the left wing."
+    },
+    {
+      "time": "20'",
+      "event": "Attempt missed. Graham Smith (Memphis 901) header from the centre of the box misses to the right. Assisted by Aaron Molloy with a cross following a set piece situation."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Joseph Nane (Oakland Roots)."
+    },
+    {
+      "time": "23'",
+      "event": "Jeremy Kelly (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Dariusz Formella (Oakland Roots)."
+    },
+    {
+      "time": "24'",
+      "event": "Rece Buckmaster (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Joseph Nane (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Laurent Kissiedou (Memphis 901)."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Tarek Morad (Oakland Roots)."
+    },
+    {
+      "time": "26'",
+      "event": "Nighte Pickering (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "28'",
+      "event": "Attempt saved. Nighte Pickering (Memphis 901) left footed shot from outside the box is saved in the bottom left corner. Assisted by Bruno Lapa."
+    },
+    {
+      "time": "29'",
+      "event": "Napo Matsoso (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Aaron Molloy (Memphis 901)."
+    },
+    {
+      "time": "33'",
+      "event": "Goal!  Oakland Roots 1, Memphis 901 0. Jeciel Cedeño (Oakland Roots) left footed shot from a difficult angle on the right to the top left corner. Assisted by Daniel Barbir."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt missed. Bruno Lapa (Memphis 901) header from the centre of the box is just a bit too high. Assisted by Akeem Ward with a cross."
+    },
+    {
+      "time": "39'",
+      "event": "Offside, Memphis 901. Luiz Fernando tries a through ball, but Nighte Pickering is caught offside."
+    },
+    {
+      "time": "40'",
+      "event": "Dariusz Formella (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "40'",
+      "event": "Foul by Jeremy Kelly (Memphis 901)."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt missed. Akeem Ward (Memphis 901) right footed shot from outside the box is close, but misses to the right. Assisted by Jelani Peters."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt missed. Aaron Molloy (Memphis 901) right footed shot from the centre of the box is too high."
+    },
+    {
+      "time": "45+2'",
+      "event": "Foul by Joseph Nane (Oakland Roots)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Bruno Lapa (Memphis 901) wins a free kick on the right wing."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, Oakland Roots 1, Memphis 901 0."
+    },
+    {
+      "time": "46'",
+      "event": "Offside, Oakland Roots. Dariusz Formella tries a through ball, but Johnny Rodriguez is caught offside."
+    },
+    {
+      "time": "47'",
+      "event": "Delay in match   (Memphis 901). VAR checking."
+    },
+    {
+      "time": "53'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by Guillermo Diaz (Oakland Roots)."
+    },
+    {
+      "time": "54'",
+      "event": "Luiz Fernando (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "55'",
+      "event": "Bryan Tamacas (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Laurent Kissiedou (Memphis 901)."
+    },
+    {
+      "time": "57'",
+      "event": "Jeciel Cedeño (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "57'",
+      "event": "Foul by Jelani Peters (Memphis 901)."
+    },
+    {
+      "time": "59'",
+      "event": "Delay in match  because of an injury Laurent Kissiedou (Memphis 901)."
+    },
+    {
+      "time": "60'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "61'",
+      "event": "Goal!  Oakland Roots 1, Memphis 901 1. Laurent Kissiedou (Memphis 901) left footed shot from the centre of the box to the top left corner. Assisted by Nighte Pickering."
+    },
+    {
+      "time": "62'",
+      "event": "Bryan Tamacas (Oakland Roots) wins a free kick on the right wing."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Akeem Ward (Memphis 901)."
+    },
+    {
+      "time": "63'",
+      "event": "Akeem Ward (Memphis 901) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "64'",
+      "event": "Foul by Joseph Nane (Oakland Roots)."
+    },
+    {
+      "time": "64'",
+      "event": "Jeremy Kelly (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Daniel Barbir (Oakland Roots)."
+    },
+    {
+      "time": "65'",
+      "event": "Nighte Pickering (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "65'",
+      "event": "Napo Matsoso (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Laurent Kissiedou (Memphis 901)."
+    },
+    {
+      "time": "66'",
+      "event": "Attempt saved. Bruno Lapa (Memphis 901) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Aaron Molloy."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Tarek Morad (Oakland Roots)."
+    },
+    {
+      "time": "67'",
+      "event": "Bruno Lapa (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "68'",
+      "event": "Attempt saved. Aaron Molloy (Memphis 901) right footed shot from outside the box is saved in the top left corner."
+    },
+    {
+      "time": "68'",
+      "event": "Corner,  Memphis 901. Conceded by Paul Blanchette."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt missed. Nighte Pickering (Memphis 901) left footed shot from outside the box misses to the left. Assisted by Luiz Fernando."
+    },
+    {
+      "time": "70'",
+      "event": "Corner,  Memphis 901. Conceded by Tarek Morad."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Oakland Roots. Daniel Gomez replaces Napo Matsoso."
+    },
+    {
+      "time": "71'",
+      "event": "Offside, Memphis 901. Jeremy Kelly tries a through ball, but Laurent Kissiedou is caught offside."
+    },
+    {
+      "time": "72'",
+      "event": "Johnny Rodriguez (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Akeem Ward (Memphis 901)."
+    },
+    {
+      "time": "72'",
+      "event": "Johnny Rodriguez (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "72'",
+      "event": "Graham Smith (Memphis 901) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "73'",
+      "event": "Delay in match  because of an injury Johnny Rodriguez (Oakland Roots)."
+    },
+    {
+      "time": "74'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt blocked. Dariusz Formella (Oakland Roots) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt saved. Jeciel Cedeño (Oakland Roots) left footed shot from the right side of the box is saved in the centre of the goal. Assisted by Dariusz Formella."
+    },
+    {
+      "time": "77'",
+      "event": "Attempt saved. Jeciel Cedeño (Oakland Roots) left footed shot from a difficult angle on the right is saved in the bottom right corner."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, Memphis 901. Rodrigo da Costa replaces Bruno Lapa."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, Memphis 901. Rashawn Dally replaces Luiz Fernando."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt missed. Rashawn Dally (Memphis 901) right footed shot from outside the box is close, but misses to the right. Assisted by Rodrigo da Costa."
+    },
+    {
+      "time": "79'",
+      "event": "Jeciel Cedeño (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "79'",
+      "event": "Foul by Jeremy Kelly (Memphis 901)."
+    },
+    {
+      "time": "80'",
+      "event": "Attempt missed. Dariusz Formella (Oakland Roots) right footed shot from the centre of the box misses to the left. Assisted by Johnny Rodriguez with a headed pass."
+    },
+    {
+      "time": "80'",
+      "event": "Substitution, Oakland Roots. Trayvone Reid replaces Joseph Nane."
+    },
+    {
+      "time": "80'",
+      "event": "Substitution, Oakland Roots. Anuar Peláez replaces Johnny Rodriguez."
+    },
+    {
+      "time": "81'",
+      "event": "Foul by Trayvone Reid (Oakland Roots)."
+    },
+    {
+      "time": "81'",
+      "event": "Laurent Kissiedou (Memphis 901) wins a free kick on the left wing."
+    },
+    {
+      "time": "82'",
+      "event": "Attempt missed. Jeremy Kelly (Memphis 901) right footed shot from outside the box is just a bit too high following a set piece situation."
+    },
+    {
+      "time": "83'",
+      "event": "Foul by Trayvone Reid (Oakland Roots)."
+    },
+    {
+      "time": "83'",
+      "event": "Akeem Ward (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "83'",
+      "event": "Delay in match  because of an injury Akeem Ward (Memphis 901)."
+    },
+    {
+      "time": "84'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "85'",
+      "event": "Daniel Gomez (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "85'",
+      "event": "Foul by Aaron Molloy (Memphis 901)."
+    },
+    {
+      "time": "85'",
+      "event": "Jeciel Cedeño (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "85'",
+      "event": "Foul by Aaron Molloy (Memphis 901)."
+    },
+    {
+      "time": "86'",
+      "event": "Corner,  Oakland Roots. Conceded by Jelani Peters."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt blocked. Anuar Peláez (Oakland Roots) header from the right side of the six yard box is blocked. Assisted by Guillermo Diaz with a cross."
+    },
+    {
+      "time": "87'",
+      "event": "Hand ball by Dariusz Formella (Oakland Roots)."
+    },
+    {
+      "time": "87'",
+      "event": "Dariusz Formella (Oakland Roots) is shown the yellow card for hand ball."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Tarek Morad (Oakland Roots)."
+    },
+    {
+      "time": "88'",
+      "event": "Rodrigo da Costa (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "88'",
+      "event": "Offside, Memphis 901. Aaron Molloy tries a through ball, but Rashawn Dally is caught offside."
+    },
+    {
+      "time": "89'",
+      "event": "Attempt missed. Trayvone Reid (Oakland Roots) right footed shot from the centre of the box is close, but misses to the left. Assisted by Bryan Tamacas."
+    },
+    {
+      "time": "90'",
+      "event": "Jeremy Kelly (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90'",
+      "event": "Foul by Daniel Gomez (Oakland Roots)."
+    },
+    {
+      "time": "90'",
+      "event": "Substitution, Memphis 901. Dylan Borczak replaces Nighte Pickering."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt missed. Laurent Kissiedou (Memphis 901) right footed shot from the centre of the box is close, but misses to the right. Assisted by Aaron Molloy."
+    },
+    {
+      "time": "90+4'",
+      "event": "Substitution, Oakland Roots. Wolfgang Prentice replaces Dariusz Formella."
+    },
+    {
+      "time": "90+6'",
+      "event": "Corner,  Memphis 901. Conceded by Neveal Hackshaw."
+    },
+    {
+      "time": "90+7'",
+      "event": "Offside, Memphis 901. Rashawn Dally tries a through ball, but Dylan Borczak is caught offside."
+    },
+    {
+      "time": "90+7'",
+      "event": "Foul by Jeciel Cedeño (Oakland Roots)."
+    },
+    {
+      "time": "90+7'",
+      "event": "Jeciel Cedeño (Oakland Roots) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+7'",
+      "event": "Rodrigo da Costa (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+8'",
+      "event": "Neveal Hackshaw (Oakland Roots) is shown the red card."
+    },
+    {
+      "time": "90+8'",
+      "event": "Delay in match  because of an injury Rodrigo da Costa (Memphis 901)."
+    },
+    {
+      "time": "90+11'",
+      "event": "Substitution, Memphis 901. Lucas Turci replaces Rodrigo da Costa because of an injury."
+    },
+    {
+      "time": "90+11'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+11'",
+      "event": "Attempt saved. Lucas Turci (Memphis 901) header from the centre of the box is saved in the centre of the goal. Assisted by Jeremy Kelly with a cross."
+    },
+    {
+      "time": "90+13'",
+      "event": "Offside, Memphis 901. Lucas Turci tries a through ball, but Dylan Borczak is caught offside."
+    },
+    {
+      "time": "90+13'",
+      "event": "Second Half ends, Oakland Roots 1, Memphis 901 1."
+    }
+  ]
+}

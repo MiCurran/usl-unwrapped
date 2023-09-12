@@ -1,0 +1,857 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Monterey Bay",
+      "formation": "5-4-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Yallop",
+        "players": [
+          {
+            "shirtNumber": "16",
+            "playerName": "Siaha",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Doner",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Martinez",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Fehr",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "57"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Greene",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Roberts",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Hugh Alexander Dixon",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Murphy",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "54"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Rebollar",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "42"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Gleadle",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Volesky",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Herrera",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Lara",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Robinson",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Dawkins",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Boone",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Enríquez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Okoli",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "El Paso Locomotive FC",
+      "formation": "4-3-3",
+      "score": "0",
+      "lineup": {
+        "managerName": "Clarhaut",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Díaz",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Navarro",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Borelli",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "McCue",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Pavkovics",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Rose",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Calvillo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "35"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Hinds",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Solignac",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Kostyshyn",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Aaron Gómez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Garcia",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Lyons",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Abarca",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Herrera",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Petar Petrovic",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Sonupe",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Garcia",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "53.6%",
+        "Duels_Success_Rate": "51.1%",
+        "Ariel_Duels_Won": "58.8%",
+        "Interceptions": "16",
+        "Offsides": "1",
+        "Corners_Won": "5"
+      },
+      "away": {
+        "Possession": "46.4%",
+        "Duels_Success_Rate": "48.9%",
+        "Ariel_Duels_Won": "41.2%",
+        "Interceptions": "12",
+        "Offsides": "1",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "505",
+        "Long_Passes": "71",
+        "Passing_Accuracy": "87.1%",
+        "Passing_Accuracy_In_Opponent_Half": "77.3%",
+        "Crosses": "21",
+        "Crossing_Accuracy": "19.0%"
+      },
+      "away": {
+        "Passes": "443",
+        "Long_Passes": "52",
+        "Passing_Accuracy": "84.4%",
+        "Passing_Accuracy_In_Opponent_Half": "73.4%",
+        "Crosses": "13",
+        "Crossing_Accuracy": "46.2%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "13",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "8",
+        "Shooting_Accuracy": "30.8%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "18",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "13",
+        "Shooting_Accuracy": "33.3%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "18",
+        "Tackle_Success_Rate": "72.2%",
+        "Clearances": "9"
+      },
+      "away": {
+        "Tackles": "23",
+        "Tackle_Success_Rate": "69.6%",
+        "Clearances": "20"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "8",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Attempt saved. Josué Gómez (El Paso Locomotive) left footed shot from very close range is saved in the centre of the goal. Assisted by Nick Hinds."
+    },
+    {
+      "time": "1'",
+      "event": "Attempt missed. Josué Gómez (El Paso Locomotive) left footed shot from very close range is just a bit too high."
+    },
+    {
+      "time": "3'",
+      "event": "Attempt missed. Luis Solignac (El Paso Locomotive) right footed shot from outside the box misses to the right."
+    },
+    {
+      "time": "4'",
+      "event": "Morey Doner (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Nick Hinds (El Paso Locomotive)."
+    },
+    {
+      "time": "6'",
+      "event": "Corner,  Monterey Bay. Conceded by Erik McCue."
+    },
+    {
+      "time": "7'",
+      "event": "Attempt blocked. Christian Volesky (Monterey Bay) right footed shot from the centre of the box is blocked. Assisted by Hugh Roberts II with a headed pass."
+    },
+    {
+      "time": "7'",
+      "event": "Attempt missed. Kai Greene (Monterey Bay) left footed shot from the left side of the box is just a bit too high. Assisted by Alex Dixon following a corner."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Nick Hinds (El Paso Locomotive)."
+    },
+    {
+      "time": "9'",
+      "event": "Morey Doner (Monterey Bay) wins a free kick on the right wing."
+    },
+    {
+      "time": "9'",
+      "event": "Marc Navarro (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Walmer Martinez (Monterey Bay)."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt saved. Denys Kostyshyn (El Paso Locomotive) right footed shot from the right side of the box is saved in the bottom right corner."
+    },
+    {
+      "time": "13'",
+      "event": "Attempt saved. Denys Kostyshyn (El Paso Locomotive) left footed shot from the right side of the six yard box is saved in the bottom right corner. Assisted by Éder Borelli."
+    },
+    {
+      "time": "13'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Antony Siaha."
+    },
+    {
+      "time": "13'",
+      "event": "Attempt saved. Luis Solignac (El Paso Locomotive) header from the centre of the box is saved in the bottom left corner. Assisted by Denys Kostyshyn with a cross."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Eric Calvillo (El Paso Locomotive)."
+    },
+    {
+      "time": "14'",
+      "event": "Alex Dixon (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "14'",
+      "event": "Attempt blocked. Alex Dixon (Monterey Bay) right footed shot from the centre of the box is blocked. Assisted by Sam Gleadle."
+    },
+    {
+      "time": "19'",
+      "event": "Attempt saved. Sam Gleadle (Monterey Bay) right footed shot from the centre of the box is saved in the centre of the goal."
+    },
+    {
+      "time": "29'",
+      "event": "Attempt missed. Josué Gómez (El Paso Locomotive) header from the centre of the box is just a bit too high. Assisted by Nick Hinds with a cross."
+    },
+    {
+      "time": "32'",
+      "event": "Foul by Sam Gleadle (Monterey Bay)."
+    },
+    {
+      "time": "32'",
+      "event": "Erik McCue (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "35'",
+      "event": "James Murphy (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Eric Calvillo (El Paso Locomotive)."
+    },
+    {
+      "time": "35'",
+      "event": "Eric Calvillo (El Paso Locomotive) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "36'",
+      "event": "Hand ball by Liam Rose (El Paso Locomotive)."
+    },
+    {
+      "time": "37'",
+      "event": "Foul by Adrian Rebollar (Monterey Bay)."
+    },
+    {
+      "time": "37'",
+      "event": "Denys Kostyshyn (El Paso Locomotive) wins a free kick in the attacking half."
+    },
+    {
+      "time": "38'",
+      "event": "Christian Volesky (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Luis Solignac (El Paso Locomotive)."
+    },
+    {
+      "time": "39'",
+      "event": "Sam Gleadle (Monterey Bay) wins a free kick in the attacking half."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Liam Rose (El Paso Locomotive)."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt blocked. James Murphy (Monterey Bay) right footed shot from outside the box is blocked. Assisted by Walmer Martinez."
+    },
+    {
+      "time": "40'",
+      "event": "Corner,  Monterey Bay. Conceded by Liam Rose."
+    },
+    {
+      "time": "42'",
+      "event": "Foul by Adrian Rebollar (Monterey Bay)."
+    },
+    {
+      "time": "42'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "42'",
+      "event": "Adrian Rebollar (Monterey Bay) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "44'",
+      "event": "Attempt saved. James Murphy (Monterey Bay) right footed shot from outside the box is saved in the centre of the goal."
+    },
+    {
+      "time": "45'",
+      "event": "Attempt missed. Sam Gleadle (Monterey Bay) header from the left side of the box is close, but misses to the left. Assisted by Walmer Martinez with a cross."
+    },
+    {
+      "time": "45+1'",
+      "event": "First Half ends, Monterey Bay 0, El Paso Locomotive 0."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt saved. Morey Doner (Monterey Bay) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Alex Dixon."
+    },
+    {
+      "time": "48'",
+      "event": "Corner,  Monterey Bay. Conceded by Nick Hinds."
+    },
+    {
+      "time": "50'",
+      "event": "Corner,  Monterey Bay. Conceded by Éder Borelli."
+    },
+    {
+      "time": "50'",
+      "event": "Delay in match  because of an injury Éder Borelli (El Paso Locomotive)."
+    },
+    {
+      "time": "51'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt missed. Denys Kostyshyn (El Paso Locomotive) header from the centre of the box misses to the left. Assisted by Éder Borelli with a cross."
+    },
+    {
+      "time": "54'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by James Murphy (Monterey Bay)."
+    },
+    {
+      "time": "54'",
+      "event": "James Murphy (Monterey Bay) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Éder Borelli (El Paso Locomotive)."
+    },
+    {
+      "time": "55'",
+      "event": "Morey Doner (Monterey Bay) wins a free kick on the right wing."
+    },
+    {
+      "time": "57'",
+      "event": "Denys Kostyshyn (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "57'",
+      "event": "Foul by Mobi Fehr (Monterey Bay)."
+    },
+    {
+      "time": "57'",
+      "event": "Mobi Fehr (Monterey Bay) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, El Paso Locomotive. Emmanuel Sonupe replaces Nick Hinds."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt missed. Emmanuel Sonupe (El Paso Locomotive) right footed shot from the centre of the box is too high."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Marc Navarro (El Paso Locomotive)."
+    },
+    {
+      "time": "59'",
+      "event": "Walmer Martinez (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "60'",
+      "event": "Attempt saved. Eric Calvillo (El Paso Locomotive) right footed shot from outside the box is saved in the top left corner. Assisted by Luis Solignac."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt blocked. Emmanuel Sonupe (El Paso Locomotive) right footed shot from the right side of the box is blocked. Assisted by Marc Navarro."
+    },
+    {
+      "time": "64'",
+      "event": "Corner,  Monterey Bay. Conceded by Eric Calvillo."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt missed. Walmer Martinez (Monterey Bay) left footed shot from outside the box is high and wide to the left following a corner."
+    },
+    {
+      "time": "65'",
+      "event": "Attempt blocked. Emmanuel Sonupe (El Paso Locomotive) right footed shot from outside the box is blocked. Assisted by Josué Gómez."
+    },
+    {
+      "time": "65'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Kai Greene."
+    },
+    {
+      "time": "65'",
+      "event": "Attempt missed. Denys Kostyshyn (El Paso Locomotive) left footed shot from the right side of the box is high and wide to the left. Assisted by Marc Navarro with a headed pass following a corner."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Josué Gómez (El Paso Locomotive)."
+    },
+    {
+      "time": "66'",
+      "event": "Kai Greene (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt missed. Christian Volesky (Monterey Bay) header from the centre of the box is close, but misses to the right. Assisted by James Murphy."
+    },
+    {
+      "time": "69'",
+      "event": "Hand ball by Benny Díaz (El Paso Locomotive)."
+    },
+    {
+      "time": "69'",
+      "event": "Benny Díaz (El Paso Locomotive) is shown the yellow card for hand ball."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt missed. James Murphy (Monterey Bay) right footed shot from outside the box is close, but misses to the right from a direct free kick."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt missed. Luis Solignac (El Paso Locomotive) right footed shot from the right side of the box is too high. Assisted by Marc Navarro."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt blocked. James Murphy (Monterey Bay) right footed shot from outside the box is blocked. Assisted by Morey Doner."
+    },
+    {
+      "time": "73'",
+      "event": "Substitution, Monterey Bay. Simon Dawkins replaces Adrian Rebollar."
+    },
+    {
+      "time": "75'",
+      "event": "Delay in match  because of an injury Mobi Fehr (Monterey Bay)."
+    },
+    {
+      "time": "75'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "76'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Simon Dawkins."
+    },
+    {
+      "time": "76'",
+      "event": "Foul by Bence Pávkovics (El Paso Locomotive)."
+    },
+    {
+      "time": "76'",
+      "event": "Antony Siaha (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "77'",
+      "event": "Delay in match  because of an injury Mobi Fehr (Monterey Bay)."
+    },
+    {
+      "time": "77'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, Monterey Bay. Alex Lara replaces Mobi Fehr because of an injury."
+    },
+    {
+      "time": "79'",
+      "event": "Offside, El Paso Locomotive. Emmanuel Sonupe tries a through ball, but Luis Solignac is caught offside."
+    },
+    {
+      "time": "79'",
+      "event": "Delay in match  because of an injury Marc Navarro (El Paso Locomotive)."
+    },
+    {
+      "time": "80'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "81'",
+      "event": "Offside, Monterey Bay. Christian Volesky tries a through ball, but Simon Dawkins is caught offside."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, El Paso Locomotive. Miles Lyons replaces Marc Navarro because of an injury."
+    },
+    {
+      "time": "82'",
+      "event": "Substitution, El Paso Locomotive. Petar Petrovic replaces Josué Gómez."
+    },
+    {
+      "time": "85'",
+      "event": "Attempt saved. Eric Calvillo (El Paso Locomotive) right footed shot from outside the box is saved in the top left corner."
+    },
+    {
+      "time": "85'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Antony Siaha."
+    },
+    {
+      "time": "86'",
+      "event": "Delay in match  because of an injury James Murphy (Monterey Bay)."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, El Paso Locomotive. Louis Herrera replaces Denys Kostyshyn."
+    },
+    {
+      "time": "87'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, Monterey Bay. Chase Boone replaces James Murphy because of an injury."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt blocked. Erik McCue (El Paso Locomotive) header from the centre of the box is blocked. Assisted by Petar Petrovic with a cross."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Éder Borelli (El Paso Locomotive)."
+    },
+    {
+      "time": "88'",
+      "event": "Sam Gleadle (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "88'",
+      "event": "Éder Borelli (El Paso Locomotive) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+2'",
+      "event": "Liam Rose (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Simon Dawkins (Monterey Bay)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Delay in match   (Monterey Bay)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+5'",
+      "event": "Attempt saved. Walmer Martinez (Monterey Bay) right footed shot from the centre of the box is saved in the bottom right corner."
+    },
+    {
+      "time": "90+6'",
+      "event": "Luis Solignac (El Paso Locomotive) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+6'",
+      "event": "Foul by Alex Lara (Monterey Bay)."
+    },
+    {
+      "time": "90+6'",
+      "event": "Attempt blocked. Petar Petrovic (El Paso Locomotive) left footed shot from outside the box is blocked. Assisted by Liam Rose."
+    },
+    {
+      "time": "90+7'",
+      "event": "Attempt missed. Luis Solignac (El Paso Locomotive) header from the centre of the box is high and wide to the right. Assisted by Liam Rose."
+    },
+    {
+      "time": "90+7'",
+      "event": "Second Half ends, Monterey Bay 0, El Paso Locomotive 0."
+    }
+  ]
+}

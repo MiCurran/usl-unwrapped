@@ -1,0 +1,905 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Sacramento Republic FC",
+      "formation": "3-4-2-1",
+      "score": "3",
+      "lineup": {
+        "managerName": "Briggs 90‎+‎3‎'‎",
+        "players": [
+          {
+            "shirtNumber": "31",
+            "playerName": "Vitiello",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Wiedt",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "53"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Donovan",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Timmer",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Gurr",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "38"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "57"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Viader",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "López",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "456"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "96",
+            "playerName": "Felipe",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Herrera",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Penalty scored",
+                "eventTime": "7"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Nick Ross",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Cicerone",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Saldaña",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Fenwick",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "40",
+            "playerName": "Sanchez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "25",
+            "playerName": "Sousa",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "57"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Jauregui",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Keko",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Lewis",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "89"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "San Antonio FC",
+      "formation": "5-3-2",
+      "score": "1",
+      "lineup": {
+        "managerName": "Marcina 90‎+‎3‎'‎",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Farr",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": [
+              {
+                "event": "Red card",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Bailey",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "56"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Maloney",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Garcia",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "42"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Taintor",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "901"
+              },
+              {
+                "event": "Second yellow card",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Manley",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "7"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Azócar",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "25",
+            "playerName": "Abu",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernández",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Oluwaseyi",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Dhillon",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "56"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Jose Carlos Mercado",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Jome",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Parker",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "7"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "452"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Hayes",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Zouhir",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "56"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Bailone",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "56"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Hansen",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "44.6%",
+        "Duels_Success_Rate": "53.3%",
+        "Ariel_Duels_Won": "50.9%",
+        "Interceptions": "16",
+        "Offsides": "1",
+        "Corners_Won": "3"
+      },
+      "away": {
+        "Possession": "55.4%",
+        "Duels_Success_Rate": "46.7%",
+        "Ariel_Duels_Won": "49.1%",
+        "Interceptions": "16",
+        "Offsides": "4",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "311",
+        "Long_Passes": "76",
+        "Passing_Accuracy": "65.6%",
+        "Passing_Accuracy_In_Opponent_Half": "61.7%",
+        "Crosses": "13",
+        "Crossing_Accuracy": "30.8%"
+      },
+      "away": {
+        "Passes": "376",
+        "Long_Passes": "52",
+        "Passing_Accuracy": "72.6%",
+        "Passing_Accuracy_In_Opponent_Half": "63.1%",
+        "Crosses": "22",
+        "Crossing_Accuracy": "27.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "3",
+        "Shots": "12",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "8",
+        "Shooting_Accuracy": "41.7%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "9",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "44.4%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "23",
+        "Tackle_Success_Rate": "69.6%",
+        "Clearances": "29"
+      },
+      "away": {
+        "Tackles": "14",
+        "Tackle_Success_Rate": "71.4%",
+        "Clearances": "12"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "12",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "14",
+        "Yellow_Cards": "2",
+        "Red_Cards": "2"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "2'",
+      "event": "Foul by Mitchell Taintor (San Antonio)."
+    },
+    {
+      "time": "2'",
+      "event": "Nicholas Ross (Sacramento Republic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "3'",
+      "event": "Penalty conceded by Connor Maloney (San Antonio) after a foul in the penalty area."
+    },
+    {
+      "time": "3'",
+      "event": "Penalty Sacramento Republic. Jack Gurr draws a foul in the penalty area."
+    },
+    {
+      "time": "3'",
+      "event": "Delay in match  because of an injury Carter Manley (San Antonio)."
+    },
+    {
+      "time": "3'",
+      "event": "Delay in match  because of an injury Jack Gurr (Sacramento Republic)."
+    },
+    {
+      "time": "7'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "7'",
+      "event": "Substitution, San Antonio. Isaiah Parker replaces Carter Manley because of an injury."
+    },
+    {
+      "time": "7'",
+      "event": "Goal!  Sacramento Republic 1, San Antonio 0. Juan Herrera (Sacramento Republic) converts the penalty with a right footed shot to the bottom left corner."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "11'",
+      "event": "Juan Herrera (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "14'",
+      "event": "Delay in match  because of an injury Tani Oluwaseyi (San Antonio)."
+    },
+    {
+      "time": "14'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Damià Viader (Sacramento Republic)."
+    },
+    {
+      "time": "17'",
+      "event": "Zico Bailey (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "18'",
+      "event": "Corner,  San Antonio. Conceded by Conor Donovan."
+    },
+    {
+      "time": "18'",
+      "event": "Attempt missed. Justin Dhillon (San Antonio) header from very close range misses to the right. Assisted by Jorge Hernández with a cross following a corner."
+    },
+    {
+      "time": "19'",
+      "event": "Attempt saved. Juan Herrera (Sacramento Republic) header from the centre of the box is saved in the top centre of the goal. Assisted by Jack Gurr with a cross."
+    },
+    {
+      "time": "20'",
+      "event": "Attempt missed. Russell Cicerone (Sacramento Republic) left footed shot from the left side of the box is just a bit too high. Assisted by Damià Viader."
+    },
+    {
+      "time": "21'",
+      "event": "Shane Wiedt (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Justin Dhillon (San Antonio)."
+    },
+    {
+      "time": "22'",
+      "event": "Jack Gurr (Sacramento Republic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "22'",
+      "event": "Foul by Isaiah Parker (San Antonio)."
+    },
+    {
+      "time": "25'",
+      "event": "Foul by Luis Rodrigues (Sacramento Republic)."
+    },
+    {
+      "time": "25'",
+      "event": "Zico Bailey (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Juan Herrera (Sacramento Republic)."
+    },
+    {
+      "time": "26'",
+      "event": "Connor Maloney (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "26'",
+      "event": "Delay in match  because of an injury Connor Maloney (San Antonio)."
+    },
+    {
+      "time": "28'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Russell Cicerone (Sacramento Republic)."
+    },
+    {
+      "time": "29'",
+      "event": "Connor Maloney (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "30'",
+      "event": "Juan Herrera (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "30'",
+      "event": "Attempt missed. Damià Viader (Sacramento Republic) right footed shot from outside the box is close, but misses to the left. Assisted by Jack Gurr."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt blocked. Jack Gurr (Sacramento Republic) left footed shot from outside the box is blocked. Assisted by Juan Herrera."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt missed. Russell Cicerone (Sacramento Republic) header from the centre of the box misses to the right. Assisted by Nicholas Ross with a cross."
+    },
+    {
+      "time": "32'",
+      "event": "Foul by Jared Timmer (Sacramento Republic)."
+    },
+    {
+      "time": "32'",
+      "event": "Tani Oluwaseyi (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "34'",
+      "event": "Delay in match  because of an injury Juan Herrera (Sacramento Republic)."
+    },
+    {
+      "time": "35'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "38'",
+      "event": "Goal!  Sacramento Republic 2, San Antonio 0. Jack Gurr (Sacramento Republic) right footed shot from a difficult angle on the right to the bottom left corner. Assisted by Damià Viader with a cross."
+    },
+    {
+      "time": "40'",
+      "event": "Corner,  San Antonio. Conceded by Arnold López."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt saved. Juan Azócar (San Antonio) header from the centre of the box is saved in the centre of the goal. Assisted by Jorge Hernández with a cross."
+    },
+    {
+      "time": "42'",
+      "event": "Russell Cicerone (Sacramento Republic) wins a free kick on the left wing."
+    },
+    {
+      "time": "42'",
+      "event": "Foul by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "42'",
+      "event": "Fabien Garcia (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by Arnold López (Sacramento Republic)."
+    },
+    {
+      "time": "44'",
+      "event": "Jorge Hernández (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt saved. Jorge Hernández (San Antonio) left footed shot from outside the box is saved in the top right corner."
+    },
+    {
+      "time": "45+1'",
+      "event": "Jack Gurr (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+1'",
+      "event": "Foul by Mitchell Taintor (San Antonio)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Jack Gurr (Sacramento Republic) wins a free kick on the right wing."
+    },
+    {
+      "time": "45+2'",
+      "event": "Foul by Isaiah Parker (San Antonio)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Isaiah Parker (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "45+5'",
+      "event": "Jack Gurr (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+5'",
+      "event": "Foul by Jorge Hernández (San Antonio)."
+    },
+    {
+      "time": "45+6'",
+      "event": "Foul by Arnold López (Sacramento Republic)."
+    },
+    {
+      "time": "45+6'",
+      "event": "Connor Maloney (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+6'",
+      "event": "Arnold López (Sacramento Republic) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "45+7'",
+      "event": "First Half ends, Sacramento Republic 2, San Antonio 0."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Jack Gurr (Sacramento Republic)."
+    },
+    {
+      "time": "46'",
+      "event": "Isaiah Parker (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "48'",
+      "event": "Corner,  Sacramento Republic. Conceded by Zico Bailey."
+    },
+    {
+      "time": "49'",
+      "event": "Attempt saved. Nicholas Ross (Sacramento Republic) right footed shot from the centre of the box is saved in the top centre of the goal. Assisted by Conor Donovan."
+    },
+    {
+      "time": "51'",
+      "event": "Attempt blocked. Russell Cicerone (Sacramento Republic) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "51'",
+      "event": "Corner,  Sacramento Republic. Conceded by Connor Maloney."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Shane Wiedt (Sacramento Republic)."
+    },
+    {
+      "time": "53'",
+      "event": "Juan Azócar (San Antonio) wins a free kick on the left wing."
+    },
+    {
+      "time": "53'",
+      "event": "Shane Wiedt (Sacramento Republic) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "56'",
+      "event": "Offside, San Antonio. Jordan Farr tries a through ball, but Justin Dhillon is caught offside."
+    },
+    {
+      "time": "56'",
+      "event": "Substitution, San Antonio. Rida Zouhir replaces Zico Bailey."
+    },
+    {
+      "time": "56'",
+      "event": "Substitution, San Antonio. Ignacio Bailone replaces Justin Dhillon."
+    },
+    {
+      "time": "57'",
+      "event": "Substitution, Sacramento Republic. Ferrety Sousa replaces Jack Gurr."
+    },
+    {
+      "time": "58'",
+      "event": "Foul by Juan Herrera (Sacramento Republic)."
+    },
+    {
+      "time": "58'",
+      "event": "Fabien Garcia (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "60'",
+      "event": "Juan Herrera (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "60'",
+      "event": "Foul by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "62'",
+      "event": "Attempt missed. Mitchell Taintor (San Antonio) right footed shot from outside the box misses to the right."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt missed. Mohammed Abu (San Antonio) left footed shot from outside the box is high and wide to the left. Assisted by Connor Maloney."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt missed. Rida Zouhir (San Antonio) right footed shot from outside the box misses to the left."
+    },
+    {
+      "time": "64'",
+      "event": "Foul by Juan Herrera (Sacramento Republic)."
+    },
+    {
+      "time": "64'",
+      "event": "Fabien Garcia (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "65'",
+      "event": "Offside, San Antonio. Jorge Hernández tries a through ball, but Ignacio Bailone is caught offside."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, San Antonio. Ismaila Jome replaces Isaiah Parker."
+    },
+    {
+      "time": "67'",
+      "event": "Offside, San Antonio. Mitchell Taintor tries a through ball, but Ignacio Bailone is caught offside."
+    },
+    {
+      "time": "68'",
+      "event": "Jared Timmer (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Ignacio Bailone (San Antonio)."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt saved. Rida Zouhir (San Antonio) right footed shot from the right side of the box is saved in the top right corner."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt blocked. Tani Oluwaseyi (San Antonio) left footed shot from a difficult angle on the left is blocked. Assisted by Rida Zouhir."
+    },
+    {
+      "time": "74'",
+      "event": "Goal!  Sacramento Republic 2, San Antonio 1. Ignacio Bailone (San Antonio) left footed shot from the centre of the box to the centre of the goal. Assisted by Tani Oluwaseyi with a through ball."
+    },
+    {
+      "time": "77'",
+      "event": "Offside, Sacramento Republic. Luis Rodrigues tries a through ball, but Russell Cicerone is caught offside."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, Sacramento Republic. Aldair Sanchez replaces Damià Viader."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, Sacramento Republic. Keko Gontán replaces Russell Cicerone."
+    },
+    {
+      "time": "78'",
+      "event": "Offside, San Antonio. Mitchell Taintor tries a through ball, but Ignacio Bailone is caught offside."
+    },
+    {
+      "time": "81'",
+      "event": "Foul by Keko Gontán (Sacramento Republic)."
+    },
+    {
+      "time": "81'",
+      "event": "Jordan Farr (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt blocked. Keko Gontán (Sacramento Republic) left footed shot from the left side of the box is blocked. Assisted by Aldair Sanchez."
+    },
+    {
+      "time": "84'",
+      "event": "Corner,  Sacramento Republic. Conceded by Ismaila Jome."
+    },
+    {
+      "time": "85'",
+      "event": "Attempt missed. Conor Donovan (Sacramento Republic) left footed shot from the centre of the box is just a bit too high. Assisted by Shane Wiedt following a corner."
+    },
+    {
+      "time": "85'",
+      "event": "Juan Herrera (Sacramento Republic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "85'",
+      "event": "Foul by Jordan Farr (San Antonio)."
+    },
+    {
+      "time": "85'",
+      "event": "Jordan Farr (San Antonio) is shown the red card."
+    },
+    {
+      "time": "86'",
+      "event": "Delay in match  because of an injury Juan Herrera (Sacramento Republic)."
+    },
+    {
+      "time": "89'",
+      "event": "Substitution, Sacramento Republic. Zeiko Lewis replaces Juan Herrera because of an injury."
+    },
+    {
+      "time": "89'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "89'",
+      "event": "Goal!  Sacramento Republic 3, San Antonio 1. Luis Rodrigues (Sacramento Republic) from a free kick with a left footed shot to the top right corner."
+    },
+    {
+      "time": "90+1'",
+      "event": "Keko Gontán (Sacramento Republic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Mitchell Taintor (San Antonio)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Mitchell Taintor (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+1'",
+      "event": "Second yellow card to Mitchell Taintor (San Antonio) for a bad foul."
+    },
+    {
+      "time": "90+2'",
+      "event": "Delay in match  because of an injury Keko Gontán (Sacramento Republic)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+4'",
+      "event": "Second Half ends, Sacramento Republic 3, San Antonio 1."
+    }
+  ]
+}

@@ -1,0 +1,976 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Detroit City FC",
+      "formation": "3-1-4-2",
+      "score": "0",
+      "lineup": {
+        "managerName": "James",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Steinwascher",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Carroll",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Robinson",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Amoo-Mensah",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "91",
+            "playerName": "Fisher",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Williams",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Rodríguez",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Diop",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "34"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rutz",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Skage Lehland",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Morris",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Shellow",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Lewis",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Ballard",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Billhardt",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Gasso",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "34"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Matthews",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "92",
+            "playerName": "Suárez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Orange County SC",
+      "formation": "4-1-4-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Karlsen",
+        "players": [
+          {
+            "shirtNumber": "20",
+            "playerName": "Shutler",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Lamb",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Doghman",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Nakkim",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "90"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Powers",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Partida",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "65"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Iloski",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "55"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "60"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Casiple",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Scott",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "73"
+              },
+              {
+                "event": "Red card",
+                "eventTime": "906"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Iloski",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "23"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "McNulty",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "61"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Cropper",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Fox",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Villanueva",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Chattha",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "60"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Pedersen",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Amang",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Osundina",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "49.4%",
+        "Duels_Success_Rate": "50.0%",
+        "Ariel_Duels_Won": "51.5%",
+        "Interceptions": "12",
+        "Offsides": "0",
+        "Corners_Won": "6"
+      },
+      "away": {
+        "Possession": "50.6%",
+        "Duels_Success_Rate": "50.0%",
+        "Ariel_Duels_Won": "48.5%",
+        "Interceptions": "11",
+        "Offsides": "1",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "334",
+        "Long_Passes": "83",
+        "Passing_Accuracy": "65.9%",
+        "Passing_Accuracy_In_Opponent_Half": "51.2%",
+        "Crosses": "15",
+        "Crossing_Accuracy": "33.3%"
+      },
+      "away": {
+        "Passes": "348",
+        "Long_Passes": "80",
+        "Passing_Accuracy": "67.0%",
+        "Passing_Accuracy_In_Opponent_Half": "57.5%",
+        "Crosses": "8",
+        "Crossing_Accuracy": "12.5%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "11",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "54.5%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "10",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "30.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "8",
+        "Tackle_Success_Rate": "87.5%",
+        "Clearances": "9"
+      },
+      "away": {
+        "Tackles": "18",
+        "Tackle_Success_Rate": "61.1%",
+        "Clearances": "17"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "17",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "20",
+        "Yellow_Cards": "4",
+        "Red_Cards": "1"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Attempt missed. Marc McNulty (Orange County SC) right footed shot from the left side of the box is close, but misses to the right. Assisted by Ryan Doghman."
+    },
+    {
+      "time": "2'",
+      "event": "Dangerous play by Rhys Williams (Detroit City FC)."
+    },
+    {
+      "time": "2'",
+      "event": "Owen Lambe (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "2'",
+      "event": "Stephen Carroll (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "2'",
+      "event": "Foul by Marc McNulty (Orange County SC)."
+    },
+    {
+      "time": "3'",
+      "event": "Maxi Rodriguez (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Marc McNulty (Orange County SC)."
+    },
+    {
+      "time": "5'",
+      "event": "Corner,  Detroit City FC. Conceded by Kevin Partida."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Connor Rutz (Detroit City FC)."
+    },
+    {
+      "time": "7'",
+      "event": "Kevin Partida (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Oniel Fisher (Detroit City FC)."
+    },
+    {
+      "time": "7'",
+      "event": "Milan Iloski (Orange County SC) wins a free kick on the left wing."
+    },
+    {
+      "time": "9'",
+      "event": "Skage Simonsen (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Markus Nakkim (Orange County SC)."
+    },
+    {
+      "time": "12'",
+      "event": "Corner,  Orange County SC. Conceded by Stephen Carroll."
+    },
+    {
+      "time": "13'",
+      "event": "Attempt missed. Dillon Powers (Orange County SC) right footed shot from the centre of the box is too high. Assisted by Markus Nakkim with a headed pass following a corner."
+    },
+    {
+      "time": "14'",
+      "event": "Skage Simonsen (Detroit City FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Seth Casiple (Orange County SC)."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Rhys Williams (Detroit City FC)."
+    },
+    {
+      "time": "16'",
+      "event": "Milan Iloski (Orange County SC) wins a free kick on the left wing."
+    },
+    {
+      "time": "17'",
+      "event": "Skage Simonsen (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Dillon Powers (Orange County SC)."
+    },
+    {
+      "time": "18'",
+      "event": "Attempt missed. Milan Iloski (Orange County SC) right footed shot from outside the box is close, but misses to the left. Assisted by Kevin Partida."
+    },
+    {
+      "time": "19'",
+      "event": "Skage Simonsen (Detroit City FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Milan Iloski (Orange County SC)."
+    },
+    {
+      "time": "20'",
+      "event": "Attempt missed. Devon Amoo-Mensah (Detroit City FC) header from the left side of the six yard box is high and wide to the left. Assisted by Maxi Rodriguez with a cross following a set piece situation."
+    },
+    {
+      "time": "23'",
+      "event": "Goal!  Detroit City FC 0, Orange County SC 1. Milan Iloski (Orange County SC) header from the left side of the six yard box to the bottom right corner."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Oniel Fisher (Detroit City FC)."
+    },
+    {
+      "time": "29'",
+      "event": "Ryan Doghman (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "30'",
+      "event": "Delay in match   (Orange County SC)."
+    },
+    {
+      "time": "31'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "32'",
+      "event": "Delay in match  because of an injury Abdoulaye Diop (Detroit City FC)."
+    },
+    {
+      "time": "34'",
+      "event": "Substitution, Detroit City FC. Dominic Gasso replaces Abdoulaye Diop because of an injury."
+    },
+    {
+      "time": "34'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Ben Morris (Detroit City FC)."
+    },
+    {
+      "time": "35'",
+      "event": "Kevin Partida (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "35'",
+      "event": "Corner,  Orange County SC. Conceded by Oniel Fisher."
+    },
+    {
+      "time": "37'",
+      "event": "Skage Simonsen (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "37'",
+      "event": "Foul by Dillon Powers (Orange County SC)."
+    },
+    {
+      "time": "39'",
+      "event": "Attempt blocked. Owen Lambe (Orange County SC) right footed shot from the right side of the box is blocked. Assisted by Marc McNulty."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Oniel Fisher (Detroit City FC)."
+    },
+    {
+      "time": "41'",
+      "event": "Milan Iloski (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt blocked. Connor Rutz (Detroit City FC) right footed shot from outside the box is blocked. Assisted by Skage Simonsen."
+    },
+    {
+      "time": "42'",
+      "event": "Corner,  Detroit City FC. Conceded by Kevin Partida."
+    },
+    {
+      "time": "43'",
+      "event": "Marc McNulty (Orange County SC) hits the left post with a right footed shot from more than 40 yards on the left wing following a fast break."
+    },
+    {
+      "time": "45'",
+      "event": "Dominic Gasso (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45'",
+      "event": "Foul by Marc McNulty (Orange County SC)."
+    },
+    {
+      "time": "45'",
+      "event": "Hand ball by Markus Nakkim (Orange County SC)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt missed. Jalen Robinson (Detroit City FC) header from the centre of the box misses to the right. Assisted by Connor Rutz with a cross following a set piece situation."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, Detroit City FC 0, Orange County SC 1."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt saved. Ben Morris (Detroit City FC) right footed shot from outside the box is saved in the top right corner."
+    },
+    {
+      "time": "47'",
+      "event": "Corner,  Detroit City FC. Conceded by Colin Shutler."
+    },
+    {
+      "time": "50'",
+      "event": "Attempt saved. Ryan Doghman (Orange County SC) left footed shot from the left side of the box is saved in the top left corner. Assisted by Milan Iloski."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Dominic Gasso (Detroit City FC)."
+    },
+    {
+      "time": "51'",
+      "event": "Kyle Scott (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "52'",
+      "event": "Devon Amoo-Mensah (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "52'",
+      "event": "Foul by Brian Iloski (Orange County SC)."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by Jalen Robinson (Detroit City FC)."
+    },
+    {
+      "time": "54'",
+      "event": "Marc McNulty (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Devon Amoo-Mensah (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Brian Iloski (Orange County SC)."
+    },
+    {
+      "time": "55'",
+      "event": "Brian Iloski (Orange County SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "56'",
+      "event": "Attempt blocked. Brian Iloski (Orange County SC) left footed shot from the centre of the box is blocked. Assisted by Milan Iloski."
+    },
+    {
+      "time": "58'",
+      "event": "Skage Simonsen (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "58'",
+      "event": "Foul by Markus Nakkim (Orange County SC)."
+    },
+    {
+      "time": "59'",
+      "event": "Attempt saved. Maxi Rodriguez (Detroit City FC) right footed shot from outside the box is saved in the centre of the goal."
+    },
+    {
+      "time": "60'",
+      "event": "Substitution, Orange County SC. Ashish Chattha replaces Brian Iloski."
+    },
+    {
+      "time": "61'",
+      "event": "Marc McNulty (Orange County SC) is shown the yellow card."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, Orange County SC. Thomas Amang replaces Marc McNulty."
+    },
+    {
+      "time": "62'",
+      "event": "Attempt saved. Skage Simonsen (Detroit City FC) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Connor Rutz."
+    },
+    {
+      "time": "62'",
+      "event": "Corner,  Detroit City FC. Conceded by Colin Shutler."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Rhys Williams (Detroit City FC)."
+    },
+    {
+      "time": "63'",
+      "event": "Milan Iloski (Orange County SC) wins a free kick on the left wing."
+    },
+    {
+      "time": "63'",
+      "event": "Rhys Williams (Detroit City FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "65'",
+      "event": "Rhys Williams (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Kevin Partida (Orange County SC)."
+    },
+    {
+      "time": "65'",
+      "event": "Kevin Partida (Orange County SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "65'",
+      "event": "Devon Amoo-Mensah (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Ashish Chattha (Orange County SC)."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Detroit City FC. Matt Lewis replaces Jalen Robinson."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Detroit City FC. Darío Suárez replaces Ben Morris."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Detroit City FC. Yazeed Matthews replaces Skage Simonsen."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Darío Suárez (Detroit City FC)."
+    },
+    {
+      "time": "67'",
+      "event": "Owen Lambe (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Matt Lewis (Detroit City FC)."
+    },
+    {
+      "time": "69'",
+      "event": "Milan Iloski (Orange County SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "70'",
+      "event": "Matt Lewis (Detroit City FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt missed. Milan Iloski (Orange County SC) right footed shot from outside the box is just a bit too high from a direct free kick."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Stephen Carroll (Detroit City FC)."
+    },
+    {
+      "time": "72'",
+      "event": "Milan Iloski (Orange County SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "72'",
+      "event": "Stephen Carroll (Detroit City FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "73'",
+      "event": "Substitution, Orange County SC. Daniel Pedersen replaces Seth Casiple."
+    },
+    {
+      "time": "73'",
+      "event": "Substitution, Orange County SC. Andrew Fox replaces Kyle Scott."
+    },
+    {
+      "time": "75'",
+      "event": "Attempt missed. Milan Iloski (Orange County SC) left footed shot from the centre of the box is close, but misses the top left corner. Assisted by Owen Lambe with a cross."
+    },
+    {
+      "time": "75'",
+      "event": "Yazeed Matthews (Detroit City FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Ryan Doghman (Orange County SC)."
+    },
+    {
+      "time": "76'",
+      "event": "Foul by Devon Amoo-Mensah (Detroit City FC)."
+    },
+    {
+      "time": "76'",
+      "event": "Thomas Amang (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "77'",
+      "event": "Connor Rutz (Detroit City FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "77'",
+      "event": "Foul by Daniel Pedersen (Orange County SC)."
+    },
+    {
+      "time": "80'",
+      "event": "Delay in match  because of an injury Kevin Partida (Orange County SC)."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, Orange County SC. Korede Osundina replaces Kevin Partida because of an injury."
+    },
+    {
+      "time": "81'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "82'",
+      "event": "Substitution, Detroit City FC. Richard Ballard replaces Oniel Fisher."
+    },
+    {
+      "time": "82'",
+      "event": "Richard Ballard (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "82'",
+      "event": "Foul by Markus Nakkim (Orange County SC)."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt saved. Darío Suárez (Detroit City FC) right footed shot from outside the box is saved in the centre of the goal. Assisted by Richard Ballard."
+    },
+    {
+      "time": "84'",
+      "event": "Rhys Williams (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Ryan Doghman (Orange County SC)."
+    },
+    {
+      "time": "85'",
+      "event": "Foul by Darío Suárez (Detroit City FC)."
+    },
+    {
+      "time": "85'",
+      "event": "Owen Lambe (Orange County SC) wins a free kick on the right wing."
+    },
+    {
+      "time": "86'",
+      "event": "Richard Ballard (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Daniel Pedersen (Orange County SC)."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt saved. Darío Suárez (Detroit City FC) right footed shot from outside the box is saved in the bottom left corner."
+    },
+    {
+      "time": "88'",
+      "event": "Attempt missed. Darío Suárez (Detroit City FC) left footed shot from outside the box misses to the right."
+    },
+    {
+      "time": "89'",
+      "event": "Corner,  Detroit City FC. Conceded by Markus Nakkim."
+    },
+    {
+      "time": "90'",
+      "event": "Markus Nakkim (Orange County SC) is shown the yellow card."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt saved. Maxi Rodriguez (Detroit City FC) header from the centre of the box is saved in the top centre of the goal. Assisted by Richard Ballard with a cross."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Devon Amoo-Mensah (Detroit City FC)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Thomas Amang (Orange County SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+1'",
+      "event": "Offside, Orange County SC. Dillon Powers tries a through ball, but Thomas Amang is caught offside."
+    },
+    {
+      "time": "90+3'",
+      "event": "Hand ball by Richard Ballard (Detroit City FC)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Connor Rutz (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Andrew Fox (Orange County SC)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Corner,  Detroit City FC. Conceded by Ryan Doghman."
+    },
+    {
+      "time": "90+5'",
+      "event": "Attempt missed. Devon Amoo-Mensah (Detroit City FC) header from the centre of the box is too high. Assisted by Richard Ballard with a cross following a corner."
+    },
+    {
+      "time": "90+6'",
+      "event": "Kyle Scott (Orange County SC) is shown the red card."
+    },
+    {
+      "time": "90+7'",
+      "event": "Second Half ends, Detroit City FC 0, Orange County SC 1."
+    }
+  ]
+}

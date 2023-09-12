@@ -1,0 +1,939 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Colorado Springs Switchbacks FC",
+      "formation": "4-1-4-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Hogan",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Herrera",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Skundrich",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Seagrist",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Agren",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Mahoney",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "21"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "80",
+            "playerName": "Williams",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Beckford",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "20"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Chapman",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Echeverria",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Tejada",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Romario Williams",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Red card",
+                "eventTime": "15"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Joe Kuzminsky",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Henriquez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Magee",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "41",
+            "playerName": "Musa",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Fjeldberg",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Foster",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Wheeler",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "901"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "San Diego Loyal",
+      "formation": "3-5-2",
+      "score": "5",
+      "lineup": {
+        "managerName": "Miller",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Koke Vegas",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Elijah Martin",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Stoneman",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "18"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Riley",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Pérez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "1"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Bodily",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "9"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "30"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Corona",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Adams",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Collin Martin",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "40"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Conway",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "41"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Tumi Moshobane",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "453"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "60",
+            "playerName": "Ferree",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "32",
+            "playerName": "Adams",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Kasanze",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Guido",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Hackworth",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Collier",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Damus",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "35.3%",
+        "Duels_Success_Rate": "46.3%",
+        "Ariel_Duels_Won": "70.6%",
+        "Interceptions": "7",
+        "Offsides": "7",
+        "Corners_Won": "4"
+      },
+      "away": {
+        "Possession": "64.7%",
+        "Duels_Success_Rate": "53.8%",
+        "Ariel_Duels_Won": "29.4%",
+        "Interceptions": "2",
+        "Offsides": "0",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "265",
+        "Long_Passes": "57",
+        "Passing_Accuracy": "74.7%",
+        "Passing_Accuracy_In_Opponent_Half": "57.5%",
+        "Crosses": "7",
+        "Crossing_Accuracy": "28.6%"
+      },
+      "away": {
+        "Passes": "493",
+        "Long_Passes": "71",
+        "Passing_Accuracy": "84.8%",
+        "Passing_Accuracy_In_Opponent_Half": "66.1%",
+        "Crosses": "7",
+        "Crossing_Accuracy": "14.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "10",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "40.0%"
+      },
+      "away": {
+        "Goals": "5",
+        "Shots": "10",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "2",
+        "Shots_Inside_Box": "8",
+        "Shooting_Accuracy": "60.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "11",
+        "Tackle_Success_Rate": "81.8%",
+        "Clearances": "3"
+      },
+      "away": {
+        "Tackles": "15",
+        "Tackle_Success_Rate": "33.3%",
+        "Clearances": "9"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "17",
+        "Yellow_Cards": "4",
+        "Red_Cards": "1"
+      },
+      "away": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "5",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Goal!  Colorado Springs Switchbacks 0, San Diego Loyal 1. Adrien Perez (San Diego Loyal) left footed shot from outside the box to the centre of the goal. Assisted by Collin Martin."
+    },
+    {
+      "time": "2'",
+      "event": "Collin Martin (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "2'",
+      "event": "Foul by Steven Echevarria (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "3'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Collin Martin."
+    },
+    {
+      "time": "3'",
+      "event": "Attempt missed. Matt Mahoney (Colorado Springs Switchbacks) left footed shot from the centre of the box is close, but misses to the right. Assisted by Juan Tejada with a cross following a corner."
+    },
+    {
+      "time": "4'",
+      "event": "Delay in match  because of an injury Deshane Beckford (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "5'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "5'",
+      "event": "Foul by Jay Chapman (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "5'",
+      "event": "Collin Martin (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "9'",
+      "event": "Charlie Adams (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Drew Skundrich (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "9'",
+      "event": "Goal!  Colorado Springs Switchbacks 0, San Diego Loyal 2. Blake Bodily (San Diego Loyal) header from the centre of the box to the bottom left corner. Assisted by Joe Corona with a cross."
+    },
+    {
+      "time": "11'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Grant Stoneman."
+    },
+    {
+      "time": "11'",
+      "event": "Attempt missed. Deshane Beckford (Colorado Springs Switchbacks) right footed shot from outside the box is close, but misses to the right. Assisted by Devon Williams following a corner."
+    },
+    {
+      "time": "13'",
+      "event": "Hand ball by Evan Conway (San Diego Loyal)."
+    },
+    {
+      "time": "14'",
+      "event": "Attempt missed. Adrien Perez (San Diego Loyal) left footed shot from the centre of the box is close, but misses the top left corner. Assisted by Charlie Adams."
+    },
+    {
+      "time": "14'",
+      "event": "Offside, Colorado Springs Switchbacks. Romario Williams tries a through ball, but Juan Tejada is caught offside."
+    },
+    {
+      "time": "15'",
+      "event": "Foul by Romario Williams (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "15'",
+      "event": "Grant Stoneman (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "15'",
+      "event": "Romario Williams (Colorado Springs Switchbacks) is shown the red card for violent conduct."
+    },
+    {
+      "time": "17'",
+      "event": "Delay in match  because of an injury Grant Stoneman (San Diego Loyal)."
+    },
+    {
+      "time": "17'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "18'",
+      "event": "Grant Stoneman (San Diego Loyal) is shown the yellow card."
+    },
+    {
+      "time": "20'",
+      "event": "Foul by Deshane Beckford (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "20'",
+      "event": "Elijah Martin (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "20'",
+      "event": "Deshane Beckford (Colorado Springs Switchbacks) is shown the yellow card."
+    },
+    {
+      "time": "21'",
+      "event": "Matt Mahoney (Colorado Springs Switchbacks) is shown the yellow card."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Patrick Seagrist (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "23'",
+      "event": "Adrien Perez (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Steven Echevarria (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "24'",
+      "event": "Charlie Adams (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "26'",
+      "event": "Delay in match  because of an injury Christian Herrera (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "27'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "27'",
+      "event": "Hand ball by Collin Martin (San Diego Loyal)."
+    },
+    {
+      "time": "28'",
+      "event": "Attempt blocked. Juan Tejada (Colorado Springs Switchbacks) right footed shot from the right side of the box is blocked. Assisted by Devon Williams with a through ball."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Matt Mahoney (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "28'",
+      "event": "Adrien Perez (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Deshane Beckford (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "30'",
+      "event": "Elijah Martin (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "30'",
+      "event": "Goal!  Colorado Springs Switchbacks 0, San Diego Loyal 3. Blake Bodily (San Diego Loyal) header from the centre of the box to the bottom left corner. Assisted by Adrien Perez."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt saved. Adrien Perez (San Diego Loyal) left footed shot from the right side of the box is saved in the bottom right corner. Assisted by Joe Corona."
+    },
+    {
+      "time": "34'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Koke Vegas."
+    },
+    {
+      "time": "34'",
+      "event": "Attempt missed. Deshane Beckford (Colorado Springs Switchbacks) right footed shot from outside the box is high and wide to the right. Assisted by Steven Echevarria following a corner."
+    },
+    {
+      "time": "37'",
+      "event": "Offside, Colorado Springs Switchbacks. Deshane Beckford tries a through ball, but Steven Echevarria is caught offside."
+    },
+    {
+      "time": "38'",
+      "event": "Corner,  San Diego Loyal. Conceded by Steven Echevarria."
+    },
+    {
+      "time": "38'",
+      "event": "Christian Herrera (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Tumi Moshobane (San Diego Loyal)."
+    },
+    {
+      "time": "39'",
+      "event": "Juan Tejada (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Collin Martin (San Diego Loyal)."
+    },
+    {
+      "time": "40'",
+      "event": "Collin Martin (San Diego Loyal) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "41'",
+      "event": "Steven Echevarria (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Evan Conway (San Diego Loyal)."
+    },
+    {
+      "time": "41'",
+      "event": "Evan Conway (San Diego Loyal) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "42'",
+      "event": "Offside, Colorado Springs Switchbacks. Christian Herrera tries a through ball, but Matt Mahoney is caught offside."
+    },
+    {
+      "time": "44'",
+      "event": "Jay Chapman (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by Evan Conway (San Diego Loyal)."
+    },
+    {
+      "time": "45'",
+      "event": "Attempt missed. Juan Tejada (Colorado Springs Switchbacks) right footed shot from a difficult angle on the right misses to the left."
+    },
+    {
+      "time": "45+1'",
+      "event": "Foul by Deshane Beckford (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Collin Martin (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+1'",
+      "event": "Corner,  San Diego Loyal. Conceded by Drew Skundrich."
+    },
+    {
+      "time": "45+2'",
+      "event": "Attempt missed. Collin Martin (San Diego Loyal) right footed shot from outside the box is too high following a corner."
+    },
+    {
+      "time": "45+3'",
+      "event": "Adrien Perez (San Diego Loyal) hits the left post with a left footed shot from the right side of the box. Assisted by Charlie Adams."
+    },
+    {
+      "time": "45+3'",
+      "event": "Goal!  Colorado Springs Switchbacks 0, San Diego Loyal 4. Tumi Moshobane (San Diego Loyal) header from the centre of the box to the centre of the goal."
+    },
+    {
+      "time": "45+5'",
+      "event": "Attempt blocked. Adrien Perez (San Diego Loyal) left footed shot from the right side of the box is blocked. Assisted by Collin Martin."
+    },
+    {
+      "time": "45+5'",
+      "event": "First Half ends, Colorado Springs Switchbacks 0, San Diego Loyal 4."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Colorado Springs Switchbacks. Jonas Fjeldberg replaces Jay Chapman."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, San Diego Loyal. Kyle Adams replaces Elijah Martin."
+    },
+    {
+      "time": "46'",
+      "event": "Jonas Fjeldberg (Colorado Springs Switchbacks) wins a free kick on the left wing."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Adrien Perez (San Diego Loyal)."
+    },
+    {
+      "time": "52'",
+      "event": "Attempt blocked. Deshane Beckford (Colorado Springs Switchbacks) right footed shot from the right side of the box is blocked. Assisted by Juan Tejada."
+    },
+    {
+      "time": "52'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Kyle Adams."
+    },
+    {
+      "time": "53'",
+      "event": "Offside, Colorado Springs Switchbacks. Deshane Beckford tries a through ball, but Matt Mahoney is caught offside."
+    },
+    {
+      "time": "59'",
+      "event": "Christian Herrera (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Evan Conway (San Diego Loyal)."
+    },
+    {
+      "time": "59'",
+      "event": "Jonas Fjeldberg (Colorado Springs Switchbacks) wins a free kick on the left wing."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Camden Riley (San Diego Loyal)."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt saved. Jonas Fjeldberg (Colorado Springs Switchbacks) right footed shot from outside the box is saved in the bottom left corner. Assisted by Oskar Agren."
+    },
+    {
+      "time": "64'",
+      "event": "Jonas Fjeldberg (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "64'",
+      "event": "Foul by Adrien Perez (San Diego Loyal)."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Colorado Springs Switchbacks. Maalique Foster replaces Deshane Beckford."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Colorado Springs Switchbacks. Aaron Wheeler replaces Juan Tejada."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, San Diego Loyal. Ronaldo Damus replaces Evan Conway."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, San Diego Loyal. Alejandro Guido replaces Collin Martin."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, San Diego Loyal. Elliot Collier replaces Tumi Moshobane."
+    },
+    {
+      "time": "65'",
+      "event": "Offside, Colorado Springs Switchbacks. Devon Williams tries a through ball, but Aaron Wheeler is caught offside."
+    },
+    {
+      "time": "67'",
+      "event": "Jonas Fjeldberg (Colorado Springs Switchbacks) wins a free kick on the left wing."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Camden Riley (San Diego Loyal)."
+    },
+    {
+      "time": "67'",
+      "event": "Camden Riley (San Diego Loyal) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Drew Skundrich (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "69'",
+      "event": "Blake Bodily (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "70'",
+      "event": "Goal!  Colorado Springs Switchbacks 0, San Diego Loyal 5. Elliot Collier (San Diego Loyal) right footed shot from the centre of the box to the top right corner. Assisted by Adrien Perez."
+    },
+    {
+      "time": "71'",
+      "event": "Foul by Steven Echevarria (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "71'",
+      "event": "Alejandro Guido (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Matt Mahoney (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "72'",
+      "event": "Elliot Collier (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "73'",
+      "event": "Substitution, San Diego Loyal. Morgan Hackworth replaces Blake Bodily."
+    },
+    {
+      "time": "74'",
+      "event": "Maalique Foster (Colorado Springs Switchbacks) wins a free kick on the right wing."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Kyle Adams (San Diego Loyal)."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt saved. Maalique Foster (Colorado Springs Switchbacks) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Devon Williams."
+    },
+    {
+      "time": "78'",
+      "event": "Offside, Colorado Springs Switchbacks. Patrick Seagrist tries a through ball, but Jonas Fjeldberg is caught offside."
+    },
+    {
+      "time": "79'",
+      "event": "Devon Williams (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "79'",
+      "event": "Foul by Kyle Adams (San Diego Loyal)."
+    },
+    {
+      "time": "79'",
+      "event": "Joe Corona (San Diego Loyal) is shown the yellow card."
+    },
+    {
+      "time": "80'",
+      "event": "Offside, Colorado Springs Switchbacks. Christian Herrera tries a through ball, but Oskar Agren is caught offside."
+    },
+    {
+      "time": "81'",
+      "event": "Attempt saved. Maalique Foster (Colorado Springs Switchbacks) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Aaron Wheeler."
+    },
+    {
+      "time": "82'",
+      "event": "Foul by Steven Echevarria (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "82'",
+      "event": "Joe Corona (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Devon Williams (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "86'",
+      "event": "Joe Corona (San Diego Loyal) wins a free kick on the right wing."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Steven Echevarria (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "87'",
+      "event": "Kyle Adams (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "88'",
+      "event": "Steven Echevarria (Colorado Springs Switchbacks) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt saved. Maalique Foster (Colorado Springs Switchbacks) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Aaron Wheeler."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Aaron Wheeler (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Charlie Adams (San Diego Loyal) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+1'",
+      "event": "Aaron Wheeler (Colorado Springs Switchbacks) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+2'",
+      "event": "Second Half ends, Colorado Springs Switchbacks 0, San Diego Loyal 5."
+    }
+  ]
+}

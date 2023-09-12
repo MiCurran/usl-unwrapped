@@ -1,0 +1,866 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Phoenix Rising FC",
+      "formation": "4-2-3-1",
+      "score": "6",
+      "lineup": {
+        "managerName": "Guerra",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Rios Novo",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "King",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Munjoma",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "13"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Fuenmayor",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Krutzen",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "67",
+            "playerName": "C. Harvey",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "22"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Gallardo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "56"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Zambrano",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Armenakas",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Trejo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "59"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Arteaga",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "43"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Rakovsky",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Traore",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Uzochokwu",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Anguiano",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Cuello",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernández",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Fede Varela",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "88"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Memphis 901 FC",
+      "formation": "4-2-3-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Romig",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Buckmaster",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Ward",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Smith",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "20"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Peters",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Molloy",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Dally",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Kelly",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Hyndman",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Kissiedou",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Rodrigo da Costa",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Hamid",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "35",
+            "playerName": "Dyer",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Lucas Turci",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Paul",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Bruno Lapa",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Borczak",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Pickering",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "42.0%",
+        "Duels_Success_Rate": "52.1%",
+        "Ariel_Duels_Won": "50.0%",
+        "Interceptions": "5",
+        "Offsides": "5",
+        "Corners_Won": "1"
+      },
+      "away": {
+        "Possession": "58.0%",
+        "Duels_Success_Rate": "47.9%",
+        "Ariel_Duels_Won": "50.0%",
+        "Interceptions": "8",
+        "Offsides": "2",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "367",
+        "Long_Passes": "43",
+        "Passing_Accuracy": "82.6%",
+        "Passing_Accuracy_In_Opponent_Half": "70.3%",
+        "Crosses": "4",
+        "Crossing_Accuracy": "25.0%"
+      },
+      "away": {
+        "Passes": "493",
+        "Long_Passes": "52",
+        "Passing_Accuracy": "88.2%",
+        "Passing_Accuracy_In_Opponent_Half": "81.7%",
+        "Crosses": "18",
+        "Crossing_Accuracy": "22.2%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "6",
+        "Shots": "12",
+        "Shots_On_Target": "10",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "8",
+        "Shooting_Accuracy": "83.3%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "11",
+        "Shots_On_Target": "1",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "4",
+        "Shooting_Accuracy": "9.1%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "16",
+        "Tackle_Success_Rate": "62.5%",
+        "Clearances": "11"
+      },
+      "away": {
+        "Tackles": "11",
+        "Tackle_Success_Rate": "81.8%",
+        "Clearances": "7"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "15",
+        "Yellow_Cards": "0",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "9",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "3'",
+      "event": "Attempt blocked. Aaron Molloy (Memphis 901) right footed shot from outside the box is blocked. Assisted by Rodrigo da Costa."
+    },
+    {
+      "time": "5'",
+      "event": "Attempt missed. Rodrigo da Costa (Memphis 901) left footed shot from outside the box is too high. Assisted by Jeremy Kelly."
+    },
+    {
+      "time": "5'",
+      "event": "Manuel Arteaga (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "5'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Danny Trejo (Phoenix Rising)."
+    },
+    {
+      "time": "7'",
+      "event": "Rece Buckmaster (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "9'",
+      "event": "Hand ball by Carlos Harvey (Phoenix Rising)."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt blocked. Panos Armenakas (Phoenix Rising) left footed shot from outside the box is blocked. Assisted by Alejandro Fuenmayor."
+    },
+    {
+      "time": "10'",
+      "event": "Foul by Eddie Munjoma (Phoenix Rising)."
+    },
+    {
+      "time": "10'",
+      "event": "Jeremy Kelly (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Goal!  Phoenix Rising 1, Memphis 901 0. Eddie Munjoma (Phoenix Rising) right footed shot from outside the box to the top right corner. Assisted by Carlos Harvey."
+    },
+    {
+      "time": "16'",
+      "event": "Attempt missed. Jelani Peters (Memphis 901) left footed shot from outside the box is close, but misses to the right."
+    },
+    {
+      "time": "16'",
+      "event": "Delay in match  because of an injury Jelani Peters (Memphis 901)."
+    },
+    {
+      "time": "18'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "18'",
+      "event": "Darnell King (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Laurent Kissiedou (Memphis 901)."
+    },
+    {
+      "time": "19'",
+      "event": "Manuel Arteaga (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Emerson Hyndman (Memphis 901)."
+    },
+    {
+      "time": "20'",
+      "event": "Manuel Arteaga (Phoenix Rising) wins a free kick in the attacking half."
+    },
+    {
+      "time": "20'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "20'",
+      "event": "Graham Smith (Memphis 901) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "22'",
+      "event": "Attempt saved. Manuel Arteaga (Phoenix Rising) right footed shot from outside the box is saved in the bottom right corner."
+    },
+    {
+      "time": "22'",
+      "event": "Goal!  Phoenix Rising 2, Memphis 901 0. Carlos Harvey (Phoenix Rising) right footed shot from very close range to the high centre of the goal    following a set piece situation."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Alejandro Fuenmayor (Phoenix Rising)."
+    },
+    {
+      "time": "23'",
+      "event": "Rodrigo da Costa (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "24'",
+      "event": "Carlos Harvey (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Rashawn Dally (Memphis 901)."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt saved. Danny Trejo (Phoenix Rising) right footed shot from outside the box is saved in the centre of the goal. Assisted by Panos Armenakas."
+    },
+    {
+      "time": "26'",
+      "event": "Erickson Gallardo (Phoenix Rising) wins a free kick on the right wing."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Akeem Ward (Memphis 901)."
+    },
+    {
+      "time": "31'",
+      "event": "Offside, Phoenix Rising. Carlos Harvey tries a through ball, but Erickson Gallardo is caught offside."
+    },
+    {
+      "time": "31'",
+      "event": "Delay in match   (Memphis 901)."
+    },
+    {
+      "time": "33'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "35'",
+      "event": "Corner,  Memphis 901. Conceded by Erickson Gallardo."
+    },
+    {
+      "time": "39'",
+      "event": "Attempt blocked. Rodrigo da Costa (Memphis 901) left footed shot from the right side of the box is blocked. Assisted by Akeem Ward."
+    },
+    {
+      "time": "40'",
+      "event": "Offside, Memphis 901. Aaron Molloy tries a through ball, but Rodrigo da Costa is caught offside."
+    },
+    {
+      "time": "41'",
+      "event": "Offside, Phoenix Rising. Darnell King tries a through ball, but Erickson Gallardo is caught offside."
+    },
+    {
+      "time": "43'",
+      "event": "Goal!  Phoenix Rising 3, Memphis 901 0. Manuel Arteaga (Phoenix Rising) right footed shot from the centre of the box to the bottom left corner. Assisted by Panos Armenakas with a through ball."
+    },
+    {
+      "time": "45'",
+      "event": "Manuel Arteaga (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45'",
+      "event": "Foul by Akeem Ward (Memphis 901)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt missed. Jeremy Kelly (Memphis 901) right footed shot from outside the box is close, but misses the top right corner. Assisted by Emerson Hyndman."
+    },
+    {
+      "time": "45+4'",
+      "event": "Foul by Renzo Zambrano (Phoenix Rising)."
+    },
+    {
+      "time": "45+4'",
+      "event": "Rodrigo da Costa (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "45+5'",
+      "event": "First Half ends, Phoenix Rising 3, Memphis 901 0."
+    },
+    {
+      "time": "46'",
+      "event": "Attempt saved. Danny Trejo (Phoenix Rising) right footed shot from the centre of the box is saved in the bottom left corner."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Panos Armenakas (Phoenix Rising)."
+    },
+    {
+      "time": "46'",
+      "event": "Rece Buckmaster (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "48'",
+      "event": "Foul by Panos Armenakas (Phoenix Rising)."
+    },
+    {
+      "time": "48'",
+      "event": "Aaron Molloy (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "48'",
+      "event": "Corner,  Memphis 901. Conceded by Carlos Harvey."
+    },
+    {
+      "time": "49'",
+      "event": "Attempt blocked. Rashawn Dally (Memphis 901) right footed shot from the centre of the box is blocked. Assisted by Aaron Molloy with a cross."
+    },
+    {
+      "time": "49'",
+      "event": "Offside, Memphis 901. Rashawn Dally tries a through ball, but Laurent Kissiedou is caught offside."
+    },
+    {
+      "time": "50'",
+      "event": "Offside, Phoenix Rising. Rocco Ríos Novo tries a through ball, but Manuel Arteaga is caught offside."
+    },
+    {
+      "time": "51'",
+      "event": "Attempt missed. Rashawn Dally (Memphis 901) header from the centre of the box misses to the right. Assisted by Akeem Ward with a cross."
+    },
+    {
+      "time": "54'",
+      "event": "Carlos Harvey (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by Emerson Hyndman (Memphis 901)."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Manuel Arteaga (Phoenix Rising)."
+    },
+    {
+      "time": "55'",
+      "event": "Jeremy Kelly (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Danny Trejo (Phoenix Rising)."
+    },
+    {
+      "time": "55'",
+      "event": "Graham Smith (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "56'",
+      "event": "Goal!  Phoenix Rising 4, Memphis 901 0. Erickson Gallardo (Phoenix Rising) left footed shot from the right side of the box to the bottom left corner."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt blocked. Jeremy Kelly (Memphis 901) right footed shot from outside the box is blocked. Assisted by Laurent Kissiedou."
+    },
+    {
+      "time": "59'",
+      "event": "Goal!  Phoenix Rising 5, Memphis 901 0. Danny Trejo (Phoenix Rising) right footed shot from the centre of the box to the centre of the goal. Assisted by Erickson Gallardo."
+    },
+    {
+      "time": "61'",
+      "event": "Delay in match  because of an injury Jelani Peters (Memphis 901)."
+    },
+    {
+      "time": "62'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, Memphis 901. Lucas Turci replaces Emerson Hyndman."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, Memphis 901. Nighte Pickering replaces Rashawn Dally."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Memphis 901. Dylan Borczak replaces Laurent Kissiedou."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Phoenix Rising. Federico Varela replaces Erickson Gallardo."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Phoenix Rising. José Hernández replaces Carlos Harvey."
+    },
+    {
+      "time": "67'",
+      "event": "Corner,  Phoenix Rising. Conceded by Graham Smith."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt missed. Manuel Arteaga (Phoenix Rising) header from the centre of the box is high and wide to the right. Assisted by Federico Varela with a cross following a corner."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt saved. Danny Trejo (Phoenix Rising) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Federico Varela."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt missed. Dylan Borczak (Memphis 901) header from the centre of the box misses to the left. Assisted by Jeremy Kelly."
+    },
+    {
+      "time": "73'",
+      "event": "Offside, Phoenix Rising. Federico Varela tries a through ball, but Manuel Arteaga is caught offside."
+    },
+    {
+      "time": "73'",
+      "event": "Delay in match   (Memphis 901)."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Phoenix Rising. Henry Uzochukwu replaces Renzo Zambrano."
+    },
+    {
+      "time": "75'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Phoenix Rising. Carlos Anguiano replaces Danny Trejo."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, Memphis 901. Leston Paul replaces Jeremy Kelly."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, Memphis 901. Bruno Lapa replaces Rodrigo da Costa."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Henry Uzochukwu (Phoenix Rising)."
+    },
+    {
+      "time": "80'",
+      "event": "Dylan Borczak (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "80'",
+      "event": "Delay in match  because of an injury Dylan Borczak (Memphis 901)."
+    },
+    {
+      "time": "82'",
+      "event": "Substitution, Phoenix Rising. Emil Cuello replaces Eddie Munjoma."
+    },
+    {
+      "time": "83'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Emil Cuello (Phoenix Rising)."
+    },
+    {
+      "time": "84'",
+      "event": "Akeem Ward (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Emil Cuello (Phoenix Rising)."
+    },
+    {
+      "time": "84'",
+      "event": "Leston Paul (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "85'",
+      "event": "Attempt missed. Aaron Molloy (Memphis 901) right footed shot from outside the box is close, but misses to the right."
+    },
+    {
+      "time": "87'",
+      "event": "Offside, Phoenix Rising. Federico Varela tries a through ball, but Manuel Arteaga is caught offside."
+    },
+    {
+      "time": "88'",
+      "event": "Goal!  Phoenix Rising 6, Memphis 901 0. Federico Varela (Phoenix Rising) right footed shot from the centre of the box to the bottom left corner. Assisted by Emil Cuello."
+    },
+    {
+      "time": "90'",
+      "event": "Foul by Emil Cuello (Phoenix Rising)."
+    },
+    {
+      "time": "90'",
+      "event": "Lucas Turci (Memphis 901) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Panos Armenakas (Phoenix Rising)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Aaron Molloy (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt blocked. Nighte Pickering (Memphis 901) left footed shot from outside the box is blocked. Assisted by Bruno Lapa."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Federico Varela (Phoenix Rising)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Nighte Pickering (Memphis 901) wins a free kick on the right wing."
+    },
+    {
+      "time": "90+3'",
+      "event": "José Hernández (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Lucas Turci (Memphis 901)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Second Half ends, Phoenix Rising 6, Memphis 901 0."
+    }
+  ]
+}

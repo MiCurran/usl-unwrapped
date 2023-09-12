@@ -1,0 +1,885 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Loudoun United FC",
+      "formation": "4-4-2",
+      "score": "2",
+      "lineup": {
+        "managerName": "Martin",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Jacomen",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Santos",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Jake Morris",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Leerman",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Chica",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Koanda",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Zanne",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Landry",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Hopkins",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "20"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Ryan",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Garay",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Fauroux",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Jones",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "ElMedkhar",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Rocha",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Turner",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Leggett",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Williamson",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "83"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Hartford Athletic",
+      "formation": "4-1-4-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Namazi",
+        "players": [
+          {
+            "shirtNumber": "13",
+            "playerName": "Rice",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "72",
+            "playerName": "Rito",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Sheldon",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "52"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "McGlynn",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Lapert",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Torres",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Saydee",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "8"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Lewis",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "52"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Barrera",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "903"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Merrill",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "51"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Amoh",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Richard Sánchez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Apollon",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "50",
+            "playerName": "Logue",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Kaveh Rad",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "52"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Makangila",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Edwards",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Hoppenot",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "52"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "51.1%",
+        "Duels_Success_Rate": "50.5%",
+        "Ariel_Duels_Won": "35.3%",
+        "Interceptions": "11",
+        "Offsides": "1",
+        "Corners_Won": "6"
+      },
+      "away": {
+        "Possession": "48.9%",
+        "Duels_Success_Rate": "49.5%",
+        "Ariel_Duels_Won": "64.7%",
+        "Interceptions": "11",
+        "Offsides": "4",
+        "Corners_Won": "5"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "449",
+        "Long_Passes": "56",
+        "Passing_Accuracy": "83.1%",
+        "Passing_Accuracy_In_Opponent_Half": "73.6%",
+        "Crosses": "18",
+        "Crossing_Accuracy": "27.8%"
+      },
+      "away": {
+        "Passes": "420",
+        "Long_Passes": "61",
+        "Passing_Accuracy": "81.9%",
+        "Passing_Accuracy_In_Opponent_Half": "65.5%",
+        "Crosses": "17",
+        "Crossing_Accuracy": "17.6%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "11",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "0",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "8",
+        "Shooting_Accuracy": "54.5%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "11",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "45.5%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "15",
+        "Tackle_Success_Rate": "80.0%",
+        "Clearances": "18"
+      },
+      "away": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "61.5%",
+        "Clearances": "8"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "12",
+        "Yellow_Cards": "4",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "4'",
+      "event": "Matt Sheldon (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Abdoul Zanne (Loudoun United)."
+    },
+    {
+      "time": "4'",
+      "event": "Offside, Hartford Athletic. Edgardo Rito tries a through ball, but Prince Saydee is caught offside."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Juan Pablo Torres (Hartford Athletic)."
+    },
+    {
+      "time": "6'",
+      "event": "Jeremy Garay (Loudoun United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Danny Barrera (Hartford Athletic)."
+    },
+    {
+      "time": "6'",
+      "event": "Jackson Hopkins (Loudoun United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "6'",
+      "event": "Attempt missed. Koa Santos (Loudoun United) right footed shot from outside the box is too high. Assisted by Zach Ryan."
+    },
+    {
+      "time": "8'",
+      "event": "Goal!  Loudoun United 0, Hartford Athletic 1. Prince Saydee (Hartford Athletic) left footed shot from the right side of the box to the centre of the goal. Assisted by Edgardo Rito."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt saved. Jackson Hopkins (Loudoun United) right footed shot from outside the box is saved in the centre of the goal. Assisted by Houssou Landry."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Abdoul Zanne (Loudoun United)."
+    },
+    {
+      "time": "17'",
+      "event": "Matt Sheldon (Hartford Athletic) wins a free kick on the left wing."
+    },
+    {
+      "time": "18'",
+      "event": "Attempt missed. Prince Saydee (Hartford Athletic) left footed shot from the centre of the box is too high. Assisted by Danny Barrera following a set piece situation."
+    },
+    {
+      "time": "20'",
+      "event": "Goal!  Loudoun United 1, Hartford Athletic 1. Jackson Hopkins (Loudoun United) right footed shot from the centre of the box to the centre of the goal. Assisted by Houssou Landry."
+    },
+    {
+      "time": "22'",
+      "event": "Offside, Hartford Athletic. Matt Sheldon tries a through ball, but Elvis Amoh is caught offside."
+    },
+    {
+      "time": "23'",
+      "event": "Corner,  Hartford Athletic. Conceded by Jake Morris."
+    },
+    {
+      "time": "25'",
+      "event": "Foul by Jackson Hopkins (Loudoun United)."
+    },
+    {
+      "time": "25'",
+      "event": "Joe Rice (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "26'",
+      "event": "Attempt saved. Elvis Amoh (Hartford Athletic) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Prince Saydee."
+    },
+    {
+      "time": "26'",
+      "event": "Jeremy Garay (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "28'",
+      "event": "Attempt missed. Prince Saydee (Hartford Athletic) left footed shot from outside the box is close, but misses to the right. Assisted by Andre Lewis."
+    },
+    {
+      "time": "30'",
+      "event": "Corner,  Hartford Athletic. Conceded by Daniel Chica."
+    },
+    {
+      "time": "33'",
+      "event": "Abdoul Koanda (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Danny Barrera (Hartford Athletic)."
+    },
+    {
+      "time": "33'",
+      "event": "Zach Ryan (Loudoun United) wins a free kick on the right wing."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt missed. Houssou Landry (Loudoun United) left footed shot from outside the box is close, but misses to the right."
+    },
+    {
+      "time": "36'",
+      "event": "Offside, Hartford Athletic. Andre Lewis tries a through ball, but Elvis Amoh is caught offside."
+    },
+    {
+      "time": "37'",
+      "event": "Zach Ryan (Loudoun United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "37'",
+      "event": "Foul by Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "38'",
+      "event": "Houssou Landry (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Andre Lewis (Hartford Athletic)."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Houssou Landry (Loudoun United)."
+    },
+    {
+      "time": "39'",
+      "event": "Luke Merrill (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "40'",
+      "event": "Corner,  Loudoun United. Conceded by Conor McGlynn."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt saved. Elvis Amoh (Hartford Athletic) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Danny Barrera with a through ball."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt missed. Edgardo Rito (Hartford Athletic) right footed shot from the right side of the box is close, but misses the top right corner. Assisted by Prince Saydee."
+    },
+    {
+      "time": "45'",
+      "event": "Attempt missed. Houssou Landry (Loudoun United) right footed shot from the right side of the box is close, but misses to the right. Assisted by Jeremy Garay with a through ball."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, Loudoun United 1, Hartford Athletic 1."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Loudoun United. Tommy Williamson replaces Abdoul Zanne."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Loudoun United. Aidan Rocha replaces Abdoul Koanda."
+    },
+    {
+      "time": "46'",
+      "event": "Zach Ryan (Loudoun United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "48'",
+      "event": "Hand ball by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "49'",
+      "event": "Attempt saved. Tommy Williamson (Loudoun United) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Jeremy Garay."
+    },
+    {
+      "time": "50'",
+      "event": "Elvis Amoh (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "50'",
+      "event": "Foul by Yanis Leerman (Loudoun United)."
+    },
+    {
+      "time": "51'",
+      "event": "Luke Merrill (Hartford Athletic) is shown the yellow card."
+    },
+    {
+      "time": "52'",
+      "event": "Substitution, Hartford Athletic. Kaveh Rad replaces Andre Lewis."
+    },
+    {
+      "time": "52'",
+      "event": "Substitution, Hartford Athletic. Antoine Hoppenot replaces Matt Sheldon."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt saved. Houssou Landry (Loudoun United) right footed shot from the centre of the box is saved in the bottom right corner. Assisted by Jake Morris."
+    },
+    {
+      "time": "55'",
+      "event": "Edgardo Rito (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Yanis Leerman (Loudoun United)."
+    },
+    {
+      "time": "56'",
+      "event": "Attempt missed. Conor McGlynn (Hartford Athletic) right footed shot from outside the box is close, but misses to the left. Assisted by Danny Barrera following a set piece situation."
+    },
+    {
+      "time": "56'",
+      "event": "Offside, Hartford Athletic. Conor McGlynn tries a through ball, but Antoine Hoppenot is caught offside."
+    },
+    {
+      "time": "57'",
+      "event": "Corner,  Hartford Athletic. Conceded by Aidan Rocha."
+    },
+    {
+      "time": "60'",
+      "event": "Corner,  Loudoun United. Conceded by Robin Lapert."
+    },
+    {
+      "time": "61'",
+      "event": "Edgardo Rito (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "61'",
+      "event": "Foul by Aidan Rocha (Loudoun United)."
+    },
+    {
+      "time": "61'",
+      "event": "Aidan Rocha (Loudoun United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "62'",
+      "event": "Luke Merrill (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Jackson Hopkins (Loudoun United)."
+    },
+    {
+      "time": "62'",
+      "event": "Corner,  Hartford Athletic. Conceded by Yanis Leerman."
+    },
+    {
+      "time": "64'",
+      "event": "Corner,  Loudoun United. Conceded by Kaveh Rad."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt missed. Zach Ryan (Loudoun United) right footed shot from the centre of the box is too high. Assisted by Jake Morris with a cross following a corner."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, Hartford Athletic. Kyle Edwards replaces Elvis Amoh."
+    },
+    {
+      "time": "66'",
+      "event": "Attempt saved. Jake Morris (Loudoun United) header from the centre of the box is saved in the top centre of the goal. Assisted by Koa Santos with a cross."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt missed. Luke Merrill (Hartford Athletic) right footed shot from the left side of the box is too high. Assisted by Edgardo Rito with a cross."
+    },
+    {
+      "time": "69'",
+      "event": "Substitution, Loudoun United. Kalil ElMedkhar replaces Jackson Hopkins."
+    },
+    {
+      "time": "70'",
+      "event": "Offside, Loudoun United. Tommy Williamson tries a through ball, but Houssou Landry is caught offside."
+    },
+    {
+      "time": "70'",
+      "event": "Houssou Landry (Loudoun United) is shown the yellow card."
+    },
+    {
+      "time": "71'",
+      "event": "Corner,  Loudoun United. Conceded by Antoine Hoppenot."
+    },
+    {
+      "time": "72'",
+      "event": "Joe Rice (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Yanis Leerman (Loudoun United)."
+    },
+    {
+      "time": "74'",
+      "event": "Corner,  Loudoun United. Conceded by Kaveh Rad."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt missed. Daniel Chica (Loudoun United) left footed shot from the centre of the box misses to the left. Assisted by Jake Morris with a cross following a corner."
+    },
+    {
+      "time": "75'",
+      "event": "Corner,  Loudoun United. Conceded by Robin Lapert."
+    },
+    {
+      "time": "76'",
+      "event": "Kaveh Rad (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "76'",
+      "event": "Foul by Jake Morris (Loudoun United)."
+    },
+    {
+      "time": "77'",
+      "event": "Attempt saved. Prince Saydee (Hartford Athletic) left footed shot from outside the box is saved in the centre of the goal. Assisted by Kaveh Rad."
+    },
+    {
+      "time": "79'",
+      "event": "Substitution, Loudoun United. Cole Turner replaces Jeremy Garay."
+    },
+    {
+      "time": "79'",
+      "event": "Substitution, Loudoun United. Wesley Leggett replaces Jake Morris."
+    },
+    {
+      "time": "80'",
+      "event": "Juan Pablo Torres (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Wesley Leggett (Loudoun United)."
+    },
+    {
+      "time": "80'",
+      "event": "Zach Ryan (Loudoun United) is shown the yellow card."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, Hartford Athletic. Beverly Makangila replaces Juan Pablo Torres."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, Hartford Athletic. Ashkanov Apollon replaces Prince Saydee."
+    },
+    {
+      "time": "83'",
+      "event": "Goal!  Loudoun United 2, Hartford Athletic 1. Tommy Williamson (Loudoun United) right footed shot from the centre of the box to the bottom left corner."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Antoine Hoppenot (Hartford Athletic)."
+    },
+    {
+      "time": "86'",
+      "event": "Yanis Leerman (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "88'",
+      "event": "Attempt saved. Antoine Hoppenot (Hartford Athletic) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Danny Barrera with a through ball."
+    },
+    {
+      "time": "89'",
+      "event": "Corner,  Hartford Athletic. Conceded by Yanis Leerman."
+    },
+    {
+      "time": "89'",
+      "event": "Daniel Chica (Loudoun United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt blocked. Kaveh Rad (Hartford Athletic) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Danny Barrera (Hartford Athletic)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Yanis Leerman (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Luke Merrill (Hartford Athletic)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Wesley Leggett (Loudoun United) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Danny Barrera (Hartford Athletic)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Houssou Landry (Loudoun United) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+3'",
+      "event": "Danny Barrera (Hartford Athletic) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+4'",
+      "event": "Ashkanov Apollon (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+4'",
+      "event": "Foul by Tommy Williamson (Loudoun United)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Loudoun United 2, Hartford Athletic 1."
+    }
+  ]
+}

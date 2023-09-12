@@ -1,0 +1,908 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "San Diego Loyal",
+      "formation": "3-5-2",
+      "score": "3",
+      "lineup": {
+        "managerName": "Miller 45‎+‎2‎'‎",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Koke Vegas",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Guzmán",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Stoneman",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Elijah Martin",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Pérez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Bodily",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "18"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Collin Martin",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "69"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Adams",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Guido",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Conway",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Tumi Moshobane",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "39"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "60",
+            "playerName": "Ferree",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Chilaka",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Corona",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "50",
+            "playerName": "Gnaulati",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Hackworth",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Collier",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Damus",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "79"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Birmingham Legion FC",
+      "formation": "4-2-3-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Soehn",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Van Oekel",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Smith",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Mensah",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Crognale",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Kavita",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Enzo Martínez",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Agudelo",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Mikey Lopez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Kasim",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Nwegbo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "20"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Brett",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Torman",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Gabriel Alves",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Rufe",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Corcoran",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Dupont",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "96",
+            "playerName": "Freeman",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Tabort Etaka",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "48.6%",
+        "Duels_Success_Rate": "53.5%",
+        "Ariel_Duels_Won": "26.3%",
+        "Interceptions": "7",
+        "Offsides": "1",
+        "Corners_Won": "3"
+      },
+      "away": {
+        "Possession": "51.4%",
+        "Duels_Success_Rate": "46.5%",
+        "Ariel_Duels_Won": "73.7%",
+        "Interceptions": "2",
+        "Offsides": "2",
+        "Corners_Won": "7"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "415",
+        "Long_Passes": "55",
+        "Passing_Accuracy": "83.9%",
+        "Passing_Accuracy_In_Opponent_Half": "69.6%",
+        "Crosses": "8",
+        "Crossing_Accuracy": "0.0%"
+      },
+      "away": {
+        "Passes": "424",
+        "Long_Passes": "56",
+        "Passing_Accuracy": "82.3%",
+        "Passing_Accuracy_In_Opponent_Half": "74.5%",
+        "Crosses": "24",
+        "Crossing_Accuracy": "41.7%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "3",
+        "Shots": "8",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "75.0%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "17",
+        "Shots_On_Target": "2",
+        "Blocked_Shots": "7",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "11",
+        "Shooting_Accuracy": "11.8%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "11",
+        "Tackle_Success_Rate": "72.7%",
+        "Clearances": "21"
+      },
+      "away": {
+        "Tackles": "11",
+        "Tackle_Success_Rate": "81.8%",
+        "Clearances": "6"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "11",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "19",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "3'",
+      "event": "Enzo Martínez (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Charlie Adams (San Diego Loyal)."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Prosper Kasim (Birmingham Legion)."
+    },
+    {
+      "time": "7'",
+      "event": "Collin Martin (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "8'",
+      "event": "Corner,  San Diego Loyal. Conceded by Alex Crognale."
+    },
+    {
+      "time": "12'",
+      "event": "Diba Nwegbo (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Elijah Martin (San Diego Loyal)."
+    },
+    {
+      "time": "14'",
+      "event": "Collin Smith (Birmingham Legion) wins a free kick on the right wing."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Blake Bodily (San Diego Loyal)."
+    },
+    {
+      "time": "15'",
+      "event": "Attempt missed. Collin Smith (Birmingham Legion) left footed shot from outside the box is too high. Assisted by Mikey Lopez following a set piece situation."
+    },
+    {
+      "time": "15'",
+      "event": "Offside, San Diego Loyal. Evan Conway tries a through ball, but Blake Bodily is caught offside."
+    },
+    {
+      "time": "16'",
+      "event": "Offside, Birmingham Legion. Alex Crognale tries a through ball, but Diba Nwegbo is caught offside."
+    },
+    {
+      "time": "18'",
+      "event": "Goal!  San Diego Loyal 1, Birmingham Legion 0. Blake Bodily (San Diego Loyal) right footed shot from the centre of the box to the top right corner."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "19'",
+      "event": "Adrien Perez (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "20'",
+      "event": "Diba Nwegbo (Birmingham Legion) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt saved. Juan Agudelo (Birmingham Legion) right footed shot from the centre of the box is saved in the bottom left corner. Assisted by Diba Nwegbo with a cross."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Alex Crognale (Birmingham Legion)."
+    },
+    {
+      "time": "21'",
+      "event": "Evan Conway (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Delay in match  because of an injury Prosper Kasim (Birmingham Legion)."
+    },
+    {
+      "time": "23'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt missed. Diba Nwegbo (Birmingham Legion) right footed shot from the left side of the box misses to the left. Assisted by Prosper Kasim."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Phanuel Kavita (Birmingham Legion)."
+    },
+    {
+      "time": "26'",
+      "event": "Alejandro Guido (San Diego Loyal) wins a free kick on the left wing."
+    },
+    {
+      "time": "28'",
+      "event": "Phanuel Kavita (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Alejandro Guido (San Diego Loyal)."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Mikey Lopez (Birmingham Legion)."
+    },
+    {
+      "time": "28'",
+      "event": "Collin Martin (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "30'",
+      "event": "Attempt blocked. Enzo Martínez (Birmingham Legion) right footed shot from outside the box is blocked. Assisted by Prosper Kasim."
+    },
+    {
+      "time": "31'",
+      "event": "Hand ball by Alejandro Guido (San Diego Loyal)."
+    },
+    {
+      "time": "32'",
+      "event": "Offside, Birmingham Legion. Prosper Kasim tries a through ball, but Diba Nwegbo is caught offside."
+    },
+    {
+      "time": "33'",
+      "event": "Diba Nwegbo (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Elijah Martin (San Diego Loyal)."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Alex Crognale (Birmingham Legion)."
+    },
+    {
+      "time": "35'",
+      "event": "Tumi Moshobane (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt blocked. Diba Nwegbo (Birmingham Legion) left footed shot from the left side of the box is blocked. Assisted by Prosper Kasim."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt saved. Juan Agudelo (Birmingham Legion) header from the centre of the box is saved in the top right corner. Assisted by Diba Nwegbo with a cross."
+    },
+    {
+      "time": "36'",
+      "event": "Corner,  Birmingham Legion. Conceded by Blake Bodily."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Collin Smith (Birmingham Legion)."
+    },
+    {
+      "time": "38'",
+      "event": "Evan Conway (San Diego Loyal) wins a free kick on the left wing."
+    },
+    {
+      "time": "39'",
+      "event": "Goal!  San Diego Loyal 2, Birmingham Legion 0. Tumi Moshobane (San Diego Loyal) left footed shot from the centre of the box to the bottom left corner. Assisted by Alejandro Guido with a through ball."
+    },
+    {
+      "time": "41'",
+      "event": "Corner,  Birmingham Legion. Conceded by Adrien Perez."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Phanuel Kavita (Birmingham Legion)."
+    },
+    {
+      "time": "41'",
+      "event": "Koke Vegas (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt missed. Enzo Martínez (Birmingham Legion) right footed shot from outside the box is close, but misses to the right. Assisted by Juan Agudelo with a headed pass."
+    },
+    {
+      "time": "45'",
+      "event": "Collin Smith (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45'",
+      "event": "Foul by Blake Bodily (San Diego Loyal)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Adrien Perez (San Diego Loyal) wins a free kick on the right wing."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, San Diego Loyal 2, Birmingham Legion 0."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Birmingham Legion. Tabort Preston replaces Collin Smith."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "49'",
+      "event": "Elijah Martin (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "50'",
+      "event": "Foul by Moses Mensah (Birmingham Legion)."
+    },
+    {
+      "time": "50'",
+      "event": "Evan Conway (San Diego Loyal) wins a free kick on the right wing."
+    },
+    {
+      "time": "51'",
+      "event": "Corner,  San Diego Loyal. Conceded by Moses Mensah."
+    },
+    {
+      "time": "52'",
+      "event": "Foul by Phanuel Kavita (Birmingham Legion)."
+    },
+    {
+      "time": "52'",
+      "event": "Carlos Guzmán (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "53'",
+      "event": "Corner,  San Diego Loyal. Conceded by Tabort Preston."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt missed. Elijah Martin (San Diego Loyal) left footed shot from outside the box is close, but misses to the left. Assisted by Carlos Guzmán following a corner."
+    },
+    {
+      "time": "55'",
+      "event": "Tabort Preston (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Charlie Adams (San Diego Loyal)."
+    },
+    {
+      "time": "56'",
+      "event": "Corner,  Birmingham Legion. Conceded by Blake Bodily."
+    },
+    {
+      "time": "57'",
+      "event": "Attempt blocked. Mikey Lopez (Birmingham Legion) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "57'",
+      "event": "Corner,  Birmingham Legion. Conceded by Evan Conway."
+    },
+    {
+      "time": "57'",
+      "event": "Attempt missed. Diba Nwegbo (Birmingham Legion) header from the centre of the box misses to the left. Assisted by Prosper Kasim with a cross following a corner."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt blocked. Tabort Preston (Birmingham Legion) right footed shot from the centre of the box is blocked. Assisted by Moses Mensah."
+    },
+    {
+      "time": "58'",
+      "event": "Corner,  Birmingham Legion. Conceded by Koke Vegas."
+    },
+    {
+      "time": "59'",
+      "event": "Attempt blocked. Tabort Preston (Birmingham Legion) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "59'",
+      "event": "Corner,  Birmingham Legion. Conceded by Alejandro Guido."
+    },
+    {
+      "time": "60'",
+      "event": "Delay in match   (San Diego Loyal)."
+    },
+    {
+      "time": "60'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, San Diego Loyal. Joe Corona replaces Alejandro Guido."
+    },
+    {
+      "time": "63'",
+      "event": "Tabort Preston (Birmingham Legion) wins a free kick in the attacking half."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Tumi Moshobane (San Diego Loyal)."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt blocked. Prosper Kasim (Birmingham Legion) left footed shot from outside the box is blocked. Assisted by Juan Agudelo."
+    },
+    {
+      "time": "64'",
+      "event": "Neco Brett (Birmingham Legion) hits the bar with a header from the right side of the six yard box. Assisted by Diba Nwegbo with a headed pass."
+    },
+    {
+      "time": "64'",
+      "event": "Foul by Phanuel Kavita (Birmingham Legion)."
+    },
+    {
+      "time": "64'",
+      "event": "Evan Conway (San Diego Loyal) wins a free kick on the left wing."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt blocked. Neco Brett (Birmingham Legion) left footed shot from the left side of the six yard box is blocked."
+    },
+    {
+      "time": "67'",
+      "event": "Delay in match  because of an injury Elijah Martin (San Diego Loyal)."
+    },
+    {
+      "time": "68'",
+      "event": "Substitution, San Diego Loyal. Michael Chilaka replaces Elijah Martin because of an injury."
+    },
+    {
+      "time": "68'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "69'",
+      "event": "Charlie Adams (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "69'",
+      "event": "Diba Nwegbo (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Collin Martin (San Diego Loyal)."
+    },
+    {
+      "time": "69'",
+      "event": "Collin Martin (San Diego Loyal) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Moses Mensah (Birmingham Legion)."
+    },
+    {
+      "time": "70'",
+      "event": "Joe Corona (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "70'",
+      "event": "Moses Mensah (Birmingham Legion) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "73'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "73'",
+      "event": "Joe Corona (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Substitution, Birmingham Legion. Matthew Corcoran replaces Mikey Lopez."
+    },
+    {
+      "time": "75'",
+      "event": "Corner,  Birmingham Legion. Conceded by Carlos Guzmán."
+    },
+    {
+      "time": "75'",
+      "event": "Delay in match  because of an injury Adrien Perez (San Diego Loyal)."
+    },
+    {
+      "time": "76'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "77'",
+      "event": "Attempt missed. Juan Agudelo (Birmingham Legion) with an attempt from the left side of the six yard box misses to the left. Assisted by Alex Crognale with a cross."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, San Diego Loyal. Morgan Hackworth replaces Adrien Perez because of an injury."
+    },
+    {
+      "time": "79'",
+      "event": "Substitution, San Diego Loyal. Ronaldo Damus replaces Evan Conway."
+    },
+    {
+      "time": "79'",
+      "event": "Substitution, San Diego Loyal. Elliot Collier replaces Tumi Moshobane."
+    },
+    {
+      "time": "81'",
+      "event": "Attempt saved. Elliot Collier (San Diego Loyal) right footed shot from outside the box is saved in the centre of the goal. Assisted by Carlos Guzmán."
+    },
+    {
+      "time": "83'",
+      "event": "Hand ball by Tabort Preston (Birmingham Legion)."
+    },
+    {
+      "time": "84'",
+      "event": "Attempt saved. Ronaldo Damus (San Diego Loyal) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Collin Martin with a through ball."
+    },
+    {
+      "time": "84'",
+      "event": "Goal!  San Diego Loyal 3, Birmingham Legion 0. Collin Martin (San Diego Loyal) right footed shot from very close range to the bottom left corner."
+    },
+    {
+      "time": "85'",
+      "event": "Delay in match  because of an injury Elliot Collier (San Diego Loyal)."
+    },
+    {
+      "time": "85'",
+      "event": "Substitution, Birmingham Legion. Grayson Dupont replaces Prosper Kasim."
+    },
+    {
+      "time": "85'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "88'",
+      "event": "Carlos Guzmán (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt blocked. Blake Bodily (San Diego Loyal) left footed shot from outside the box is blocked. Assisted by Joe Corona."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt saved. Ronaldo Damus (San Diego Loyal) left footed shot from the centre of the box is saved in the centre of the goal."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt missed. Diba Nwegbo (Birmingham Legion) header from the centre of the box misses to the left. Assisted by Tabort Preston with a cross."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Ronaldo Damus (San Diego Loyal)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Enzo Martínez (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+5'",
+      "event": "Ronaldo Damus (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Alex Crognale (Birmingham Legion)."
+    },
+    {
+      "time": "90+7'",
+      "event": "Attempt missed. Tabort Preston (Birmingham Legion) right footed shot from outside the box is close, but misses the top left corner. Assisted by Alex Crognale."
+    },
+    {
+      "time": "90+7'",
+      "event": "Second Half ends, San Diego Loyal 3, Birmingham Legion 0."
+    }
+  ]
+}

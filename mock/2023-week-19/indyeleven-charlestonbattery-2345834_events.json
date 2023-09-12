@@ -1,0 +1,894 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Indy Eleven",
+      "formation": "5-3-2",
+      "score": "1",
+      "lineup": {
+        "managerName": "Lowry",
+        "players": [
+          {
+            "shirtNumber": "28",
+            "playerName": "Oettl",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Blake",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Dambrot",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "85"
+              },
+              {
+                "event": "Second yellow card",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "44",
+            "playerName": "King",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Diz Pe",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Boudadi",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "42",
+            "playerName": "Martínez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Lindley",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Quinn",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Penalty scored",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Guenzatti",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Velasquez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Trilk",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Jerome",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Gustavo Rissi",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Robledo",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Asante",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Molina",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Stéfano Pinho",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Charleston Battery",
+      "formation": "4-2-3-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Pirmann",
+        "players": [
+          {
+            "shirtNumber": "25",
+            "playerName": "Muse",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Dodson",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Wynne",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Archer",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Palma",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "38"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Allan",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Markanich",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Crawford",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Rodriguez",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Barajas",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Williams",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Kuzemka",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "A.J. Cochran",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Booth",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Schmidt",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Ycaza",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "69",
+            "playerName": "Avila",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Trager",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "77"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "41.9%",
+        "Duels_Success_Rate": "46.5%",
+        "Ariel_Duels_Won": "48.1%",
+        "Interceptions": "7",
+        "Offsides": "1",
+        "Corners_Won": "4"
+      },
+      "away": {
+        "Possession": "58.1%",
+        "Duels_Success_Rate": "53.5%",
+        "Ariel_Duels_Won": "51.9%",
+        "Interceptions": "8",
+        "Offsides": "0",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "377",
+        "Long_Passes": "58",
+        "Passing_Accuracy": "77.2%",
+        "Passing_Accuracy_In_Opponent_Half": "69.7%",
+        "Crosses": "9",
+        "Crossing_Accuracy": "22.2%"
+      },
+      "away": {
+        "Passes": "526",
+        "Long_Passes": "52",
+        "Passing_Accuracy": "83.3%",
+        "Passing_Accuracy_In_Opponent_Half": "73.3%",
+        "Crosses": "13",
+        "Crossing_Accuracy": "38.5%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "9",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "4",
+        "Shooting_Accuracy": "33.3%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "10",
+        "Shots_On_Target": "2",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "20.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "14",
+        "Tackle_Success_Rate": "78.6%",
+        "Clearances": "18"
+      },
+      "away": {
+        "Tackles": "11",
+        "Tackle_Success_Rate": "54.5%",
+        "Clearances": "15"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "17",
+        "Yellow_Cards": "1",
+        "Red_Cards": "1"
+      },
+      "away": {
+        "Fouls_Conceded": "15",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "3'",
+      "event": "Offside, Indy Eleven. Adrián Diz tries a through ball, but Sebastián Guenzatti is caught offside."
+    },
+    {
+      "time": "6'",
+      "event": "Sebastián Guenzatti (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Robbie Crawford (Charleston Battery)."
+    },
+    {
+      "time": "8'",
+      "event": "Fidel Barajas (Charleston Battery) hits the bar with a left footed shot from the centre of the box. Assisted by Arturo Rodríguez."
+    },
+    {
+      "time": "11'",
+      "event": "Delay in match  because of an injury Cam Lindley (Indy Eleven)."
+    },
+    {
+      "time": "12'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "14'",
+      "event": "Robby Dambrot (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Nick Markanich (Charleston Battery)."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Macauley King (Indy Eleven)."
+    },
+    {
+      "time": "18'",
+      "event": "Nick Markanich (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "20'",
+      "event": "Delay in match  because of an injury Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "22'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "22'",
+      "event": "Adrián Diz (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "22'",
+      "event": "Foul by Augustine Williams (Charleston Battery)."
+    },
+    {
+      "time": "25'",
+      "event": "Corner,  Indy Eleven. Conceded by Sebastián Palma."
+    },
+    {
+      "time": "26'",
+      "event": "Attempt blocked. Sebastián Guenzatti (Indy Eleven) right footed shot from the right side of the box is blocked. Assisted by Yannik Oettl with a through ball."
+    },
+    {
+      "time": "26'",
+      "event": "Sebastián Velásquez (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Chris Allan (Charleston Battery)."
+    },
+    {
+      "time": "27'",
+      "event": "Attempt blocked. Aodhan Quinn (Indy Eleven) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Macauley King (Indy Eleven)."
+    },
+    {
+      "time": "27'",
+      "event": "Arturo Rodríguez (Charleston Battery) wins a free kick on the right wing."
+    },
+    {
+      "time": "28'",
+      "event": "Attempt missed. Robbie Crawford (Charleston Battery) right footed shot from outside the box is high and wide to the right following a set piece situation."
+    },
+    {
+      "time": "29'",
+      "event": "Hand ball by Nick Markanich (Charleston Battery)."
+    },
+    {
+      "time": "31'",
+      "event": "Douglas Martínez (Indy Eleven) hits the left post with a right footed shot from the centre of the box."
+    },
+    {
+      "time": "31'",
+      "event": "Corner,  Indy Eleven. Conceded by Leland Archer."
+    },
+    {
+      "time": "32'",
+      "event": "Delay in match  because of an injury Leland Archer (Charleston Battery)."
+    },
+    {
+      "time": "33'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "33'",
+      "event": "Attempt missed. Jack Blake (Indy Eleven) left footed shot from outside the box is too high following a corner."
+    },
+    {
+      "time": "34'",
+      "event": "Aodhan Quinn (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "34'",
+      "event": "Foul by Robbie Crawford (Charleston Battery)."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt saved. Aodhan Quinn (Indy Eleven) left footed shot from the left side of the six yard box is saved in the centre of the goal. Assisted by Jack Blake."
+    },
+    {
+      "time": "35'",
+      "event": "Derek Dodson (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Robby Dambrot (Indy Eleven)."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Adrián Diz (Indy Eleven)."
+    },
+    {
+      "time": "35'",
+      "event": "Augustine Williams (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt missed. Fidel Barajas (Charleston Battery) right footed shot from outside the box misses to the left."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Robby Dambrot (Indy Eleven)."
+    },
+    {
+      "time": "38'",
+      "event": "Nick Markanich (Charleston Battery) wins a free kick on the right wing."
+    },
+    {
+      "time": "38'",
+      "event": "Douglas Martínez (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Sebastián Palma (Charleston Battery)."
+    },
+    {
+      "time": "38'",
+      "event": "Sebastián Palma (Charleston Battery) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt missed. Augustine Williams (Charleston Battery) left footed shot from outside the box is close, but misses the top left corner. Assisted by Fidel Barajas."
+    },
+    {
+      "time": "45'",
+      "event": "Foul by Younes Boudadi (Indy Eleven)."
+    },
+    {
+      "time": "45'",
+      "event": "Augustine Williams (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+1'",
+      "event": "Delay in match  because of an injury Nick Markanich (Charleston Battery)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "45+3'",
+      "event": "Douglas Martínez (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+3'",
+      "event": "Foul by Deklan Wynne (Charleston Battery)."
+    },
+    {
+      "time": "45+3'",
+      "event": "Corner,  Charleston Battery. Conceded by Adrián Diz."
+    },
+    {
+      "time": "45+6'",
+      "event": "Foul by Aodhan Quinn (Indy Eleven)."
+    },
+    {
+      "time": "45+6'",
+      "event": "Arturo Rodríguez (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "45+7'",
+      "event": "First Half ends, Indy Eleven 0, Charleston Battery 0."
+    },
+    {
+      "time": "47'",
+      "event": "Corner,  Indy Eleven. Conceded by Deklan Wynne."
+    },
+    {
+      "time": "51'",
+      "event": "Attempt blocked. Fidel Barajas (Charleston Battery) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "53'",
+      "event": "Robby Dambrot (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Robbie Crawford (Charleston Battery)."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, Charleston Battery. Roberto Avila replaces Fidel Barajas."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, Indy Eleven. Solomon Asante replaces Sebastián Velásquez."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, Indy Eleven. Stéfano Pinho replaces Sebastián Guenzatti."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "59'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "60'",
+      "event": "Penalty Indy Eleven. Douglas Martínez draws a foul in the penalty area."
+    },
+    {
+      "time": "60'",
+      "event": "Penalty conceded by Deklan Wynne (Charleston Battery) after a foul in the penalty area."
+    },
+    {
+      "time": "61'",
+      "event": "Goal!  Indy Eleven 1, Charleston Battery 0. Aodhan Quinn (Indy Eleven) converts the penalty with a left footed shot to the bottom right corner."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "63'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt missed. Roberto Avila (Charleston Battery) right footed shot from outside the box is close, but misses to the left. Assisted by Arturo Rodríguez."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Macauley King (Indy Eleven)."
+    },
+    {
+      "time": "65'",
+      "event": "Arturo Rodríguez (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "65'",
+      "event": "Macauley King (Indy Eleven) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "66'",
+      "event": "Attempt missed. Nick Markanich (Charleston Battery) left footed shot from the centre of the box misses to the right. Assisted by Deklan Wynne with a cross."
+    },
+    {
+      "time": "68'",
+      "event": "Macauley King (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Roberto Avila (Charleston Battery)."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Cam Lindley (Indy Eleven)."
+    },
+    {
+      "time": "69'",
+      "event": "Arturo Rodríguez (Charleston Battery) wins a free kick on the left wing."
+    },
+    {
+      "time": "69'",
+      "event": "Substitution, Charleston Battery. Emilio Ycaza replaces Robbie Crawford."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Charleston Battery. Tristan Trager replaces Nick Markanich."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt missed. Augustine Williams (Charleston Battery) left footed shot from the centre of the box misses to the left. Assisted by Arturo Rodríguez."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Stéfano Pinho (Indy Eleven)."
+    },
+    {
+      "time": "72'",
+      "event": "Sebastián Palma (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "72'",
+      "event": "Delay in match  because of an injury Sebastián Palma (Charleston Battery)."
+    },
+    {
+      "time": "72'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "73'",
+      "event": "Attempt blocked. Stéfano Pinho (Indy Eleven) right footed shot from outside the box is blocked. Assisted by Cam Lindley."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt saved. Solomon Asante (Indy Eleven) left footed shot from outside the box is saved in the centre of the goal. Assisted by Cam Lindley."
+    },
+    {
+      "time": "76'",
+      "event": "Delay in match  because of an injury Douglas Martínez (Indy Eleven)."
+    },
+    {
+      "time": "77'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "77'",
+      "event": "Goal!  Indy Eleven 1, Charleston Battery 1. Tristan Trager (Charleston Battery) right footed shot from the centre of the box to the centre of the goal. Assisted by Emilio Ycaza."
+    },
+    {
+      "time": "81'",
+      "event": "Delay in match  because of an injury Sebastián Palma (Charleston Battery)."
+    },
+    {
+      "time": "81'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "83'",
+      "event": "Delay in match  because of an injury Douglas Martínez (Indy Eleven)."
+    },
+    {
+      "time": "84'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Indy Eleven. Roberto Molina replaces Douglas Martínez because of an injury."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Robby Dambrot (Indy Eleven)."
+    },
+    {
+      "time": "84'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick on the right wing."
+    },
+    {
+      "time": "85'",
+      "event": "Robby Dambrot (Indy Eleven) is shown the yellow card."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Younes Boudadi (Indy Eleven)."
+    },
+    {
+      "time": "86'",
+      "event": "Tristan Trager (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "87'",
+      "event": "Cam Lindley (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Chris Allan (Charleston Battery)."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Younes Boudadi (Indy Eleven)."
+    },
+    {
+      "time": "88'",
+      "event": "Tristan Trager (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Robby Dambrot (Indy Eleven)."
+    },
+    {
+      "time": "89'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "89'",
+      "event": "Second yellow card to Robby Dambrot (Indy Eleven) for a bad foul."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt saved. Arturo Rodríguez (Charleston Battery) right footed shot from outside the box is saved in the top centre of the goal."
+    },
+    {
+      "time": "90+1'",
+      "event": "Corner,  Charleston Battery. Conceded by Yannik Oettl."
+    },
+    {
+      "time": "90+1'",
+      "event": "Yannik Oettl (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Roberto Avila (Charleston Battery)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Substitution, Indy Eleven. Gustavo Rissi replaces Jack Blake."
+    },
+    {
+      "time": "90+2'",
+      "event": "Solomon Asante (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Arturo Rodríguez (Charleston Battery)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Roberto Molina (Indy Eleven) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Roberto Avila (Charleston Battery)."
+    },
+    {
+      "time": "90+6'",
+      "event": "Attempt blocked. Cam Lindley (Indy Eleven) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "90+6'",
+      "event": "Corner,  Indy Eleven. Conceded by Sebastián Palma."
+    },
+    {
+      "time": "90+7'",
+      "event": "Foul by Aodhan Quinn (Indy Eleven)."
+    },
+    {
+      "time": "90+7'",
+      "event": "Chris Allan (Charleston Battery) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+8'",
+      "event": "Second Half ends, Indy Eleven 1, Charleston Battery 1."
+    }
+  ]
+}

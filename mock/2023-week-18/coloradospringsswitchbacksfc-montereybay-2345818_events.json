@@ -1,0 +1,733 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Colorado Springs Switchbacks FC",
+      "formation": "4-1-4-1",
+      "score": "4",
+      "lineup": {
+        "managerName": "Hogan",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Herrera",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Mahoney",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Seagrist",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Agren",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "41",
+            "playerName": "Musa",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "80",
+            "playerName": "Williams",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Fjeldberg",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "43"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Echeverria",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "46"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Chapman",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "60"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Tejada",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "2"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Romario Williams",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Penalty scored",
+                "eventTime": "73"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Joe Kuzminsky",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Erdmann",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Magee",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "60"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "44",
+            "playerName": "Rios",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Beckford",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "43"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Foster",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Wheeler",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Monterey Bay",
+      "formation": "4-2-3-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Yallop",
+        "players": [
+          {
+            "shirtNumber": "21",
+            "playerName": "Herrera",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Doner",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Robinson",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Greene",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Roberts",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Yoseke",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Enríquez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Murphy",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Dawkins",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Boone",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Okoli",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Siaha",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Lara",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Gleadle",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Martinez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Rebollar",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Hugh Alexander Dixon",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Volesky",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "62"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "50.5%",
+        "Duels_Success_Rate": "41.3%",
+        "Ariel_Duels_Won": "41.7%",
+        "Interceptions": "10",
+        "Offsides": "1",
+        "Corners_Won": "2"
+      },
+      "away": {
+        "Possession": "49.5%",
+        "Duels_Success_Rate": "58.8%",
+        "Ariel_Duels_Won": "58.3%",
+        "Interceptions": "10",
+        "Offsides": "1",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "449",
+        "Long_Passes": "58",
+        "Passing_Accuracy": "82.2%",
+        "Passing_Accuracy_In_Opponent_Half": "71.3%",
+        "Crosses": "11",
+        "Crossing_Accuracy": "18.2%"
+      },
+      "away": {
+        "Passes": "429",
+        "Long_Passes": "50",
+        "Passing_Accuracy": "80.2%",
+        "Passing_Accuracy_In_Opponent_Half": "67.9%",
+        "Crosses": "24",
+        "Crossing_Accuracy": "12.5%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "4",
+        "Shots": "12",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "41.7%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "6",
+        "Shots_On_Target": "1",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "3",
+        "Shooting_Accuracy": "16.7%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "6",
+        "Tackle_Success_Rate": "66.7%",
+        "Clearances": "16"
+      },
+      "away": {
+        "Tackles": "16",
+        "Tackle_Success_Rate": "50.0%",
+        "Clearances": "15"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "11",
+        "Yellow_Cards": "0",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "8",
+        "Yellow_Cards": "0",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Foul by Juan Tejada (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "1'",
+      "event": "Morey Doner (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "2'",
+      "event": "Goal!  Colorado Springs Switchbacks 1, Monterey Bay 0. Juan Tejada (Colorado Springs Switchbacks) right footed shot from the centre of the box to the top right corner. Assisted by Jonas Fjeldberg with a cross   following a fast break."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Romario Williams (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "3'",
+      "event": "Kai Greene (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "6'",
+      "event": "Delay in match  because of an injury Juan Tejada (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "6'",
+      "event": "Delay in match  because of an injury Morey Doner (Monterey Bay)."
+    },
+    {
+      "time": "6'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "7'",
+      "event": "Attempt missed. Matt Mahoney (Colorado Springs Switchbacks) right footed shot from the centre of the box misses to the right. Assisted by Jonas Fjeldberg."
+    },
+    {
+      "time": "8'",
+      "event": "Jesús Enríquez (Monterey Bay) wins a free kick in the attacking half."
+    },
+    {
+      "time": "8'",
+      "event": "Foul by Patrick Seagrist (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "9'",
+      "event": "Oskar Agren (Colorado Springs Switchbacks) wins a free kick on the right wing."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by James Murphy (Monterey Bay)."
+    },
+    {
+      "time": "23'",
+      "event": "Jonas Fjeldberg (Colorado Springs Switchbacks) wins a free kick in the attacking half."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt blocked. Romario Williams (Colorado Springs Switchbacks) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt missed. Romario Williams (Colorado Springs Switchbacks) right footed shot from outside the box is too high following a set piece situation."
+    },
+    {
+      "time": "25'",
+      "event": "Offside, Monterey Bay. Grant Robinson tries a through ball, but Sean Okoli is caught offside."
+    },
+    {
+      "time": "27'",
+      "event": "Morey Doner (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Juan Tejada (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "29'",
+      "event": "Corner,  Monterey Bay. Conceded by Juan Tejada."
+    },
+    {
+      "time": "30'",
+      "event": "Corner,  Monterey Bay. Conceded by Steven Echevarria."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt missed. Jonas Fjeldberg (Colorado Springs Switchbacks) left footed shot from outside the box is close, but misses to the left. Assisted by Matt Mahoney."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "33'",
+      "event": "Steven Echevarria (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "36'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Morey Doner."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt blocked. Juan Tejada (Colorado Springs Switchbacks) right footed shot from the left side of the box is blocked. Assisted by Romario Williams."
+    },
+    {
+      "time": "40'",
+      "event": "Offside, Colorado Springs Switchbacks. Oskar Agren tries a through ball, but Romario Williams is caught offside."
+    },
+    {
+      "time": "42'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Grant Robinson."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt blocked. Oskar Agren (Colorado Springs Switchbacks) header from the centre of the box is blocked. Assisted by Patrick Seagrist with a cross."
+    },
+    {
+      "time": "42'",
+      "event": "Grant Robinson (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "42'",
+      "event": "Foul by Matt Mahoney (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "43'",
+      "event": "Substitution, Colorado Springs Switchbacks. Deshane Beckford replaces Jonas Fjeldberg because of an injury."
+    },
+    {
+      "time": "45'",
+      "event": "Corner,  Monterey Bay. Conceded by Matt Mahoney."
+    },
+    {
+      "time": "45'",
+      "event": "Attempt missed. Chase Boone (Monterey Bay) header from the centre of the box misses to the left. Assisted by Morey Doner with a cross following a corner."
+    },
+    {
+      "time": "45+1'",
+      "event": "Hand ball by Jesús Enríquez (Monterey Bay)."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, Colorado Springs Switchbacks 1, Monterey Bay 0."
+    },
+    {
+      "time": "46'",
+      "event": "Goal!  Colorado Springs Switchbacks 2, Monterey Bay 0. Steven Echevarria (Colorado Springs Switchbacks) right footed shot from the centre of the box to the bottom left corner."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "51'",
+      "event": "James Musa (Colorado Springs Switchbacks) wins a free kick on the left wing."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt blocked. Sean Okoli (Monterey Bay) header from the centre of the box is blocked. Assisted by Jesús Enríquez with a headed pass."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt blocked. Nevello Yoseke (Monterey Bay) header from the left side of the six yard box is blocked."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Kai Greene (Monterey Bay)."
+    },
+    {
+      "time": "59'",
+      "event": "Romario Williams (Colorado Springs Switchbacks) wins a free kick in the attacking half."
+    },
+    {
+      "time": "60'",
+      "event": "Substitution, Colorado Springs Switchbacks. Tyreek Magee replaces Jay Chapman."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, Colorado Springs Switchbacks. Maalique Foster replaces Juan Tejada."
+    },
+    {
+      "time": "62'",
+      "event": "Substitution, Monterey Bay. Adrian Rebollar replaces James Murphy."
+    },
+    {
+      "time": "62'",
+      "event": "Substitution, Monterey Bay. Sam Gleadle replaces Jesús Enríquez."
+    },
+    {
+      "time": "62'",
+      "event": "Substitution, Monterey Bay. Christian Volesky replaces Sean Okoli."
+    },
+    {
+      "time": "63'",
+      "event": "Christian Volesky (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Romario Williams (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "66'",
+      "event": "Delay in match   (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "66'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "69'",
+      "event": "Penalty conceded by Kai Greene (Monterey Bay) after a foul in the penalty area."
+    },
+    {
+      "time": "69'",
+      "event": "Penalty Colorado Springs Switchbacks. Maalique Foster draws a foul in the penalty area."
+    },
+    {
+      "time": "73'",
+      "event": "Goal!  Colorado Springs Switchbacks 3, Monterey Bay 0. Romario Williams (Colorado Springs Switchbacks) converts the penalty with a right footed shot to the bottom right corner."
+    },
+    {
+      "time": "75'",
+      "event": "Attempt saved. Simon Dawkins (Monterey Bay) right footed shot from outside the box is saved in the centre of the goal. Assisted by Adrian Rebollar."
+    },
+    {
+      "time": "75'",
+      "event": "Attempt saved. Maalique Foster (Colorado Springs Switchbacks) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Romario Williams with a through ball."
+    },
+    {
+      "time": "75'",
+      "event": "Carlos Herrera (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Maalique Foster (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, Monterey Bay. Alex Lara replaces Kai Greene."
+    },
+    {
+      "time": "81'",
+      "event": "Chase Boone (Monterey Bay) wins a free kick on the right wing."
+    },
+    {
+      "time": "81'",
+      "event": "Foul by Patrick Seagrist (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "82'",
+      "event": "Attempt missed. Grant Robinson (Monterey Bay) left footed shot from outside the box misses to the left following a set piece situation."
+    },
+    {
+      "time": "83'",
+      "event": "Goal!  Colorado Springs Switchbacks 4, Monterey Bay 0. Steven Echevarria (Colorado Springs Switchbacks) right footed shot from outside the box to the top left corner."
+    },
+    {
+      "time": "85'",
+      "event": "Attempt missed. Sam Gleadle (Monterey Bay) right footed shot from outside the box is close, but misses to the left. Assisted by Grant Robinson."
+    },
+    {
+      "time": "87'",
+      "event": "Sam Gleadle (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Matt Mahoney (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, Colorado Springs Switchbacks. Aaron Wheeler replaces Romario Williams."
+    },
+    {
+      "time": "88'",
+      "event": "Simon Dawkins (Monterey Bay) wins a free kick in the attacking half."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Aaron Wheeler (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "90'",
+      "event": "Nevello Yoseke (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90'",
+      "event": "Foul by Aaron Wheeler (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Corner,  Monterey Bay. Conceded by Devon Williams."
+    },
+    {
+      "time": "90+2'",
+      "event": "Attempt missed. Tyreek Magee (Colorado Springs Switchbacks) left footed shot from outside the box is high and wide to the left. Assisted by Maalique Foster."
+    },
+    {
+      "time": "90+5'",
+      "event": "Aaron Wheeler (Colorado Springs Switchbacks) wins a free kick on the right wing."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Grant Robinson (Monterey Bay)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Colorado Springs Switchbacks 4, Monterey Bay 0."
+    }
+  ]
+}

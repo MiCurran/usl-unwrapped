@@ -1,0 +1,802 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "El Paso Locomotive FC",
+      "formation": "4-4-2",
+      "score": "0",
+      "lineup": {
+        "managerName": "Clarhaut",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Díaz",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Navarro",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Borelli",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "McCue",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "16"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Pavkovics",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Rose",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Kostyshyn",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Calvillo",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Aaron Gómez",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Solignac",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Zacarias",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "57"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Garcia",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Hinds",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Lyons",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Abarca",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Herrera",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Moreno",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Sonupe",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "57"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "New Mexico United",
+      "formation": "4-1-4-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Quill",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Alex Tambakis",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Swartz",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Yearwood",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Hamilton",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Ryden",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "43",
+            "playerName": "Portillo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "39"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Moar",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "89"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "89"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Rivas",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Hurst",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Moreno",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "70"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "25",
+            "playerName": "Bruce",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "51"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Parker",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Colonna",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Garvanian",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernandez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "36",
+            "playerName": "Robles Garcia",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "38",
+            "playerName": "Wyparlo",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "72",
+            "playerName": "Waggoner",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "65.6%",
+        "Duels_Success_Rate": "48.9%",
+        "Ariel_Duels_Won": "50.0%",
+        "Interceptions": "6",
+        "Offsides": "2",
+        "Corners_Won": "7"
+      },
+      "away": {
+        "Possession": "34.4%",
+        "Duels_Success_Rate": "51.1%",
+        "Ariel_Duels_Won": "50.0%",
+        "Interceptions": "6",
+        "Offsides": "6",
+        "Corners_Won": "7"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "576",
+        "Long_Passes": "55",
+        "Passing_Accuracy": "89.9%",
+        "Passing_Accuracy_In_Opponent_Half": "75.0%",
+        "Crosses": "20",
+        "Crossing_Accuracy": "15.0%"
+      },
+      "away": {
+        "Passes": "295",
+        "Long_Passes": "35",
+        "Passing_Accuracy": "79.7%",
+        "Passing_Accuracy_In_Opponent_Half": "66.9%",
+        "Crosses": "15",
+        "Crossing_Accuracy": "6.7%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "13",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "7",
+        "Shots_Outside_Box": "8",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "30.8%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "9",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "2",
+        "Shooting_Accuracy": "55.6%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "12",
+        "Tackle_Success_Rate": "58.3%",
+        "Clearances": "14"
+      },
+      "away": {
+        "Tackles": "21",
+        "Tackle_Success_Rate": "61.9%",
+        "Clearances": "20"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "8",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "12",
+        "Yellow_Cards": "4",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "2'",
+      "event": "Foul by Santi Moar (New Mexico United)."
+    },
+    {
+      "time": "2'",
+      "event": "Eric Calvillo (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "2'",
+      "event": "Daniel Bruce (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "2'",
+      "event": "Foul by Marc Navarro (El Paso Locomotive)."
+    },
+    {
+      "time": "3'",
+      "event": "Attempt blocked. Denys Kostyshyn (El Paso Locomotive) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Daniel Bruce (New Mexico United)."
+    },
+    {
+      "time": "4'",
+      "event": "Éder Borelli (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "6'",
+      "event": "Offside, El Paso Locomotive. Erik McCue tries a through ball, but Luis Solignac is caught offside."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Santi Moar (New Mexico United)."
+    },
+    {
+      "time": "7'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Daniel Bruce (New Mexico United)."
+    },
+    {
+      "time": "9'",
+      "event": "Erik McCue (El Paso Locomotive) wins a free kick on the right wing."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt blocked. Josué Gómez (El Paso Locomotive) left footed shot from the left side of the box is blocked. Assisted by Benny Díaz."
+    },
+    {
+      "time": "12'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Kalen Ryden."
+    },
+    {
+      "time": "14'",
+      "event": "Harry Swartz (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Josué Gómez (El Paso Locomotive)."
+    },
+    {
+      "time": "16'",
+      "event": "Amando Moreno (New Mexico United) wins a free kick on the left wing."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Erik McCue (El Paso Locomotive)."
+    },
+    {
+      "time": "16'",
+      "event": "Erik McCue (El Paso Locomotive) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "19'",
+      "event": "Attempt blocked. Justin Portillo (New Mexico United) right footed shot from outside the box is blocked. Assisted by Sergio Rivas."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Greg Hurst (New Mexico United)."
+    },
+    {
+      "time": "19'",
+      "event": "Liam Rose (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Offside, New Mexico United. Harry Swartz tries a through ball, but Sergio Rivas is caught offside."
+    },
+    {
+      "time": "22'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Harry Swartz."
+    },
+    {
+      "time": "24'",
+      "event": "Austin Yearwood (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Ricardo Zacarías (El Paso Locomotive)."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt saved. Daniel Bruce (New Mexico United) right footed shot from outside the box is saved in the bottom left corner."
+    },
+    {
+      "time": "26'",
+      "event": "Corner,  New Mexico United. Conceded by Erik McCue."
+    },
+    {
+      "time": "27'",
+      "event": "Corner,  New Mexico United. Conceded by Denys Kostyshyn."
+    },
+    {
+      "time": "31'",
+      "event": "Offside, New Mexico United. Amando Moreno tries a through ball, but Daniel Bruce is caught offside."
+    },
+    {
+      "time": "33'",
+      "event": "Offside, New Mexico United. Greg Hurst tries a through ball, but Amando Moreno is caught offside."
+    },
+    {
+      "time": "34'",
+      "event": "Attempt saved. Amando Moreno (New Mexico United) right footed shot from outside the box is saved in the top left corner. Assisted by Austin Yearwood."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Austin Yearwood (New Mexico United)."
+    },
+    {
+      "time": "35'",
+      "event": "Denys Kostyshyn (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt blocked. Josué Gómez (El Paso Locomotive) left footed shot from outside the box is blocked. Assisted by Luis Solignac."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Kalen Ryden (New Mexico United)."
+    },
+    {
+      "time": "39'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick in the attacking half."
+    },
+    {
+      "time": "39'",
+      "event": "Justin Portillo (New Mexico United) is shown the yellow card."
+    },
+    {
+      "time": "40'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Harry Swartz."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Amando Moreno (New Mexico United)."
+    },
+    {
+      "time": "43'",
+      "event": "Denys Kostyshyn (El Paso Locomotive) wins a free kick on the right wing."
+    },
+    {
+      "time": "45'",
+      "event": "Corner,  New Mexico United. Conceded by Benny Díaz."
+    },
+    {
+      "time": "45+1'",
+      "event": "First Half ends, El Paso Locomotive 0, New Mexico United 0."
+    },
+    {
+      "time": "46'",
+      "event": "Attempt blocked. Luis Solignac (El Paso Locomotive) left footed shot from the right side of the box is blocked. Assisted by Marc Navarro."
+    },
+    {
+      "time": "47'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Kalen Ryden."
+    },
+    {
+      "time": "48'",
+      "event": "Attempt saved. Liam Rose (El Paso Locomotive) left footed shot from outside the box is saved in the centre of the goal. Assisted by Josué Gómez."
+    },
+    {
+      "time": "50'",
+      "event": "Attempt saved. Justin Portillo (New Mexico United) right footed shot from outside the box is saved in the top left corner. Assisted by Kalen Ryden."
+    },
+    {
+      "time": "50'",
+      "event": "Corner,  New Mexico United. Conceded by Benny Díaz."
+    },
+    {
+      "time": "51'",
+      "event": "Attempt blocked. Santi Moar (New Mexico United) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Daniel Bruce (New Mexico United)."
+    },
+    {
+      "time": "51'",
+      "event": "Denys Kostyshyn (El Paso Locomotive) wins a free kick in the attacking half."
+    },
+    {
+      "time": "51'",
+      "event": "Daniel Bruce (New Mexico United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "53'",
+      "event": "Corner,  New Mexico United. Conceded by Marc Navarro."
+    },
+    {
+      "time": "54'",
+      "event": "Daniel Bruce (New Mexico United) wins a free kick on the left wing."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by Denys Kostyshyn (El Paso Locomotive)."
+    },
+    {
+      "time": "57'",
+      "event": "Substitution, El Paso Locomotive. Emmanuel Sonupe replaces Ricardo Zacarías."
+    },
+    {
+      "time": "57'",
+      "event": "Offside, New Mexico United. Sam Hamilton tries a through ball, but Daniel Bruce is caught offside."
+    },
+    {
+      "time": "59'",
+      "event": "Attempt saved. Daniel Bruce (New Mexico United) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Greg Hurst."
+    },
+    {
+      "time": "59'",
+      "event": "Corner,  New Mexico United. Conceded by Benny Díaz."
+    },
+    {
+      "time": "59'",
+      "event": "Corner,  New Mexico United. Conceded by Eric Calvillo."
+    },
+    {
+      "time": "62'",
+      "event": "Offside, El Paso Locomotive. Liam Rose tries a through ball, but Emmanuel Sonupe is caught offside."
+    },
+    {
+      "time": "65'",
+      "event": "Daniel Bruce (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Erik McCue (El Paso Locomotive)."
+    },
+    {
+      "time": "66'",
+      "event": "Attempt blocked. Emmanuel Sonupe (El Paso Locomotive) right footed shot from outside the box is blocked. Assisted by Eric Calvillo."
+    },
+    {
+      "time": "66'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Kalen Ryden."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Amando Moreno (New Mexico United)."
+    },
+    {
+      "time": "70'",
+      "event": "Liam Rose (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "70'",
+      "event": "Amando Moreno (New Mexico United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "71'",
+      "event": "Substitution, El Paso Locomotive. Miles Lyons replaces Marc Navarro."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt saved. Denys Kostyshyn (El Paso Locomotive) left footed shot from outside the box is saved in the centre of the goal. Assisted by Bence Pávkovics."
+    },
+    {
+      "time": "73'",
+      "event": "Attempt blocked. Luis Solignac (El Paso Locomotive) right footed shot from the right side of the box is blocked."
+    },
+    {
+      "time": "73'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Sam Hamilton."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt saved. Benny Díaz (El Paso Locomotive) left footed shot from more than 35 yards is saved in the top centre of the goal. Assisted by Éder Borelli."
+    },
+    {
+      "time": "78'",
+      "event": "Attempt missed. Josué Gómez (El Paso Locomotive) left footed shot from the centre of the box misses to the right. Assisted by Eric Calvillo."
+    },
+    {
+      "time": "78'",
+      "event": "Daniel Bruce (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Bence Pávkovics (El Paso Locomotive)."
+    },
+    {
+      "time": "80'",
+      "event": "Offside, New Mexico United. Austin Yearwood tries a through ball, but Amando Moreno is caught offside."
+    },
+    {
+      "time": "82'",
+      "event": "Offside, New Mexico United. Greg Hurst tries a through ball, but Amando Moreno is caught offside."
+    },
+    {
+      "time": "82'",
+      "event": "Substitution, El Paso Locomotive. Nick Hinds replaces Éder Borelli."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt missed. Daniel Bruce (New Mexico United) right footed shot from more than 35 yards is high and wide to the right. Assisted by Santi Moar."
+    },
+    {
+      "time": "84'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Austin Yearwood."
+    },
+    {
+      "time": "86'",
+      "event": "Santi Moar (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Bence Pávkovics (El Paso Locomotive)."
+    },
+    {
+      "time": "86'",
+      "event": "Bence Pávkovics (El Paso Locomotive) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, New Mexico United. Nicky Hernandez replaces Amando Moreno."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt missed. Santi Moar (New Mexico United) right footed shot from outside the box is close, but misses to the right following a set piece situation."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Nicky Hernandez (New Mexico United)."
+    },
+    {
+      "time": "88'",
+      "event": "Erik McCue (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "89'",
+      "event": "Goal!  El Paso Locomotive 0, New Mexico United 1. Santi Moar (New Mexico United) right footed shot from the centre of the box to the bottom left corner. Assisted by Nicky Hernandez   following a fast break."
+    },
+    {
+      "time": "89'",
+      "event": "Santi Moar (New Mexico United) is shown the yellow card for excessive celebration."
+    },
+    {
+      "time": "90'",
+      "event": "Delay in match  because of an injury Denys Kostyshyn (El Paso Locomotive)."
+    },
+    {
+      "time": "90'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Greg Hurst (New Mexico United)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Nick Hinds (El Paso Locomotive) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+1'",
+      "event": "Substitution, New Mexico United. Milo Garvanian replaces Santi Moar."
+    },
+    {
+      "time": "90+3'",
+      "event": "Attempt saved. Denys Kostyshyn (El Paso Locomotive) right footed shot from the centre of the box is saved in the bottom left corner. Assisted by Luis Solignac with a headed pass."
+    },
+    {
+      "time": "90+3'",
+      "event": "Attempt blocked. Eric Calvillo (El Paso Locomotive) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "90+5'",
+      "event": "Attempt missed. Liam Rose (El Paso Locomotive) left footed shot from outside the box is close, but misses to the right."
+    },
+    {
+      "time": "90+6'",
+      "event": "Second Half ends, El Paso Locomotive 0, New Mexico United 1."
+    }
+  ]
+}

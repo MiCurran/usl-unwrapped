@@ -1,0 +1,799 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "New Mexico United",
+      "formation": "4-1-4-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Quill",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Alex Tambakis",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Seymore",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Yearwood",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Hamilton",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Ryden",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "43",
+            "playerName": "Portillo",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Swartz",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Rivas",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Moreno",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernandez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "25",
+            "playerName": "Bruce",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "21"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Parker",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Colonna",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Garvanian",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Suggs",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "38",
+            "playerName": "Wyparlo",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Hurst",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "72",
+            "playerName": "Waggoner",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "82"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Detroit City FC",
+      "formation": "3-1-4-2",
+      "score": "0",
+      "lineup": {
+        "managerName": "James",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Steinwascher",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Carroll",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Lewis",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Amoo-Mensah",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "91",
+            "playerName": "Fisher",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Williams",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Rodríguez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "41"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Gasso",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "35"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rutz",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Morris",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Skage Lehland",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Shellow",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Levis",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Robinson",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Ballard",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Bryant",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "35"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Matthews",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "92",
+            "playerName": "Suárez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "67"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "62.2%",
+        "Duels_Success_Rate": "53.0%",
+        "Ariel_Duels_Won": "56.5%",
+        "Interceptions": "8",
+        "Offsides": "1",
+        "Corners_Won": "4"
+      },
+      "away": {
+        "Possession": "37.8%",
+        "Duels_Success_Rate": "47.0%",
+        "Ariel_Duels_Won": "43.5%",
+        "Interceptions": "10",
+        "Offsides": "1",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "473",
+        "Long_Passes": "46",
+        "Passing_Accuracy": "81.6%",
+        "Passing_Accuracy_In_Opponent_Half": "72.6%",
+        "Crosses": "11",
+        "Crossing_Accuracy": "9.1%"
+      },
+      "away": {
+        "Passes": "289",
+        "Long_Passes": "63",
+        "Passing_Accuracy": "74.0%",
+        "Passing_Accuracy_In_Opponent_Half": "60.3%",
+        "Crosses": "10",
+        "Crossing_Accuracy": "20.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "17",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "8",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "23.5%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "11",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "0",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "27.3%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "15",
+        "Tackle_Success_Rate": "66.7%",
+        "Clearances": "8"
+      },
+      "away": {
+        "Tackles": "24",
+        "Tackle_Success_Rate": "54.2%",
+        "Clearances": "13"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "11",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "12",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Attempt saved. Daniel Bruce (New Mexico United) right footed shot from outside the box is saved in the centre of the goal. Assisted by Sergio Rivas with a headed pass."
+    },
+    {
+      "time": "1'",
+      "event": "Corner,  New Mexico United. Conceded by Dominic Gasso."
+    },
+    {
+      "time": "6'",
+      "event": "Hand ball by Amando Moreno (New Mexico United)."
+    },
+    {
+      "time": "6'",
+      "event": "Amando Moreno (New Mexico United) hits the bar with a right footed shot from the centre of the box. Assisted by Harry Swartz with a cross following a fast break."
+    },
+    {
+      "time": "7'",
+      "event": "Dominic Gasso (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Harry Swartz (New Mexico United)."
+    },
+    {
+      "time": "8'",
+      "event": "Foul by Rhys Williams (Detroit City FC)."
+    },
+    {
+      "time": "8'",
+      "event": "Harry Swartz (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt missed. Amando Moreno (New Mexico United) right footed shot from outside the box is close, but misses to the left. Assisted by Daniel Bruce."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt blocked. Daniel Bruce (New Mexico United) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "13'",
+      "event": "Oniel Fisher (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Nicky Hernandez (New Mexico United)."
+    },
+    {
+      "time": "17'",
+      "event": "Attempt missed. Ben Morris (Detroit City FC) right footed shot from the centre of the box is close, but misses the top left corner. Assisted by Skage Simonsen with a through ball."
+    },
+    {
+      "time": "19'",
+      "event": "Attempt blocked. Amando Moreno (New Mexico United) right footed shot from a difficult angle on the right is blocked. Assisted by Harry Swartz."
+    },
+    {
+      "time": "19'",
+      "event": "Corner,  New Mexico United. Conceded by Stephen Carroll."
+    },
+    {
+      "time": "20'",
+      "event": "Attempt missed. Nicky Hernandez (New Mexico United) right footed shot from the right side of the box is close, but misses the top right corner following a corner."
+    },
+    {
+      "time": "21'",
+      "event": "Dominic Gasso (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Daniel Bruce (New Mexico United)."
+    },
+    {
+      "time": "21'",
+      "event": "Daniel Bruce (New Mexico United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Stephen Carroll (Detroit City FC)."
+    },
+    {
+      "time": "23'",
+      "event": "Amando Moreno (New Mexico United) wins a free kick on the left wing."
+    },
+    {
+      "time": "24'",
+      "event": "Corner,  Detroit City FC. Conceded by Justin Portillo."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Rhys Williams (Detroit City FC)."
+    },
+    {
+      "time": "26'",
+      "event": "Harry Swartz (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "27'",
+      "event": "Attempt saved. Kalen Ryden (New Mexico United) left footed shot from the left side of the six yard box is saved in the centre of the goal. Assisted by Justin Portillo."
+    },
+    {
+      "time": "28'",
+      "event": "Daniel Bruce (New Mexico United) hits the bar with a header from the centre of the box. Assisted by Will Seymore."
+    },
+    {
+      "time": "28'",
+      "event": "Attempt missed. Amando Moreno (New Mexico United) right footed shot from outside the box is close, but misses to the left. Assisted by Justin Portillo."
+    },
+    {
+      "time": "30'",
+      "event": "Rhys Williams (Detroit City FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Sam Hamilton (New Mexico United)."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Stephen Carroll (Detroit City FC)."
+    },
+    {
+      "time": "30'",
+      "event": "Sergio Rivas (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt missed. Nicky Hernandez (New Mexico United) right footed shot from outside the box is too high. Assisted by Justin Portillo."
+    },
+    {
+      "time": "32'",
+      "event": "Delay in match   (New Mexico United)."
+    },
+    {
+      "time": "33'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "35'",
+      "event": "Substitution, Detroit City FC. Michael Bryant replaces Dominic Gasso."
+    },
+    {
+      "time": "35'",
+      "event": "Ben Morris (Detroit City FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Kalen Ryden (New Mexico United)."
+    },
+    {
+      "time": "36'",
+      "event": "Offside, Detroit City FC. Rhys Williams tries a through ball, but Skage Simonsen is caught offside."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt missed. Daniel Bruce (New Mexico United) left footed shot from the left side of the box misses to the left. Assisted by Justin Portillo with a through ball."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt saved. Rhys Williams (Detroit City FC) right footed shot from outside the box is saved in the top right corner. Assisted by Ben Morris."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Maxi Rodriguez (Detroit City FC)."
+    },
+    {
+      "time": "38'",
+      "event": "Austin Yearwood (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "40'",
+      "event": "Corner,  Detroit City FC. Conceded by Nicky Hernandez."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt missed. Oniel Fisher (Detroit City FC) right footed shot from outside the box misses to the left following a corner."
+    },
+    {
+      "time": "41'",
+      "event": "Maxi Rodriguez (Detroit City FC) has gone down, but the referee deems it simulation."
+    },
+    {
+      "time": "41'",
+      "event": "Maxi Rodriguez (Detroit City FC) is shown the yellow card."
+    },
+    {
+      "time": "44'",
+      "event": "Attempt missed. Skage Simonsen (Detroit City FC) right footed shot from the centre of the box misses to the right. Assisted by Rhys Williams with a cross."
+    },
+    {
+      "time": "45+1'",
+      "event": "Foul by Devon Amoo-Mensah (Detroit City FC)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Harry Swartz (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "45+2'",
+      "event": "Oniel Fisher (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+2'",
+      "event": "Foul by Nicky Hernandez (New Mexico United)."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, New Mexico United 0, Detroit City FC 0."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Detroit City FC. Yazeed Matthews replaces Skage Simonsen."
+    },
+    {
+      "time": "46'",
+      "event": "Attempt blocked. Amando Moreno (New Mexico United) left footed shot from the right side of the box is blocked. Assisted by Will Seymore."
+    },
+    {
+      "time": "47'",
+      "event": "Corner,  New Mexico United. Conceded by Michael Bryant."
+    },
+    {
+      "time": "50'",
+      "event": "Connor Rutz (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "50'",
+      "event": "Foul by Nicky Hernandez (New Mexico United)."
+    },
+    {
+      "time": "52'",
+      "event": "Foul by Michael Bryant (Detroit City FC)."
+    },
+    {
+      "time": "52'",
+      "event": "Kalen Ryden (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "54'",
+      "event": "Attempt missed. Yazeed Matthews (Detroit City FC) header from the centre of the box misses to the right. Assisted by Ben Morris."
+    },
+    {
+      "time": "56'",
+      "event": "Attempt missed. Nicky Hernandez (New Mexico United) right footed shot from outside the box is too high."
+    },
+    {
+      "time": "57'",
+      "event": "Attempt blocked. Sergio Rivas (New Mexico United) right footed shot from outside the box is blocked. Assisted by Justin Portillo."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt missed. Yazeed Matthews (Detroit City FC) left footed shot from the left side of the box is too high. Assisted by Ben Morris following a fast break."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, New Mexico United. Greg Hurst replaces Nicky Hernandez."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt saved. Ben Morris (Detroit City FC) left footed shot from the left side of the box is saved in the centre of the goal. Assisted by Rhys Williams."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt missed. Maxi Rodriguez (Detroit City FC) right footed shot from outside the box is high and wide to the left."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Maxi Rodriguez (Detroit City FC)."
+    },
+    {
+      "time": "63'",
+      "event": "Harry Swartz (New Mexico United) wins a free kick on the right wing."
+    },
+    {
+      "time": "63'",
+      "event": "Devon Amoo-Mensah (Detroit City FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "65'",
+      "event": "Attempt missed. Ben Morris (Detroit City FC) right footed shot from more than 35 yards is too high. Assisted by Maxi Rodriguez."
+    },
+    {
+      "time": "67'",
+      "event": "Delay in match  because of an injury Oniel Fisher (Detroit City FC)."
+    },
+    {
+      "time": "67'",
+      "event": "Substitution, Detroit City FC. Darío Suárez replaces Oniel Fisher because of an injury."
+    },
+    {
+      "time": "67'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "68'",
+      "event": "Substitution, New Mexico United. Josh Suggs replaces Austin Yearwood."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt blocked. Kalen Ryden (New Mexico United) left footed shot from more than 35 yards is blocked. Assisted by Sergio Rivas."
+    },
+    {
+      "time": "70'",
+      "event": "Corner,  New Mexico United. Conceded by Stephen Carroll."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt missed. Josh Suggs (New Mexico United) left footed shot from outside the box is high and wide to the left following a corner."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Devon Amoo-Mensah (Detroit City FC)."
+    },
+    {
+      "time": "72'",
+      "event": "Harry Swartz (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "73'",
+      "event": "Attempt missed. Darío Suárez (Detroit City FC) left footed shot from outside the box misses to the right."
+    },
+    {
+      "time": "74'",
+      "event": "Michael Bryant (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Josh Suggs (New Mexico United)."
+    },
+    {
+      "time": "75'",
+      "event": "Delay in match  because of an injury Kalen Ryden (New Mexico United)."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, New Mexico United. Alexander Waggoner replaces Kalen Ryden because of an injury."
+    },
+    {
+      "time": "77'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "82'",
+      "event": "Goal!  New Mexico United 1, Detroit City FC 0. Alexander Waggoner (New Mexico United) header from the left side of the six yard box to the bottom left corner. Assisted by Daniel Bruce."
+    },
+    {
+      "time": "84'",
+      "event": "Matt Lewis (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Alexander Waggoner (New Mexico United)."
+    },
+    {
+      "time": "85'",
+      "event": "Attempt saved. Yazeed Matthews (Detroit City FC) header from the centre of the box is saved in the bottom right corner. Assisted by Michael Bryant with a cross."
+    },
+    {
+      "time": "87'",
+      "event": "Stephen Carroll (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Alexander Waggoner (New Mexico United)."
+    },
+    {
+      "time": "88'",
+      "event": "Greg Hurst (New Mexico United) is shown the yellow card."
+    },
+    {
+      "time": "90+2'",
+      "event": "Offside, New Mexico United. Josh Suggs tries a through ball, but Amando Moreno is caught offside."
+    },
+    {
+      "time": "90+4'",
+      "event": "Foul by Rhys Williams (Detroit City FC)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Sam Hamilton (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Michael Bryant (Detroit City FC)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Amando Moreno (New Mexico United) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, New Mexico United 1, Detroit City FC 0."
+    }
+  ]
+}

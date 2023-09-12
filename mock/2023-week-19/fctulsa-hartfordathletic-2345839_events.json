@@ -1,0 +1,898 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "FC Tulsa",
+      "formation": "5-4-1",
+      "score": "3",
+      "lineup": {
+        "managerName": "Gavin",
+        "players": [
+          {
+            "shirtNumber": "24",
+            "playerName": "Nelson",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Yosef",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Armour",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Bonet",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "19"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Tetteh",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Own goal",
+                "eventTime": "60"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Malou",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Dyer",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "48",
+            "playerName": "Bird",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "McCabe",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Epps",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "13"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Goodrum",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "35"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "905"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Wormell",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Bernal",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Fernandez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Ferri",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "88",
+            "playerName": "Pearson",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "79"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Haji",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Weah",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Hartford Athletic",
+      "formation": "3-5-2",
+      "score": "2",
+      "lineup": {
+        "managerName": "Namazi",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Richard Sánchez",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Hodge",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "McGlynn",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "28"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Lapert",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "72",
+            "playerName": "Rito",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Sheldon",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Barrera",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "28"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Lewis",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Torres",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "69"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Amoh",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "24"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Saydee",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Rice",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Apollon",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "50",
+            "playerName": "Logue",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Merrill",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Kaveh Rad",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Kibato",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Edwards",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "67"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "47.0%",
+        "Duels_Success_Rate": "58.7%",
+        "Ariel_Duels_Won": "53.1%",
+        "Interceptions": "10",
+        "Offsides": "0",
+        "Corners_Won": "2"
+      },
+      "away": {
+        "Possession": "53.0%",
+        "Duels_Success_Rate": "41.3%",
+        "Ariel_Duels_Won": "46.9%",
+        "Interceptions": "11",
+        "Offsides": "2",
+        "Corners_Won": "10"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "398",
+        "Long_Passes": "50",
+        "Passing_Accuracy": "81.7%",
+        "Passing_Accuracy_In_Opponent_Half": "71.6%",
+        "Crosses": "8",
+        "Crossing_Accuracy": "62.5%"
+      },
+      "away": {
+        "Passes": "436",
+        "Long_Passes": "43",
+        "Passing_Accuracy": "82.6%",
+        "Passing_Accuracy_In_Opponent_Half": "70.2%",
+        "Crosses": "20",
+        "Crossing_Accuracy": "20.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "3",
+        "Shots": "18",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "6",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "11",
+        "Shooting_Accuracy": "27.8%"
+      },
+      "away": {
+        "Goals": "2",
+        "Shots": "7",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "2",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "57.1%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "18",
+        "Tackle_Success_Rate": "72.2%",
+        "Clearances": "19"
+      },
+      "away": {
+        "Tackles": "8",
+        "Tackle_Success_Rate": "87.5%",
+        "Clearances": "10"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "10",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "14",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "3'",
+      "event": "Hand ball by Eric Bird (FC Tulsa)."
+    },
+    {
+      "time": "5'",
+      "event": "Marcus Epps (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "5'",
+      "event": "Foul by Edgardo Rito (Hartford Athletic)."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt saved. Danny Barrera (Hartford Athletic) left footed shot from outside the box is saved in the bottom left corner. Assisted by Edgardo Rito."
+    },
+    {
+      "time": "11'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick on the right wing."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Triston Hodge (Hartford Athletic)."
+    },
+    {
+      "time": "13'",
+      "event": "Goal!  FC Tulsa 1, Hartford Athletic 0. Marcus Epps (FC Tulsa) left footed shot from a difficult angle on the left to the high centre of the goal. Assisted by Eric Bird."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Ruxi (FC Tulsa)."
+    },
+    {
+      "time": "14'",
+      "event": "Prince Saydee (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "15'",
+      "event": "Offside, Hartford Athletic. Danny Barrera tries a through ball, but Robin Lapert is caught offside."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Ruxi (FC Tulsa)."
+    },
+    {
+      "time": "18'",
+      "event": "Elvis Amoh (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Tommy McCabe (FC Tulsa)."
+    },
+    {
+      "time": "19'",
+      "event": "Andre Lewis (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Ruxi (FC Tulsa)."
+    },
+    {
+      "time": "19'",
+      "event": "Prince Saydee (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "19'",
+      "event": "Ruxi (FC Tulsa) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "20'",
+      "event": "Corner,  Hartford Athletic. Conceded by Milo Yosef."
+    },
+    {
+      "time": "21'",
+      "event": "Corner,  Hartford Athletic. Conceded by Marcus Epps."
+    },
+    {
+      "time": "22'",
+      "event": "Attempt blocked. Elvis Amoh (Hartford Athletic) header from the left side of the box is blocked. Assisted by Danny Barrera with a cross."
+    },
+    {
+      "time": "22'",
+      "event": "Corner,  Hartford Athletic. Conceded by Ruxi."
+    },
+    {
+      "time": "24'",
+      "event": "Goal!  FC Tulsa 1, Hartford Athletic 1. Elvis Amoh (Hartford Athletic) header from the centre of the box to the top right corner. Assisted by Matt Sheldon."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Adam Armour (FC Tulsa)."
+    },
+    {
+      "time": "26'",
+      "event": "Juan Pablo Torres (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "27'",
+      "event": "Attempt blocked. Phillip Goodrum (FC Tulsa) right footed shot from the centre of the box is blocked. Assisted by Moses Dyer with a through ball."
+    },
+    {
+      "time": "28'",
+      "event": "Corner,  FC Tulsa. Conceded by Robin Lapert."
+    },
+    {
+      "time": "28'",
+      "event": "Conor McGlynn (Hartford Athletic) is shown the yellow card."
+    },
+    {
+      "time": "28'",
+      "event": "Danny Barrera (Hartford Athletic) is shown the yellow card."
+    },
+    {
+      "time": "29'",
+      "event": "Attempt missed. Phillip Goodrum (FC Tulsa) header from the centre of the box is just a bit too high. Assisted by Milo Yosef with a cross following a corner."
+    },
+    {
+      "time": "30'",
+      "event": "Adam Armour (FC Tulsa) wins a free kick on the left wing."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Edgardo Rito (Hartford Athletic)."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt blocked. Ruxi (FC Tulsa) header from the left side of the six yard box is blocked. Assisted by Milo Yosef with a cross."
+    },
+    {
+      "time": "31'",
+      "event": "Corner,  FC Tulsa. Conceded by Conor McGlynn."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt missed. Moses Dyer (FC Tulsa) header from very close range is high and wide to the right. Assisted by Milo Yosef with a cross following a corner."
+    },
+    {
+      "time": "35'",
+      "event": "Goal!  FC Tulsa 2, Hartford Athletic 1. Phillip Goodrum (FC Tulsa) header from the centre of the box to the centre of the goal. Assisted by Moses Dyer with a through ball."
+    },
+    {
+      "time": "40'",
+      "event": "Tommy McCabe (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "40'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Moses Dyer (FC Tulsa)."
+    },
+    {
+      "time": "41'",
+      "event": "Matt Sheldon (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "41'",
+      "event": "Attempt saved. Marcus Epps (FC Tulsa) right footed shot from outside the box is saved in the centre of the goal. Assisted by Tommy McCabe."
+    },
+    {
+      "time": "43'",
+      "event": "Moses Dyer (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "45'",
+      "event": "Phillip Goodrum (FC Tulsa) hits the bar with a header from the centre of the box. Assisted by Marcus Epps with a cross."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, FC Tulsa 2, Hartford Athletic 1."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Phillip Goodrum (FC Tulsa)."
+    },
+    {
+      "time": "46'",
+      "event": "Triston Hodge (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "47'",
+      "event": "Delay in match  because of an injury Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "48'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "49'",
+      "event": "Attempt saved. Marcus Epps (FC Tulsa) header from the centre of the box is saved in the bottom left corner. Assisted by Phillip Goodrum."
+    },
+    {
+      "time": "51'",
+      "event": "Corner,  Hartford Athletic. Conceded by Rashid Tetteh."
+    },
+    {
+      "time": "52'",
+      "event": "Corner,  Hartford Athletic. Conceded by Justin Malou."
+    },
+    {
+      "time": "53'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "54'",
+      "event": "Delay in match  because of an injury Prince Saydee (Hartford Athletic)."
+    },
+    {
+      "time": "54'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "55'",
+      "event": "Justin Malou (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt blocked. Danny Barrera (Hartford Athletic) left footed shot from outside the box is blocked. Assisted by Elvis Amoh."
+    },
+    {
+      "time": "59'",
+      "event": "Attempt blocked. Moses Dyer (FC Tulsa) right footed shot from outside the box is blocked. Assisted by Phillip Goodrum."
+    },
+    {
+      "time": "60'",
+      "event": "Own Goal by Rashid Tetteh, FC Tulsa.  FC Tulsa 2, Hartford Athletic 2."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Milo Yosef (FC Tulsa)."
+    },
+    {
+      "time": "62'",
+      "event": "Elvis Amoh (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "62'",
+      "event": "Milo Yosef (FC Tulsa) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "64'",
+      "event": "Corner,  Hartford Athletic. Conceded by Milo Yosef."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "65'",
+      "event": "Ruxi (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, FC Tulsa. Collin Fernandez replaces Marcus Epps."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, FC Tulsa. Blaine Ferri replaces Tommy McCabe."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Hartford Athletic. Kembo Kibato replaces Matt Sheldon."
+    },
+    {
+      "time": "67'",
+      "event": "Substitution, Hartford Athletic. Kyle Edwards replaces Andre Lewis."
+    },
+    {
+      "time": "68'",
+      "event": "Attempt blocked. Danny Barrera (Hartford Athletic) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "68'",
+      "event": "Corner,  Hartford Athletic. Conceded by Justin Malou."
+    },
+    {
+      "time": "69'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Juan Pablo Torres (Hartford Athletic)."
+    },
+    {
+      "time": "69'",
+      "event": "Juan Pablo Torres (Hartford Athletic) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "71'",
+      "event": "Moses Dyer (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "71'",
+      "event": "Foul by Triston Hodge (Hartford Athletic)."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt missed. Milo Yosef (FC Tulsa) right footed shot from outside the box is too high from a direct free kick."
+    },
+    {
+      "time": "73'",
+      "event": "Adam Armour (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "73'",
+      "event": "Foul by Prince Saydee (Hartford Athletic)."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt blocked. Moses Dyer (FC Tulsa) right footed shot from the centre of the box is blocked. Assisted by Eric Bird."
+    },
+    {
+      "time": "74'",
+      "event": "Eric Bird (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt blocked. Blaine Ferri (FC Tulsa) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt missed. Collin Fernandez (FC Tulsa) left footed shot from outside the box misses to the left. Assisted by Blaine Ferri following a set piece situation."
+    },
+    {
+      "time": "77'",
+      "event": "Corner,  Hartford Athletic. Conceded by Ruxi."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, Hartford Athletic. Luke Merrill replaces Juan Pablo Torres."
+    },
+    {
+      "time": "78'",
+      "event": "Attempt missed. Moses Dyer (FC Tulsa) header from the centre of the box is too high. Assisted by Eric Bird with a cross."
+    },
+    {
+      "time": "79'",
+      "event": "Substitution, FC Tulsa. Christopher Pearson replaces Eric Bird."
+    },
+    {
+      "time": "80'",
+      "event": "Delay in match  because of an injury Danny Barrera (Hartford Athletic)."
+    },
+    {
+      "time": "80'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "82'",
+      "event": "Foul by Christopher Pearson (FC Tulsa)."
+    },
+    {
+      "time": "82'",
+      "event": "Prince Saydee (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "82'",
+      "event": "Christopher Pearson (FC Tulsa) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt saved. Kyle Edwards (Hartford Athletic) header from the centre of the box is saved in the bottom left corner. Assisted by Danny Barrera."
+    },
+    {
+      "time": "83'",
+      "event": "Corner,  Hartford Athletic. Conceded by Michael Nelson."
+    },
+    {
+      "time": "84'",
+      "event": "Attempt blocked. Kyle Edwards (Hartford Athletic) header from the centre of the box is blocked. Assisted by Conor McGlynn."
+    },
+    {
+      "time": "84'",
+      "event": "Corner,  Hartford Athletic. Conceded by Blaine Ferri."
+    },
+    {
+      "time": "85'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "85'",
+      "event": "Foul by Luke Merrill (Hartford Athletic)."
+    },
+    {
+      "time": "86'",
+      "event": "Substitution, FC Tulsa. Siad Haji replaces Justin Malou."
+    },
+    {
+      "time": "87'",
+      "event": "Adam Armour (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "88'",
+      "event": "Substitution, Hartford Athletic. Ashkanov Apollon replaces Elvis Amoh."
+    },
+    {
+      "time": "89'",
+      "event": "Attempt missed. Christopher Pearson (FC Tulsa) right footed shot from outside the box is too high."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt blocked. Moses Dyer (FC Tulsa) right footed shot from outside the box is blocked. Assisted by Blaine Ferri."
+    },
+    {
+      "time": "90+2'",
+      "event": "Delay in match  because of an injury Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+4'",
+      "event": "Offside, Hartford Athletic. Robin Lapert tries a through ball, but Edgardo Rito is caught offside."
+    },
+    {
+      "time": "90+5'",
+      "event": "Goal!  FC Tulsa 3, Hartford Athletic 2. Phillip Goodrum (FC Tulsa) right footed shot from the centre of the box to the bottom left corner. Assisted by Collin Fernandez."
+    },
+    {
+      "time": "90+7'",
+      "event": "Second Half ends, FC Tulsa 3, Hartford Athletic 2."
+    }
+  ]
+}

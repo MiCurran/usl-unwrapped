@@ -1,0 +1,881 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Memphis 901 FC",
+      "formation": "4-2-3-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Glass 90‎'‎",
+        "players": [
+          {
+            "shirtNumber": "21",
+            "playerName": "Hamid",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Buckmaster",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Ward",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Smith",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Peters",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Molloy",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Dally",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Kelly",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Bruno Lapa",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "53"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Pickering",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Rodrigo da Costa",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Romig",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Lucas Turci",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Hyndman",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Kissiedou",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "53"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Luiz Fernando",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Paul",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Borczak",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "San Antonio FC",
+      "formation": "3-5-2",
+      "score": "4",
+      "lineup": {
+        "managerName": "Marcina",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Farr",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Batista",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Garcia",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Taintor",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Maloney",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "45"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Jome",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "36"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Zouhir",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Hayes",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernández",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "50"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Oluwaseyi",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "15"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "26"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "40"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Azócar",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "33"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Jose Carlos Mercado",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Gomez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Manley",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Parker",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Victor Giro",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Bailone",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Dhillon",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "33"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "69.5%",
+        "Duels_Success_Rate": "55.5%",
+        "Ariel_Duels_Won": "71.4%",
+        "Interceptions": "9",
+        "Offsides": "0",
+        "Corners_Won": "1"
+      },
+      "away": {
+        "Possession": "30.5%",
+        "Duels_Success_Rate": "44.5%",
+        "Ariel_Duels_Won": "28.6%",
+        "Interceptions": "16",
+        "Offsides": "5",
+        "Corners_Won": "6"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "490",
+        "Long_Passes": "77",
+        "Passing_Accuracy": "80.0%",
+        "Passing_Accuracy_In_Opponent_Half": "69.0%",
+        "Crosses": "16",
+        "Crossing_Accuracy": "18.8%"
+      },
+      "away": {
+        "Passes": "209",
+        "Long_Passes": "54",
+        "Passing_Accuracy": "56.5%",
+        "Passing_Accuracy_In_Opponent_Half": "42.2%",
+        "Crosses": "15",
+        "Crossing_Accuracy": "26.7%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "17",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "5",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "12",
+        "Shooting_Accuracy": "35.3%"
+      },
+      "away": {
+        "Goals": "4",
+        "Shots": "12",
+        "Shots_On_Target": "7",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "8",
+        "Shooting_Accuracy": "58.3%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "16",
+        "Tackle_Success_Rate": "75.0%",
+        "Clearances": "21"
+      },
+      "away": {
+        "Tackles": "19",
+        "Tackle_Success_Rate": "63.2%",
+        "Clearances": "14"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "9",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "15",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "2'",
+      "event": "Offside, San Antonio. Rida Zouhir tries a through ball, but Juan Azócar is caught offside."
+    },
+    {
+      "time": "3'",
+      "event": "Jacori Hayes (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Rashawn Dally (Memphis 901)."
+    },
+    {
+      "time": "4'",
+      "event": "Rida Zouhir (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Nighte Pickering (Memphis 901)."
+    },
+    {
+      "time": "7'",
+      "event": "Corner,  San Antonio. Conceded by Rece Buckmaster."
+    },
+    {
+      "time": "8'",
+      "event": "Connor Maloney (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "8'",
+      "event": "Foul by Jeremy Kelly (Memphis 901)."
+    },
+    {
+      "time": "8'",
+      "event": "Offside, San Antonio. Rida Zouhir tries a through ball, but Juan Azócar is caught offside."
+    },
+    {
+      "time": "10'",
+      "event": "Foul by Tani Oluwaseyi (San Antonio)."
+    },
+    {
+      "time": "10'",
+      "event": "Graham Smith (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt saved. Rodrigo da Costa (Memphis 901) left footed shot from outside the box is saved in the centre of the goal. Assisted by Jeremy Kelly."
+    },
+    {
+      "time": "13'",
+      "event": "Attempt saved. Tani Oluwaseyi (San Antonio) left footed shot from the left side of the box is saved in the bottom right corner. Assisted by Lamar Batista."
+    },
+    {
+      "time": "14'",
+      "event": "Attempt blocked. Jorge Hernández (San Antonio) left footed shot from the left side of the box is blocked. Assisted by Juan Azócar with a cross."
+    },
+    {
+      "time": "14'",
+      "event": "Corner,  San Antonio. Conceded by Rece Buckmaster."
+    },
+    {
+      "time": "14'",
+      "event": "Corner,  San Antonio. Conceded by Jelani Peters."
+    },
+    {
+      "time": "15'",
+      "event": "Goal!  Memphis 901 0, San Antonio 1. Tani Oluwaseyi (San Antonio) left footed shot from the centre of the box to the centre of the goal. Assisted by Jorge Hernández."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Lamar Batista (San Antonio)."
+    },
+    {
+      "time": "17'",
+      "event": "Rashawn Dally (Memphis 901) wins a free kick on the right wing."
+    },
+    {
+      "time": "18'",
+      "event": "Attempt missed. Graham Smith (Memphis 901) header from the centre of the box is just a bit too high. Assisted by Aaron Molloy with a cross following a set piece situation."
+    },
+    {
+      "time": "19'",
+      "event": "Jacori Hayes (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Aaron Molloy (Memphis 901)."
+    },
+    {
+      "time": "20'",
+      "event": "Corner,  San Antonio. Conceded by Graham Smith."
+    },
+    {
+      "time": "20'",
+      "event": "Attempt blocked. Mitchell Taintor (San Antonio) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "20'",
+      "event": "Attempt blocked. Rida Zouhir (San Antonio) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "22'",
+      "event": "Corner,  San Antonio. Conceded by Graham Smith."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Lamar Batista (San Antonio)."
+    },
+    {
+      "time": "23'",
+      "event": "Aaron Molloy (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Rida Zouhir (San Antonio)."
+    },
+    {
+      "time": "24'",
+      "event": "Aaron Molloy (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "26'",
+      "event": "Attempt saved. Tani Oluwaseyi (San Antonio) left footed shot from the left side of the six yard box is saved in the bottom left corner."
+    },
+    {
+      "time": "26'",
+      "event": "Goal!  Memphis 901 0, San Antonio 2. Tani Oluwaseyi (San Antonio) left footed shot from the left side of the six yard box to the centre of the goal."
+    },
+    {
+      "time": "27'",
+      "event": "Offside, San Antonio. Fabien Garcia tries a through ball, but Juan Azócar is caught offside."
+    },
+    {
+      "time": "27'",
+      "event": "Attempt saved. Rashawn Dally (Memphis 901) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Rodrigo da Costa with a headed pass."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "28'",
+      "event": "Rodrigo da Costa (Memphis 901) wins a free kick on the left wing."
+    },
+    {
+      "time": "29'",
+      "event": "Attempt saved. Bruno Lapa (Memphis 901) right footed shot from the left side of the box is saved in the top right corner."
+    },
+    {
+      "time": "29'",
+      "event": "Attempt blocked. Rodrigo da Costa (Memphis 901) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt saved. Akeem Ward (Memphis 901) left footed shot from the left side of the box is saved in the top centre of the goal. Assisted by Rodrigo da Costa."
+    },
+    {
+      "time": "33'",
+      "event": "Substitution, San Antonio. Justin Dhillon replaces Juan Azócar because of an injury."
+    },
+    {
+      "time": "36'",
+      "event": "Foul by Ismaila Jome (San Antonio)."
+    },
+    {
+      "time": "36'",
+      "event": "Rece Buckmaster (Memphis 901) wins a free kick on the right wing."
+    },
+    {
+      "time": "36'",
+      "event": "Ismaila Jome (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "38'",
+      "event": "Connor Maloney (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Nighte Pickering (Memphis 901)."
+    },
+    {
+      "time": "39'",
+      "event": "Offside, San Antonio. Rida Zouhir tries a through ball, but Justin Dhillon is caught offside."
+    },
+    {
+      "time": "40'",
+      "event": "Goal!  Memphis 901 0, San Antonio 3. Tani Oluwaseyi (San Antonio) left footed shot from outside the box to the bottom left corner. Assisted by Jorge Hernández."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt blocked. Bruno Lapa (Memphis 901) left footed shot from the centre of the box is blocked. Assisted by Jeremy Kelly."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt missed. Bruno Lapa (Memphis 901) right footed shot from the centre of the box is close, but misses to the left."
+    },
+    {
+      "time": "43'",
+      "event": "Offside, San Antonio. Jorge Hernández tries a through ball, but Justin Dhillon is caught offside."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by Connor Maloney (San Antonio)."
+    },
+    {
+      "time": "44'",
+      "event": "Nighte Pickering (Memphis 901) wins a free kick on the left wing."
+    },
+    {
+      "time": "45'",
+      "event": "Connor Maloney (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt saved. Rece Buckmaster (Memphis 901) right footed shot from outside the box is saved in the centre of the goal."
+    },
+    {
+      "time": "45+1'",
+      "event": "Corner,  San Antonio. Conceded by Nighte Pickering."
+    },
+    {
+      "time": "45+3'",
+      "event": "Attempt blocked. Jelani Peters (Memphis 901) left footed shot from the left side of the box is blocked. Assisted by Aaron Molloy."
+    },
+    {
+      "time": "45+3'",
+      "event": "Corner,  Memphis 901. Conceded by Fabien Garcia."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, Memphis 901 0, San Antonio 3."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt blocked. Tani Oluwaseyi (San Antonio) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "49'",
+      "event": "Attempt saved. Tani Oluwaseyi (San Antonio) left footed shot from the centre of the box is saved in the bottom right corner. Assisted by Mitchell Taintor."
+    },
+    {
+      "time": "50'",
+      "event": "Goal!  Memphis 901 0, San Antonio 4. Jorge Hernández (San Antonio) left footed shot from the centre of the box to the bottom left corner. Assisted by Rida Zouhir."
+    },
+    {
+      "time": "53'",
+      "event": "Substitution, Memphis 901. Laurent Kissiedou replaces Bruno Lapa."
+    },
+    {
+      "time": "55'",
+      "event": "Substitution, San Antonio. Shannon Gómez replaces Ismaila Jome."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Jorge Hernández (San Antonio)."
+    },
+    {
+      "time": "56'",
+      "event": "Rece Buckmaster (Memphis 901) wins a free kick on the right wing."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Rida Zouhir (San Antonio)."
+    },
+    {
+      "time": "56'",
+      "event": "Jeremy Kelly (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "57'",
+      "event": "Attempt missed. Aaron Molloy (Memphis 901) right footed shot from outside the box is high and wide to the left from a direct free kick."
+    },
+    {
+      "time": "61'",
+      "event": "Foul by Lamar Batista (San Antonio)."
+    },
+    {
+      "time": "61'",
+      "event": "Rashawn Dally (Memphis 901) wins a free kick on the right wing."
+    },
+    {
+      "time": "61'",
+      "event": "Lamar Batista (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt blocked. Rashawn Dally (Memphis 901) left footed shot from the left side of the box is blocked. Assisted by Laurent Kissiedou."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt saved. Laurent Kissiedou (Memphis 901) right footed shot from very close range is saved in the centre of the goal."
+    },
+    {
+      "time": "65'",
+      "event": "Attempt missed. Tani Oluwaseyi (San Antonio) left footed shot from the right side of the box is close, but misses to the left. Assisted by Mitchell Taintor following a fast break."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, Memphis 901. Emerson Hyndman replaces Nighte Pickering."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, Memphis 901. Luiz Fernando replaces Rashawn Dally."
+    },
+    {
+      "time": "66'",
+      "event": "Delay in match  because of an injury Jordan Farr (San Antonio)."
+    },
+    {
+      "time": "67'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, San Antonio. Isaiah Parker replaces Connor Maloney."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, San Antonio. Ignacio Bailone replaces Tani Oluwaseyi."
+    },
+    {
+      "time": "70'",
+      "event": "Shannon Gómez (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Akeem Ward (Memphis 901)."
+    },
+    {
+      "time": "70'",
+      "event": "Akeem Ward (Memphis 901) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "75'",
+      "event": "Jacori Hayes (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "75'",
+      "event": "Delay in match  because of an injury Jacori Hayes (San Antonio)."
+    },
+    {
+      "time": "76'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, Memphis 901. Dylan Borczak replaces Rodrigo da Costa."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, Memphis 901. Leston Paul replaces Aaron Molloy."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Isaiah Parker (San Antonio)."
+    },
+    {
+      "time": "78'",
+      "event": "Jeremy Kelly (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "78'",
+      "event": "Attempt missed. Laurent Kissiedou (Memphis 901) right footed shot from the left side of the box misses to the right. Assisted by Luiz Fernando."
+    },
+    {
+      "time": "81'",
+      "event": "Foul by Isaiah Parker (San Antonio)."
+    },
+    {
+      "time": "81'",
+      "event": "Dylan Borczak (Memphis 901) wins a free kick on the right wing."
+    },
+    {
+      "time": "82'",
+      "event": "Attempt missed. Luiz Fernando (Memphis 901) left footed shot from long range on the right is close, but misses to the right from a direct free kick."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Rida Zouhir (San Antonio)."
+    },
+    {
+      "time": "84'",
+      "event": "Leston Paul (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Isaiah Parker (San Antonio)."
+    },
+    {
+      "time": "87'",
+      "event": "Jeremy Kelly (Memphis 901) wins a free kick on the right wing."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt blocked. Jeremy Kelly (Memphis 901) right footed shot from outside the box is blocked. Assisted by Laurent Kissiedou."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Ignacio Bailone (San Antonio)."
+    },
+    {
+      "time": "88'",
+      "event": "Leston Paul (Memphis 901) wins a free kick on the left wing."
+    },
+    {
+      "time": "88'",
+      "event": "Attempt missed. Luiz Fernando (Memphis 901) left footed shot from the right side of the box misses to the left."
+    },
+    {
+      "time": "90+1'",
+      "event": "Ignacio Bailone (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Ignacio Bailone (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Jelani Peters (Memphis 901)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Memphis 901 0, San Antonio 4."
+    }
+  ]
+}

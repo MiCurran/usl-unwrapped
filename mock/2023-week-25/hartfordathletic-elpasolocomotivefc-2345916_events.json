@@ -1,0 +1,958 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Hartford Athletic",
+      "formation": "4-3-3",
+      "score": "0",
+      "lineup": {
+        "managerName": "Namazi 87‎'‎",
+        "players": [
+          {
+            "shirtNumber": "13",
+            "playerName": "Rice",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "72",
+            "playerName": "Rito",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Hodge",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "54"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Lapert",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "McGlynn",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Torres",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "10"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Barrera",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Sheldon",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Amoh",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Saydee",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Hoppenot",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Richard Sánchez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "40",
+            "playerName": "Dobruna",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "50",
+            "playerName": "Logue",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "55"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "903"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Merrill",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Kibato",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Lewis",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Bloyou",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "El Paso Locomotive FC",
+      "formation": "4-4-2",
+      "score": "2",
+      "lineup": {
+        "managerName": "Clarhaut",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Díaz",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Lyons",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Navarro",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "McCue",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Dollenmayer",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "19"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Kostyshyn",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Petar Petrovic",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "69"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "90"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Rose",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "48"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Herrera",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Zacarias",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Aaron Gómez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "14"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Garcia",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Carrillo",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Hinds",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Abarca",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Moreno",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Sonupe",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Garcia",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "90"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "58.1%",
+        "Duels_Success_Rate": "49.5%",
+        "Ariel_Duels_Won": "46.2%",
+        "Interceptions": "5",
+        "Offsides": "3",
+        "Corners_Won": "5"
+      },
+      "away": {
+        "Possession": "41.9%",
+        "Duels_Success_Rate": "50.5%",
+        "Ariel_Duels_Won": "53.8%",
+        "Interceptions": "5",
+        "Offsides": "1",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "500",
+        "Long_Passes": "45",
+        "Passing_Accuracy": "87.0%",
+        "Passing_Accuracy_In_Opponent_Half": "79.4%",
+        "Crosses": "20",
+        "Crossing_Accuracy": "20.0%"
+      },
+      "away": {
+        "Passes": "362",
+        "Long_Passes": "66",
+        "Passing_Accuracy": "79.6%",
+        "Passing_Accuracy_In_Opponent_Half": "71.9%",
+        "Crosses": "9",
+        "Crossing_Accuracy": "33.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "16",
+        "Shots_On_Target": "1",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "6.3%"
+      },
+      "away": {
+        "Goals": "2",
+        "Shots": "15",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "7",
+        "Shots_Outside_Box": "8",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "26.7%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "22",
+        "Tackle_Success_Rate": "86.4%",
+        "Clearances": "11"
+      },
+      "away": {
+        "Tackles": "17",
+        "Tackle_Success_Rate": "82.4%",
+        "Clearances": "20"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "19",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "11",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Attempt missed. Elvis Amoh (Hartford Athletic) right footed shot from outside the box misses to the right."
+    },
+    {
+      "time": "1'",
+      "event": "Triston Hodge (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "1'",
+      "event": "Foul by Josué Gómez (El Paso Locomotive)."
+    },
+    {
+      "time": "2'",
+      "event": "Miles Lyons (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "2'",
+      "event": "Foul by Matt Sheldon (Hartford Athletic)."
+    },
+    {
+      "time": "3'",
+      "event": "Ricardo Zacarías (El Paso Locomotive) wins a free kick on the left wing."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Denys Kostyshyn (El Paso Locomotive)."
+    },
+    {
+      "time": "3'",
+      "event": "Triston Hodge (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "4'",
+      "event": "Attempt blocked. Elvis Amoh (Hartford Athletic) right footed shot from the right side of the box is blocked. Assisted by Matt Sheldon with a cross."
+    },
+    {
+      "time": "4'",
+      "event": "Corner,  Hartford Athletic. Conceded by Erik McCue."
+    },
+    {
+      "time": "5'",
+      "event": "Attempt missed. Elvis Amoh (Hartford Athletic) header from the centre of the box misses to the left. Assisted by Prince Saydee with a cross following a corner."
+    },
+    {
+      "time": "7'",
+      "event": "Attempt missed. Elvis Amoh (Hartford Athletic) right footed shot from the centre of the box is too high."
+    },
+    {
+      "time": "10'",
+      "event": "Denys Kostyshyn (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "10'",
+      "event": "Foul by Juan Pablo Torres (Hartford Athletic)."
+    },
+    {
+      "time": "10'",
+      "event": "Juan Pablo Torres (Hartford Athletic) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "13'",
+      "event": "Miles Lyons (El Paso Locomotive) wins a free kick on the right wing."
+    },
+    {
+      "time": "14'",
+      "event": "Attempt blocked. Denys Kostyshyn (El Paso Locomotive) left footed shot from outside the box is blocked. Assisted by Louis Herrera."
+    },
+    {
+      "time": "14'",
+      "event": "Attempt blocked. Petar Petrovic (El Paso Locomotive) right footed shot from long range on the left is blocked. Assisted by Ricardo Zacarías."
+    },
+    {
+      "time": "14'",
+      "event": "Goal!  Hartford Athletic 0, El Paso Locomotive 1. Josué Gómez (El Paso Locomotive) header from the right side of the six yard box to the bottom right corner."
+    },
+    {
+      "time": "17'",
+      "event": "Liam Rose (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Prince Saydee (Hartford Athletic)."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Noah Dollenmayer (El Paso Locomotive)."
+    },
+    {
+      "time": "19'",
+      "event": "Antoine Hoppenot (Hartford Athletic) wins a free kick on the right wing."
+    },
+    {
+      "time": "19'",
+      "event": "Noah Dollenmayer (El Paso Locomotive) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "20'",
+      "event": "Noah Dollenmayer (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "20'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "21'",
+      "event": "Delay in match  because of an injury Noah Dollenmayer (El Paso Locomotive)."
+    },
+    {
+      "time": "21'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "23'",
+      "event": "Offside, Hartford Athletic. Antoine Hoppenot tries a through ball, but Elvis Amoh is caught offside."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt blocked. Denys Kostyshyn (El Paso Locomotive) left footed shot from outside the box is blocked. Assisted by Noah Dollenmayer."
+    },
+    {
+      "time": "23'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Conor McGlynn."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt blocked. Denys Kostyshyn (El Paso Locomotive) left footed shot from the right side of the box is blocked."
+    },
+    {
+      "time": "24'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Triston Hodge."
+    },
+    {
+      "time": "26'",
+      "event": "Attempt blocked. Conor McGlynn (Hartford Athletic) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "26'",
+      "event": "Attempt saved. Prince Saydee (Hartford Athletic) left footed shot from the left side of the box is saved in the centre of the goal. Assisted by Antoine Hoppenot."
+    },
+    {
+      "time": "26'",
+      "event": "Attempt missed. Antoine Hoppenot (Hartford Athletic) right footed shot from the centre of the box is too high."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Ricardo Zacarías (El Paso Locomotive)."
+    },
+    {
+      "time": "27'",
+      "event": "Robin Lapert (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "28'",
+      "event": "Louis Herrera (El Paso Locomotive) wins a free kick on the left wing."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "29'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick on the left wing."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "30'",
+      "event": "Attempt saved. Petar Petrovic (El Paso Locomotive) left footed shot from the left side of the box is saved in the bottom left corner. Assisted by Liam Rose."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt missed. Elvis Amoh (Hartford Athletic) header from the centre of the box misses to the right. Assisted by Edgardo Rito with a cross."
+    },
+    {
+      "time": "33'",
+      "event": "Attempt blocked. Prince Saydee (Hartford Athletic) left footed shot from outside the box is blocked. Assisted by Juan Pablo Torres."
+    },
+    {
+      "time": "33'",
+      "event": "Attempt missed. Matt Sheldon (Hartford Athletic) header from the centre of the box misses to the left. Assisted by Danny Barrera."
+    },
+    {
+      "time": "38'",
+      "event": "Corner,  Hartford Athletic. Conceded by Benny Díaz."
+    },
+    {
+      "time": "39'",
+      "event": "Attempt blocked. Ricardo Zacarías (El Paso Locomotive) right footed shot from outside the box is blocked. Assisted by Liam Rose."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Louis Herrera (El Paso Locomotive)."
+    },
+    {
+      "time": "39'",
+      "event": "Prince Saydee (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Liam Rose (El Paso Locomotive)."
+    },
+    {
+      "time": "39'",
+      "event": "Prince Saydee (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "41'",
+      "event": "Corner,  Hartford Athletic. Conceded by Noah Dollenmayer."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Miles Lyons (El Paso Locomotive)."
+    },
+    {
+      "time": "41'",
+      "event": "Matt Sheldon (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "42'",
+      "event": "Corner,  Hartford Athletic. Conceded by Denys Kostyshyn."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt missed. Triston Hodge (Hartford Athletic) header from the centre of the box is too high. Assisted by Danny Barrera with a cross following a corner."
+    },
+    {
+      "time": "43'",
+      "event": "Ricardo Zacarías (El Paso Locomotive) wins a free kick on the left wing."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt missed. Marc Navarro (El Paso Locomotive) right footed shot from outside the box is high and wide to the right. Assisted by Liam Rose."
+    },
+    {
+      "time": "44'",
+      "event": "Denys Kostyshyn (El Paso Locomotive) wins a free kick in the attacking half."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by Danny Barrera (Hartford Athletic)."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, Hartford Athletic 0, El Paso Locomotive 1."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt missed. Danny Barrera (Hartford Athletic) left footed shot from the centre of the box is too high. Assisted by Conor McGlynn."
+    },
+    {
+      "time": "47'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick in the attacking half."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "48'",
+      "event": "Foul by Liam Rose (El Paso Locomotive)."
+    },
+    {
+      "time": "48'",
+      "event": "Antoine Hoppenot (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "48'",
+      "event": "Liam Rose (El Paso Locomotive) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "50'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick in the attacking half."
+    },
+    {
+      "time": "50'",
+      "event": "Foul by Juan Pablo Torres (Hartford Athletic)."
+    },
+    {
+      "time": "51'",
+      "event": "Attempt missed. Miles Lyons (El Paso Locomotive) header from the centre of the box is close, but misses to the right. Assisted by Marc Navarro with a cross."
+    },
+    {
+      "time": "52'",
+      "event": "Attempt saved. Louis Herrera (El Paso Locomotive) header from the centre of the box is saved in the bottom left corner. Assisted by Denys Kostyshyn."
+    },
+    {
+      "time": "54'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by Triston Hodge (Hartford Athletic)."
+    },
+    {
+      "time": "54'",
+      "event": "Triston Hodge (Hartford Athletic) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "55'",
+      "event": "Substitution, Hartford Athletic. Niall Logue replaces Antoine Hoppenot."
+    },
+    {
+      "time": "56'",
+      "event": "Ricardo Zacarías (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Niall Logue (Hartford Athletic)."
+    },
+    {
+      "time": "61'",
+      "event": "Louis Herrera (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "61'",
+      "event": "Foul by Juan Pablo Torres (Hartford Athletic)."
+    },
+    {
+      "time": "62'",
+      "event": "Attempt missed. Petar Petrovic (El Paso Locomotive) right footed shot from outside the box is close, but misses to the left. Assisted by Josué Gómez."
+    },
+    {
+      "time": "65'",
+      "event": "Delay in match  because of an injury Erik McCue (El Paso Locomotive)."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, Hartford Athletic. Kembo Kibato replaces Juan Pablo Torres."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, El Paso Locomotive. Emmanuel Sonupe replaces Denys Kostyshyn."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, El Paso Locomotive. Nick Hinds replaces Ricardo Zacarías."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Hartford Athletic. Dren Dobruna replaces Matt Sheldon."
+    },
+    {
+      "time": "66'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "68'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick in the attacking half."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Robin Lapert (Hartford Athletic)."
+    },
+    {
+      "time": "69'",
+      "event": "Goal!  Hartford Athletic 0, El Paso Locomotive 2. Petar Petrovic (El Paso Locomotive) from a free kick with a right footed shot to the bottom left corner."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt missed. Danny Barrera (Hartford Athletic) left footed shot from outside the box is too high. Assisted by Conor McGlynn."
+    },
+    {
+      "time": "72'",
+      "event": "Substitution, Hartford Athletic. Andre Lewis replaces Triston Hodge."
+    },
+    {
+      "time": "72'",
+      "event": "Substitution, Hartford Athletic. Luke Merrill replaces Elvis Amoh."
+    },
+    {
+      "time": "72'",
+      "event": "Offside, Hartford Athletic. Kembo Kibato tries a through ball, but Prince Saydee is caught offside."
+    },
+    {
+      "time": "73'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Robin Lapert."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Emmanuel Sonupe (El Paso Locomotive)."
+    },
+    {
+      "time": "75'",
+      "event": "Luke Merrill (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "78'",
+      "event": "Offside, El Paso Locomotive. Emmanuel Sonupe tries a through ball, but Petar Petrovic is caught offside."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt blocked. Petar Petrovic (El Paso Locomotive) left footed shot from the left side of the box is blocked."
+    },
+    {
+      "time": "79'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Niall Logue."
+    },
+    {
+      "time": "80'",
+      "event": "Attempt blocked. Erik McCue (El Paso Locomotive) header from the centre of the box is blocked. Assisted by Petar Petrovic with a cross."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Noah Dollenmayer (El Paso Locomotive)."
+    },
+    {
+      "time": "80'",
+      "event": "Andre Lewis (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "82'",
+      "event": "Corner,  Hartford Athletic. Conceded by Miles Lyons."
+    },
+    {
+      "time": "83'",
+      "event": "Delay in match  because of an injury Louis Herrera (El Paso Locomotive)."
+    },
+    {
+      "time": "83'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt missed. Luke Merrill (Hartford Athletic) right footed shot from outside the box is too high following a corner."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, El Paso Locomotive. Diego Abarca replaces Louis Herrera because of an injury."
+    },
+    {
+      "time": "84'",
+      "event": "Miles Lyons (El Paso Locomotive) is shown the yellow card."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt blocked. Dren Dobruna (Hartford Athletic) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "88'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick on the right wing."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Dren Dobruna (Hartford Athletic)."
+    },
+    {
+      "time": "89'",
+      "event": "Offside, Hartford Athletic. Danny Barrera tries a through ball, but Prince Saydee is caught offside."
+    },
+    {
+      "time": "90'",
+      "event": "Substitution, El Paso Locomotive. Christopher Garcia replaces Petar Petrovic."
+    },
+    {
+      "time": "90'",
+      "event": "Foul by Christopher Garcia (El Paso Locomotive)."
+    },
+    {
+      "time": "90'",
+      "event": "Robin Lapert (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt missed. Danny Barrera (Hartford Athletic) left footed shot from outside the box is high and wide to the left. Assisted by Conor McGlynn."
+    },
+    {
+      "time": "90+3'",
+      "event": "Marc Navarro (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Prince Saydee (Hartford Athletic)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Niall Logue (Hartford Athletic) is shown the yellow card."
+    },
+    {
+      "time": "90+4'",
+      "event": "Liam Rose (El Paso Locomotive) wins a free kick on the right wing."
+    },
+    {
+      "time": "90+4'",
+      "event": "Foul by Andre Lewis (Hartford Athletic)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Attempt missed. Emmanuel Sonupe (El Paso Locomotive) right footed shot from outside the box is high and wide to the right. Assisted by Diego Abarca."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Hartford Athletic 0, El Paso Locomotive 2."
+    }
+  ]
+}

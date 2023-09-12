@@ -1,0 +1,953 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "The Miami FC",
+      "formation": "4-4-1-1",
+      "score": "2",
+      "lineup": {
+        "managerName": "Neal",
+        "players": [
+          {
+            "shirtNumber": "13",
+            "playerName": "Zendejas",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Thorn",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Stanley",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "452"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Craig",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Hernández",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Dowouna",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Salazar",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Segbers",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Sorto",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "452"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "55"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Murphy",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "15"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rivas",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "McGuire",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "DiMercurio",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Mines",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Telfer",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Valot",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Gabriel de Freitas",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Repetto",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Phoenix Rising FC",
+      "formation": "4-4-2",
+      "score": "1",
+      "lineup": {
+        "managerName": "Guerra",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Rios Novo",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "King",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "41"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Munjoma",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Fuenmayor",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Krutzen",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Zambrano",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Gallardo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "67",
+            "playerName": "C. Harvey",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "28"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Trejo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "44"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Arteaga",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "452"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Armenakas",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Rakovsky",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Traore",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Uzochokwu",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Anguiano",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Cuello",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernández",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Fede Varela",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "47.3%",
+        "Duels_Success_Rate": "51.9%",
+        "Ariel_Duels_Won": "52.4%",
+        "Interceptions": "7",
+        "Offsides": "1",
+        "Corners_Won": "4"
+      },
+      "away": {
+        "Possession": "52.7%",
+        "Duels_Success_Rate": "48.1%",
+        "Ariel_Duels_Won": "47.6%",
+        "Interceptions": "4",
+        "Offsides": "1",
+        "Corners_Won": "15"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "381",
+        "Long_Passes": "58",
+        "Passing_Accuracy": "83.5%",
+        "Passing_Accuracy_In_Opponent_Half": "72.7%",
+        "Crosses": "19",
+        "Crossing_Accuracy": "15.8%"
+      },
+      "away": {
+        "Passes": "404",
+        "Long_Passes": "30",
+        "Passing_Accuracy": "86.9%",
+        "Passing_Accuracy_In_Opponent_Half": "72.8%",
+        "Crosses": "41",
+        "Crossing_Accuracy": "19.5%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "12",
+        "Shots_On_Target": "8",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "66.7%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "18",
+        "Shots_On_Target": "7",
+        "Blocked_Shots": "5",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "14",
+        "Shooting_Accuracy": "38.9%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "10",
+        "Tackle_Success_Rate": "60.0%",
+        "Clearances": "32"
+      },
+      "away": {
+        "Tackles": "4",
+        "Tackle_Success_Rate": "75.0%",
+        "Clearances": "23"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "8",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "15",
+        "Yellow_Cards": "4",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Attempt saved. Panos Armenakas (Phoenix Rising) header from the centre of the box is saved in the bottom right corner. Assisted by Erickson Gallardo with a cross."
+    },
+    {
+      "time": "2'",
+      "event": "Foul by Michael Salazar (The Miami FC)."
+    },
+    {
+      "time": "2'",
+      "event": "Eddie Munjoma (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "6'",
+      "event": "Attempt saved. Danny Trejo (Phoenix Rising) right footed shot from outside the box is saved in the centre of the goal. Assisted by Carlos Harvey."
+    },
+    {
+      "time": "6'",
+      "event": "Attempt missed. Kyle Murphy (The Miami FC) right footed shot from outside the box is too high. Assisted by Christian Sorto with a headed pass."
+    },
+    {
+      "time": "8'",
+      "event": "Corner,  Phoenix Rising. Conceded by Paco Craig."
+    },
+    {
+      "time": "8'",
+      "event": "Attempt missed. Carlos Harvey (Phoenix Rising) right footed shot from the centre of the box is high and wide to the right. Assisted by Renzo Zambrano with a cross following a corner."
+    },
+    {
+      "time": "10'",
+      "event": "Corner,  Phoenix Rising. Conceded by Aedan Stanley."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt blocked. Daniël Krutzen (Phoenix Rising) header from the right side of the six yard box is blocked. Assisted by Panos Armenakas with a cross."
+    },
+    {
+      "time": "10'",
+      "event": "Corner,  Phoenix Rising. Conceded by Kyle Murphy."
+    },
+    {
+      "time": "11'",
+      "event": "Kyle Murphy (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Danny Trejo (Phoenix Rising)."
+    },
+    {
+      "time": "12'",
+      "event": "Corner,  Phoenix Rising. Conceded by Moisés Hernández."
+    },
+    {
+      "time": "14'",
+      "event": "Attempt saved. Joaquín Rivas (The Miami FC) left footed shot from the left side of the box is saved in the bottom left corner. Assisted by Curtis Thorn with a cross."
+    },
+    {
+      "time": "15'",
+      "event": "Goal!  The Miami FC 1, Phoenix Rising 0. Kyle Murphy (The Miami FC) right footed shot from the left side of the box to the top right corner. Assisted by Moisés Hernández."
+    },
+    {
+      "time": "17'",
+      "event": "Attempt missed. Erickson Gallardo (Phoenix Rising) right footed shot from the right side of the box is close, but misses to the right. Assisted by Renzo Zambrano."
+    },
+    {
+      "time": "18'",
+      "event": "Offside, Phoenix Rising. Erickson Gallardo tries a through ball, but Manuel Arteaga is caught offside."
+    },
+    {
+      "time": "22'",
+      "event": "Attempt missed. Erickson Gallardo (Phoenix Rising) right footed shot from the right side of the box is close, but misses to the right. Assisted by Carlos Harvey."
+    },
+    {
+      "time": "23'",
+      "event": "Offside, The Miami FC. Dennis Dowouna tries a through ball, but Joaquín Rivas is caught offside."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt missed. Danny Trejo (Phoenix Rising) right footed shot from the left side of the six yard box misses to the right."
+    },
+    {
+      "time": "28'",
+      "event": "Mark Segbers (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Carlos Harvey (Phoenix Rising)."
+    },
+    {
+      "time": "28'",
+      "event": "Carlos Harvey (Phoenix Rising) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "29'",
+      "event": "Joaquín Rivas (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Alejandro Fuenmayor (Phoenix Rising)."
+    },
+    {
+      "time": "30'",
+      "event": "Attempt missed. Panos Armenakas (Phoenix Rising) left footed shot from outside the box misses to the right."
+    },
+    {
+      "time": "31'",
+      "event": "Delay in match   (Phoenix Rising)."
+    },
+    {
+      "time": "33'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt missed. Panos Armenakas (Phoenix Rising) left footed shot from outside the box is too high. Assisted by Danny Trejo."
+    },
+    {
+      "time": "38'",
+      "event": "Corner,  Phoenix Rising. Conceded by Aedan Stanley."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt saved. Carlos Harvey (Phoenix Rising) header from the centre of the box is saved in the top centre of the goal. Assisted by Erickson Gallardo with a cross."
+    },
+    {
+      "time": "40'",
+      "event": "Delay in match  because of an injury Michael Salazar (The Miami FC)."
+    },
+    {
+      "time": "41'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "41'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Darnell King (Phoenix Rising)."
+    },
+    {
+      "time": "41'",
+      "event": "Darnell King (Phoenix Rising) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "44'",
+      "event": "Goal!  The Miami FC 1, Phoenix Rising 1. Danny Trejo (Phoenix Rising) left footed shot from the centre of the box to the bottom right corner. Assisted by Panos Armenakas with a through ball."
+    },
+    {
+      "time": "45+2'",
+      "event": "Aedan Stanley (The Miami FC) is shown the yellow card."
+    },
+    {
+      "time": "45+2'",
+      "event": "Christian Sorto (The Miami FC) is shown the yellow card."
+    },
+    {
+      "time": "45+2'",
+      "event": "Manuel Arteaga (Phoenix Rising) is shown the yellow card."
+    },
+    {
+      "time": "45+4'",
+      "event": "Attempt saved. Manuel Arteaga (Phoenix Rising) right footed shot from outside the box is saved in the bottom right corner. Assisted by Darnell King with a cross."
+    },
+    {
+      "time": "45+4'",
+      "event": "Corner,  Phoenix Rising. Conceded by Adrían Zendejas."
+    },
+    {
+      "time": "45+6'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+6'",
+      "event": "Foul by Daniël Krutzen (Phoenix Rising)."
+    },
+    {
+      "time": "45+7'",
+      "event": "Corner,  The Miami FC. Conceded by Daniël Krutzen."
+    },
+    {
+      "time": "45+7'",
+      "event": "Foul by Moisés Hernández (The Miami FC)."
+    },
+    {
+      "time": "45+7'",
+      "event": "Daniël Krutzen (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+7'",
+      "event": "First Half ends, The Miami FC 1, Phoenix Rising 1."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, The Miami FC. Gabriel Cabral replaces Dennis Dowouna."
+    },
+    {
+      "time": "46'",
+      "event": "Corner,  The Miami FC. Conceded by Eddie Munjoma."
+    },
+    {
+      "time": "46'",
+      "event": "Delay in match  because of an injury Eddie Munjoma (Phoenix Rising)."
+    },
+    {
+      "time": "48'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "48'",
+      "event": "Attempt missed. Gabriel Cabral (The Miami FC) left footed shot from outside the box misses to the left following a corner."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Moisés Hernández (The Miami FC)."
+    },
+    {
+      "time": "49'",
+      "event": "Manuel Arteaga (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "51'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Renzo Zambrano (Phoenix Rising)."
+    },
+    {
+      "time": "52'",
+      "event": "Attempt saved. Curtis Thorn (The Miami FC) right footed shot from a difficult angle on the right is saved in the centre of the goal."
+    },
+    {
+      "time": "52'",
+      "event": "Corner,  The Miami FC. Conceded by Rocco Ríos Novo."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt blocked. Joaquín Rivas (The Miami FC) header from a difficult angle on the left is blocked. Assisted by Aedan Stanley with a cross."
+    },
+    {
+      "time": "53'",
+      "event": "Corner,  The Miami FC. Conceded by Renzo Zambrano."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Curtis Thorn (The Miami FC)."
+    },
+    {
+      "time": "53'",
+      "event": "Danny Trejo (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Goal!  The Miami FC 2, Phoenix Rising 1. Christian Sorto (The Miami FC) right footed shot from the left side of the box to the bottom left corner. Assisted by Mark Segbers."
+    },
+    {
+      "time": "58'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "58'",
+      "event": "Foul by Panos Armenakas (Phoenix Rising)."
+    },
+    {
+      "time": "59'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Alejandro Fuenmayor (Phoenix Rising)."
+    },
+    {
+      "time": "59'",
+      "event": "Attempt missed. Michael Salazar (The Miami FC) left footed shot from the centre of the box is close, but misses to the right. Assisted by Aedan Stanley."
+    },
+    {
+      "time": "62'",
+      "event": "Joaquín Rivas (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Darnell King (Phoenix Rising)."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, The Miami FC. Ryan Telfer replaces Christian Sorto."
+    },
+    {
+      "time": "65'",
+      "event": "Mark Segbers (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Panos Armenakas (Phoenix Rising)."
+    },
+    {
+      "time": "66'",
+      "event": "Attempt saved. Joaquín Rivas (The Miami FC) left footed shot from outside the box is saved in the centre of the goal. Assisted by Michael Salazar."
+    },
+    {
+      "time": "68'",
+      "event": "Delay in match   (Phoenix Rising)."
+    },
+    {
+      "time": "69'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "69'",
+      "event": "Attempt saved. Carlos Harvey (Phoenix Rising) left footed shot from the left side of the box is saved in the top centre of the goal."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt saved. Kyle Murphy (The Miami FC) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Michael Salazar with a headed pass."
+    },
+    {
+      "time": "71'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "71'",
+      "event": "Foul by Erickson Gallardo (Phoenix Rising)."
+    },
+    {
+      "time": "73'",
+      "event": "Substitution, Phoenix Rising. Mohamed Traore replaces Darnell King."
+    },
+    {
+      "time": "73'",
+      "event": "Substitution, Phoenix Rising. José Hernández replaces Carlos Harvey."
+    },
+    {
+      "time": "73'",
+      "event": "Foul by Joaquín Rivas (The Miami FC)."
+    },
+    {
+      "time": "73'",
+      "event": "Eddie Munjoma (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Corner,  Phoenix Rising. Conceded by Aedan Stanley."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt blocked. Manuel Arteaga (Phoenix Rising) header from the centre of the box is blocked. Assisted by Panos Armenakas with a cross."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt blocked. Manuel Arteaga (Phoenix Rising) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "75'",
+      "event": "Corner,  Phoenix Rising. Conceded by Paco Craig."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, The Miami FC. Florian Valot replaces Joaquín Rivas."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, The Miami FC. Claudio Repetto replaces Kyle Murphy."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt blocked. Erickson Gallardo (Phoenix Rising) right footed shot from a difficult angle on the right is blocked. Assisted by Manuel Arteaga."
+    },
+    {
+      "time": "76'",
+      "event": "Corner,  Phoenix Rising. Conceded by Aedan Stanley."
+    },
+    {
+      "time": "77'",
+      "event": "Corner,  Phoenix Rising. Conceded by Curtis Thorn."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, Phoenix Rising. Federico Varela replaces Erickson Gallardo."
+    },
+    {
+      "time": "79'",
+      "event": "Gabriel Cabral (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "79'",
+      "event": "Foul by Renzo Zambrano (Phoenix Rising)."
+    },
+    {
+      "time": "79'",
+      "event": "Renzo Zambrano (Phoenix Rising) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "82'",
+      "event": "Foul by Ryan Telfer (The Miami FC)."
+    },
+    {
+      "time": "82'",
+      "event": "Renzo Zambrano (Phoenix Rising) wins a free kick on the right wing."
+    },
+    {
+      "time": "83'",
+      "event": "Corner,  Phoenix Rising. Conceded by Aedan Stanley."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Mark Segbers (The Miami FC)."
+    },
+    {
+      "time": "84'",
+      "event": "José Hernández (Phoenix Rising) wins a free kick in the attacking half."
+    },
+    {
+      "time": "84'",
+      "event": "Mark Segbers (The Miami FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "85'",
+      "event": "Attempt saved. Manuel Arteaga (Phoenix Rising) header from the centre of the box is saved in the top centre of the goal. Assisted by Alejandro Fuenmayor with a headed pass."
+    },
+    {
+      "time": "85'",
+      "event": "Foul by Mark Segbers (The Miami FC)."
+    },
+    {
+      "time": "85'",
+      "event": "Renzo Zambrano (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "86'",
+      "event": "Delay in match  because of an injury Michael Salazar (The Miami FC)."
+    },
+    {
+      "time": "88'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "88'",
+      "event": "Substitution, The Miami FC. Ben Mines replaces Michael Salazar because of an injury."
+    },
+    {
+      "time": "89'",
+      "event": "Attempt saved. Claudio Repetto (The Miami FC) right footed shot from a difficult angle on the left is saved in the bottom left corner. Assisted by Ryan Telfer with a headed pass."
+    },
+    {
+      "time": "89'",
+      "event": "Gabriel Cabral (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Alejandro Fuenmayor (Phoenix Rising)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Corner,  Phoenix Rising. Conceded by Mark Segbers."
+    },
+    {
+      "time": "90+3'",
+      "event": "Attempt saved. Claudio Repetto (The Miami FC) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Ryan Telfer."
+    },
+    {
+      "time": "90+4'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+4'",
+      "event": "Foul by Alejandro Fuenmayor (Phoenix Rising)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Delay in match  because of an injury Moisés Hernández (The Miami FC)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+7'",
+      "event": "Attempt blocked. Alejandro Fuenmayor (Phoenix Rising) left footed shot from the left side of the box is blocked. Assisted by José Hernández with a through ball."
+    },
+    {
+      "time": "90+7'",
+      "event": "Corner,  Phoenix Rising. Conceded by Paco Craig."
+    },
+    {
+      "time": "90+8'",
+      "event": "Corner,  Phoenix Rising. Conceded by Moisés Hernández."
+    },
+    {
+      "time": "90+8'",
+      "event": "Corner,  Phoenix Rising. Conceded by Claudio Repetto."
+    },
+    {
+      "time": "90+8'",
+      "event": "Curtis Thorn (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+8'",
+      "event": "Foul by Alejandro Fuenmayor (Phoenix Rising)."
+    },
+    {
+      "time": "90+10'",
+      "event": "Second Half ends, The Miami FC 2, Phoenix Rising 1."
+    }
+  ]
+}

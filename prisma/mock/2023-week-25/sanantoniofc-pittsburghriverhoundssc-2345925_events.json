@@ -1,0 +1,800 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "San Antonio FC",
+      "formation": "3-5-2",
+      "score": "0",
+      "lineup": {
+        "managerName": "Marcina",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Farr",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Taintor",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Garcia",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Manley",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Gomez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "90"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Jome",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "21"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Maloney",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Hayes",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Zouhir",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "9"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Oluwaseyi",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Patiño",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Jose Carlos Mercado",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Batista",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Parker",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Azócar",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Victor Giro",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Bailone",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Dhillon",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Pittsburgh Riverhounds SC",
+      "formation": "5-3-2",
+      "score": "0",
+      "lineup": {
+        "managerName": "Lilley",
+        "players": [
+          {
+            "shirtNumber": "26",
+            "playerName": "Waite",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Biasi",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Etou",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Dossantos",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "41"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Osumanu",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Ordoñez",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Mertz",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Griffin",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Ybarra",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Albert Dikwa",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Showunmi",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Garner",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Farrell",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Rovira",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Forbes",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Zwetsloot",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Kizza",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Obregón Jr",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "43.7%",
+        "Duels_Success_Rate": "54.9%",
+        "Ariel_Duels_Won": "41.2%",
+        "Interceptions": "10",
+        "Offsides": "0",
+        "Corners_Won": "10"
+      },
+      "away": {
+        "Possession": "56.3%",
+        "Duels_Success_Rate": "45.1%",
+        "Ariel_Duels_Won": "58.8%",
+        "Interceptions": "6",
+        "Offsides": "2",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "277",
+        "Long_Passes": "49",
+        "Passing_Accuracy": "68.6%",
+        "Passing_Accuracy_In_Opponent_Half": "56.7%",
+        "Crosses": "26",
+        "Crossing_Accuracy": "3.8%"
+      },
+      "away": {
+        "Passes": "371",
+        "Long_Passes": "73",
+        "Passing_Accuracy": "74.1%",
+        "Passing_Accuracy_In_Opponent_Half": "66.7%",
+        "Crosses": "22",
+        "Crossing_Accuracy": "13.6%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "11",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "45.5%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "4",
+        "Shots_On_Target": "1",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "2",
+        "Shots_Inside_Box": "2",
+        "Shooting_Accuracy": "25.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "21",
+        "Tackle_Success_Rate": "61.9%",
+        "Clearances": "19"
+      },
+      "away": {
+        "Tackles": "9",
+        "Tackle_Success_Rate": "66.7%",
+        "Clearances": "39"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "10",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Foul by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "1'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick on the right wing."
+    },
+    {
+      "time": "8'",
+      "event": "Attempt blocked. Santiago Patiño (San Antonio) right footed shot from the centre of the box is blocked. Assisted by Jacori Hayes."
+    },
+    {
+      "time": "8'",
+      "event": "Corner,  San Antonio. Conceded by Arturo Osuna."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Rida Zouhir (San Antonio)."
+    },
+    {
+      "time": "9'",
+      "event": "Brunallergene Etou (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "9'",
+      "event": "Rida Zouhir (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt missed. Tani Oluwaseyi (San Antonio) left footed shot from outside the box is high and wide to the left. Assisted by Connor Maloney."
+    },
+    {
+      "time": "14'",
+      "event": "Mitchell Taintor (San Antonio) wins a free kick on the left wing."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Albert Dikwa (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "17'",
+      "event": "Tani Oluwaseyi (San Antonio) wins a free kick on the left wing."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Jacori Hayes (San Antonio)."
+    },
+    {
+      "time": "17'",
+      "event": "Brunallergene Etou (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Corner,  San Antonio. Conceded by Luke Biasi."
+    },
+    {
+      "time": "21'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Mitchell Taintor."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Ismaila Jome (San Antonio)."
+    },
+    {
+      "time": "21'",
+      "event": "Marc Ybarra (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "21'",
+      "event": "Ismaila Jome (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Tani Oluwaseyi (San Antonio)."
+    },
+    {
+      "time": "23'",
+      "event": "Luke Biasi (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt missed. Brunallergene Etou (Pittsburgh Riverhounds SC) left footed shot from outside the box is high and wide to the left. Assisted by Tola Showunmi."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "27'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "31'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Nathan Dossantos tries a through ball, but Albert Dikwa is caught offside."
+    },
+    {
+      "time": "33'",
+      "event": "Corner,  San Antonio. Conceded by Jahmali Waite."
+    },
+    {
+      "time": "33'",
+      "event": "Corner,  San Antonio. Conceded by Abdul Osumanu."
+    },
+    {
+      "time": "34'",
+      "event": "Corner,  San Antonio. Conceded by Abdul Osumanu."
+    },
+    {
+      "time": "34'",
+      "event": "Corner,  San Antonio. Conceded by Nathan Dossantos."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt missed. Connor Maloney (San Antonio) left footed shot from outside the box is high and wide to the left following a corner."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt blocked. Albert Dikwa (Pittsburgh Riverhounds SC) right footed shot from the right side of the box is blocked. Assisted by Brunallergene Etou."
+    },
+    {
+      "time": "37'",
+      "event": "Connor Maloney (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "37'",
+      "event": "Foul by Marc Ybarra (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "39'",
+      "event": "Attempt blocked. Rida Zouhir (San Antonio) right footed shot from the centre of the box is blocked. Assisted by Shannon Gómez."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt saved. Connor Maloney (San Antonio) left footed shot from the centre of the box is saved in the bottom right corner. Assisted by Rida Zouhir."
+    },
+    {
+      "time": "40'",
+      "event": "Corner,  San Antonio. Conceded by Jahmali Waite."
+    },
+    {
+      "time": "41'",
+      "event": "Attempt saved. Tani Oluwaseyi (San Antonio) left footed shot from outside the box is saved in the top centre of the goal. Assisted by Rida Zouhir."
+    },
+    {
+      "time": "41'",
+      "event": "Corner,  San Antonio. Conceded by Jahmali Waite."
+    },
+    {
+      "time": "41'",
+      "event": "Nathan Dossantos (Pittsburgh Riverhounds SC) is shown the yellow card."
+    },
+    {
+      "time": "42'",
+      "event": "Corner,  San Antonio. Conceded by Abdul Osumanu."
+    },
+    {
+      "time": "45+1'",
+      "event": "First Half ends, San Antonio 0, Pittsburgh Riverhounds SC 0."
+    },
+    {
+      "time": "47'",
+      "event": "Carter Manley (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Tola Showunmi (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt saved. Mitchell Taintor (San Antonio) right footed shot from the left side of the box is saved in the bottom left corner."
+    },
+    {
+      "time": "50'",
+      "event": "Foul by Jacori Hayes (San Antonio)."
+    },
+    {
+      "time": "50'",
+      "event": "Marc Ybarra (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "52'",
+      "event": "Foul by Rida Zouhir (San Antonio)."
+    },
+    {
+      "time": "52'",
+      "event": "Robbie Mertz (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "53'",
+      "event": "Tani Oluwaseyi (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "55'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "56'",
+      "event": "Tani Oluwaseyi (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Nathan Dossantos (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "57'",
+      "event": "Delay in match  because of an injury Jacori Hayes (San Antonio)."
+    },
+    {
+      "time": "58'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "58'",
+      "event": "Foul by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "58'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "60'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Tola Showunmi tries a through ball, but Albert Dikwa is caught offside."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, San Antonio. Juan Azócar replaces Connor Maloney because of an injury."
+    },
+    {
+      "time": "62'",
+      "event": "Hand ball by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "64'",
+      "event": "Tani Oluwaseyi (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "64'",
+      "event": "Foul by Abdul Osumanu (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "68'",
+      "event": "Tani Oluwaseyi (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "69'",
+      "event": "Attempt missed. Rida Zouhir (San Antonio) right footed shot from outside the box is close, but misses to the left from a direct free kick."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt missed. Santiago Patiño (San Antonio) right footed shot from outside the box is close, but misses the top right corner. Assisted by Tani Oluwaseyi."
+    },
+    {
+      "time": "74'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Joseph Farrell replaces Tola Showunmi."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Juan Carlos Obregón Jr replaces Abdul Osumanu."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Kenardo Forbes replaces Robbie Mertz."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, San Antonio. Justin Dhillon replaces Santiago Patiño."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt blocked. Shannon Gómez (San Antonio) right footed shot from the right side of the box is blocked. Assisted by Juan Azócar."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt saved. Tani Oluwaseyi (San Antonio) left footed shot from outside the box is saved in the centre of the goal. Assisted by Justin Dhillon."
+    },
+    {
+      "time": "82'",
+      "event": "Foul by Rida Zouhir (San Antonio)."
+    },
+    {
+      "time": "82'",
+      "event": "Marc Ybarra (Pittsburgh Riverhounds SC) wins a free kick on the right wing."
+    },
+    {
+      "time": "83'",
+      "event": "Substitution, San Antonio. Victor PC replaces Jacori Hayes."
+    },
+    {
+      "time": "84'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Shannon Gómez."
+    },
+    {
+      "time": "85'",
+      "event": "Attempt blocked. Danny Griffin (Pittsburgh Riverhounds SC) right footed shot from the left side of the box is blocked. Assisted by Kenardo Forbes."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt saved. Danny Griffin (Pittsburgh Riverhounds SC) left footed shot from outside the box is saved in the bottom right corner. Assisted by Kenardo Forbes."
+    },
+    {
+      "time": "87'",
+      "event": "Delay in match   (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "87'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "88'",
+      "event": "Corner,  San Antonio. Conceded by Nathan Dossantos."
+    },
+    {
+      "time": "89'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Trevor Zwetsloot replaces Albert Dikwa."
+    },
+    {
+      "time": "90'",
+      "event": "Foul by Shannon Gómez (San Antonio)."
+    },
+    {
+      "time": "90'",
+      "event": "Brunallergene Etou (Pittsburgh Riverhounds SC) wins a free kick on the left wing."
+    },
+    {
+      "time": "90'",
+      "event": "Shannon Gómez (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+1'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Daniel Rovira replaces Brunallergene Etou."
+    },
+    {
+      "time": "90+3'",
+      "event": "Carter Manley (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Trevor Zwetsloot (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Delay in match  because of an injury Carter Manley (San Antonio)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+6'",
+      "event": "Justin Dhillon (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+6'",
+      "event": "Foul by Luke Biasi (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "90+7'",
+      "event": "Second Half ends, San Antonio 0, Pittsburgh Riverhounds SC 0."
+    }
+  ]
+}

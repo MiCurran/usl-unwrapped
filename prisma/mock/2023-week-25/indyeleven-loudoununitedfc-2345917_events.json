@@ -1,0 +1,856 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Indy Eleven",
+      "formation": "4-2-3-1",
+      "score": "2",
+      "lineup": {
+        "managerName": "Lowry",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Trilk",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Reveno",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Boudadi",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Jerome",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Diz Pe",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Quinn",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Penalty scored",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Asante",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "42"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Lindley",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Velasquez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Blake",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "22"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "42",
+            "playerName": "Martínez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "46",
+            "playerName": "Crawford",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Dambrot",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Vázquez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "25",
+            "playerName": "Rebellón",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Guenzatti",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Molina",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Stéfano Pinho",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "69"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "904"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Loudoun United FC",
+      "formation": "4-2-3-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Martin",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Jacomen",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Neville",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Koanda",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Leerman",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Washington",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Garay",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Rocha",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Turner",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Landry",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "ElMedkhar",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Williamson",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "1"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Fauroux",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "34",
+            "playerName": "Chavez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Chica",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "36",
+            "playerName": "Clark",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Jones",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Ramírez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Espinal",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "53.3%",
+        "Duels_Success_Rate": "47.8%",
+        "Ariel_Duels_Won": "59.1%",
+        "Interceptions": "8",
+        "Offsides": "2",
+        "Corners_Won": "10"
+      },
+      "away": {
+        "Possession": "46.7%",
+        "Duels_Success_Rate": "52.2%",
+        "Ariel_Duels_Won": "40.9%",
+        "Interceptions": "4",
+        "Offsides": "1",
+        "Corners_Won": "3"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "460",
+        "Long_Passes": "53",
+        "Passing_Accuracy": "84.6%",
+        "Passing_Accuracy_In_Opponent_Half": "66.4%",
+        "Crosses": "35",
+        "Crossing_Accuracy": "14.3%"
+      },
+      "away": {
+        "Passes": "426",
+        "Long_Passes": "63",
+        "Passing_Accuracy": "82.9%",
+        "Passing_Accuracy_In_Opponent_Half": "73.9%",
+        "Crosses": "7",
+        "Crossing_Accuracy": "14.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "12",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "2",
+        "Shots_Inside_Box": "10",
+        "Shooting_Accuracy": "33.3%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "7",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "1",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "42.9%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "14",
+        "Tackle_Success_Rate": "64.3%",
+        "Clearances": "8"
+      },
+      "away": {
+        "Tackles": "14",
+        "Tackle_Success_Rate": "57.1%",
+        "Clearances": "31"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "12",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Goal!  Indy Eleven 0, Loudoun United 1. Tommy Williamson (Loudoun United) left footed shot from outside the box to the bottom right corner."
+    },
+    {
+      "time": "3'",
+      "event": "Aidan Rocha (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "4'",
+      "event": "Jack Blake (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Harvey Neville (Loudoun United)."
+    },
+    {
+      "time": "5'",
+      "event": "Tim Trilk (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "5'",
+      "event": "Foul by Kalil ElMedkhar (Loudoun United)."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "9'",
+      "event": "Aidan Rocha (Loudoun United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "11'",
+      "event": "Solomon Asante (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Abdoul Koanda (Loudoun United)."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "12'",
+      "event": "Harvey Neville (Loudoun United) wins a free kick on the right wing."
+    },
+    {
+      "time": "15'",
+      "event": "Attempt missed. Aodhan Quinn (Indy Eleven) left footed shot from outside the box is high and wide to the right. Assisted by Younes Boudadi."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Tommy Williamson (Loudoun United)."
+    },
+    {
+      "time": "16'",
+      "event": "Adrián Diz (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "17'",
+      "event": "Corner,  Indy Eleven. Conceded by Abdoul Koanda."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Aidan Rocha (Loudoun United)."
+    },
+    {
+      "time": "18'",
+      "event": "Aodhan Quinn (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "19'",
+      "event": "Corner,  Indy Eleven. Conceded by Houssou Landry."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Kalil ElMedkhar (Loudoun United)."
+    },
+    {
+      "time": "21'",
+      "event": "Solomon Asante (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Dane Jacomen (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "22'",
+      "event": "Jack Blake (Indy Eleven) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "23'",
+      "event": "Harvey Neville (Loudoun United) wins a free kick on the right wing."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "24'",
+      "event": "Corner,  Indy Eleven. Conceded by Abdoul Koanda."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt missed. Adrián Diz (Indy Eleven) header from very close range is just a bit too high. Assisted by Aodhan Quinn with a cross following a corner."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Aidan Rocha (Loudoun United)."
+    },
+    {
+      "time": "26'",
+      "event": "Jack Blake (Indy Eleven) wins a free kick on the left wing."
+    },
+    {
+      "time": "27'",
+      "event": "Corner,  Indy Eleven. Conceded by Bryce Washington."
+    },
+    {
+      "time": "27'",
+      "event": "Corner,  Indy Eleven. Conceded by Tommy Williamson."
+    },
+    {
+      "time": "28'",
+      "event": "Attempt missed. Douglas Martínez (Indy Eleven) right footed shot from the right side of the box misses to the right."
+    },
+    {
+      "time": "30'",
+      "event": "Abdoul Koanda (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "30'",
+      "event": "Dangerous play by Douglas Martínez (Indy Eleven)."
+    },
+    {
+      "time": "30'",
+      "event": "Harvey Neville (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt missed. Solomon Asante (Indy Eleven) right footed shot from outside the box is close, but misses the top left corner. Assisted by Douglas Martínez with a headed pass."
+    },
+    {
+      "time": "33'",
+      "event": "Offside, Loudoun United. Houssou Landry tries a through ball, but Tommy Williamson is caught offside."
+    },
+    {
+      "time": "34'",
+      "event": "Corner,  Indy Eleven. Conceded by Harvey Neville."
+    },
+    {
+      "time": "37'",
+      "event": "Cole Turner (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "37'",
+      "event": "Foul by Solomon Asante (Indy Eleven)."
+    },
+    {
+      "time": "42'",
+      "event": "Houssou Landry (Loudoun United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "42'",
+      "event": "Foul by Solomon Asante (Indy Eleven)."
+    },
+    {
+      "time": "42'",
+      "event": "Solomon Asante (Indy Eleven) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "43'",
+      "event": "Corner,  Loudoun United. Conceded by Adrián Diz."
+    },
+    {
+      "time": "45'",
+      "event": "Foul by Houssou Landry (Loudoun United)."
+    },
+    {
+      "time": "45'",
+      "event": "Aodhan Quinn (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "45'",
+      "event": "Houssou Landry (Loudoun United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "45+1'",
+      "event": "Offside, Indy Eleven. Mechack Jérôme tries a through ball, but Douglas Martínez is caught offside."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, Indy Eleven 0, Loudoun United 1."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Indy Eleven. Robby Dambrot replaces Ben Reveno."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Indy Eleven. Sebastián Guenzatti replaces Jack Blake."
+    },
+    {
+      "time": "48'",
+      "event": "Corner,  Indy Eleven. Conceded by Harvey Neville."
+    },
+    {
+      "time": "49'",
+      "event": "Hand ball by Aodhan Quinn (Indy Eleven)."
+    },
+    {
+      "time": "51'",
+      "event": "Attempt missed. Kalil ElMedkhar (Loudoun United) right footed shot from the centre of the box is close, but misses to the right. Assisted by Houssou Landry."
+    },
+    {
+      "time": "54'",
+      "event": "Attempt blocked. Younes Boudadi (Indy Eleven) right footed shot from the right side of the box is blocked. Assisted by Cam Lindley."
+    },
+    {
+      "time": "54'",
+      "event": "Corner,  Indy Eleven. Conceded by Bryce Washington."
+    },
+    {
+      "time": "54'",
+      "event": "Delay in match   (Indy Eleven)."
+    },
+    {
+      "time": "55'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt missed. Adrián Diz (Indy Eleven) header from very close range misses to the left. Assisted by Aodhan Quinn with a cross following a corner."
+    },
+    {
+      "time": "55'",
+      "event": "Delay in match  because of an injury Adrián Diz (Indy Eleven)."
+    },
+    {
+      "time": "56'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "59'",
+      "event": "Corner,  Indy Eleven. Conceded by Bryce Washington."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt missed. Douglas Martínez (Indy Eleven) right footed shot from the centre of the box misses to the right. Assisted by Cam Lindley."
+    },
+    {
+      "time": "63'",
+      "event": "Bryce Washington (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Sebastián Guenzatti (Indy Eleven)."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Loudoun United. Jace Clark replaces Harvey Neville."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt blocked. Aodhan Quinn (Indy Eleven) left footed shot from the centre of the box is blocked. Assisted by Sebastián Velásquez."
+    },
+    {
+      "time": "67'",
+      "event": "Aidan Rocha (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Sebastián Velásquez (Indy Eleven)."
+    },
+    {
+      "time": "68'",
+      "event": "Substitution, Indy Eleven. Roberto Molina replaces Sebastián Velásquez."
+    },
+    {
+      "time": "69'",
+      "event": "Substitution, Indy Eleven. Stéfano Pinho replaces Douglas Martínez."
+    },
+    {
+      "time": "69'",
+      "event": "Attempt missed. Tommy Williamson (Loudoun United) header from the centre of the box misses to the right. Assisted by Kalil ElMedkhar with a cross following a fast break."
+    },
+    {
+      "time": "71'",
+      "event": "Foul by Tommy Williamson (Loudoun United)."
+    },
+    {
+      "time": "71'",
+      "event": "Solomon Asante (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "72'",
+      "event": "Penalty conceded by Abdoul Koanda (Loudoun United) after a foul in the penalty area."
+    },
+    {
+      "time": "72'",
+      "event": "Penalty Indy Eleven. Younes Boudadi draws a foul in the penalty area."
+    },
+    {
+      "time": "73'",
+      "event": "Goal!  Indy Eleven 1, Loudoun United 1. Aodhan Quinn (Indy Eleven) converts the penalty with a left footed shot to the bottom left corner."
+    },
+    {
+      "time": "74'",
+      "event": "Substitution, Loudoun United. Juan Ramírez replaces Jeremy Garay."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt saved. Stéfano Pinho (Indy Eleven) right footed shot from the centre of the box is saved in the bottom left corner. Assisted by Cam Lindley."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt blocked. Kalil ElMedkhar (Loudoun United) right footed shot from the left side of the box is blocked. Assisted by Juan Ramírez."
+    },
+    {
+      "time": "77'",
+      "event": "Attempt saved. Solomon Asante (Indy Eleven) right footed shot from the centre of the box is saved in the bottom right corner. Assisted by Aodhan Quinn with a through ball."
+    },
+    {
+      "time": "80'",
+      "event": "Corner,  Indy Eleven. Conceded by Abdoul Koanda."
+    },
+    {
+      "time": "81'",
+      "event": "Goal!  Indy Eleven 2, Loudoun United 1. Sebastián Guenzatti (Indy Eleven) right footed shot from the right side of the box to the top right corner. Assisted by Solomon Asante."
+    },
+    {
+      "time": "83'",
+      "event": "Foul by Houssou Landry (Loudoun United)."
+    },
+    {
+      "time": "83'",
+      "event": "Cam Lindley (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "84'",
+      "event": "Offside, Indy Eleven. Cam Lindley tries a through ball, but Stéfano Pinho is caught offside."
+    },
+    {
+      "time": "86'",
+      "event": "Substitution, Indy Eleven. Bryam Rebellón replaces Solomon Asante."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, Loudoun United. Graham Jones replaces Tommy Williamson."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, Loudoun United. Isaac Espinal replaces Abdoul Koanda."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt blocked. Graham Jones (Loudoun United) left footed shot from the centre of the box is blocked. Assisted by Isaac Espinal."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt blocked. Cole Turner (Loudoun United) right footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "90+1'",
+      "event": "Corner,  Loudoun United. Conceded by Adrián Diz."
+    },
+    {
+      "time": "90+2'",
+      "event": "Corner,  Loudoun United. Conceded by Bryam Rebellón."
+    },
+    {
+      "time": "90+2'",
+      "event": "Attempt saved. Cole Turner (Loudoun United) left footed shot from the centre of the box is saved in the top centre of the goal."
+    },
+    {
+      "time": "90+4'",
+      "event": "Aidan Rocha (Loudoun United)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Stéfano Pinho (Indy Eleven) wins a free kick on the right wing."
+    },
+    {
+      "time": "90+4'",
+      "event": "Houssou Landry (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+4'",
+      "event": "Foul by Stéfano Pinho (Indy Eleven)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Stéfano Pinho (Indy Eleven) is shown the yellow card."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Indy Eleven 2, Loudoun United 1."
+    }
+  ]
+}

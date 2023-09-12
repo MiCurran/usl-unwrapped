@@ -1,0 +1,974 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "FC Tulsa",
+      "formation": "4-4-2",
+      "score": "2",
+      "lineup": {
+        "managerName": "Gavin",
+        "players": [
+          {
+            "shirtNumber": "24",
+            "playerName": "Nelson",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "48",
+            "playerName": "Bird",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "14"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Seagrist",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "27"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Tetteh",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Bonet",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Hughes",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Yosef",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "905"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Worth",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "5"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Ferri",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Epps",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "68"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Goodrum",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "37"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Wormell",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Bernal",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Malou",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Fernandez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "McCabe",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "905"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Haji",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Weah",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "San Antonio FC",
+      "formation": "5-3-2",
+      "score": "1",
+      "lineup": {
+        "managerName": "Marcina",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Farr",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Gomez",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Jome",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "20"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Taintor",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Garcia",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Manley",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernández",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Boni",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "14"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Victor Giro",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Patiño",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Oluwaseyi",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Jose Carlos Mercado",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Batista",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Maloney",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Azócar",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Hayes",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "14"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Zouhir",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Bailone",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "47.5%",
+        "Duels_Success_Rate": "44.4%",
+        "Ariel_Duels_Won": "45.7%",
+        "Interceptions": "15",
+        "Offsides": "1",
+        "Corners_Won": "2"
+      },
+      "away": {
+        "Possession": "52.5%",
+        "Duels_Success_Rate": "55.6%",
+        "Ariel_Duels_Won": "54.3%",
+        "Interceptions": "16",
+        "Offsides": "0",
+        "Corners_Won": "7"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "333",
+        "Long_Passes": "88",
+        "Passing_Accuracy": "66.7%",
+        "Passing_Accuracy_In_Opponent_Half": "65.6%",
+        "Crosses": "10",
+        "Crossing_Accuracy": "30.0%"
+      },
+      "away": {
+        "Passes": "347",
+        "Long_Passes": "49",
+        "Passing_Accuracy": "70.0%",
+        "Passing_Accuracy_In_Opponent_Half": "61.8%",
+        "Crosses": "33",
+        "Crossing_Accuracy": "33.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "9",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "4",
+        "Shooting_Accuracy": "33.3%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "18",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "8",
+        "Shots_Inside_Box": "10",
+        "Shooting_Accuracy": "33.3%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "20",
+        "Tackle_Success_Rate": "95.0%",
+        "Clearances": "28"
+      },
+      "away": {
+        "Tackles": "21",
+        "Tackle_Success_Rate": "85.7%",
+        "Clearances": "2"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "19",
+        "Yellow_Cards": "5",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "18",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Ismaila Jome (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "1'",
+      "event": "Foul by Phillip Goodrum (FC Tulsa)."
+    },
+    {
+      "time": "2'",
+      "event": "Foul by Patrick Seagrist (FC Tulsa)."
+    },
+    {
+      "time": "2'",
+      "event": "Shannon Gómez (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "3'",
+      "event": "Blaine Ferri (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Santiago Patiño (San Antonio)."
+    },
+    {
+      "time": "3'",
+      "event": "Attempt missed. Victor PC (San Antonio) right footed shot from the right side of the box is high and wide to the right. Assisted by Santiago Patiño."
+    },
+    {
+      "time": "4'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Trova Boni (San Antonio)."
+    },
+    {
+      "time": "4'",
+      "event": "Attempt missed. Eric Bird (FC Tulsa) right footed shot from outside the box is close, but misses to the left. Assisted by Phillip Goodrum."
+    },
+    {
+      "time": "5'",
+      "event": "Foul by Nathan Worth (FC Tulsa)."
+    },
+    {
+      "time": "5'",
+      "event": "Jorge Hernández (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "5'",
+      "event": "Nathan Worth (FC Tulsa) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "7'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick on the right wing."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Trova Boni (San Antonio)."
+    },
+    {
+      "time": "8'",
+      "event": "Foul by Milo Yosef (FC Tulsa)."
+    },
+    {
+      "time": "8'",
+      "event": "Ismaila Jome (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "9'",
+      "event": "Attempt missed. Milo Yosef (FC Tulsa) right footed shot from the right side of the box is too high. Assisted by Blaine Ferri."
+    },
+    {
+      "time": "10'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "10'",
+      "event": "Foul by Mitchell Taintor (San Antonio)."
+    },
+    {
+      "time": "11'",
+      "event": "Corner,  FC Tulsa. Conceded by Carter Manley."
+    },
+    {
+      "time": "14'",
+      "event": "Goal!  FC Tulsa 1, San Antonio 0. Eric Bird (FC Tulsa) right footed shot from outside the box to the bottom right corner. Assisted by Marcus Epps with a through ball."
+    },
+    {
+      "time": "14'",
+      "event": "Substitution, San Antonio. Jacori Hayes replaces Trova Boni."
+    },
+    {
+      "time": "17'",
+      "event": "Jacori Hayes (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Blaine Ferri (FC Tulsa)."
+    },
+    {
+      "time": "17'",
+      "event": "Hand ball by Carter Manley (San Antonio)."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Shannon Gómez (San Antonio)."
+    },
+    {
+      "time": "18'",
+      "event": "Marcus Epps (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "20'",
+      "event": "Foul by Ismaila Jome (San Antonio)."
+    },
+    {
+      "time": "20'",
+      "event": "Ismaila Jome (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "20'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Corner,  FC Tulsa. Conceded by Fabien Garcia."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt missed. Eric Bird (FC Tulsa) right footed shot from a difficult angle on the left is close, but misses to the left. Assisted by Milo Yosef with a cross following a corner."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt saved. Jorge Hernández (San Antonio) left footed shot from outside the box is saved in the centre of the goal. Assisted by Tani Oluwaseyi with a headed pass."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt saved. Marcus Epps (FC Tulsa) right footed shot from outside the box is saved in the bottom right corner. Assisted by Phillip Goodrum with a headed pass."
+    },
+    {
+      "time": "25'",
+      "event": "Santiago Patiño (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "25'",
+      "event": "Foul by Ruxi (FC Tulsa)."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Patrick Seagrist (FC Tulsa)."
+    },
+    {
+      "time": "27'",
+      "event": "Jorge Hernández (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "27'",
+      "event": "Patrick Seagrist (FC Tulsa) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "30'",
+      "event": "Attempt blocked. Tani Oluwaseyi (San Antonio) right footed shot from the centre of the box is blocked. Assisted by Ismaila Jome with a cross."
+    },
+    {
+      "time": "33'",
+      "event": "Shannon Gómez (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Phillip Goodrum (FC Tulsa)."
+    },
+    {
+      "time": "35'",
+      "event": "Victor PC (San Antonio) wins a free kick on the left wing."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Nathan Worth (FC Tulsa)."
+    },
+    {
+      "time": "35'",
+      "event": "Victor PC (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Phillip Goodrum (FC Tulsa)."
+    },
+    {
+      "time": "36'",
+      "event": "Delay in match  because of an injury Victor PC (San Antonio)."
+    },
+    {
+      "time": "37'",
+      "event": "Phillip Goodrum (FC Tulsa) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "37'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt missed. Tani Oluwaseyi (San Antonio) header from the left side of the box misses to the right. Assisted by Carter Manley."
+    },
+    {
+      "time": "40'",
+      "event": "Offside, FC Tulsa. Blaine Ferri tries a through ball, but Marcus Epps is caught offside."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt saved. Jacori Hayes (San Antonio) left footed shot from outside the box is saved in the bottom right corner. Assisted by Victor PC."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt missed. Santiago Patiño (San Antonio) right footed shot from the centre of the box misses to the left."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt missed. Tani Oluwaseyi (San Antonio) left footed shot from the left side of the six yard box misses to the left. Assisted by Santiago Patiño."
+    },
+    {
+      "time": "45'",
+      "event": "Keegan Hughes (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45'",
+      "event": "Foul by Ismaila Jome (San Antonio)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Attempt missed. Blaine Ferri (FC Tulsa) left footed shot from the centre of the box misses to the left. Assisted by Phillip Goodrum."
+    },
+    {
+      "time": "45+3'",
+      "event": "Attempt missed. Tani Oluwaseyi (San Antonio) left footed shot from outside the box is close, but misses to the right. Assisted by Jorge Hernández."
+    },
+    {
+      "time": "45+4'",
+      "event": "First Half ends, FC Tulsa 1, San Antonio 0."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, San Antonio. Rida Zouhir replaces Carter Manley."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, San Antonio. Ignacio Bailone replaces Victor PC."
+    },
+    {
+      "time": "46'",
+      "event": "Attempt saved. Rida Zouhir (San Antonio) right footed shot from outside the box is saved in the bottom right corner. Assisted by Jacori Hayes."
+    },
+    {
+      "time": "47'",
+      "event": "Michael Nelson (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Tani Oluwaseyi (San Antonio)."
+    },
+    {
+      "time": "48'",
+      "event": "Attempt saved. Tani Oluwaseyi (San Antonio) left footed shot from outside the box is saved in the bottom left corner. Assisted by Ignacio Bailone with a headed pass."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Rashid Tetteh (FC Tulsa)."
+    },
+    {
+      "time": "49'",
+      "event": "Ignacio Bailone (San Antonio) wins a free kick on the left wing."
+    },
+    {
+      "time": "50'",
+      "event": "Blaine Ferri (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "50'",
+      "event": "Foul by Santiago Patiño (San Antonio)."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Eric Bird (FC Tulsa)."
+    },
+    {
+      "time": "51'",
+      "event": "Ismaila Jome (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "52'",
+      "event": "Attempt missed. Rida Zouhir (San Antonio) right footed shot from outside the box misses to the left from a direct free kick."
+    },
+    {
+      "time": "53'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Mitchell Taintor (San Antonio)."
+    },
+    {
+      "time": "57'",
+      "event": "Corner,  San Antonio. Conceded by Eric Bird."
+    },
+    {
+      "time": "57'",
+      "event": "Corner,  San Antonio. Conceded by Marcus Epps."
+    },
+    {
+      "time": "59'",
+      "event": "Michael Nelson (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Tani Oluwaseyi (San Antonio)."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Blaine Ferri (FC Tulsa)."
+    },
+    {
+      "time": "62'",
+      "event": "Ismaila Jome (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt missed. Rida Zouhir (San Antonio) right footed shot from outside the box misses to the left from a direct free kick."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt blocked. Santiago Patiño (San Antonio) right footed shot from the centre of the box is blocked. Assisted by Ignacio Bailone with a cross."
+    },
+    {
+      "time": "64'",
+      "event": "Corner,  San Antonio. Conceded by Milo Yosef."
+    },
+    {
+      "time": "65'",
+      "event": "Marcus Epps (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, FC Tulsa. Collin Fernandez replaces Blaine Ferri."
+    },
+    {
+      "time": "68'",
+      "event": "Attempt blocked. Collin Fernandez (FC Tulsa) left footed shot from outside the box is blocked. Assisted by Nathan Worth."
+    },
+    {
+      "time": "68'",
+      "event": "Goal!  FC Tulsa 2, San Antonio 0. Marcus Epps (FC Tulsa) right footed shot from the centre of the box to the high centre of the goal. Assisted by Eric Bird with a cross."
+    },
+    {
+      "time": "69'",
+      "event": "Substitution, San Antonio. Juan Azócar replaces Tani Oluwaseyi."
+    },
+    {
+      "time": "70'",
+      "event": "Jacori Hayes (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Marcus Epps (FC Tulsa)."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt missed. Marcus Epps (FC Tulsa) right footed shot from outside the box is just a bit too high. Assisted by Milo Yosef."
+    },
+    {
+      "time": "74'",
+      "event": "Jacori Hayes (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Collin Fernandez (FC Tulsa)."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Mitchell Taintor (San Antonio)."
+    },
+    {
+      "time": "74'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Mitchell Taintor (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "75'",
+      "event": "Mitchell Taintor (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Phillip Goodrum (FC Tulsa)."
+    },
+    {
+      "time": "77'",
+      "event": "Foul by Ismaila Jome (San Antonio)."
+    },
+    {
+      "time": "77'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick on the right wing."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, San Antonio. Connor Maloney replaces Ismaila Jome."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Mitchell Taintor (San Antonio)."
+    },
+    {
+      "time": "78'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "79'",
+      "event": "Keegan Hughes (FC Tulsa) is shown the yellow card."
+    },
+    {
+      "time": "79'",
+      "event": "Ignacio Bailone (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "79'",
+      "event": "Foul by Eric Bird (FC Tulsa)."
+    },
+    {
+      "time": "80'",
+      "event": "Goal!  FC Tulsa 2, San Antonio 1. Rida Zouhir (San Antonio) right footed shot from the centre of the box to the bottom left corner. Assisted by Jorge Hernández."
+    },
+    {
+      "time": "82'",
+      "event": "Corner,  San Antonio. Conceded by Eric Bird."
+    },
+    {
+      "time": "83'",
+      "event": "Delay in match  because of an injury Marcus Epps (FC Tulsa)."
+    },
+    {
+      "time": "84'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "85'",
+      "event": "Substitution, FC Tulsa. Justin Malou replaces Marcus Epps because of an injury."
+    },
+    {
+      "time": "85'",
+      "event": "Attempt missed. Juan Azócar (San Antonio) right footed shot from the centre of the box is too high. Assisted by Santiago Patiño."
+    },
+    {
+      "time": "86'",
+      "event": "Justin Malou (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Jacori Hayes (San Antonio)."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Collin Fernandez (FC Tulsa)."
+    },
+    {
+      "time": "87'",
+      "event": "Rida Zouhir (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "88'",
+      "event": "Collin Fernandez (FC Tulsa) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt saved. Jacori Hayes (San Antonio) right footed shot from outside the box is saved in the centre of the goal. Assisted by Jorge Hernández."
+    },
+    {
+      "time": "90+1'",
+      "event": "Corner,  San Antonio. Conceded by Ruxi."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt blocked. Connor Maloney (San Antonio) left footed shot from the left side of the box is blocked. Assisted by Santiago Patiño."
+    },
+    {
+      "time": "90+2'",
+      "event": "Corner,  San Antonio. Conceded by Justin Malou."
+    },
+    {
+      "time": "90+4'",
+      "event": "Attempt missed. Ignacio Bailone (San Antonio) left footed shot from the centre of the box is close, but misses the top left corner. Assisted by Jorge Hernández."
+    },
+    {
+      "time": "90+5'",
+      "event": "Substitution, FC Tulsa. Tommy McCabe replaces Milo Yosef."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Eric Bird (FC Tulsa)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Mitchell Taintor (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+6'",
+      "event": "Corner,  San Antonio. Conceded by Keegan Hughes."
+    },
+    {
+      "time": "90+8'",
+      "event": "Phillip Goodrum (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+8'",
+      "event": "Foul by Fabien Garcia (San Antonio)."
+    },
+    {
+      "time": "90+8'",
+      "event": "Second Half ends, FC Tulsa 2, San Antonio 1."
+    }
+  ]
+}

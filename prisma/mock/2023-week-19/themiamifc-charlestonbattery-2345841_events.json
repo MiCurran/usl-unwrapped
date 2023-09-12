@@ -1,0 +1,962 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "The Miami FC",
+      "formation": "4-4-2",
+      "score": "1",
+      "lineup": {
+        "managerName": "Neal",
+        "players": [
+          {
+            "shirtNumber": "13",
+            "playerName": "Zendejas",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Segbers",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Stanley",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Craig",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Hernández",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Gabriel de Freitas",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Sorto",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Akinyode",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Telfer",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "908"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Murphy",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Missed penalty",
+                "eventTime": "5"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Valot",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "McGuire",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Ofeimu",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Thorn",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Dowouna",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "908"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Mines",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Salazar",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rivas",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Charleston Battery",
+      "formation": "4-2-3-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Pirmann 30‎'‎",
+        "players": [
+          {
+            "shirtNumber": "25",
+            "playerName": "Muse",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Dodson",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "30"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Wynne",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Archer",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Palma",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Allan",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "69",
+            "playerName": "Avila",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "52"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Crawford",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Rodriguez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Markanich",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Williams",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Kuzemka",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "A.J. Cochran",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Reedy",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Barajas",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "52"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Booth",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "907"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Schmidt",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Ycaza",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "69"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "53.3%",
+        "Duels_Success_Rate": "59.2%",
+        "Ariel_Duels_Won": "31.8%",
+        "Interceptions": "12",
+        "Offsides": "1",
+        "Corners_Won": "5"
+      },
+      "away": {
+        "Possession": "46.7%",
+        "Duels_Success_Rate": "40.8%",
+        "Ariel_Duels_Won": "68.2%",
+        "Interceptions": "7",
+        "Offsides": "0",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "418",
+        "Long_Passes": "44",
+        "Passing_Accuracy": "80.1%",
+        "Passing_Accuracy_In_Opponent_Half": "73.4%",
+        "Crosses": "20",
+        "Crossing_Accuracy": "35.0%"
+      },
+      "away": {
+        "Passes": "364",
+        "Long_Passes": "61",
+        "Passing_Accuracy": "80.2%",
+        "Passing_Accuracy_In_Opponent_Half": "70.6%",
+        "Crosses": "18",
+        "Crossing_Accuracy": "22.2%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "14",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "8",
+        "Shooting_Accuracy": "42.9%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "12",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "2",
+        "Shots_Inside_Box": "10",
+        "Shooting_Accuracy": "41.7%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "20",
+        "Tackle_Success_Rate": "70.0%",
+        "Clearances": "21"
+      },
+      "away": {
+        "Tackles": "10",
+        "Tackle_Success_Rate": "80.0%",
+        "Clearances": "21"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "0",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "23",
+        "Yellow_Cards": "4",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Nick Markanich (Charleston Battery) wins a free kick on the left wing."
+    },
+    {
+      "time": "1'",
+      "event": "Foul by Florian Valot (The Miami FC)."
+    },
+    {
+      "time": "2'",
+      "event": "Florian Valot (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "2'",
+      "event": "Foul by Chris Allan (Charleston Battery)."
+    },
+    {
+      "time": "3'",
+      "event": "Leland Archer (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Kyle Murphy (The Miami FC)."
+    },
+    {
+      "time": "3'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Aedan Stanley (The Miami FC)."
+    },
+    {
+      "time": "4'",
+      "event": "Roberto Avila (Charleston Battery) hits the bar with a header from the centre of the box. Assisted by Arturo Rodríguez following a set piece situation."
+    },
+    {
+      "time": "4'",
+      "event": "Attempt saved. Nick Markanich (Charleston Battery) right footed shot from the centre of the box is saved in the bottom right corner."
+    },
+    {
+      "time": "5'",
+      "event": "Penalty conceded by Trey Muse (Charleston Battery) after a foul in the penalty area."
+    },
+    {
+      "time": "5'",
+      "event": "Penalty The Miami FC. Kyle Murphy draws a foul in the penalty area."
+    },
+    {
+      "time": "6'",
+      "event": "Penalty saved! Kyle Murphy (The Miami FC) fails to capitalise on this great opportunity,  right footed shot saved  in the bottom left corner."
+    },
+    {
+      "time": "6'",
+      "event": "Corner,  The Miami FC. Conceded by Trey Muse."
+    },
+    {
+      "time": "7'",
+      "event": "Corner,  Charleston Battery. Conceded by Moisés Hernández."
+    },
+    {
+      "time": "8'",
+      "event": "Attempt missed. Derek Dodson (Charleston Battery) header from the right side of the six yard box is close, but misses the top right corner. Assisted by Robbie Crawford with a cross following a corner."
+    },
+    {
+      "time": "9'",
+      "event": "Attempt blocked. Roberto Avila (Charleston Battery) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Derek Dodson (Charleston Battery)."
+    },
+    {
+      "time": "9'",
+      "event": "Ryan Telfer (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "12'",
+      "event": "Ryan Telfer (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Derek Dodson (Charleston Battery)."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Boluwatife Akinyode (The Miami FC)."
+    },
+    {
+      "time": "13'",
+      "event": "Arturo Rodríguez (Charleston Battery) wins a free kick on the right wing."
+    },
+    {
+      "time": "13'",
+      "event": "Attempt blocked. Nick Markanich (Charleston Battery) left footed shot from the right side of the box is blocked. Assisted by Roberto Avila with a headed pass."
+    },
+    {
+      "time": "13'",
+      "event": "Attempt saved. Arturo Rodríguez (Charleston Battery) right footed shot from a difficult angle on the right is saved in the bottom right corner."
+    },
+    {
+      "time": "14'",
+      "event": "Kyle Murphy (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Leland Archer (Charleston Battery)."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Boluwatife Akinyode (The Miami FC)."
+    },
+    {
+      "time": "14'",
+      "event": "Arturo Rodríguez (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "15'",
+      "event": "Foul by Mark Segbers (The Miami FC)."
+    },
+    {
+      "time": "15'",
+      "event": "Nick Markanich (Charleston Battery) wins a free kick on the left wing."
+    },
+    {
+      "time": "16'",
+      "event": "Hand ball by Robbie Crawford (Charleston Battery)."
+    },
+    {
+      "time": "16'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Roberto Avila (Charleston Battery)."
+    },
+    {
+      "time": "19'",
+      "event": "Mark Segbers (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Chris Allan (Charleston Battery)."
+    },
+    {
+      "time": "20'",
+      "event": "Attempt missed. Kyle Murphy (The Miami FC) right footed shot from the right side of the box misses to the left. Assisted by Gabriel Cabral."
+    },
+    {
+      "time": "20'",
+      "event": "Attempt blocked. Ryan Telfer (The Miami FC) right footed shot from the centre of the box is blocked. Assisted by Kyle Murphy."
+    },
+    {
+      "time": "20'",
+      "event": "Corner,  The Miami FC. Conceded by Derek Dodson."
+    },
+    {
+      "time": "22'",
+      "event": "Ryan Telfer (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "22'",
+      "event": "Foul by Nick Markanich (Charleston Battery)."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt blocked. Kyle Murphy (The Miami FC) left footed shot from a difficult angle on the left is blocked. Assisted by Florian Valot."
+    },
+    {
+      "time": "25'",
+      "event": "Foul by Mark Segbers (The Miami FC)."
+    },
+    {
+      "time": "25'",
+      "event": "Nick Markanich (Charleston Battery) wins a free kick on the left wing."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt missed. Roberto Avila (Charleston Battery) right footed shot from the centre of the box misses to the right. Assisted by Arturo Rodríguez with a cross following a set piece situation."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Aedan Stanley (The Miami FC)."
+    },
+    {
+      "time": "26'",
+      "event": "Derek Dodson (Charleston Battery) wins a free kick on the right wing."
+    },
+    {
+      "time": "29'",
+      "event": "Gabriel Cabral (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Derek Dodson (Charleston Battery)."
+    },
+    {
+      "time": "30'",
+      "event": "Derek Dodson (Charleston Battery) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt saved. Gabriel Cabral (The Miami FC) right footed shot from outside the box is saved in the top centre of the goal. Assisted by Kyle Murphy."
+    },
+    {
+      "time": "31'",
+      "event": "Corner,  The Miami FC. Conceded by Trey Muse."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt missed. Nick Markanich (Charleston Battery) left footed shot from the centre of the box is high and wide to the right. Assisted by Roberto Avila with a through ball."
+    },
+    {
+      "time": "32'",
+      "event": "Delay in match   (Charleston Battery)."
+    },
+    {
+      "time": "34'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "34'",
+      "event": "Ryan Telfer (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "34'",
+      "event": "Foul by Derek Dodson (Charleston Battery)."
+    },
+    {
+      "time": "37'",
+      "event": "Hand ball by Derek Dodson (Charleston Battery)."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt missed. Gabriel Cabral (The Miami FC) right footed shot from a difficult angle and long range on the left is high and wide to the right. Assisted by Aedan Stanley from a direct free kick."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Gabriel Cabral (The Miami FC)."
+    },
+    {
+      "time": "38'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt missed. Deklan Wynne (Charleston Battery) left footed shot from outside the box misses to the right."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt blocked. Florian Valot (The Miami FC) left footed shot from outside the box is blocked. Assisted by Gabriel Cabral."
+    },
+    {
+      "time": "44'",
+      "event": "Gabriel Cabral (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by Chris Allan (Charleston Battery)."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, The Miami FC 0, Charleston Battery 0."
+    },
+    {
+      "time": "46'",
+      "event": "Boluwatife Akinyode (The Miami FC) hits the bar with a left footed shot from outside the box. Assisted by Kyle Murphy."
+    },
+    {
+      "time": "48'",
+      "event": "Delay in match  because of an injury Roberto Avila (Charleston Battery)."
+    },
+    {
+      "time": "49'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "50'",
+      "event": "Attempt saved. Florian Valot (The Miami FC) left footed shot from the left side of the box is saved in the centre of the goal. Assisted by Ryan Telfer."
+    },
+    {
+      "time": "52'",
+      "event": "Substitution, Charleston Battery. Fidel Barajas replaces Roberto Avila because of an injury."
+    },
+    {
+      "time": "53'",
+      "event": "Corner,  The Miami FC. Conceded by Fidel Barajas."
+    },
+    {
+      "time": "54'",
+      "event": "Corner,  The Miami FC. Conceded by Chris Allan."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt blocked. Kyle Murphy (The Miami FC) header from the right side of the six yard box is blocked. Assisted by Gabriel Cabral with a cross."
+    },
+    {
+      "time": "55'",
+      "event": "Delay in match  because of an injury Kyle Murphy (The Miami FC)."
+    },
+    {
+      "time": "55'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "56'",
+      "event": "Attempt saved. Augustine Williams (Charleston Battery) header from the centre of the box is saved in the centre of the goal. Assisted by Chris Allan with a cross."
+    },
+    {
+      "time": "56'",
+      "event": "Mark Segbers (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Fidel Barajas (Charleston Battery)."
+    },
+    {
+      "time": "57'",
+      "event": "Foul by Nick Markanich (Charleston Battery)."
+    },
+    {
+      "time": "57'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt saved. Gabriel Cabral (The Miami FC) right footed shot from outside the box is saved in the centre of the goal. Assisted by Aedan Stanley."
+    },
+    {
+      "time": "62'",
+      "event": "Delay in match  because of an injury Nick Markanich (Charleston Battery)."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, The Miami FC. Ben Mines replaces Christian Sorto."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, The Miami FC. Michael Salazar replaces Kyle Murphy."
+    },
+    {
+      "time": "64'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Charleston Battery. Emilio Ycaza replaces Chris Allan."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Charleston Battery. Pierre Reedy replaces Nick Markanich because of an injury."
+    },
+    {
+      "time": "66'",
+      "event": "Pierre Reedy (Charleston Battery) wins a free kick on the right wing."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Ryan Telfer (The Miami FC)."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Pierre Reedy (Charleston Battery)."
+    },
+    {
+      "time": "68'",
+      "event": "Moisés Hernández (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Emilio Ycaza (Charleston Battery)."
+    },
+    {
+      "time": "69'",
+      "event": "Florian Valot (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "69'",
+      "event": "Emilio Ycaza (Charleston Battery) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "71'",
+      "event": "Arturo Rodríguez (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "71'",
+      "event": "Foul by Boluwatife Akinyode (The Miami FC)."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Arturo Rodríguez (Charleston Battery)."
+    },
+    {
+      "time": "72'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Augustine Williams (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Paco Craig (The Miami FC)."
+    },
+    {
+      "time": "74'",
+      "event": "Delay in match  because of an injury Arturo Rodríguez (Charleston Battery)."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, The Miami FC. Joaquín Rivas replaces Florian Valot."
+    },
+    {
+      "time": "76'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, Charleston Battery. Andrew Booth replaces Arturo Rodríguez because of an injury."
+    },
+    {
+      "time": "77'",
+      "event": "Foul by Emilio Ycaza (Charleston Battery)."
+    },
+    {
+      "time": "77'",
+      "event": "Gabriel Cabral (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "77'",
+      "event": "Emilio Ycaza (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "77'",
+      "event": "Foul by Gabriel Cabral (The Miami FC)."
+    },
+    {
+      "time": "78'",
+      "event": "Attempt blocked. Andrew Booth (Charleston Battery) right footed shot from outside the box is blocked. Assisted by Augustine Williams."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Robbie Crawford (Charleston Battery)."
+    },
+    {
+      "time": "80'",
+      "event": "Joaquín Rivas (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "80'",
+      "event": "Robbie Crawford (Charleston Battery) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "81'",
+      "event": "Offside, The Miami FC. Aedan Stanley tries a through ball, but Joaquín Rivas is caught offside."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt saved. Boluwatife Akinyode (The Miami FC) left footed shot from outside the box is saved in the bottom right corner."
+    },
+    {
+      "time": "83'",
+      "event": "Goal!  The Miami FC 1, Charleston Battery 0. Ben Mines (The Miami FC) right footed shot from the right side of the six yard box to the bottom right corner."
+    },
+    {
+      "time": "84'",
+      "event": "Arturo Rodríguez (Charleston Battery) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Emilio Ycaza (Charleston Battery)."
+    },
+    {
+      "time": "86'",
+      "event": "Joaquín Rivas (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Emilio Ycaza (Charleston Battery)."
+    },
+    {
+      "time": "87'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "88'",
+      "event": "Attempt missed. Michael Salazar (The Miami FC) header from the centre of the box is just a bit too high. Assisted by Aedan Stanley with a cross."
+    },
+    {
+      "time": "89'",
+      "event": "Delay in match  because of an injury Gabriel Cabral (The Miami FC)."
+    },
+    {
+      "time": "90'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+1'",
+      "event": "Corner,  Charleston Battery. Conceded by Ben Mines."
+    },
+    {
+      "time": "90+3'",
+      "event": "Corner,  Charleston Battery. Conceded by Michael Salazar."
+    },
+    {
+      "time": "90+6'",
+      "event": "Corner,  Charleston Battery. Conceded by Mark Segbers."
+    },
+    {
+      "time": "90+7'",
+      "event": "Goal!  The Miami FC 1, Charleston Battery 1. Andrew Booth (Charleston Battery) header from the left side of the six yard box to the bottom right corner. Assisted by Robbie Crawford with a cross   following a corner."
+    },
+    {
+      "time": "90+8'",
+      "event": "Substitution, The Miami FC. Dennis Dowouna replaces Ryan Telfer."
+    },
+    {
+      "time": "90+8'",
+      "event": "Foul by Pierre Reedy (Charleston Battery)."
+    },
+    {
+      "time": "90+8'",
+      "event": "Boluwatife Akinyode (The Miami FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "90+9'",
+      "event": "Second Half ends, The Miami FC 1, Charleston Battery 1."
+    }
+  ]
+}

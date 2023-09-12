@@ -1,0 +1,989 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Indy Eleven",
+      "formation": "4-4-2",
+      "score": "1",
+      "lineup": {
+        "managerName": "Lowry",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Trilk",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Boudadi",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "27"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Dambrot",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Jerome",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Diz Pe",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Lindley",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Asante",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "906"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Quinn",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "909"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Blake",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Guenzatti",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Velasquez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Walker",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Reveno",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "906"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Vázquez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "25",
+            "playerName": "Rebellón",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Robledo",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "85"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "902"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Molina",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Stéfano Pinho",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "The Miami FC",
+      "formation": "4-4-2",
+      "score": "0",
+      "lineup": {
+        "managerName": "Neal 89‎'‎",
+        "players": [
+          {
+            "shirtNumber": "13",
+            "playerName": "Zendejas",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Segbers",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "20"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Stanley",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Ofeimu",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Craig",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Red card",
+                "eventTime": "903"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Akinyode",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "36"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Valot",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Gabriel de Freitas",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Telfer",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Salazar",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "33"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rivas",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "McGuire",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Gustavo Rissi",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Dowouna",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Mines",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Murphy",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Repetto",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Sorto",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "50.8%",
+        "Duels_Success_Rate": "40.9%",
+        "Ariel_Duels_Won": "15.4%",
+        "Interceptions": "6",
+        "Offsides": "1",
+        "Corners_Won": "4"
+      },
+      "away": {
+        "Possession": "49.2%",
+        "Duels_Success_Rate": "59.1%",
+        "Ariel_Duels_Won": "84.6%",
+        "Interceptions": "15",
+        "Offsides": "5",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "443",
+        "Long_Passes": "52",
+        "Passing_Accuracy": "82.6%",
+        "Passing_Accuracy_In_Opponent_Half": "72.8%",
+        "Crosses": "10",
+        "Crossing_Accuracy": "20.0%"
+      },
+      "away": {
+        "Passes": "422",
+        "Long_Passes": "63",
+        "Passing_Accuracy": "80.6%",
+        "Passing_Accuracy_In_Opponent_Half": "61.6%",
+        "Crosses": "16",
+        "Crossing_Accuracy": "31.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "7",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "1",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "57.1%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "10",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "40.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "14",
+        "Tackle_Success_Rate": "57.1%",
+        "Clearances": "21"
+      },
+      "away": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "76.9%",
+        "Clearances": "11"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "19",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "16",
+        "Yellow_Cards": "4",
+        "Red_Cards": "1"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Foul by Solomon Asante (Indy Eleven)."
+    },
+    {
+      "time": "1'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "2'",
+      "event": "Sebastián Guenzatti (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "2'",
+      "event": "Foul by Mark Segbers (The Miami FC)."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Cam Lindley (Indy Eleven)."
+    },
+    {
+      "time": "3'",
+      "event": "Boluwatife Akinyode (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "4'",
+      "event": "Offside, The Miami FC. Ben Ofeimu tries a through ball, but Ryan Telfer is caught offside."
+    },
+    {
+      "time": "9'",
+      "event": "Aodhan Quinn (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Florian Valot (The Miami FC)."
+    },
+    {
+      "time": "11'",
+      "event": "Attempt blocked. Jack Blake (Indy Eleven) right footed shot from outside the box is blocked. Assisted by Aodhan Quinn."
+    },
+    {
+      "time": "11'",
+      "event": "Corner,  Indy Eleven. Conceded by Paco Craig."
+    },
+    {
+      "time": "13'",
+      "event": "Offside, Indy Eleven. Mechack Jérôme tries a through ball, but Sebastián Guenzatti is caught offside."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Joaquín Rivas (The Miami FC)."
+    },
+    {
+      "time": "14'",
+      "event": "Aodhan Quinn (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "16'",
+      "event": "Offside, The Miami FC. Florian Valot tries a through ball, but Michael Salazar is caught offside."
+    },
+    {
+      "time": "20'",
+      "event": "Foul by Mark Segbers (The Miami FC)."
+    },
+    {
+      "time": "20'",
+      "event": "Sebastián Guenzatti (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "20'",
+      "event": "Mark Segbers (The Miami FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt missed. Robby Dambrot (Indy Eleven) header from the centre of the box misses to the left. Assisted by Cam Lindley following a set piece situation."
+    },
+    {
+      "time": "24'",
+      "event": "Joaquín Rivas (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Aodhan Quinn (Indy Eleven)."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Younes Boudadi (Indy Eleven)."
+    },
+    {
+      "time": "27'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "27'",
+      "event": "Younes Boudadi (Indy Eleven) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "29'",
+      "event": "Delay in match  because of an injury Adrián Diz (Indy Eleven)."
+    },
+    {
+      "time": "31'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "32'",
+      "event": "Offside, The Miami FC. Adrían Zendejas tries a through ball, but Michael Salazar is caught offside."
+    },
+    {
+      "time": "33'",
+      "event": "Adrián Diz (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Michael Salazar (The Miami FC)."
+    },
+    {
+      "time": "33'",
+      "event": "Michael Salazar (The Miami FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Solomon Asante (Indy Eleven)."
+    },
+    {
+      "time": "35'",
+      "event": "Boluwatife Akinyode (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "36'",
+      "event": "Foul by Mechack Jérôme (Indy Eleven)."
+    },
+    {
+      "time": "36'",
+      "event": "Ryan Telfer (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "36'",
+      "event": "Boluwatife Akinyode (The Miami FC) is shown the yellow card."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt blocked. Joaquín Rivas (The Miami FC) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt saved. Solomon Asante (Indy Eleven) right footed shot from the centre of the box is saved in the bottom right corner."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt missed. Aodhan Quinn (Indy Eleven) left footed shot from the left side of the box is close, but misses to the left. Assisted by Jack Blake."
+    },
+    {
+      "time": "42'",
+      "event": "Delay in match  because of an injury Sebastián Velásquez (Indy Eleven)."
+    },
+    {
+      "time": "42'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "42'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "42'",
+      "event": "Mark Segbers (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt saved. Michael Salazar (The Miami FC) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Mark Segbers."
+    },
+    {
+      "time": "44'",
+      "event": "Tim Trilk (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by Boluwatife Akinyode (The Miami FC)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt saved. Robby Dambrot (Indy Eleven) left footed shot from a difficult angle on the left is saved in the bottom left corner. Assisted by Sebastián Velásquez."
+    },
+    {
+      "time": "45+1'",
+      "event": "Corner,  Indy Eleven. Conceded by Adrían Zendejas."
+    },
+    {
+      "time": "45+2'",
+      "event": "Corner,  Indy Eleven. Conceded by Mark Segbers."
+    },
+    {
+      "time": "45+4'",
+      "event": "Foul by Robby Dambrot (Indy Eleven)."
+    },
+    {
+      "time": "45+4'",
+      "event": "Ryan Telfer (The Miami FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "45+5'",
+      "event": "Corner,  The Miami FC. Conceded by Adrián Diz."
+    },
+    {
+      "time": "45+6'",
+      "event": "Attempt saved. Joaquín Rivas (The Miami FC) left footed shot from outside the box is saved in the bottom right corner. Assisted by Boluwatife Akinyode."
+    },
+    {
+      "time": "45+6'",
+      "event": "Corner,  The Miami FC. Conceded by Tim Trilk."
+    },
+    {
+      "time": "45+6'",
+      "event": "First Half ends, Indy Eleven 0, The Miami FC 0."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, The Miami FC. Kyle Murphy replaces Michael Salazar."
+    },
+    {
+      "time": "46'",
+      "event": "Aodhan Quinn (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Gabriel Cabral (The Miami FC)."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Aodhan Quinn (Indy Eleven)."
+    },
+    {
+      "time": "46'",
+      "event": "Ryan Telfer (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "47'",
+      "event": "Corner,  The Miami FC. Conceded by Robby Dambrot."
+    },
+    {
+      "time": "48'",
+      "event": "Attempt blocked. Kyle Murphy (The Miami FC) right footed shot from the centre of the box is blocked. Assisted by Aedan Stanley with a cross."
+    },
+    {
+      "time": "48'",
+      "event": "Attempt blocked. Kyle Murphy (The Miami FC) right footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "50'",
+      "event": "Adrián Diz (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "50'",
+      "event": "Foul by Kyle Murphy (The Miami FC)."
+    },
+    {
+      "time": "53'",
+      "event": "Kyle Murphy (The Miami FC) hits the right post with a right footed shot from the centre of the box. Assisted by Florian Valot."
+    },
+    {
+      "time": "59'",
+      "event": "Mark Segbers (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Gabriel Cabral (The Miami FC)."
+    },
+    {
+      "time": "59'",
+      "event": "Jack Blake (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "60'",
+      "event": "Delay in match  because of an injury Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "61'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "62'",
+      "event": "Florian Valot (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Robby Dambrot (Indy Eleven)."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, The Miami FC. Ben Mines replaces Joaquín Rivas."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Gabriel Cabral (The Miami FC)."
+    },
+    {
+      "time": "65'",
+      "event": "Cam Lindley (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt saved. Jack Blake (Indy Eleven) header from the centre of the box is saved in the top centre of the goal. Assisted by Younes Boudadi with a cross."
+    },
+    {
+      "time": "67'",
+      "event": "Corner,  The Miami FC. Conceded by Adrián Diz."
+    },
+    {
+      "time": "68'",
+      "event": "Attempt missed. Kyle Murphy (The Miami FC) header from the right side of the six yard box is too high. Assisted by Aedan Stanley with a cross following a corner."
+    },
+    {
+      "time": "69'",
+      "event": "Delay in match  because of an injury Adrián Diz (Indy Eleven)."
+    },
+    {
+      "time": "70'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "72'",
+      "event": "Goal!  Indy Eleven 1, The Miami FC 0. Sebastián Guenzatti (Indy Eleven) left footed shot from very close range to the bottom left corner. Assisted by Younes Boudadi."
+    },
+    {
+      "time": "74'",
+      "event": "Ben Mines (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "75'",
+      "event": "Attempt missed. Paco Craig (The Miami FC) header from the centre of the box is just a bit too high. Assisted by Gabriel Cabral with a cross following a set piece situation."
+    },
+    {
+      "time": "76'",
+      "event": "Delay in match   (Indy Eleven)."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, Indy Eleven. Bryam Rebellón replaces Robby Dambrot."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, Indy Eleven. Stéfano Pinho replaces Sebastián Velásquez."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, Indy Eleven. Jesús Vázquez replaces Adrián Diz."
+    },
+    {
+      "time": "77'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, The Miami FC. Christian Sorto replaces Ryan Telfer."
+    },
+    {
+      "time": "79'",
+      "event": "Foul by Ben Ofeimu (The Miami FC)."
+    },
+    {
+      "time": "79'",
+      "event": "Stéfano Pinho (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "80'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Solomon Asante (Indy Eleven)."
+    },
+    {
+      "time": "81'",
+      "event": "Gabriel Cabral (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "81'",
+      "event": "Foul by Aodhan Quinn (Indy Eleven)."
+    },
+    {
+      "time": "81'",
+      "event": "Delay in match  because of an injury Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, The Miami FC. Claudio Repetto replaces Florian Valot."
+    },
+    {
+      "time": "82'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "84'",
+      "event": "Attempt missed. Kyle Murphy (The Miami FC) header from very close range is too high. Assisted by Ben Mines with a cross."
+    },
+    {
+      "time": "85'",
+      "event": "Substitution, Indy Eleven. Harrison Robledo replaces Jack Blake because of an injury."
+    },
+    {
+      "time": "86'",
+      "event": "Gabriel Cabral (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Jesús Vázquez (Indy Eleven)."
+    },
+    {
+      "time": "87'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Stéfano Pinho (Indy Eleven)."
+    },
+    {
+      "time": "87'",
+      "event": "Offside, The Miami FC. Mark Segbers tries a through ball, but Claudio Repetto is caught offside."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Gabriel Cabral (The Miami FC)."
+    },
+    {
+      "time": "88'",
+      "event": "Younes Boudadi (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Aedan Stanley (The Miami FC)."
+    },
+    {
+      "time": "88'",
+      "event": "Solomon Asante (Indy Eleven) wins a free kick on the right wing."
+    },
+    {
+      "time": "88'",
+      "event": "Aedan Stanley (The Miami FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90'",
+      "event": "Corner,  Indy Eleven. Conceded by Aedan Stanley."
+    },
+    {
+      "time": "90+1'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Harrison Robledo (Indy Eleven)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt saved. Gabriel Cabral (The Miami FC) right footed shot from outside the box is saved in the centre of the goal."
+    },
+    {
+      "time": "90+2'",
+      "event": "Gabriel Cabral (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Harrison Robledo (Indy Eleven)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Harrison Robledo (Indy Eleven) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Paco Craig (The Miami FC)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Cam Lindley (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Paco Craig (The Miami FC) is shown the red card."
+    },
+    {
+      "time": "90+3'",
+      "event": "Delay in match  because of an injury Cam Lindley (Indy Eleven)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+6'",
+      "event": "Substitution, Indy Eleven. Ben Reveno replaces Solomon Asante."
+    },
+    {
+      "time": "90+8'",
+      "event": "Foul by Christian Sorto (The Miami FC)."
+    },
+    {
+      "time": "90+8'",
+      "event": "Sebastián Guenzatti (Indy Eleven) wins a free kick on the right wing."
+    },
+    {
+      "time": "90+8'",
+      "event": "Hand ball by Claudio Repetto (The Miami FC)."
+    },
+    {
+      "time": "90+8'",
+      "event": "Boluwatife Akinyode (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+8'",
+      "event": "Foul by Younes Boudadi (Indy Eleven)."
+    },
+    {
+      "time": "90+9'",
+      "event": "Aodhan Quinn (Indy Eleven) is shown the yellow card."
+    },
+    {
+      "time": "90+9'",
+      "event": "Offside, The Miami FC. Ben Mines tries a through ball, but Claudio Repetto is caught offside."
+    },
+    {
+      "time": "90+11'",
+      "event": "Second Half ends, Indy Eleven 1, The Miami FC 0."
+    }
+  ]
+}

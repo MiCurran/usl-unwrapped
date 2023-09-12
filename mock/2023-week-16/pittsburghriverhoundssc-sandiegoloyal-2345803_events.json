@@ -1,0 +1,894 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Pittsburgh Riverhounds SC",
+      "formation": "5-4-1",
+      "score": "2",
+      "lineup": {
+        "managerName": "Lilley",
+        "players": [
+          {
+            "shirtNumber": "77",
+            "playerName": "Zamudio",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Biasi",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Dossantos",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "17"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "DeShields",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Ordoñez",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Osumanu",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Forbes",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Griffin",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Ybarra",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Etou",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Showunmi",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "68"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Garner",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Farrell",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Lopez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Rovira",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Fahling",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Zwetsloot",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Blackstock",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "17"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "San Diego Loyal",
+      "formation": "4-2-3-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Miller 64‎'‎",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Koke Vegas",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Riley",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "13"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Bodily",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Stoneman",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "32",
+            "playerName": "Adams",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "90"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Guido",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "38"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Pérez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "42"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Corona",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Collier",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Moon",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Conway",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "60",
+            "playerName": "Ferree",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Kasanze",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Elijah Martin",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Adams",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Collin Martin",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "38"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Damus",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Tumi Moshobane",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "38.8%",
+        "Duels_Success_Rate": "52.5%",
+        "Ariel_Duels_Won": "45.2%",
+        "Interceptions": "9",
+        "Offsides": "3",
+        "Corners_Won": "3"
+      },
+      "away": {
+        "Possession": "61.2%",
+        "Duels_Success_Rate": "47.5%",
+        "Ariel_Duels_Won": "54.8%",
+        "Interceptions": "8",
+        "Offsides": "1",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "310",
+        "Long_Passes": "72",
+        "Passing_Accuracy": "66.8%",
+        "Passing_Accuracy_In_Opponent_Half": "58.1%",
+        "Crosses": "13",
+        "Crossing_Accuracy": "7.7%"
+      },
+      "away": {
+        "Passes": "494",
+        "Long_Passes": "77",
+        "Passing_Accuracy": "77.7%",
+        "Passing_Accuracy_In_Opponent_Half": "64.2%",
+        "Crosses": "16",
+        "Crossing_Accuracy": "12.5%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "7",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "4",
+        "Shooting_Accuracy": "42.9%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "13",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "8",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "23.1%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "24",
+        "Tackle_Success_Rate": "79.2%",
+        "Clearances": "19"
+      },
+      "away": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "76.9%",
+        "Clearances": "17"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "16",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "10",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Joe Corona (San Diego Loyal) wins a free kick on the right wing."
+    },
+    {
+      "time": "1'",
+      "event": "Foul by Marc Ybarra (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "1'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Blake Bodily."
+    },
+    {
+      "time": "3'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Kyle Adams."
+    },
+    {
+      "time": "3'",
+      "event": "Offside, San Diego Loyal. Koke Vegas tries a through ball, but Nick Moon is caught offside."
+    },
+    {
+      "time": "6'",
+      "event": "Corner,  San Diego Loyal. Conceded by Arturo Osuna."
+    },
+    {
+      "time": "13'",
+      "event": "Nathan Dossantos (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Camden Riley (San Diego Loyal)."
+    },
+    {
+      "time": "13'",
+      "event": "Camden Riley (San Diego Loyal) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "13'",
+      "event": "Delay in match  because of an injury Nathan Dossantos (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "15'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "15'",
+      "event": "Delay in match  because of an injury Nathan Dossantos (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "16'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "17'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Langston Blackstock replaces Nathan Dossantos because of an injury."
+    },
+    {
+      "time": "18'",
+      "event": "Delay in match  because of an injury Alejandro Guido (San Diego Loyal)."
+    },
+    {
+      "time": "18'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Michael DeShields (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "19'",
+      "event": "Evan Conway (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Langston Blackstock (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "21'",
+      "event": "Adrien Perez (San Diego Loyal) wins a free kick on the right wing."
+    },
+    {
+      "time": "24'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Kenardo Forbes tries a through ball, but Langston Blackstock is caught offside."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt blocked. Blake Bodily (San Diego Loyal) left footed shot from outside the box is blocked. Assisted by Alejandro Guido."
+    },
+    {
+      "time": "31'",
+      "event": "Corner,  San Diego Loyal. Conceded by Abdul Osumanu."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt missed. Joe Corona (San Diego Loyal) right footed shot from outside the box is too high following a corner."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Luke Biasi (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "35'",
+      "event": "Evan Conway (San Diego Loyal) wins a free kick on the left wing."
+    },
+    {
+      "time": "38'",
+      "event": "Delay in match  because of an injury Alejandro Guido (San Diego Loyal)."
+    },
+    {
+      "time": "38'",
+      "event": "Substitution, San Diego Loyal. Collin Martin replaces Alejandro Guido because of an injury."
+    },
+    {
+      "time": "38'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "40'",
+      "event": "Tola Showunmi (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "40'",
+      "event": "Foul by Joe Corona (San Diego Loyal)."
+    },
+    {
+      "time": "41'",
+      "event": "Attempt blocked. Nick Moon (San Diego Loyal) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "41'",
+      "event": "Attempt missed. Evan Conway (San Diego Loyal) left footed shot from the left side of the box is close, but misses the top right corner."
+    },
+    {
+      "time": "42'",
+      "event": "Goal!  Pittsburgh Riverhounds SC 0, San Diego Loyal 1. Adrien Perez (San Diego Loyal) left footed shot from outside the box to the top left corner. Assisted by Camden Riley."
+    },
+    {
+      "time": "44'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Koke Vegas."
+    },
+    {
+      "time": "45'",
+      "event": "Foul by Luke Biasi (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "45'",
+      "event": "Nick Moon (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt blocked. Evan Conway (San Diego Loyal) left footed shot from outside the box is blocked. Assisted by Elliot Collier."
+    },
+    {
+      "time": "45+6'",
+      "event": "Foul by Tola Showunmi (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "45+6'",
+      "event": "Joe Corona (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+7'",
+      "event": "First Half ends, Pittsburgh Riverhounds SC 0, San Diego Loyal 1."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt missed. Evan Conway (San Diego Loyal) left footed shot from the centre of the box is too high."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Danny Griffin (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "47'",
+      "event": "Joe Corona (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "49'",
+      "event": "Brunallergene Etou (Pittsburgh Riverhounds SC) wins a free kick on the right wing."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Joe Corona (San Diego Loyal)."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Brunallergene Etou (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "49'",
+      "event": "Koke Vegas (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "52'",
+      "event": "Foul by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "52'",
+      "event": "Evan Conway (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "52'",
+      "event": "Foul by Abdul Osumanu (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "52'",
+      "event": "Nick Moon (San Diego Loyal) wins a free kick on the left wing."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Kenardo Forbes (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "55'",
+      "event": "Camden Riley (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt missed. Kenardo Forbes (Pittsburgh Riverhounds SC) right footed shot from outside the box misses to the left."
+    },
+    {
+      "time": "56'",
+      "event": "Corner,  San Diego Loyal. Conceded by Arturo Osuna."
+    },
+    {
+      "time": "59'",
+      "event": "Corner,  San Diego Loyal. Conceded by Abdul Osumanu."
+    },
+    {
+      "time": "61'",
+      "event": "Foul by Kenardo Forbes (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "61'",
+      "event": "Joe Corona (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, San Diego Loyal. Tumi Moshobane replaces Elliot Collier."
+    },
+    {
+      "time": "63'",
+      "event": "Tola Showunmi (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Kyle Adams (San Diego Loyal)."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt saved. Adrien Perez (San Diego Loyal) left footed shot from more than 35 yards is saved in the centre of the goal. Assisted by Tumi Moshobane."
+    },
+    {
+      "time": "64'",
+      "event": "Brunallergene Etou (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "64'",
+      "event": "Foul by Collin Martin (San Diego Loyal)."
+    },
+    {
+      "time": "64'",
+      "event": "Collin Martin (San Diego Loyal) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "67'",
+      "event": "Luke Biasi (Pittsburgh Riverhounds SC) wins a free kick on the left wing."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Collin Martin (San Diego Loyal)."
+    },
+    {
+      "time": "67'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Tola Showunmi tries a through ball, but Kenardo Forbes is caught offside."
+    },
+    {
+      "time": "68'",
+      "event": "Goal!  Pittsburgh Riverhounds SC 1, San Diego Loyal 1. Tola Showunmi (Pittsburgh Riverhounds SC) right footed shot from the centre of the box to the bottom left corner. Assisted by Marc Ybarra."
+    },
+    {
+      "time": "71'",
+      "event": "Foul by Danny Griffin (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "71'",
+      "event": "Camden Riley (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "74'",
+      "event": "Delay in match  because of an injury Michael DeShields (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "74'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "74'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Daniel Rovira replaces Michael DeShields because of an injury."
+    },
+    {
+      "time": "74'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Trevor Zwetsloot replaces Kenardo Forbes."
+    },
+    {
+      "time": "75'",
+      "event": "Attempt blocked. Marc Ybarra (Pittsburgh Riverhounds SC) right footed shot from outside the box is blocked. Assisted by Danny Griffin."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Danny Griffin (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "75'",
+      "event": "Kyle Adams (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "75'",
+      "event": "Danny Griffin (Pittsburgh Riverhounds SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "77'",
+      "event": "Attempt missed. Langston Blackstock (Pittsburgh Riverhounds SC) right footed shot from outside the box is high and wide to the right. Assisted by Brunallergene Etou."
+    },
+    {
+      "time": "79'",
+      "event": "Luke Biasi (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "79'",
+      "event": "Foul by Joe Corona (San Diego Loyal)."
+    },
+    {
+      "time": "80'",
+      "event": "Attempt missed. Adrien Perez (San Diego Loyal) left footed shot from outside the box is high and wide to the left. Assisted by Grant Stoneman."
+    },
+    {
+      "time": "81'",
+      "event": "Attempt blocked. Adrien Perez (San Diego Loyal) left footed shot from the right side of the box is blocked. Assisted by Collin Martin."
+    },
+    {
+      "time": "82'",
+      "event": "Attempt saved. Nick Moon (San Diego Loyal) header from very close range is saved in the bottom right corner. Assisted by Camden Riley with a cross."
+    },
+    {
+      "time": "82'",
+      "event": "Delay in match  because of an injury Camden Riley (San Diego Loyal)."
+    },
+    {
+      "time": "83'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Trevor Zwetsloot (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "84'",
+      "event": "Blake Bodily (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "85'",
+      "event": "Delay in match  because of an injury Blake Bodily (San Diego Loyal)."
+    },
+    {
+      "time": "85'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Tony López replaces Marc Ybarra."
+    },
+    {
+      "time": "85'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Burke Fahling replaces Tola Showunmi."
+    },
+    {
+      "time": "86'",
+      "event": "Substitution, San Diego Loyal. Charlie Adams replaces Blake Bodily because of an injury."
+    },
+    {
+      "time": "86'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "86'",
+      "event": "Substitution, San Diego Loyal. Elijah Martin replaces Camden Riley."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt missed. Adrien Perez (San Diego Loyal) left footed shot from the centre of the box is too high. Assisted by Evan Conway."
+    },
+    {
+      "time": "87'",
+      "event": "Tony López (Pittsburgh Riverhounds SC) wins a free kick on the right wing."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Joe Corona (San Diego Loyal)."
+    },
+    {
+      "time": "88'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Burke Fahling tries a through ball, but Danny Griffin is caught offside."
+    },
+    {
+      "time": "88'",
+      "event": "Attempt missed. Tony López (Pittsburgh Riverhounds SC) right footed shot from the centre of the box misses to the left. Assisted by Danny Griffin."
+    },
+    {
+      "time": "90'",
+      "event": "Tony López (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90'",
+      "event": "Foul by Kyle Adams (San Diego Loyal)."
+    },
+    {
+      "time": "90'",
+      "event": "Kyle Adams (San Diego Loyal) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+1'",
+      "event": "Goal!  Pittsburgh Riverhounds SC 2, San Diego Loyal 1. Abdul Osumanu (Pittsburgh Riverhounds SC) header from the centre of the box to the high centre of the goal. Assisted by Burke Fahling with a cross   following a set piece situation."
+    },
+    {
+      "time": "90+2'",
+      "event": "Attempt missed. Adrien Perez (San Diego Loyal) left footed shot from outside the box is high and wide to the left. Assisted by Collin Martin."
+    },
+    {
+      "time": "90+3'",
+      "event": "Tony López (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Collin Martin (San Diego Loyal)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Attempt saved. Tony López (Pittsburgh Riverhounds SC) right footed shot from the left side of the six yard box is saved in the top left corner. Assisted by Danny Griffin with a headed pass."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Burke Fahling (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Charlie Adams (San Diego Loyal) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+7'",
+      "event": "Second Half ends, Pittsburgh Riverhounds SC 2, San Diego Loyal 1."
+    }
+  ]
+}

@@ -1,0 +1,869 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Oakland Roots",
+      "formation": "3-4-2-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Delgado",
+        "players": [
+          {
+            "shirtNumber": "20",
+            "playerName": "Blanchette",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Barbir",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Nane",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Morad",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Diaz",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "90"
+              },
+              {
+                "event": "Second yellow card",
+                "eventTime": "902"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Prentice",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "9"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Cedeno",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Gómez",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Rodriguez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Mfeka",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Formella",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "47",
+            "playerName": "Bailey",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Klimenta",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Wright",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Her",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Reid",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "38",
+            "playerName": "Cruz",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Peláez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Rio Grande Valley FC",
+      "formation": "4-3-3",
+      "score": "2",
+      "lineup": {
+        "managerName": "Cabrera",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Deric",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Nodarse",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Kinzner",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "39"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Ackwei",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Pimentel",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Davila",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Coronado",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Benítez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "58"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Cerro",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "59"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Pinzon",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "86"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "François",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Merancio Valdez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Ricketts",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Ricky Ruiz",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Ritondale",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Cabrera",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "59"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "72"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Galindrez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Frank López",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "65.8%",
+        "Duels_Success_Rate": "49.4%",
+        "Ariel_Duels_Won": "64.3%",
+        "Interceptions": "11",
+        "Offsides": "0",
+        "Corners_Won": "8"
+      },
+      "away": {
+        "Possession": "34.2%",
+        "Duels_Success_Rate": "50.6%",
+        "Ariel_Duels_Won": "35.7%",
+        "Interceptions": "12",
+        "Offsides": "2",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "642",
+        "Long_Passes": "60",
+        "Passing_Accuracy": "87.5%",
+        "Passing_Accuracy_In_Opponent_Half": "74.4%",
+        "Crosses": "23",
+        "Crossing_Accuracy": "8.7%"
+      },
+      "away": {
+        "Passes": "336",
+        "Long_Passes": "64",
+        "Passing_Accuracy": "78.6%",
+        "Passing_Accuracy_In_Opponent_Half": "70.2%",
+        "Crosses": "5",
+        "Crossing_Accuracy": "40.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "5",
+        "Shots_On_Target": "2",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "1",
+        "Shots_Inside_Box": "4",
+        "Shooting_Accuracy": "40.0%"
+      },
+      "away": {
+        "Goals": "2",
+        "Shots": "12",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "0",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "41.7%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "8",
+        "Tackle_Success_Rate": "25.0%",
+        "Clearances": "7"
+      },
+      "away": {
+        "Tackles": "20",
+        "Tackle_Success_Rate": "65.0%",
+        "Clearances": "25"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "12",
+        "Yellow_Cards": "2",
+        "Red_Cards": "1"
+      },
+      "away": {
+        "Fouls_Conceded": "15",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "4'",
+      "event": "Attempt saved. Wolfgang Prentice (Oakland Roots) left footed shot from a difficult angle on the right is saved in the bottom right corner. Assisted by Guillermo Diaz."
+    },
+    {
+      "time": "4'",
+      "event": "Corner,  Oakland Roots. Conceded by Tyler Deric."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Ian Cerro (Rio Grande Valley)."
+    },
+    {
+      "time": "6'",
+      "event": "Guillermo Diaz (Oakland Roots) wins a free kick on the right wing."
+    },
+    {
+      "time": "9'",
+      "event": "Frank Nodarse (Rio Grande Valley) wins a free kick in the attacking half."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Wolfgang Prentice (Oakland Roots)."
+    },
+    {
+      "time": "9'",
+      "event": "Wolfgang Prentice (Oakland Roots) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "11'",
+      "event": "Corner,  Oakland Roots. Conceded by Wahab Ackwei."
+    },
+    {
+      "time": "13'",
+      "event": "Attempt missed. Christiano François (Rio Grande Valley) left footed shot from the centre of the box is close, but misses to the right. Assisted by Ian Cerro."
+    },
+    {
+      "time": "13'",
+      "event": "Corner,  Rio Grande Valley. Conceded by Daniel Gomez."
+    },
+    {
+      "time": "13'",
+      "event": "Attempt missed. Wahab Ackwei (Rio Grande Valley) header from the centre of the box misses to the left. Assisted by Taylor Davila with a cross following a corner."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Ian Cerro (Rio Grande Valley)."
+    },
+    {
+      "time": "16'",
+      "event": "Tarek Morad (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "22'",
+      "event": "Attempt saved. Lindo Mfeka (Oakland Roots) left footed shot from a difficult angle on the right is saved in the top right corner."
+    },
+    {
+      "time": "22'",
+      "event": "Corner,  Oakland Roots. Conceded by Tyler Deric."
+    },
+    {
+      "time": "25'",
+      "event": "Offside, Rio Grande Valley. Christiano François tries a through ball, but Ian Cerro is caught offside."
+    },
+    {
+      "time": "26'",
+      "event": "Robert Coronado (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Daniel Gomez (Oakland Roots)."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Frank Nodarse (Rio Grande Valley)."
+    },
+    {
+      "time": "27'",
+      "event": "Wolfgang Prentice (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "33'",
+      "event": "Delay in match   (Oakland Roots)."
+    },
+    {
+      "time": "33'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Taylor Davila (Rio Grande Valley)."
+    },
+    {
+      "time": "33'",
+      "event": "Daniel Gomez (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "34'",
+      "event": "Hand ball by Christiano François (Rio Grande Valley)."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt saved. Christian Pinzón (Rio Grande Valley) right footed shot from the right side of the box is saved in the top centre of the goal. Assisted by Wahab Ackwei."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt missed. Christiano François (Rio Grande Valley) left footed shot from the left side of the six yard box is close, but misses to the left."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Eric Kinzner (Rio Grande Valley)."
+    },
+    {
+      "time": "39'",
+      "event": "Dariusz Formella (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "39'",
+      "event": "Eric Kinzner (Rio Grande Valley) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "45'",
+      "event": "Attempt missed. Taylor Davila (Rio Grande Valley) left footed shot from outside the box is close, but misses to the left."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt saved. Gabriel Benítez (Rio Grande Valley) left footed shot from a difficult angle on the left is saved in the top left corner. Assisted by Christiano François."
+    },
+    {
+      "time": "45+1'",
+      "event": "Corner,  Rio Grande Valley. Conceded by Paul Blanchette."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, Oakland Roots 0, Rio Grande Valley 0."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Rio Grande Valley. Jonathan Ricketts replaces Eric Kinzner."
+    },
+    {
+      "time": "47'",
+      "event": "Jonathan Ricketts (Rio Grande Valley) wins a free kick on the right wing."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Wolfgang Prentice (Oakland Roots)."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Wahab Ackwei (Rio Grande Valley)."
+    },
+    {
+      "time": "47'",
+      "event": "Johnny Rodriguez (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "48'",
+      "event": "Foul by Taylor Davila (Rio Grande Valley)."
+    },
+    {
+      "time": "48'",
+      "event": "Jeciel Cedeño (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Christian Pinzón (Rio Grande Valley)."
+    },
+    {
+      "time": "49'",
+      "event": "Daniel Barbir (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "49'",
+      "event": "Attempt missed. Guillermo Diaz (Oakland Roots) right footed shot from the right side of the box is high and wide to the left."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Ian Cerro (Rio Grande Valley)."
+    },
+    {
+      "time": "51'",
+      "event": "Joseph Nane (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "52'",
+      "event": "Attempt blocked. Lindo Mfeka (Oakland Roots) header from the centre of the box is blocked. Assisted by Jeciel Cedeño."
+    },
+    {
+      "time": "52'",
+      "event": "Jonathan Ricketts (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "52'",
+      "event": "Foul by Wolfgang Prentice (Oakland Roots)."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by Gabriel Benítez (Rio Grande Valley)."
+    },
+    {
+      "time": "54'",
+      "event": "Guillermo Diaz (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "57'",
+      "event": "Attempt saved. Christiano François (Rio Grande Valley) left footed shot from the left side of the box is saved in the centre of the goal. Assisted by Robert Coronado."
+    },
+    {
+      "time": "58'",
+      "event": "Foul by Gabriel Benítez (Rio Grande Valley)."
+    },
+    {
+      "time": "58'",
+      "event": "Guillermo Diaz (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "58'",
+      "event": "Gabriel Benítez (Rio Grande Valley) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, Rio Grande Valley. Frank López replaces Christiano François."
+    },
+    {
+      "time": "59'",
+      "event": "Substitution, Rio Grande Valley. Wilmer Cabrera replaces Ian Cerro."
+    },
+    {
+      "time": "62'",
+      "event": "Christian Pinzón (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Lindo Mfeka (Oakland Roots)."
+    },
+    {
+      "time": "64'",
+      "event": "Robert Coronado (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "64'",
+      "event": "Foul by Johnny Rodriguez (Oakland Roots)."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Oakland Roots. Anuar Peláez replaces Johnny Rodriguez."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Oakland Roots. Trayvone Reid replaces Wolfgang Prentice."
+    },
+    {
+      "time": "67'",
+      "event": "Wilmer Cabrera (Rio Grande Valley) wins a free kick on the right wing."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Joseph Nane (Oakland Roots)."
+    },
+    {
+      "time": "68'",
+      "event": "Attempt missed. Robert Coronado (Rio Grande Valley) left footed shot from outside the box is close, but misses to the right following a set piece situation."
+    },
+    {
+      "time": "68'",
+      "event": "Attempt missed. Jeciel Cedeño (Oakland Roots) left footed shot from outside the box misses to the left. Assisted by Paul Blanchette."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Frank López (Rio Grande Valley)."
+    },
+    {
+      "time": "69'",
+      "event": "Tarek Morad (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Frank López (Rio Grande Valley)."
+    },
+    {
+      "time": "70'",
+      "event": "Joseph Nane (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "72'",
+      "event": "Goal!  Oakland Roots 0, Rio Grande Valley 1. Wilmer Cabrera (Rio Grande Valley) left footed shot from the centre of the box to the centre of the goal. Assisted by Frank López."
+    },
+    {
+      "time": "75'",
+      "event": "Corner,  Oakland Roots. Conceded by Jonathan Ricketts."
+    },
+    {
+      "time": "77'",
+      "event": "Corner,  Oakland Roots. Conceded by Jonathan Ricketts."
+    },
+    {
+      "time": "78'",
+      "event": "Robert Coronado (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Daniel Gomez (Oakland Roots)."
+    },
+    {
+      "time": "80'",
+      "event": "Goal!  Oakland Roots 0, Rio Grande Valley 2. Wilmer Cabrera (Rio Grande Valley) left footed shot from very close range to the bottom left corner. Assisted by Frank López."
+    },
+    {
+      "time": "82'",
+      "event": "Corner,  Oakland Roots. Conceded by Jonathan Ricketts."
+    },
+    {
+      "time": "82'",
+      "event": "Substitution, Oakland Roots. Ryan Her replaces Jeciel Cedeño."
+    },
+    {
+      "time": "82'",
+      "event": "Corner,  Oakland Roots. Conceded by Frank Nodarse."
+    },
+    {
+      "time": "83'",
+      "event": "Frank López (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "83'",
+      "event": "Foul by Trayvone Reid (Oakland Roots)."
+    },
+    {
+      "time": "83'",
+      "event": "Trayvone Reid (Oakland Roots) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "84'",
+      "event": "Delay in match  because of an injury Frank López (Rio Grande Valley)."
+    },
+    {
+      "time": "85'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "86'",
+      "event": "Delay in match  because of an injury Frank Nodarse (Rio Grande Valley)."
+    },
+    {
+      "time": "86'",
+      "event": "Christian Pinzón (Rio Grande Valley) is shown the yellow card."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, Rio Grande Valley. Juan Galindrez replaces Christian Pinzón because of an injury."
+    },
+    {
+      "time": "87'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "88'",
+      "event": "Attempt missed. Wilmer Cabrera (Rio Grande Valley) left footed shot from the left side of the box misses to the right. Assisted by Juan Galindrez following a fast break."
+    },
+    {
+      "time": "89'",
+      "event": "Substitution, Rio Grande Valley. Ricky Ruiz replaces Gabriel Benítez."
+    },
+    {
+      "time": "90'",
+      "event": "Corner,  Oakland Roots. Conceded by Wahab Ackwei."
+    },
+    {
+      "time": "90'",
+      "event": "Érik Pimentel (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90'",
+      "event": "Foul by Guillermo Diaz (Oakland Roots)."
+    },
+    {
+      "time": "90'",
+      "event": "Guillermo Diaz (Oakland Roots) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+1'",
+      "event": "Delay in match  because of an injury Érik Pimentel (Rio Grande Valley)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+2'",
+      "event": "Wilmer Cabrera (Rio Grande Valley) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Guillermo Diaz (Oakland Roots)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Second yellow card to Guillermo Diaz (Oakland Roots) for a bad foul."
+    },
+    {
+      "time": "90+3'",
+      "event": "Attempt missed. Frank López (Rio Grande Valley) right footed shot from outside the box is high and wide to the left from a direct free kick."
+    },
+    {
+      "time": "90+4'",
+      "event": "Foul by Jonathan Ricketts (Rio Grande Valley)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Trayvone Reid (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+5'",
+      "event": "Offside, Rio Grande Valley. Érik Pimentel tries a through ball, but Juan Galindrez is caught offside."
+    },
+    {
+      "time": "90+6'",
+      "event": "Ricky Ruiz (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+6'",
+      "event": "Foul by Ryan Her (Oakland Roots)."
+    },
+    {
+      "time": "90+7'",
+      "event": "Second Half ends, Oakland Roots 0, Rio Grande Valley 2."
+    }
+  ]
+}

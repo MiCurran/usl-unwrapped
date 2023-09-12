@@ -1,0 +1,801 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Las Vegas Lights FC",
+      "formation": "4-1-4-1",
+      "score": "3",
+      "lineup": {
+        "managerName": "Sánchez",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Díaz",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Stauffer",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Bagley",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "98",
+            "playerName": "Zali",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "51"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Mitrano",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Bushue",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Tabort Etaka",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "60"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Ingram",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Carleton",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "67"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Oteng",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Botello Faz",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "903"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Zuluaga-Silva",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Carroll",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "51"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Lage",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Gonzalez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Jimenez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "45",
+            "playerName": "Ledesma",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Rios",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Birmingham Legion FC",
+      "formation": "4-3-3",
+      "score": "3",
+      "lineup": {
+        "managerName": "Soehn",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Van Oekel",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Rufe",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Mensah",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Crognale",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Kavita",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "905"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Asiedu",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Pasher",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Kasim",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Enzo Martínez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Brett",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Agudelo",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "31"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Spangenberg",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Reveno",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Corcoran",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Dupont",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Nwegbo",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "67"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "55.4%",
+        "Duels_Success_Rate": "48.6%",
+        "Ariel_Duels_Won": "44.0%",
+        "Interceptions": "9",
+        "Offsides": "1",
+        "Corners_Won": "8"
+      },
+      "away": {
+        "Possession": "44.6%",
+        "Duels_Success_Rate": "51.4%",
+        "Ariel_Duels_Won": "56.0%",
+        "Interceptions": "8",
+        "Offsides": "4",
+        "Corners_Won": "5"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "477",
+        "Long_Passes": "68",
+        "Passing_Accuracy": "83.0%",
+        "Passing_Accuracy_In_Opponent_Half": "67.5%",
+        "Crosses": "23",
+        "Crossing_Accuracy": "26.1%"
+      },
+      "away": {
+        "Passes": "386",
+        "Long_Passes": "57",
+        "Passing_Accuracy": "76.7%",
+        "Passing_Accuracy_In_Opponent_Half": "68.8%",
+        "Crosses": "10",
+        "Crossing_Accuracy": "40.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "3",
+        "Shots": "20",
+        "Shots_On_Target": "7",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "14",
+        "Shooting_Accuracy": "35.0%"
+      },
+      "away": {
+        "Goals": "3",
+        "Shots": "16",
+        "Shots_On_Target": "8",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "10",
+        "Shooting_Accuracy": "50.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "76.9%",
+        "Clearances": "13"
+      },
+      "away": {
+        "Tackles": "12",
+        "Tackle_Success_Rate": "66.7%",
+        "Clearances": "22"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "6",
+        "Yellow_Cards": "0",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "6",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "6'",
+      "event": "Foul by Alejandro Mitrano (Las Vegas Lights FC)."
+    },
+    {
+      "time": "6'",
+      "event": "Neco Brett (Birmingham Legion) wins a free kick on the right wing."
+    },
+    {
+      "time": "9'",
+      "event": "Andrew Carleton (Las Vegas Lights FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt missed. Tabort Preston (Las Vegas Lights FC) left footed shot from outside the box is too high. Assisted by Lucas Stauffer."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt saved. Neco Brett (Birmingham Legion) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Alex Crognale with a through ball."
+    },
+    {
+      "time": "11'",
+      "event": "Andrew Carleton (Las Vegas Lights FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Anderson Asiedu (Birmingham Legion)."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt saved. Andrew Carleton (Las Vegas Lights FC) right footed shot from outside the box is saved in the bottom right corner."
+    },
+    {
+      "time": "13'",
+      "event": "Offside, Birmingham Legion. Prosper Kasim tries a through ball, but Enzo Martínez is caught offside."
+    },
+    {
+      "time": "14'",
+      "event": "Attempt missed. Prosper Kasim (Birmingham Legion) left footed shot from outside the box is just a bit too high. Assisted by Tyler Pasher."
+    },
+    {
+      "time": "22'",
+      "event": "Attempt saved. Tyler Pasher (Birmingham Legion) right footed shot from the left side of the box is saved in the bottom right corner. Assisted by Anderson Asiedu."
+    },
+    {
+      "time": "22'",
+      "event": "Corner,  Birmingham Legion. Conceded by Leo Díaz."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt blocked. Anderson Asiedu (Birmingham Legion) right footed shot from outside the box is blocked. Assisted by Phanuel Kavita with a headed pass."
+    },
+    {
+      "time": "27'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Juan Agudelo."
+    },
+    {
+      "time": "27'",
+      "event": "Attempt missed. Timothie Zali (Las Vegas Lights FC) right footed shot from the left side of the six yard box misses to the left following a corner."
+    },
+    {
+      "time": "29'",
+      "event": "Offside, Birmingham Legion. Juan Agudelo tries a through ball, but Neco Brett is caught offside."
+    },
+    {
+      "time": "31'",
+      "event": "Goal!  Las Vegas Lights FC 0, Birmingham Legion 1. Juan Agudelo (Birmingham Legion) header from the centre of the box to the top left corner. Assisted by Enzo Martínez with a cross."
+    },
+    {
+      "time": "32'",
+      "event": "Delay in match   (Birmingham Legion)."
+    },
+    {
+      "time": "33'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt missed. Enzo Martínez (Birmingham Legion) right footed shot from very close range is too high. Assisted by Moses Mensah with a cross."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt blocked. Andrew Carleton (Las Vegas Lights FC) left footed shot from the centre of the box is blocked. Assisted by Tabort Preston."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt saved. Tabort Preston (Las Vegas Lights FC) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Justin Ingram."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt missed. Enzo Martínez (Birmingham Legion) left footed shot from outside the box is too high. Assisted by Neco Brett."
+    },
+    {
+      "time": "39'",
+      "event": "Attempt saved. Andrew Carleton (Las Vegas Lights FC) right footed shot from outside the box is saved in the top right corner. Assisted by Lucas Stauffer."
+    },
+    {
+      "time": "39'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Matt Van Oekel."
+    },
+    {
+      "time": "41'",
+      "event": "Attempt missed. Tabort Preston (Las Vegas Lights FC) right footed shot from the centre of the box is just a bit too high. Assisted by Andrew Carleton with a through ball."
+    },
+    {
+      "time": "43'",
+      "event": "Tabort Preston (Las Vegas Lights FC) hits the left post with a right footed shot from the right side of the box."
+    },
+    {
+      "time": "44'",
+      "event": "Moses Mensah (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by Andrew Carleton (Las Vegas Lights FC)."
+    },
+    {
+      "time": "45'",
+      "event": "Goal!  Las Vegas Lights FC 0, Birmingham Legion 2. Tyler Pasher (Birmingham Legion) left footed shot from outside the box to the bottom right corner. Assisted by Enzo Martínez."
+    },
+    {
+      "time": "45+1'",
+      "event": "Delay in match  because of an injury Timothie Zali (Las Vegas Lights FC)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "45+3'",
+      "event": "Attempt blocked. Neco Brett (Birmingham Legion) right footed shot from the centre of the box is blocked. Assisted by Tyler Pasher."
+    },
+    {
+      "time": "45+3'",
+      "event": "Attempt saved. Juan Agudelo (Birmingham Legion) right footed shot from the centre of the box is saved in the top right corner."
+    },
+    {
+      "time": "45+3'",
+      "event": "Corner,  Birmingham Legion. Conceded by Leo Díaz."
+    },
+    {
+      "time": "45+4'",
+      "event": "Attempt blocked. Prosper Kasim (Birmingham Legion) left footed shot from outside the box is blocked. Assisted by Tyler Pasher."
+    },
+    {
+      "time": "45+4'",
+      "event": "Attempt missed. Jacob Bushue (Las Vegas Lights FC) left footed shot from outside the box is high and wide to the right."
+    },
+    {
+      "time": "45+5'",
+      "event": "First Half ends, Las Vegas Lights FC 0, Birmingham Legion 2."
+    },
+    {
+      "time": "46'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Jake Rufe."
+    },
+    {
+      "time": "46'",
+      "event": "Attempt missed. Pato Botello Faz (Las Vegas Lights FC) header from the centre of the box misses to the right. Assisted by Justin Ingram with a cross following a corner."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Anderson Asiedu (Birmingham Legion)."
+    },
+    {
+      "time": "49'",
+      "event": "Andrew Carleton (Las Vegas Lights FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "51'",
+      "event": "Substitution, Las Vegas Lights FC. Zach Carroll replaces Timothie Zali because of an injury."
+    },
+    {
+      "time": "54'",
+      "event": "Offside, Las Vegas Lights FC. Zach Carroll tries a through ball, but Pato Botello Faz is caught offside."
+    },
+    {
+      "time": "57'",
+      "event": "Attempt saved. Andrew Carleton (Las Vegas Lights FC) left footed shot from the centre of the box is saved in the bottom left corner. Assisted by Eric Oteng."
+    },
+    {
+      "time": "57'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Matt Van Oekel."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt blocked. Eric Oteng (Las Vegas Lights FC) left footed shot from the left side of the box is blocked."
+    },
+    {
+      "time": "58'",
+      "event": "Anderson Asiedu (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "58'",
+      "event": "Foul by Andrew Carleton (Las Vegas Lights FC)."
+    },
+    {
+      "time": "59'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Alex Crognale."
+    },
+    {
+      "time": "60'",
+      "event": "Goal!  Las Vegas Lights FC 1, Birmingham Legion 2. Tabort Preston (Las Vegas Lights FC) left footed shot from very close range to the bottom left corner. Assisted by Zach Carroll with a headed pass   following a corner."
+    },
+    {
+      "time": "63'",
+      "event": "Moses Mensah (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Lucas Stauffer (Las Vegas Lights FC)."
+    },
+    {
+      "time": "64'",
+      "event": "Offside, Birmingham Legion. Moses Mensah tries a through ball, but Neco Brett is caught offside."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt blocked. Andrew Carleton (Las Vegas Lights FC) header from the centre of the box is blocked. Assisted by Tyler Bagley with a cross."
+    },
+    {
+      "time": "65'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Phanuel Kavita."
+    },
+    {
+      "time": "66'",
+      "event": "Attempt missed. Tyler Bagley (Las Vegas Lights FC) right footed shot from outside the box is high and wide to the right. Assisted by Eric Oteng with a headed pass following a corner."
+    },
+    {
+      "time": "67'",
+      "event": "Goal!  Las Vegas Lights FC 2, Birmingham Legion 2. Andrew Carleton (Las Vegas Lights FC) right footed shot from the centre of the box to the bottom left corner."
+    },
+    {
+      "time": "67'",
+      "event": "Substitution, Birmingham Legion. Diba Nwegbo replaces Neco Brett."
+    },
+    {
+      "time": "67'",
+      "event": "Substitution, Birmingham Legion. Matthew Corcoran replaces Prosper Kasim."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "69'",
+      "event": "Justin Ingram (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "69'",
+      "event": "Enzo Martínez (Birmingham Legion) hits the left post with a right footed shot from the centre of the box. Assisted by Diba Nwegbo."
+    },
+    {
+      "time": "69'",
+      "event": "Corner,  Birmingham Legion. Conceded by Alejandro Mitrano."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt saved. Enzo Martínez (Birmingham Legion) right footed shot from the centre of the box is saved in the top centre of the goal. Assisted by Phanuel Kavita."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt saved. Jake Rufe (Birmingham Legion) right footed shot from outside the box is saved in the top centre of the goal."
+    },
+    {
+      "time": "72'",
+      "event": "Corner,  Birmingham Legion. Conceded by Leo Díaz."
+    },
+    {
+      "time": "72'",
+      "event": "Delay in match  because of an injury Leo Díaz (Las Vegas Lights FC)."
+    },
+    {
+      "time": "73'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt blocked. Diba Nwegbo (Birmingham Legion) header from a difficult angle on the left is blocked. Assisted by Matthew Corcoran with a cross."
+    },
+    {
+      "time": "76'",
+      "event": "Diba Nwegbo (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "76'",
+      "event": "Foul by Justin Ingram (Las Vegas Lights FC)."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, Las Vegas Lights FC. Azriel González replaces Eric Oteng."
+    },
+    {
+      "time": "81'",
+      "event": "Corner,  Birmingham Legion. Conceded by Zach Carroll."
+    },
+    {
+      "time": "81'",
+      "event": "Goal!  Las Vegas Lights FC 2, Birmingham Legion 3. Enzo Martínez (Birmingham Legion) left footed shot from very close range to the bottom right corner. Assisted by Phanuel Kavita with a headed pass   following a corner."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Las Vegas Lights FC. Daniel Ríos replaces Justin Ingram."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Las Vegas Lights FC. Andrés Jiménez replaces Jacob Bushue."
+    },
+    {
+      "time": "85'",
+      "event": "Substitution, Las Vegas Lights FC. Emmanuel Ledesma replaces Andrew Carleton."
+    },
+    {
+      "time": "85'",
+      "event": "Offside, Birmingham Legion. Juan Agudelo tries a through ball, but Moses Mensah is caught offside."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "87'",
+      "event": "Andrés Jiménez (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "88'",
+      "event": "Tabort Preston (Las Vegas Lights FC) hits the right post with a header from the centre of the box. Assisted by Alejandro Mitrano with a cross."
+    },
+    {
+      "time": "89'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Moses Mensah."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt blocked. Lucas Stauffer (Las Vegas Lights FC) right footed shot from outside the box is blocked. Assisted by Daniel Ríos."
+    },
+    {
+      "time": "90'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Moses Mensah."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt missed. Alejandro Mitrano (Las Vegas Lights FC) header from the left side of the six yard box is too high. Assisted by Emmanuel Ledesma with a cross following a corner."
+    },
+    {
+      "time": "90+1'",
+      "event": "Substitution, Birmingham Legion. Grayson Dupont replaces Juan Agudelo."
+    },
+    {
+      "time": "90+3'",
+      "event": "Goal!  Las Vegas Lights FC 3, Birmingham Legion 3. Pato Botello Faz (Las Vegas Lights FC) right footed shot from the centre of the box to the bottom right corner. Assisted by Emmanuel Ledesma."
+    },
+    {
+      "time": "90+4'",
+      "event": "Hand ball by Tabort Preston (Las Vegas Lights FC)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Phanuel Kavita (Birmingham Legion)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Daniel Ríos (Las Vegas Lights FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+5'",
+      "event": "Phanuel Kavita (Birmingham Legion) is shown the yellow card."
+    },
+    {
+      "time": "90+6'",
+      "event": "Second Half ends, Las Vegas Lights FC 3, Birmingham Legion 3."
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Colorado Springs Switchbacks FC",
+      "formation": "3-4-3‏D",
+      "score": "2",
+      "lineup": {
+        "managerName": "Hogan",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Herrera",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "41",
+            "playerName": "Musa",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Agren",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Mahoney",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Magee",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Seagrist",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Echeverria",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "80",
+            "playerName": "Williams",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Tejada",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "61"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Beckford",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "59"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Foster",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Joe Kuzminsky",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Erdmann",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Chapman",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Skundrich",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Fjeldberg",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Wheeler",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Romario Williams",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "75"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "The Miami FC",
+      "formation": "4-4-2",
+      "score": "0",
+      "lineup": {
+        "managerName": "Neal",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "McGuire",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Mines",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Stanley",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Craig",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Hernández",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Segbers",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Salazar",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Dowouna",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Sorto",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Murphy",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Repetto",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Zendejas",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Alarcon",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "DiMercurio",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Gabriel de Freitas",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "74"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rivas",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Sanna-Lenzi",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "50.0%",
+        "Duels_Success_Rate": "49.2%",
+        "Ariel_Duels_Won": "57.1%",
+        "Interceptions": "12",
+        "Offsides": "5",
+        "Corners_Won": "5"
+      },
+      "away": {
+        "Possession": "50.0%",
+        "Duels_Success_Rate": "50.8%",
+        "Ariel_Duels_Won": "42.9%",
+        "Interceptions": "11",
+        "Offsides": "0",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "424",
+        "Long_Passes": "56",
+        "Passing_Accuracy": "79.2%",
+        "Passing_Accuracy_In_Opponent_Half": "70.6%",
+        "Crosses": "13",
+        "Crossing_Accuracy": "30.8%"
+      },
+      "away": {
+        "Passes": "424",
+        "Long_Passes": "55",
+        "Passing_Accuracy": "79.7%",
+        "Passing_Accuracy_In_Opponent_Half": "70.5%",
+        "Crosses": "13",
+        "Crossing_Accuracy": "15.4%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "13",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "38.5%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "15",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "8",
+        "Shooting_Accuracy": "26.7%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "8",
+        "Tackle_Success_Rate": "50.0%",
+        "Clearances": "8"
+      },
+      "away": {
+        "Tackles": "10",
+        "Tackle_Success_Rate": "80.0%",
+        "Clearances": "24"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "11",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "10",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "2'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Jake McGuire."
+    },
+    {
+      "time": "3'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Juan Tejada (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "4'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Devon Williams (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "5'",
+      "event": "Foul by Mark Segbers (The Miami FC)."
+    },
+    {
+      "time": "5'",
+      "event": "Tyreek Magee (Colorado Springs Switchbacks) wins a free kick in the attacking half."
+    },
+    {
+      "time": "6'",
+      "event": "Attempt saved. Devon Williams (Colorado Springs Switchbacks) right footed shot from more than 35 yards is saved in the top left corner."
+    },
+    {
+      "time": "7'",
+      "event": "Offside, Colorado Springs Switchbacks. Patrick Seagrist tries a through ball, but Juan Tejada is caught offside."
+    },
+    {
+      "time": "8'",
+      "event": "Offside, Colorado Springs Switchbacks. Juan Tejada tries a through ball, but Maalique Foster is caught offside."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt saved. Maalique Foster (Colorado Springs Switchbacks) right footed shot from outside the box is saved in the centre of the goal. Assisted by Patrick Seagrist."
+    },
+    {
+      "time": "10'",
+      "event": "Kyle Murphy (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "10'",
+      "event": "Foul by Maalique Foster (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Claudio Repetto (The Miami FC)."
+    },
+    {
+      "time": "12'",
+      "event": "James Musa (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Aedan Stanley."
+    },
+    {
+      "time": "14'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Paco Craig."
+    },
+    {
+      "time": "15'",
+      "event": "Attempt missed. Maalique Foster (Colorado Springs Switchbacks) right footed shot from the centre of the box is too high. Assisted by Devon Williams."
+    },
+    {
+      "time": "15'",
+      "event": "Attempt missed. Deshane Beckford (Colorado Springs Switchbacks) right footed shot from the right side of the box misses to the left. Assisted by Tyreek Magee."
+    },
+    {
+      "time": "16'",
+      "event": "Attempt blocked. Tyreek Magee (Colorado Springs Switchbacks) left footed shot from the centre of the box is blocked. Assisted by Matt Mahoney."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Dennis Dowouna (The Miami FC)."
+    },
+    {
+      "time": "19'",
+      "event": "Tyreek Magee (Colorado Springs Switchbacks) wins a free kick in the attacking half."
+    },
+    {
+      "time": "22'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "22'",
+      "event": "Foul by Juan Tejada (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt saved. Michael Salazar (The Miami FC) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Christian Sorto."
+    },
+    {
+      "time": "24'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Michael Salazar."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Kyle Murphy (The Miami FC)."
+    },
+    {
+      "time": "30'",
+      "event": "Oskar Agren (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "31'",
+      "event": "Offside, Colorado Springs Switchbacks. Tyreek Magee tries a through ball, but Maalique Foster is caught offside."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Moisés Hernández (The Miami FC)."
+    },
+    {
+      "time": "33'",
+      "event": "Tyreek Magee (Colorado Springs Switchbacks) wins a free kick in the attacking half."
+    },
+    {
+      "time": "34'",
+      "event": "Attempt missed. Tyreek Magee (Colorado Springs Switchbacks) left footed shot from outside the box is too high from a direct free kick."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt blocked. Maalique Foster (Colorado Springs Switchbacks) right footed shot from the centre of the box is blocked. Assisted by Steven Echevarria."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt saved. Deshane Beckford (Colorado Springs Switchbacks) left footed shot from the right side of the box is saved in the bottom right corner. Assisted by Steven Echevarria."
+    },
+    {
+      "time": "38'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Deshane Beckford (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Christian Sorto (The Miami FC)."
+    },
+    {
+      "time": "39'",
+      "event": "Steven Echevarria (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "44'",
+      "event": "Kyle Murphy (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by James Musa (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt blocked. Christian Sorto (The Miami FC) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt blocked. Christian Sorto (The Miami FC) right footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt saved. Christian Sorto (The Miami FC) left footed shot from outside the box is saved in the top left corner. Assisted by Michael Salazar."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, Colorado Springs Switchbacks 0, The Miami FC 0."
+    },
+    {
+      "time": "46'",
+      "event": "Attempt blocked. Tyreek Magee (Colorado Springs Switchbacks) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt missed. Matt Mahoney (Colorado Springs Switchbacks) header from the centre of the box misses to the right. Assisted by Patrick Seagrist with a cross."
+    },
+    {
+      "time": "48'",
+      "event": "Foul by Michael Salazar (The Miami FC)."
+    },
+    {
+      "time": "48'",
+      "event": "Devon Williams (Colorado Springs Switchbacks) wins a free kick in the attacking half."
+    },
+    {
+      "time": "48'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Mark Segbers."
+    },
+    {
+      "time": "53'",
+      "event": "Offside, Colorado Springs Switchbacks. Tyreek Magee tries a through ball, but Maalique Foster is caught offside."
+    },
+    {
+      "time": "54'",
+      "event": "Corner,  The Miami FC. Conceded by James Musa."
+    },
+    {
+      "time": "59'",
+      "event": "Goal!  Colorado Springs Switchbacks 1, The Miami FC 0. Deshane Beckford (Colorado Springs Switchbacks) right footed shot from the left side of the box to the bottom right corner. Assisted by Patrick Seagrist."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, Colorado Springs Switchbacks. Romario Williams replaces Deshane Beckford."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, Colorado Springs Switchbacks. Jay Chapman replaces Steven Echevarria."
+    },
+    {
+      "time": "61'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "61'",
+      "event": "Foul by Juan Tejada (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "61'",
+      "event": "Juan Tejada (Colorado Springs Switchbacks) is shown the yellow card."
+    },
+    {
+      "time": "62'",
+      "event": "Corner,  The Miami FC. Conceded by Patrick Seagrist."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt missed. Michael Salazar (The Miami FC) right footed shot from the centre of the box misses to the right. Assisted by Aedan Stanley with a cross following a corner."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt missed. Claudio Repetto (The Miami FC) right footed shot from very close range misses to the left following a corner."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, The Miami FC. Joaquín Rivas replaces Claudio Repetto."
+    },
+    {
+      "time": "65'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Jay Chapman (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "67'",
+      "event": "Substitution, Colorado Springs Switchbacks. Jonas Fjeldberg replaces Juan Tejada."
+    },
+    {
+      "time": "68'",
+      "event": "Offside, Colorado Springs Switchbacks. Jonas Fjeldberg tries a through ball, but Romario Williams is caught offside."
+    },
+    {
+      "time": "73'",
+      "event": "Attempt saved. Ben Mines (The Miami FC) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Christian Sorto."
+    },
+    {
+      "time": "73'",
+      "event": "Attempt missed. Joaquín Rivas (The Miami FC) right footed shot from the centre of the box misses to the left."
+    },
+    {
+      "time": "73'",
+      "event": "Attempt missed. Michael Salazar (The Miami FC) left footed shot from the centre of the box is high and wide to the right. Assisted by Kyle Murphy."
+    },
+    {
+      "time": "74'",
+      "event": "Substitution, The Miami FC. Gabriel Cabral replaces Dennis Dowouna."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Ben Mines (The Miami FC)."
+    },
+    {
+      "time": "74'",
+      "event": "Maalique Foster (Colorado Springs Switchbacks) wins a free kick on the left wing."
+    },
+    {
+      "time": "75'",
+      "event": "Goal!  Colorado Springs Switchbacks 2, The Miami FC 0. Romario Williams (Colorado Springs Switchbacks) right footed shot from very close range to the top left corner. Assisted by Patrick Seagrist."
+    },
+    {
+      "time": "77'",
+      "event": "Gabriel Cabral (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "77'",
+      "event": "Foul by Tyreek Magee (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "78'",
+      "event": "Attempt saved. Gabriel Cabral (The Miami FC) right footed shot from outside the box is saved in the top right corner."
+    },
+    {
+      "time": "78'",
+      "event": "Corner,  The Miami FC. Conceded by Christian Herrera."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt missed. Michael Salazar (The Miami FC) header from the centre of the box is just a bit too high. Assisted by Aedan Stanley with a cross following a corner."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt blocked. Maalique Foster (Colorado Springs Switchbacks) right footed shot from outside the box is blocked. Assisted by Romario Williams."
+    },
+    {
+      "time": "83'",
+      "event": "Foul by Gabriel Cabral (The Miami FC)."
+    },
+    {
+      "time": "83'",
+      "event": "Maalique Foster (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "83'",
+      "event": "Gabriel Cabral (The Miami FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "85'",
+      "event": "Hand ball by James Musa (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "85'",
+      "event": "Substitution, The Miami FC. Lorenzo DiMercurio replaces Christian Sorto."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt missed. Joaquín Rivas (The Miami FC) left footed shot from outside the box is high and wide to the left. Assisted by Aedan Stanley from a direct free kick."
+    },
+    {
+      "time": "86'",
+      "event": "Substitution, Colorado Springs Switchbacks. Dennis Erdmann replaces Maalique Foster."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Paco Craig (The Miami FC)."
+    },
+    {
+      "time": "87'",
+      "event": "Romario Williams (Colorado Springs Switchbacks) wins a free kick in the attacking half."
+    },
+    {
+      "time": "88'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Tyreek Magee (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "88'",
+      "event": "Attempt missed. Moisés Hernández (The Miami FC) left footed shot from outside the box is too high. Assisted by Paco Craig."
+    },
+    {
+      "time": "90'",
+      "event": "Corner,  The Miami FC. Conceded by Christian Herrera."
+    },
+    {
+      "time": "90+2'",
+      "event": "Attempt missed. Mark Segbers (The Miami FC) right footed shot from outside the box is just a bit too high. Assisted by Gabriel Cabral."
+    },
+    {
+      "time": "90+4'",
+      "event": "Attempt missed. Lorenzo DiMercurio (The Miami FC) left footed shot from outside the box is too high. Assisted by Michael Salazar."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Colorado Springs Switchbacks 2, The Miami FC 0."
+    }
+  ]
+}

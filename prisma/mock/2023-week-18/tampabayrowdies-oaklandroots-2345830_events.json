@@ -1,0 +1,858 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Tampa Bay Rowdies",
+      "formation": "3-5-2",
+      "score": "3",
+      "lineup": {
+        "managerName": "Collins",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Sparrow",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Guillén",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Lasso",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Antley",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Dalgaard",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Areman",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Dennis",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Ekra",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Doherty",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Jennings",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "8"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "41"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "58"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "J.J. Williams",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Breno",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Kleemann",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Harris",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "LaCava",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Martínez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Lucky Mkosana",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Oakland Roots",
+      "formation": "3-4-3",
+      "score": "0",
+      "lineup": {
+        "managerName": "Delgado",
+        "players": [
+          {
+            "shirtNumber": "20",
+            "playerName": "Blanchette",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Barbir",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Morad",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Klimenta",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Prentice",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Wright",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Nane",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "43"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Matsoso",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Formella",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Mfeka",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Reid",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "47",
+            "playerName": "Bailey",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Hackshaw",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Tamacas",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Gómez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Cedeno",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Peláez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Rodriguez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "65"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "48.9%",
+        "Duels_Success_Rate": "58.3%",
+        "Ariel_Duels_Won": "90.0%",
+        "Interceptions": "9",
+        "Offsides": "0",
+        "Corners_Won": "5"
+      },
+      "away": {
+        "Possession": "51.1%",
+        "Duels_Success_Rate": "41.7%",
+        "Ariel_Duels_Won": "10.0%",
+        "Interceptions": "12",
+        "Offsides": "1",
+        "Corners_Won": "3"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "439",
+        "Long_Passes": "36",
+        "Passing_Accuracy": "83.6%",
+        "Passing_Accuracy_In_Opponent_Half": "73.4%",
+        "Crosses": "17",
+        "Crossing_Accuracy": "35.3%"
+      },
+      "away": {
+        "Passes": "471",
+        "Long_Passes": "53",
+        "Passing_Accuracy": "83.0%",
+        "Passing_Accuracy_In_Opponent_Half": "73.0%",
+        "Crosses": "8",
+        "Crossing_Accuracy": "50.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "3",
+        "Shots": "13",
+        "Shots_On_Target": "7",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "10",
+        "Shooting_Accuracy": "53.8%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "14",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "35.7%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "53.8%",
+        "Clearances": "12"
+      },
+      "away": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "69.2%",
+        "Clearances": "11"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "0",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "12",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Foul by Conner Antley (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "1'",
+      "event": "Trayvone Reid (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "2'",
+      "event": "Offside, Oakland Roots. Daniel Barbir tries a through ball, but Lindo Mfeka is caught offside."
+    },
+    {
+      "time": "8'",
+      "event": "Goal!  Tampa Bay Rowdies 1, Oakland Roots 0. Cal Jennings (Tampa Bay Rowdies) left footed shot from the centre of the box to the centre of the goal. Assisted by Sebastian Dalgaard."
+    },
+    {
+      "time": "9'",
+      "event": "Attempt saved. Lindo Mfeka (Oakland Roots) left footed shot from outside the box is saved in the bottom left corner. Assisted by Wolfgang Prentice."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Conner Antley (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "12'",
+      "event": "Trayvone Reid (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Jake Areman (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Lindo Mfeka (Oakland Roots)."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Charlie Dennis (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "14'",
+      "event": "Joseph Nane (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "15'",
+      "event": "Corner,  Tampa Bay Rowdies. Conceded by Wolfgang Prentice."
+    },
+    {
+      "time": "15'",
+      "event": "Foul by Forrest Lasso (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "15'",
+      "event": "Tarek Morad (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "16'",
+      "event": "Attempt missed. Dariusz Formella (Oakland Roots) right footed shot from the centre of the box is close, but misses to the left. Assisted by Trayvone Reid."
+    },
+    {
+      "time": "18'",
+      "event": "Attempt saved. Lindo Mfeka (Oakland Roots) left footed shot from outside the box is saved in the centre of the goal. Assisted by Trayvone Reid."
+    },
+    {
+      "time": "18'",
+      "event": "Attempt missed. Trayvone Reid (Oakland Roots) right footed shot from outside the box is too high. Assisted by Lindo Mfeka."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt saved. Yann Ekra (Tampa Bay Rowdies) right footed shot from outside the box is saved in the centre of the goal. Assisted by Conner Antley."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Charlie Dennis (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "28'",
+      "event": "Trayvone Reid (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "29'",
+      "event": "Corner,  Oakland Roots. Conceded by Aarón Guillén."
+    },
+    {
+      "time": "30'",
+      "event": "Sebastian Dalgaard (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Emrah Klimenta (Oakland Roots)."
+    },
+    {
+      "time": "32'",
+      "event": "Hand ball by Trayvone Reid (Oakland Roots)."
+    },
+    {
+      "time": "32'",
+      "event": "Delay in match   (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "34'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt saved. Cal Jennings (Tampa Bay Rowdies) right footed shot from the centre of the box is saved in the top centre of the goal. Assisted by Jake Areman with a cross."
+    },
+    {
+      "time": "35'",
+      "event": "Corner,  Tampa Bay Rowdies. Conceded by Paul Blanchette."
+    },
+    {
+      "time": "35'",
+      "event": "Lindo Mfeka (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Charlie Dennis (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "37'",
+      "event": "Corner,  Tampa Bay Rowdies. Conceded by Daniel Barbir."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Emrah Klimenta (Oakland Roots)."
+    },
+    {
+      "time": "39'",
+      "event": "Charlie Dennis (Tampa Bay Rowdies) wins a free kick in the attacking half."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt saved. Sebastian Dalgaard (Tampa Bay Rowdies) left footed shot from the right side of the box is saved in the bottom right corner. Assisted by Jordan Doherty."
+    },
+    {
+      "time": "41'",
+      "event": "Goal!  Tampa Bay Rowdies 2, Oakland Roots 0. Cal Jennings (Tampa Bay Rowdies) right footed shot from the right side of the box to the bottom left corner. Assisted by Jerome Williams."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Joseph Nane (Oakland Roots)."
+    },
+    {
+      "time": "43'",
+      "event": "Jordan Doherty (Tampa Bay Rowdies) wins a free kick in the attacking half."
+    },
+    {
+      "time": "43'",
+      "event": "Joseph Nane (Oakland Roots) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by Forrest Lasso (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "44'",
+      "event": "Emrah Klimenta (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt saved. Cal Jennings (Tampa Bay Rowdies) left footed shot from outside the box is saved in the top right corner. Assisted by Jake Areman."
+    },
+    {
+      "time": "45+1'",
+      "event": "Trayvone Reid (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+1'",
+      "event": "Foul by Conner Antley (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt missed. Napo Matsoso (Oakland Roots) left footed shot from the centre of the box is high and wide to the left. Assisted by Dariusz Formella."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, Tampa Bay Rowdies 2, Oakland Roots 0."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Oakland Roots. Jeciel Cedeño replaces Joseph Nane."
+    },
+    {
+      "time": "46'",
+      "event": "Charlie Dennis (Tampa Bay Rowdies) wins a free kick on the right wing."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Jeciel Cedeño (Oakland Roots)."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Kevin Wright (Oakland Roots)."
+    },
+    {
+      "time": "47'",
+      "event": "Sebastian Dalgaard (Tampa Bay Rowdies) wins a free kick on the right wing."
+    },
+    {
+      "time": "48'",
+      "event": "Corner,  Tampa Bay Rowdies. Conceded by Trayvone Reid."
+    },
+    {
+      "time": "50'",
+      "event": "Corner,  Oakland Roots. Conceded by Conner Antley."
+    },
+    {
+      "time": "52'",
+      "event": "Trayvone Reid (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "52'",
+      "event": "Foul by Conner Antley (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "52'",
+      "event": "Attempt blocked. Lindo Mfeka (Oakland Roots) left footed shot from outside the box is blocked. Assisted by Dariusz Formella."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt missed. Jerome Williams (Tampa Bay Rowdies) right footed shot from the centre of the box is too high. Assisted by Cal Jennings."
+    },
+    {
+      "time": "56'",
+      "event": "Aarón Guillén (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Lindo Mfeka (Oakland Roots)."
+    },
+    {
+      "time": "57'",
+      "event": "Foul by Cal Jennings (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "57'",
+      "event": "Daniel Barbir (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "58'",
+      "event": "Goal!  Tampa Bay Rowdies 3, Oakland Roots 0. Cal Jennings (Tampa Bay Rowdies) right footed shot from very close range to the bottom right corner. Assisted by Sebastian Dalgaard."
+    },
+    {
+      "time": "60'",
+      "event": "Attempt saved. Wolfgang Prentice (Oakland Roots) right footed shot from the centre of the box is saved in the bottom right corner. Assisted by Trayvone Reid."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt missed. Trayvone Reid (Oakland Roots) right footed shot from outside the box misses to the left. Assisted by Dariusz Formella."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, Oakland Roots. Johnny Rodriguez replaces Lindo Mfeka."
+    },
+    {
+      "time": "62'",
+      "event": "Substitution, Oakland Roots. Bryan Tamacas replaces Kevin Wright."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt missed. Sebastian Dalgaard (Tampa Bay Rowdies) right footed shot from the right side of the box misses to the left. Assisted by Conner Antley."
+    },
+    {
+      "time": "65'",
+      "event": "Forrest Lasso (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Johnny Rodriguez (Oakland Roots)."
+    },
+    {
+      "time": "65'",
+      "event": "Johnny Rodriguez (Oakland Roots) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "66'",
+      "event": "Delay in match  because of an injury Yann Ekra (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "67'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "68'",
+      "event": "Attempt missed. Wolfgang Prentice (Oakland Roots) right footed shot from the left side of the box is too high."
+    },
+    {
+      "time": "68'",
+      "event": "Charlie Dennis (Tampa Bay Rowdies) wins a free kick on the left wing."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Emrah Klimenta (Oakland Roots)."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt saved. Johnny Rodriguez (Oakland Roots) right footed shot from the centre of the box is saved in the top centre of the goal. Assisted by Bryan Tamacas with a through ball."
+    },
+    {
+      "time": "73'",
+      "event": "Substitution, Oakland Roots. Anuar Peláez replaces Trayvone Reid."
+    },
+    {
+      "time": "74'",
+      "event": "Jerome Williams (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Emrah Klimenta (Oakland Roots)."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Tampa Bay Rowdies. Freddy Kleemann replaces Yann Ekra."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Tampa Bay Rowdies. Dayonn Harris replaces Sebastian Dalgaard."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Tampa Bay Rowdies. Jake LaCava replaces Cal Jennings."
+    },
+    {
+      "time": "75'",
+      "event": "Delay in match   (Oakland Roots)."
+    },
+    {
+      "time": "76'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "77'",
+      "event": "Corner,  Tampa Bay Rowdies. Conceded by Tarek Morad."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Freddy Kleemann (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "78'",
+      "event": "Johnny Rodriguez (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Forrest Lasso (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "78'",
+      "event": "Johnny Rodriguez (Oakland Roots) wins a free kick on the right wing."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt saved. Dariusz Formella (Oakland Roots) right footed shot from the centre of the box is saved in the top centre of the goal."
+    },
+    {
+      "time": "79'",
+      "event": "Corner,  Oakland Roots. Conceded by Connor Sparrow."
+    },
+    {
+      "time": "81'",
+      "event": "Attempt missed. Charlie Dennis (Tampa Bay Rowdies) left footed shot from the left side of the box misses to the right. Assisted by Jake LaCava."
+    },
+    {
+      "time": "82'",
+      "event": "Attempt blocked. Charlie Dennis (Tampa Bay Rowdies) left footed shot from the left side of the box is blocked. Assisted by Jake Areman."
+    },
+    {
+      "time": "82'",
+      "event": "Substitution, Oakland Roots. Neveal Hackshaw replaces Napo Matsoso."
+    },
+    {
+      "time": "83'",
+      "event": "Jake LaCava (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "83'",
+      "event": "Foul by Bryan Tamacas (Oakland Roots)."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt blocked. Neveal Hackshaw (Oakland Roots) left footed shot from outside the box is blocked. Assisted by Tarek Morad."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Jake Areman (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "87'",
+      "event": "Jeciel Cedeño (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, Tampa Bay Rowdies. Ariel Martínez replaces Charlie Dennis."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, Tampa Bay Rowdies. Lucky Mkosana replaces Jerome Williams."
+    },
+    {
+      "time": "88'",
+      "event": "Attempt missed. Bryan Tamacas (Oakland Roots) right footed shot from the right side of the box is too high. Assisted by Tarek Morad following a set piece situation."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt blocked. Dayonn Harris (Tampa Bay Rowdies) header from the centre of the box is blocked. Assisted by Jake LaCava with a cross."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt missed. Emrah Klimenta (Oakland Roots) right footed shot from outside the box misses to the left. Assisted by Neveal Hackshaw."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt missed. Lucky Mkosana (Tampa Bay Rowdies) right footed shot from outside the box is too high. Assisted by Ariel Martínez."
+    },
+    {
+      "time": "90+3'",
+      "event": "Second Half ends, Tampa Bay Rowdies 3, Oakland Roots 0."
+    }
+  ]
+}

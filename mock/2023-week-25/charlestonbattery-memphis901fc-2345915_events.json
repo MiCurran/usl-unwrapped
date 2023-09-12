@@ -1,0 +1,943 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Charleston Battery",
+      "formation": "4-2-3-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Pirmann 81‎'‎",
+        "players": [
+          {
+            "shirtNumber": "25",
+            "playerName": "Muse",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Dodson",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Wynne",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Archer",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Palma",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Ycaza",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Barajas",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "34"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Allan",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Markanich",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Trager",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "69",
+            "playerName": "Avila",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "17"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "60"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Kuzemka",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "A.J. Cochran",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Paterson",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Reedy",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Booth",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Rodriguez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Williams",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Memphis 901 FC",
+      "formation": "4-2-3-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Glass 81‎'‎",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Romig",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "37",
+            "playerName": "McFadden",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Ward",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Smith",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "80"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Lucas Turci",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Molloy",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Luiz Fernando",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Paul",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Kelly",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Kissiedou",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Rodrigo da Costa",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Seeger",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Peters",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Vom Steeg",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Bruno Lapa",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Borczak",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Dally",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Pickering",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "41.0%",
+        "Duels_Success_Rate": "48.9%",
+        "Ariel_Duels_Won": "42.9%",
+        "Interceptions": "9",
+        "Offsides": "2",
+        "Corners_Won": "3"
+      },
+      "away": {
+        "Possession": "59.0%",
+        "Duels_Success_Rate": "51.1%",
+        "Ariel_Duels_Won": "57.1%",
+        "Interceptions": "12",
+        "Offsides": "5",
+        "Corners_Won": "3"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "313",
+        "Long_Passes": "60",
+        "Passing_Accuracy": "74.4%",
+        "Passing_Accuracy_In_Opponent_Half": "59.1%",
+        "Crosses": "9",
+        "Crossing_Accuracy": "22.2%"
+      },
+      "away": {
+        "Passes": "448",
+        "Long_Passes": "72",
+        "Passing_Accuracy": "83.0%",
+        "Passing_Accuracy_In_Opponent_Half": "73.2%",
+        "Crosses": "15",
+        "Crossing_Accuracy": "13.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "9",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "4",
+        "Shooting_Accuracy": "44.4%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "12",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "25.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "9",
+        "Tackle_Success_Rate": "88.9%",
+        "Clearances": "15"
+      },
+      "away": {
+        "Tackles": "12",
+        "Tackle_Success_Rate": "83.3%",
+        "Clearances": "9"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "18",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "18",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "2'",
+      "event": "Foul by Laurent Kissiedou (Memphis 901)."
+    },
+    {
+      "time": "2'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "3'",
+      "event": "Corner,  Charleston Battery. Conceded by Luiz Fernando."
+    },
+    {
+      "time": "4'",
+      "event": "Attempt missed. Fidel Barajas (Charleston Battery) left footed shot from outside the box is close, but misses to the right following a corner."
+    },
+    {
+      "time": "5'",
+      "event": "Foul by Leland Archer (Charleston Battery)."
+    },
+    {
+      "time": "5'",
+      "event": "Rodrigo da Costa (Memphis 901) wins a free kick on the left wing."
+    },
+    {
+      "time": "6'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Roberto Avila (Charleston Battery)."
+    },
+    {
+      "time": "7'",
+      "event": "Graham Smith (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "9'",
+      "event": "Attempt missed. Luiz Fernando (Memphis 901) left footed shot from outside the box misses to the left. Assisted by Aaron Molloy."
+    },
+    {
+      "time": "10'",
+      "event": "Foul by Tristan Trager (Charleston Battery)."
+    },
+    {
+      "time": "10'",
+      "event": "Aaron Molloy (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "11'",
+      "event": "Emilio Ycaza (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Luiz Fernando (Memphis 901)."
+    },
+    {
+      "time": "12'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick on the left wing."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Fidel Barajas (Charleston Battery)."
+    },
+    {
+      "time": "12'",
+      "event": "Laurent Kissiedou (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Attempt missed. Laurent Kissiedou (Memphis 901) header from the centre of the box misses to the left. Assisted by Aiden McFadden."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Roberto Avila (Charleston Battery)."
+    },
+    {
+      "time": "13'",
+      "event": "Luiz Fernando (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "14'",
+      "event": "Offside, Memphis 901. Lucas Turci tries a through ball, but Laurent Kissiedou is caught offside."
+    },
+    {
+      "time": "14'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Lucas Turci (Memphis 901)."
+    },
+    {
+      "time": "16'",
+      "event": "Tristan Trager (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Luiz Fernando (Memphis 901)."
+    },
+    {
+      "time": "17'",
+      "event": "Goal!  Charleston Battery 1, Memphis 901 0. Roberto Avila (Charleston Battery) right footed shot from a difficult angle on the right to the bottom left corner. Assisted by Chris Allan."
+    },
+    {
+      "time": "19'",
+      "event": "Attempt missed. Fidel Barajas (Charleston Battery) left footed shot from the centre of the box is high and wide to the left. Assisted by Roberto Avila."
+    },
+    {
+      "time": "19'",
+      "event": "Emilio Ycaza (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Jeremy Kelly (Memphis 901)."
+    },
+    {
+      "time": "21'",
+      "event": "Hand ball by Nick Markanich (Charleston Battery)."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt missed. Aaron Molloy (Memphis 901) right footed shot from outside the box is just a bit too high. Assisted by Luiz Fernando."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Derek Dodson (Charleston Battery)."
+    },
+    {
+      "time": "23'",
+      "event": "Laurent Kissiedou (Memphis 901) wins a free kick on the left wing."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Fidel Barajas (Charleston Battery)."
+    },
+    {
+      "time": "23'",
+      "event": "Akeem Ward (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt saved. Aiden McFadden (Memphis 901) left footed shot from the right side of the box is saved in the centre of the goal. Assisted by Luiz Fernando."
+    },
+    {
+      "time": "27'",
+      "event": "Attempt blocked. Aiden McFadden (Memphis 901) header from the centre of the box is blocked. Assisted by Laurent Kissiedou with a cross."
+    },
+    {
+      "time": "30'",
+      "event": "Attempt missed. Luiz Fernando (Memphis 901) left footed shot from outside the box is just a bit too high. Assisted by Laurent Kissiedou."
+    },
+    {
+      "time": "31'",
+      "event": "Delay in match   (Memphis 901)."
+    },
+    {
+      "time": "33'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "34'",
+      "event": "Fidel Barajas (Charleston Battery) is shown the yellow card."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt saved. Fidel Barajas (Charleston Battery) left footed shot from outside the box is saved in the top centre of the goal. Assisted by Nick Markanich."
+    },
+    {
+      "time": "37'",
+      "event": "Corner,  Charleston Battery. Conceded by Drew Romig."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Tristan Trager (Charleston Battery)."
+    },
+    {
+      "time": "38'",
+      "event": "Luiz Fernando (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "39'",
+      "event": "Nick Markanich (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Rodrigo da Costa (Memphis 901)."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt missed. Nick Markanich (Charleston Battery) header from the centre of the box is close, but misses to the right. Assisted by Emilio Ycaza with a cross."
+    },
+    {
+      "time": "42'",
+      "event": "Sebastián Palma (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "42'",
+      "event": "Foul by Rodrigo da Costa (Memphis 901)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt blocked. Luiz Fernando (Memphis 901) left footed shot from the centre of the box is blocked. Assisted by Jeremy Kelly."
+    },
+    {
+      "time": "45+1'",
+      "event": "Corner,  Memphis 901. Conceded by Deklan Wynne."
+    },
+    {
+      "time": "45+2'",
+      "event": "Rodrigo da Costa (Memphis 901) hits the right post with a right footed shot from the centre of the box. Assisted by Aiden McFadden with a cross."
+    },
+    {
+      "time": "45+2'",
+      "event": "Corner,  Memphis 901. Conceded by Tristan Trager."
+    },
+    {
+      "time": "45+4'",
+      "event": "First Half ends, Charleston Battery 1, Memphis 901 0."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Deklan Wynne (Charleston Battery)."
+    },
+    {
+      "time": "47'",
+      "event": "Luiz Fernando (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "48'",
+      "event": "Attempt saved. Lucas Turci (Memphis 901) left footed shot from outside the box is saved in the bottom right corner."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Roberto Avila (Charleston Battery)."
+    },
+    {
+      "time": "49'",
+      "event": "Graham Smith (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Nick Markanich (Charleston Battery)."
+    },
+    {
+      "time": "53'",
+      "event": "Leston Paul (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "54'",
+      "event": "Corner,  Charleston Battery. Conceded by Akeem Ward."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Emilio Ycaza (Charleston Battery)."
+    },
+    {
+      "time": "56'",
+      "event": "Leston Paul (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "57'",
+      "event": "Attempt blocked. Aaron Molloy (Memphis 901) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "57'",
+      "event": "Attempt saved. Aaron Molloy (Memphis 901) right footed shot from outside the box is saved in the top right corner."
+    },
+    {
+      "time": "57'",
+      "event": "Corner,  Memphis 901. Conceded by Trey Muse."
+    },
+    {
+      "time": "58'",
+      "event": "Sebastián Palma (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "58'",
+      "event": "Foul by Jeremy Kelly (Memphis 901)."
+    },
+    {
+      "time": "59'",
+      "event": "Nick Markanich (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "60'",
+      "event": "Roberto Avila (Charleston Battery) is shown the yellow card."
+    },
+    {
+      "time": "60'",
+      "event": "Delay in match  because of an injury Aaron Molloy (Memphis 901)."
+    },
+    {
+      "time": "62'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "62'",
+      "event": "Attempt missed. Fidel Barajas (Charleston Battery) left footed shot from outside the box is too high. Assisted by Nick Markanich."
+    },
+    {
+      "time": "62'",
+      "event": "Offside, Memphis 901. Lucas Turci tries a through ball, but Rodrigo da Costa is caught offside."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, Charleston Battery. Augustine Williams replaces Roberto Avila."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, Charleston Battery. Andrew Booth replaces Emilio Ycaza."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Fidel Barajas (Charleston Battery)."
+    },
+    {
+      "time": "65'",
+      "event": "Akeem Ward (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Nick Markanich (Charleston Battery)."
+    },
+    {
+      "time": "66'",
+      "event": "Akeem Ward (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "66'",
+      "event": "Nick Markanich (Charleston Battery) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Memphis 901. Nighte Pickering replaces Laurent Kissiedou."
+    },
+    {
+      "time": "67'",
+      "event": "Chris Allan (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Nighte Pickering (Memphis 901)."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Deklan Wynne (Charleston Battery)."
+    },
+    {
+      "time": "68'",
+      "event": "Luiz Fernando (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "69'",
+      "event": "Attempt blocked. Aaron Molloy (Memphis 901) right footed shot from outside the box is blocked. Assisted by Jeremy Kelly."
+    },
+    {
+      "time": "69'",
+      "event": "Offside, Charleston Battery. Andrew Booth tries a through ball, but Augustine Williams is caught offside."
+    },
+    {
+      "time": "70'",
+      "event": "Delay in match  because of an injury Tristan Trager (Charleston Battery)."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Charleston Battery. Pierre Reedy replaces Tristan Trager because of an injury."
+    },
+    {
+      "time": "71'",
+      "event": "Substitution, Charleston Battery. Arturo Rodríguez replaces Fidel Barajas."
+    },
+    {
+      "time": "71'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "72'",
+      "event": "Arturo Rodríguez (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "73'",
+      "event": "Offside, Charleston Battery. Arturo Rodríguez tries a through ball, but Nick Markanich is caught offside."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Pierre Reedy (Charleston Battery)."
+    },
+    {
+      "time": "74'",
+      "event": "Aaron Molloy (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "75'",
+      "event": "Offside, Memphis 901. Rodrigo da Costa tries a through ball, but Luiz Fernando is caught offside."
+    },
+    {
+      "time": "76'",
+      "event": "Delay in match   (Memphis 901)."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, Memphis 901. Dylan Borczak replaces Luiz Fernando."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, Memphis 901. Rashawn Dally replaces Rodrigo da Costa."
+    },
+    {
+      "time": "77'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "78'",
+      "event": "Offside, Memphis 901. Rashawn Dally tries a through ball, but Dylan Borczak is caught offside."
+    },
+    {
+      "time": "80'",
+      "event": "Arturo Rodríguez (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "80'",
+      "event": "Graham Smith (Memphis 901) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "83'",
+      "event": "Offside, Memphis 901. Leston Paul tries a through ball, but Rashawn Dally is caught offside."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Charleston Battery. Arthur Paterson replaces Deklan Wynne."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt saved. Arturo Rodríguez (Charleston Battery) right footed shot from the left side of the box is saved in the centre of the goal. Assisted by Nick Markanich."
+    },
+    {
+      "time": "88'",
+      "event": "Hand ball by Aaron Molloy (Memphis 901)."
+    },
+    {
+      "time": "88'",
+      "event": "Substitution, Memphis 901. Bruno Lapa replaces Graham Smith."
+    },
+    {
+      "time": "90'",
+      "event": "Arturo Rodríguez (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90'",
+      "event": "Foul by Bruno Lapa (Memphis 901)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Andrew Booth (Charleston Battery) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Jeremy Kelly (Memphis 901)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Attempt blocked. Augustine Williams (Charleston Battery) right footed shot from outside the box is blocked. Assisted by Arthur Paterson."
+    },
+    {
+      "time": "90+2'",
+      "event": "Attempt saved. Augustine Williams (Charleston Battery) left footed shot from outside the box is saved in the centre of the goal."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Arturo Rodríguez (Charleston Battery)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Lucas Turci (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+4'",
+      "event": "Pierre Reedy (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+4'",
+      "event": "Foul by Bruno Lapa (Memphis 901)."
+    },
+    {
+      "time": "90+8'",
+      "event": "Second Half ends, Charleston Battery 1, Memphis 901 0."
+    }
+  ]
+}

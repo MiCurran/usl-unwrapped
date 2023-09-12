@@ -1,0 +1,791 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Monterey Bay",
+      "formation": "4-2-3-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Yallop",
+        "players": [
+          {
+            "shirtNumber": "16",
+            "playerName": "Siaha",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Doner",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Fehr",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Greene",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "27"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Roberts",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Rebollar",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Boone",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Murphy",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Hugh Alexander Dixon",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Martinez",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Volesky",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "67"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "902"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Herrera",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Robinson",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Dawkins",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Maldonado",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Yoseke",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Enríquez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Okoli",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "The Miami FC",
+      "formation": "4-4-2",
+      "score": "0",
+      "lineup": {
+        "managerName": "Neal",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "McGuire",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Thorn",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Stanley",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Ofeimu",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Craig",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Dowouna",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Segbers",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Akinyode",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "29"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Sorto",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Murphy",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Missed penalty",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Repetto",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Zendejas",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Hernández",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "DiMercurio",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Mines",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "29"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Salazar",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rivas",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "51.8%",
+        "Duels_Success_Rate": "40.2%",
+        "Ariel_Duels_Won": "36.4%",
+        "Interceptions": "8",
+        "Offsides": "0",
+        "Corners_Won": "3"
+      },
+      "away": {
+        "Possession": "48.2%",
+        "Duels_Success_Rate": "59.8%",
+        "Ariel_Duels_Won": "63.6%",
+        "Interceptions": "7",
+        "Offsides": "1",
+        "Corners_Won": "5"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "490",
+        "Long_Passes": "77",
+        "Passing_Accuracy": "81.8%",
+        "Passing_Accuracy_In_Opponent_Half": "72.0%",
+        "Crosses": "19",
+        "Crossing_Accuracy": "10.5%"
+      },
+      "away": {
+        "Passes": "459",
+        "Long_Passes": "70",
+        "Passing_Accuracy": "78.0%",
+        "Passing_Accuracy_In_Opponent_Half": "67.0%",
+        "Crosses": "16",
+        "Crossing_Accuracy": "25.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "14",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "8",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "21.4%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "10",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "40.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "12",
+        "Tackle_Success_Rate": "66.7%",
+        "Clearances": "25"
+      },
+      "away": {
+        "Tackles": "12",
+        "Tackle_Success_Rate": "66.7%",
+        "Clearances": "22"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "15",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "9",
+        "Yellow_Cards": "0",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "8'",
+      "event": "Foul by Ben Ofeimu (The Miami FC)."
+    },
+    {
+      "time": "8'",
+      "event": "Alex Dixon (Monterey Bay) wins a free kick in the attacking half."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt missed. James Murphy (Monterey Bay) right footed shot from outside the box misses to the left. Assisted by Morey Doner."
+    },
+    {
+      "time": "11'",
+      "event": "Corner,  Monterey Bay. Conceded by Aedan Stanley."
+    },
+    {
+      "time": "11'",
+      "event": "Boluwatife Akinyode (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Kai Greene (Monterey Bay)."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Claudio Repetto (The Miami FC)."
+    },
+    {
+      "time": "12'",
+      "event": "James Murphy (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "14'",
+      "event": "Attempt missed. Adrian Rebollar (Monterey Bay) left footed shot from outside the box misses to the left."
+    },
+    {
+      "time": "15'",
+      "event": "Foul by Paco Craig (The Miami FC)."
+    },
+    {
+      "time": "15'",
+      "event": "Christian Volesky (Monterey Bay) wins a free kick in the attacking half."
+    },
+    {
+      "time": "16'",
+      "event": "Boluwatife Akinyode (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Adrian Rebollar (Monterey Bay)."
+    },
+    {
+      "time": "17'",
+      "event": "Corner,  The Miami FC. Conceded by Kai Greene."
+    },
+    {
+      "time": "20'",
+      "event": "Attempt blocked. Alex Dixon (Monterey Bay) right footed shot from outside the box is blocked. Assisted by Walmer Martinez."
+    },
+    {
+      "time": "22'",
+      "event": "Boluwatife Akinyode (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "22'",
+      "event": "Foul by Walmer Martinez (Monterey Bay)."
+    },
+    {
+      "time": "23'",
+      "event": "Delay in match  because of an injury Boluwatife Akinyode (The Miami FC)."
+    },
+    {
+      "time": "23'",
+      "event": "Delay in match  because of an injury Walmer Martinez (Monterey Bay)."
+    },
+    {
+      "time": "23'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt saved. Ben Ofeimu (The Miami FC) header from the centre of the box is saved in the bottom left corner. Assisted by Aedan Stanley."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt missed. Paco Craig (The Miami FC) left footed shot from the left side of the six yard box misses to the right following a set piece situation."
+    },
+    {
+      "time": "26'",
+      "event": "Attempt missed. James Murphy (Monterey Bay) right footed shot from outside the box misses to the left. Assisted by Alex Dixon."
+    },
+    {
+      "time": "27'",
+      "event": "Curtis Thorn (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Kai Greene (Monterey Bay)."
+    },
+    {
+      "time": "27'",
+      "event": "Kai Greene (Monterey Bay) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "29'",
+      "event": "Substitution, The Miami FC. Ben Mines replaces Boluwatife Akinyode because of an injury."
+    },
+    {
+      "time": "30'",
+      "event": "Ben Mines (The Miami FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Walmer Martinez (Monterey Bay)."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt missed. Chase Boone (Monterey Bay) right footed shot from the left side of the box misses to the right. Assisted by Walmer Martinez."
+    },
+    {
+      "time": "33'",
+      "event": "Ben Mines (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Walmer Martinez (Monterey Bay)."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt saved. Christian Volesky (Monterey Bay) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Chase Boone with a headed pass."
+    },
+    {
+      "time": "38'",
+      "event": "Dennis Dowouna (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by James Murphy (Monterey Bay)."
+    },
+    {
+      "time": "38'",
+      "event": "Ben Ofeimu (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Chase Boone (Monterey Bay)."
+    },
+    {
+      "time": "40'",
+      "event": "Corner,  The Miami FC. Conceded by Mobi Fehr."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Curtis Thorn (The Miami FC)."
+    },
+    {
+      "time": "41'",
+      "event": "James Murphy (Monterey Bay) wins a free kick in the attacking half."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt missed. Morey Doner (Monterey Bay) header from the centre of the box misses to the right. Assisted by Alex Dixon."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt saved. Kyle Murphy (The Miami FC) right footed shot from outside the box is saved in the centre of the goal. Assisted by Dennis Dowouna."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt missed. Alex Dixon (Monterey Bay) right footed shot from outside the box is just a bit too high. Assisted by Walmer Martinez."
+    },
+    {
+      "time": "45'",
+      "event": "Paco Craig (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45'",
+      "event": "Foul by Chase Boone (Monterey Bay)."
+    },
+    {
+      "time": "45+1'",
+      "event": "First Half ends, Monterey Bay 0, The Miami FC 0."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, The Miami FC. Moisés Hernández replaces Ben Ofeimu."
+    },
+    {
+      "time": "46'",
+      "event": "Attempt saved. Kyle Murphy (The Miami FC) left footed shot from the right side of the box is saved in the bottom right corner."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Aedan Stanley (The Miami FC)."
+    },
+    {
+      "time": "47'",
+      "event": "Chase Boone (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "51'",
+      "event": "Hand ball by Chase Boone (Monterey Bay)."
+    },
+    {
+      "time": "53'",
+      "event": "Dennis Dowouna (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Adrian Rebollar (Monterey Bay)."
+    },
+    {
+      "time": "53'",
+      "event": "Offside, The Miami FC. Paco Craig tries a through ball, but Ben Mines is caught offside."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt saved. Christian Volesky (Monterey Bay) right footed shot from the centre of the box is saved in the top centre of the goal. Assisted by Walmer Martinez with a cross."
+    },
+    {
+      "time": "56'",
+      "event": "Corner,  Monterey Bay. Conceded by Jake McGuire."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Aedan Stanley (The Miami FC)."
+    },
+    {
+      "time": "59'",
+      "event": "Morey Doner (Monterey Bay) wins a free kick on the right wing."
+    },
+    {
+      "time": "60'",
+      "event": "Attempt missed. Christian Volesky (Monterey Bay) right footed shot from outside the box misses to the left. Assisted by Alex Dixon with a headed pass."
+    },
+    {
+      "time": "60'",
+      "event": "Attempt missed. Alex Dixon (Monterey Bay) right footed shot from outside the box is too high. Assisted by Adrian Rebollar."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Kyle Murphy (The Miami FC)."
+    },
+    {
+      "time": "62'",
+      "event": "Kai Greene (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Monterey Bay. Simon Dawkins replaces Chase Boone."
+    },
+    {
+      "time": "65'",
+      "event": "Penalty The Miami FC. Ben Mines draws a foul in the penalty area."
+    },
+    {
+      "time": "65'",
+      "event": "Penalty conceded by Walmer Martinez (Monterey Bay) after a foul in the penalty area."
+    },
+    {
+      "time": "66'",
+      "event": "Penalty saved! Kyle Murphy (The Miami FC) fails to capitalise on this great opportunity,  right footed shot saved  in the bottom left corner."
+    },
+    {
+      "time": "67'",
+      "event": "Goal!  Monterey Bay 1, The Miami FC 0. Christian Volesky (Monterey Bay) right footed shot from the centre of the box to the centre of the goal. Assisted by Alex Dixon   following a fast break."
+    },
+    {
+      "time": "68'",
+      "event": "Mark Segbers (The Miami FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Adrian Rebollar (Monterey Bay)."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Moisés Hernández (The Miami FC)."
+    },
+    {
+      "time": "69'",
+      "event": "Christian Volesky (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "71'",
+      "event": "Kyle Murphy (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "71'",
+      "event": "Foul by Hugh Roberts II (Monterey Bay)."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt blocked. Christian Sorto (The Miami FC) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "73'",
+      "event": "Ben Mines (The Miami FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "73'",
+      "event": "Foul by Walmer Martinez (Monterey Bay)."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt blocked. Kyle Murphy (The Miami FC) left footed shot from the centre of the box is blocked. Assisted by Mark Segbers."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Monterey Bay. Nevello Yoseke replaces Adrian Rebollar."
+    },
+    {
+      "time": "77'",
+      "event": "Corner,  Monterey Bay. Conceded by Mark Segbers."
+    },
+    {
+      "time": "77'",
+      "event": "Attempt missed. Nevello Yoseke (Monterey Bay) header from very close range is too high following a corner."
+    },
+    {
+      "time": "79'",
+      "event": "Corner,  The Miami FC. Conceded by Hugh Roberts II."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, The Miami FC. Joaquín Rivas replaces Claudio Repetto."
+    },
+    {
+      "time": "82'",
+      "event": "Substitution, Monterey Bay. Grant Robinson replaces Alex Dixon."
+    },
+    {
+      "time": "84'",
+      "event": "Attempt missed. Christian Volesky (Monterey Bay) right footed shot from outside the box is close, but misses the top right corner. Assisted by Mobi Fehr."
+    },
+    {
+      "time": "86'",
+      "event": "Delay in match  because of an injury Dennis Dowouna (The Miami FC)."
+    },
+    {
+      "time": "86'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, The Miami FC. Michael Salazar replaces Dennis Dowouna because of an injury."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt blocked. Christian Sorto (The Miami FC) left footed shot from the centre of the box is blocked. Assisted by Michael Salazar with a cross."
+    },
+    {
+      "time": "87'",
+      "event": "Corner,  The Miami FC. Conceded by Morey Doner."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt blocked. Joaquín Rivas (The Miami FC) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "90+1'",
+      "event": "Corner,  The Miami FC. Conceded by Kai Greene."
+    },
+    {
+      "time": "90+2'",
+      "event": "Attempt missed. Moisés Hernández (The Miami FC) header from very close range is just a bit too high. Assisted by Christian Sorto with a cross following a corner."
+    },
+    {
+      "time": "90+2'",
+      "event": "Christian Volesky (Monterey Bay) is shown the yellow card."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Christian Sorto (The Miami FC)."
+    },
+    {
+      "time": "90+3'",
+      "event": "James Murphy (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Monterey Bay 1, The Miami FC 0."
+    }
+  ]
+}

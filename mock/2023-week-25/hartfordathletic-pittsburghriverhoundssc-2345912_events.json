@@ -1,0 +1,982 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Hartford Athletic",
+      "formation": "5-3-2",
+      "score": "3",
+      "lineup": {
+        "managerName": "Namazi",
+        "players": [
+          {
+            "shirtNumber": "13",
+            "playerName": "Rice",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Merrill",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "38"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Hodge",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "43"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "50",
+            "playerName": "Logue",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Sheldon",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "McGlynn",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "72",
+            "playerName": "Rito",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Lewis",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Makangila",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Amoh",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Saydee",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Richard Sánchez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Lapert",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Kaveh Rad",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "69"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "907"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Barrera",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "55"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Kibato",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Torres",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Hoppenot",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "55"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "86"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Pittsburgh Riverhounds SC",
+      "formation": "5-3-2",
+      "score": "4",
+      "lineup": {
+        "managerName": "Lilley",
+        "players": [
+          {
+            "shirtNumber": "26",
+            "playerName": "Waite",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Rovira",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "904"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Blackstock",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Ordoñez",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Dossantos",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Hogan",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Ybarra",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "52"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "57"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Griffin",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Forbes",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Albert Dikwa",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "13"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "18"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Kizza",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Garner",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Biasi",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Farrell",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Etou",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Mertz",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Obregón Jr",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Showunmi",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "57.1%",
+        "Duels_Success_Rate": "47.1%",
+        "Ariel_Duels_Won": "32.4%",
+        "Interceptions": "13",
+        "Offsides": "3",
+        "Corners_Won": "7"
+      },
+      "away": {
+        "Possession": "42.9%",
+        "Duels_Success_Rate": "52.9%",
+        "Ariel_Duels_Won": "67.6%",
+        "Interceptions": "9",
+        "Offsides": "0",
+        "Corners_Won": "10"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "496",
+        "Long_Passes": "69",
+        "Passing_Accuracy": "83.1%",
+        "Passing_Accuracy_In_Opponent_Half": "70.4%",
+        "Crosses": "15",
+        "Crossing_Accuracy": "33.3%"
+      },
+      "away": {
+        "Passes": "368",
+        "Long_Passes": "73",
+        "Passing_Accuracy": "71.7%",
+        "Passing_Accuracy_In_Opponent_Half": "61.6%",
+        "Crosses": "15",
+        "Crossing_Accuracy": "33.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "3",
+        "Shots": "12",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "50.0%"
+      },
+      "away": {
+        "Goals": "4",
+        "Shots": "14",
+        "Shots_On_Target": "7",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "1",
+        "Shots_Inside_Box": "13",
+        "Shooting_Accuracy": "50.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "15",
+        "Tackle_Success_Rate": "53.3%",
+        "Clearances": "15"
+      },
+      "away": {
+        "Tackles": "14",
+        "Tackle_Success_Rate": "85.7%",
+        "Clearances": "9"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "14",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "16",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Foul by Marc Ybarra (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "1'",
+      "event": "Triston Hodge (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "2'",
+      "event": "Offside, Hartford Athletic. Niall Logue tries a through ball, but Elvis Amoh is caught offside."
+    },
+    {
+      "time": "3'",
+      "event": "Attempt missed. Kenardo Forbes (Pittsburgh Riverhounds SC) right footed shot from outside the box is close, but misses the top right corner. Assisted by Edward Kizza."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Marc Ybarra (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "4'",
+      "event": "Andre Lewis (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "5'",
+      "event": "Delay in match   (Hartford Athletic)."
+    },
+    {
+      "time": "6'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "7'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Triston Hodge (Hartford Athletic)."
+    },
+    {
+      "time": "8'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Beverly Makangila."
+    },
+    {
+      "time": "10'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Conor McGlynn."
+    },
+    {
+      "time": "11'",
+      "event": "Prince Saydee (Hartford Athletic) wins a free kick on the right wing."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Edward Kizza (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "12'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Beverly Makangila."
+    },
+    {
+      "time": "13'",
+      "event": "Attempt saved. Marc Ybarra (Pittsburgh Riverhounds SC) right footed shot from the left side of the box is saved in the bottom left corner. Assisted by Kenardo Forbes."
+    },
+    {
+      "time": "13'",
+      "event": "Goal!  Hartford Athletic 0, Pittsburgh Riverhounds SC 1. Albert Dikwa (Pittsburgh Riverhounds SC) header from very close range to the top right corner."
+    },
+    {
+      "time": "15'",
+      "event": "Matt Sheldon (Hartford Athletic) wins a free kick on the left wing."
+    },
+    {
+      "time": "15'",
+      "event": "Foul by Daniel Rovira (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Niall Logue (Hartford Athletic)."
+    },
+    {
+      "time": "18'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "18'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) hits the right post with a header from very close range. Assisted by Langston Blackstock."
+    },
+    {
+      "time": "18'",
+      "event": "Goal!  Hartford Athletic 0, Pittsburgh Riverhounds SC 2. Albert Dikwa (Pittsburgh Riverhounds SC) right footed shot from very close range to the bottom right corner."
+    },
+    {
+      "time": "20'",
+      "event": "Foul by Matt Sheldon (Hartford Athletic)."
+    },
+    {
+      "time": "20'",
+      "event": "Patrick Hogan (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "22'",
+      "event": "Luke Merrill (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "22'",
+      "event": "Foul by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Edgardo Rito (Hartford Athletic)."
+    },
+    {
+      "time": "23'",
+      "event": "Langston Blackstock (Pittsburgh Riverhounds SC) wins a free kick on the left wing."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt saved. Langston Blackstock (Pittsburgh Riverhounds SC) right footed shot from a difficult angle on the left is saved in the top centre of the goal. Assisted by Kenardo Forbes."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt blocked. Elvis Amoh (Hartford Athletic) right footed shot from the left side of the box is blocked. Assisted by Niall Logue."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Nathan Dossantos (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "26'",
+      "event": "Elvis Amoh (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "27'",
+      "event": "Attempt saved. Andre Lewis (Hartford Athletic) right footed shot from outside the box is saved in the top centre of the goal. Assisted by Prince Saydee."
+    },
+    {
+      "time": "27'",
+      "event": "Corner,  Hartford Athletic. Conceded by Jahmali Waite."
+    },
+    {
+      "time": "29'",
+      "event": "Marc Ybarra (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt missed. Edward Kizza (Pittsburgh Riverhounds SC) header from the right side of the six yard box is close, but misses to the right. Assisted by Arturo Osuna with a headed pass following a set piece situation."
+    },
+    {
+      "time": "31'",
+      "event": "Offside, Hartford Athletic. Andre Lewis tries a through ball, but Elvis Amoh is caught offside."
+    },
+    {
+      "time": "32'",
+      "event": "Foul by Edward Kizza (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "32'",
+      "event": "Beverly Makangila (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "32'",
+      "event": "Foul by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "32'",
+      "event": "Prince Saydee (Hartford Athletic) wins a free kick on the right wing."
+    },
+    {
+      "time": "34'",
+      "event": "Foul by Daniel Rovira (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "34'",
+      "event": "Matt Sheldon (Hartford Athletic) wins a free kick on the left wing."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt blocked. Langston Blackstock (Pittsburgh Riverhounds SC) right footed shot from the left side of the box is blocked. Assisted by Kenardo Forbes."
+    },
+    {
+      "time": "38'",
+      "event": "Daniel Rovira (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Luke Merrill (Hartford Athletic)."
+    },
+    {
+      "time": "38'",
+      "event": "Luke Merrill (Hartford Athletic) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "39'",
+      "event": "Attempt blocked. Beverly Makangila (Hartford Athletic) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "39'",
+      "event": "Hand ball by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt blocked. Conor McGlynn (Hartford Athletic) right footed shot from outside the box is blocked. Assisted by Elvis Amoh."
+    },
+    {
+      "time": "42'",
+      "event": "Corner,  Hartford Athletic. Conceded by Nathan Dossantos."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt missed. Elvis Amoh (Hartford Athletic) header from the centre of the box is too high. Assisted by Andre Lewis with a cross following a corner."
+    },
+    {
+      "time": "43'",
+      "event": "Edward Kizza (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Triston Hodge (Hartford Athletic)."
+    },
+    {
+      "time": "43'",
+      "event": "Triston Hodge (Hartford Athletic) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "44'",
+      "event": "Delay in match  because of an injury Edward Kizza (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "45'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "45+2'",
+      "event": "Foul by Patrick Hogan (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Prince Saydee (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "45+4'",
+      "event": "Corner,  Hartford Athletic. Conceded by Arturo Osuna."
+    },
+    {
+      "time": "45+4'",
+      "event": "First Half ends, Hartford Athletic 0, Pittsburgh Riverhounds SC 2."
+    },
+    {
+      "time": "46'",
+      "event": "Edward Kizza (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Beverly Makangila (Hartford Athletic)."
+    },
+    {
+      "time": "47'",
+      "event": "Hand ball by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "51'",
+      "event": "Danny Griffin (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Beverly Makangila (Hartford Athletic)."
+    },
+    {
+      "time": "51'",
+      "event": "Kenardo Forbes (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Beverly Makangila (Hartford Athletic)."
+    },
+    {
+      "time": "52'",
+      "event": "Goal!  Hartford Athletic 0, Pittsburgh Riverhounds SC 3. Marc Ybarra (Pittsburgh Riverhounds SC) header from the centre of the box to the bottom left corner. Assisted by Daniel Rovira with a cross."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Nathan Dossantos (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "53'",
+      "event": "Elvis Amoh (Hartford Athletic) wins a free kick on the left wing."
+    },
+    {
+      "time": "55'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Conor McGlynn."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt missed. Arturo Osuna (Pittsburgh Riverhounds SC) header from very close range is just a bit too high. Assisted by Langston Blackstock with a cross following a corner."
+    },
+    {
+      "time": "55'",
+      "event": "Substitution, Hartford Athletic. Antoine Hoppenot replaces Luke Merrill."
+    },
+    {
+      "time": "55'",
+      "event": "Substitution, Hartford Athletic. Danny Barrera replaces Niall Logue."
+    },
+    {
+      "time": "55'",
+      "event": "Substitution, Hartford Athletic. Juan Pablo Torres replaces Beverly Makangila."
+    },
+    {
+      "time": "57'",
+      "event": "Delay in match   (Hartford Athletic)."
+    },
+    {
+      "time": "57'",
+      "event": "Marc Ybarra (Pittsburgh Riverhounds SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "58'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "59'",
+      "event": "Attempt saved. Langston Blackstock (Pittsburgh Riverhounds SC) right footed shot from the left side of the box is saved in the bottom right corner."
+    },
+    {
+      "time": "59'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Joe Rice."
+    },
+    {
+      "time": "60'",
+      "event": "Foul by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "60'",
+      "event": "Andre Lewis (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "61'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Matt Sheldon."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt missed. Patrick Hogan (Pittsburgh Riverhounds SC) header from the centre of the box misses to the left. Assisted by Kenardo Forbes with a cross following a corner."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, Hartford Athletic. Kembo Kibato replaces Edgardo Rito."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Luke Biasi replaces Langston Blackstock."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Robbie Mertz replaces Marc Ybarra."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Brunallergene Etou replaces Nathan Dossantos."
+    },
+    {
+      "time": "69'",
+      "event": "Daniel Rovira (Pittsburgh Riverhounds SC) wins a free kick on the right wing."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "69'",
+      "event": "Substitution, Hartford Athletic. Kaveh Rad replaces Triston Hodge."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Juan Carlos Obregón Jr replaces Albert Dikwa."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Brunallergene Etou (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "72'",
+      "event": "Elvis Amoh (Hartford Athletic) wins a free kick on the left wing."
+    },
+    {
+      "time": "73'",
+      "event": "Attempt saved. Matt Sheldon (Hartford Athletic) right footed shot from the right side of the six yard box is saved in the bottom right corner. Assisted by Antoine Hoppenot with a cross."
+    },
+    {
+      "time": "73'",
+      "event": "Corner,  Hartford Athletic. Conceded by Jahmali Waite."
+    },
+    {
+      "time": "73'",
+      "event": "Offside, Hartford Athletic. Danny Barrera tries a through ball, but Matt Sheldon is caught offside."
+    },
+    {
+      "time": "74'",
+      "event": "Kenardo Forbes (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Matt Sheldon (Hartford Athletic)."
+    },
+    {
+      "time": "75'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Matt Sheldon."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt missed. Elvis Amoh (Hartford Athletic) right footed shot from outside the box is high and wide to the right. Assisted by Danny Barrera."
+    },
+    {
+      "time": "77'",
+      "event": "Foul by Brunallergene Etou (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "77'",
+      "event": "Matt Sheldon (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "77'",
+      "event": "Corner,  Hartford Athletic. Conceded by Luke Biasi."
+    },
+    {
+      "time": "78'",
+      "event": "Attempt blocked. Conor McGlynn (Hartford Athletic) right footed shot from the left side of the box is blocked. Assisted by Danny Barrera with a cross."
+    },
+    {
+      "time": "78'",
+      "event": "Corner,  Hartford Athletic. Conceded by Juan Carlos Obregón Jr."
+    },
+    {
+      "time": "78'",
+      "event": "Goal!  Hartford Athletic 1, Pittsburgh Riverhounds SC 3. Matt Sheldon (Hartford Athletic) header from the centre of the box to the bottom right corner. Assisted by Juan Pablo Torres with a cross   following a corner."
+    },
+    {
+      "time": "81'",
+      "event": "Goal!  Hartford Athletic 2, Pittsburgh Riverhounds SC 3. Danny Barrera (Hartford Athletic) left footed shot from outside the box to the bottom right corner. Assisted by Antoine Hoppenot."
+    },
+    {
+      "time": "82'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Conor McGlynn."
+    },
+    {
+      "time": "83'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Joseph Farrell replaces Edward Kizza."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt missed. Arturo Osuna (Pittsburgh Riverhounds SC) header from the centre of the box is too high following a corner."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Brunallergene Etou (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "84'",
+      "event": "Kembo Kibato (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "86'",
+      "event": "Goal!  Hartford Athletic 3, Pittsburgh Riverhounds SC 3. Antoine Hoppenot (Hartford Athletic) right footed shot from the left side of the box to the bottom left corner."
+    },
+    {
+      "time": "88'",
+      "event": "Goal!  Hartford Athletic 3, Pittsburgh Riverhounds SC 4. Juan Carlos Obregón Jr (Pittsburgh Riverhounds SC) right footed shot from the right side of the box to the top right corner. Assisted by Daniel Rovira."
+    },
+    {
+      "time": "89'",
+      "event": "Attempt missed. Danny Barrera (Hartford Athletic) left footed shot from the right side of the box is high and wide to the left. Assisted by Conor McGlynn."
+    },
+    {
+      "time": "90+1'",
+      "event": "Corner,  Hartford Athletic. Conceded by Daniel Rovira."
+    },
+    {
+      "time": "90+2'",
+      "event": "Brunallergene Etou (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Daniel Rovira (Pittsburgh Riverhounds SC) is shown the yellow card."
+    },
+    {
+      "time": "90+7'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Conor McGlynn."
+    },
+    {
+      "time": "90+7'",
+      "event": "Kaveh Rad (Hartford Athletic) is shown the yellow card."
+    },
+    {
+      "time": "90+7'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Andre Lewis."
+    },
+    {
+      "time": "90+8'",
+      "event": "Second Half ends, Hartford Athletic 3, Pittsburgh Riverhounds SC 4."
+    }
+  ]
+}

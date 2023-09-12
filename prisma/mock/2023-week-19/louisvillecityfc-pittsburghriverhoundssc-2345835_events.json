@@ -1,0 +1,833 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Louisville City FC",
+      "formation": "4-2-3-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Cruz",
+        "players": [
+          {
+            "shirtNumber": "28",
+            "playerName": "Semmle",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Manny Perez",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Dia",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Totsch",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Charpie",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "McCabe",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Serrano",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Moguel",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "60"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Wynder",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Mushagalusa",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Lancaster",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Faundez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Jimenez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Gibson",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Mares",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Pedersen",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Ownby",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "90",
+            "playerName": "Pouwels",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "73"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Pittsburgh Riverhounds SC",
+      "formation": "5-4-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Lilley",
+        "players": [
+          {
+            "shirtNumber": "77",
+            "playerName": "Zamudio",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Rovira",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Blackstock",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Osumanu",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Hogan",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Ordoñez",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Mertz",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Griffin",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "51"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Ybarra",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Etou",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Albert Dikwa",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "68"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Garner",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "DeShields",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Fahling",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Forbes",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Zwetsloot",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Kizza",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Obregón Jr",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "60.9%",
+        "Duels_Success_Rate": "52.5%",
+        "Ariel_Duels_Won": "40.0%",
+        "Interceptions": "9",
+        "Offsides": "0",
+        "Corners_Won": "3"
+      },
+      "away": {
+        "Possession": "39.1%",
+        "Duels_Success_Rate": "47.5%",
+        "Ariel_Duels_Won": "60.0%",
+        "Interceptions": "9",
+        "Offsides": "5",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "494",
+        "Long_Passes": "79",
+        "Passing_Accuracy": "79.8%",
+        "Passing_Accuracy_In_Opponent_Half": "61.1%",
+        "Crosses": "19",
+        "Crossing_Accuracy": "26.3%"
+      },
+      "away": {
+        "Passes": "321",
+        "Long_Passes": "65",
+        "Passing_Accuracy": "71.3%",
+        "Passing_Accuracy_In_Opponent_Half": "56.9%",
+        "Crosses": "7",
+        "Crossing_Accuracy": "14.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "11",
+        "Shots_On_Target": "1",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "9.1%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "9",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "4",
+        "Shooting_Accuracy": "66.7%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "8",
+        "Tackle_Success_Rate": "75.0%",
+        "Clearances": "6"
+      },
+      "away": {
+        "Tackles": "14",
+        "Tackle_Success_Rate": "35.7%",
+        "Clearances": "26"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "7",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "17",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "3'",
+      "event": "Foul by Daniel Rovira (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "3'",
+      "event": "Enoch Mushagalusa (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Daniel Rovira (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "13'",
+      "event": "Niall McCabe (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "15'",
+      "event": "Attempt blocked. Elijah Wynder (Louisville City) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "15'",
+      "event": "Attempt missed. Cameron Lancaster (Louisville City) header from the centre of the box is close, but misses the top right corner. Assisted by Niall McCabe with a cross."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Robbie Mertz (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "17'",
+      "event": "Amadou Dia (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Luis Zamudio tries a through ball, but Albert Dikwa is caught offside."
+    },
+    {
+      "time": "20'",
+      "event": "Foul by Langston Blackstock (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "20'",
+      "event": "Manny Perez (Louisville City) wins a free kick on the right wing."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt missed. Amadou Dia (Louisville City) left footed shot from outside the box misses to the right following a set piece situation."
+    },
+    {
+      "time": "21'",
+      "event": "Marc Ybarra (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Ray Serrano (Louisville City)."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt saved. Langston Blackstock (Pittsburgh Riverhounds SC) right footed shot from outside the box is saved in the bottom left corner."
+    },
+    {
+      "time": "23'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Oliver Semmle."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "24'",
+      "event": "Elijah Wynder (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Danny Griffin (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "24'",
+      "event": "Cameron Lancaster (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "27'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Carlos Moguel Jr (Louisville City)."
+    },
+    {
+      "time": "28'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Robbie Mertz tries a through ball, but Albert Dikwa is caught offside."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt missed. Cameron Lancaster (Louisville City) right footed shot from the centre of the box is close, but misses to the right. Assisted by Ray Serrano with a cross."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Albert Dikwa (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "33'",
+      "event": "Elijah Wynder (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "34'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Brunallergene Etou tries a through ball, but Albert Dikwa is caught offside."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt saved. Langston Blackstock (Pittsburgh Riverhounds SC) right footed shot from outside the box is saved in the top centre of the goal. Assisted by Robbie Mertz."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt saved. Brunallergene Etou (Pittsburgh Riverhounds SC) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Robbie Mertz."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt saved. Marc Ybarra (Pittsburgh Riverhounds SC) right footed shot from outside the box is saved in the bottom left corner."
+    },
+    {
+      "time": "38'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Oliver Semmle."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Daniel Rovira (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "39'",
+      "event": "Cameron Lancaster (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45'",
+      "event": "Foul by Daniel Rovira (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "45'",
+      "event": "Manny Perez (Louisville City) wins a free kick on the right wing."
+    },
+    {
+      "time": "45'",
+      "event": "Delay in match  because of an injury Manny Perez (Louisville City)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, Louisville City 0, Pittsburgh Riverhounds SC 0."
+    },
+    {
+      "time": "47'",
+      "event": "Corner,  Louisville City. Conceded by Arturo Osuna."
+    },
+    {
+      "time": "48'",
+      "event": "Attempt missed. Elijah Wynder (Louisville City) header from the left side of the six yard box misses to the right. Assisted by Niall McCabe with a cross following a corner."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Danny Griffin (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "51'",
+      "event": "Manny Perez (Louisville City) wins a free kick on the right wing."
+    },
+    {
+      "time": "51'",
+      "event": "Danny Griffin (Pittsburgh Riverhounds SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "54'",
+      "event": "Robbie Mertz (Pittsburgh Riverhounds SC) hits the left post with a right footed shot from outside the box. Assisted by Albert Dikwa."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by Langston Blackstock (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "54'",
+      "event": "Enoch Mushagalusa (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt missed. Albert Dikwa (Pittsburgh Riverhounds SC) right footed shot from a difficult angle on the right is close, but misses to the right. Assisted by Robbie Mertz with a through ball."
+    },
+    {
+      "time": "57'",
+      "event": "Corner,  Louisville City. Conceded by Marc Ybarra."
+    },
+    {
+      "time": "58'",
+      "event": "Brunallergene Etou (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "58'",
+      "event": "Foul by Carlos Moguel Jr (Louisville City)."
+    },
+    {
+      "time": "58'",
+      "event": "Delay in match  because of an injury Brunallergene Etou (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "58'",
+      "event": "Delay in match  because of an injury Carlos Moguel Jr (Louisville City)."
+    },
+    {
+      "time": "60'",
+      "event": "Carlos Moguel Jr (Louisville City) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "60'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, Louisville City. Brian Ownby replaces Ray Serrano."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, Louisville City. Tyler Gibson replaces Niall McCabe."
+    },
+    {
+      "time": "62'",
+      "event": "Attempt saved. Brunallergene Etou (Pittsburgh Riverhounds SC) left footed shot from the left side of the box is saved in the centre of the goal. Assisted by Robbie Mertz with a through ball."
+    },
+    {
+      "time": "62'",
+      "event": "Attempt blocked. Danny Griffin (Pittsburgh Riverhounds SC) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "63'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Luis Zamudio tries a through ball, but Albert Dikwa is caught offside."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Kenardo Forbes replaces Langston Blackstock."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Michael DeShields replaces Patrick Hogan."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Marc Ybarra (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "65'",
+      "event": "Brian Ownby (Louisville City) wins a free kick on the right wing."
+    },
+    {
+      "time": "68'",
+      "event": "Goal!  Louisville City 0, Pittsburgh Riverhounds SC 1. Albert Dikwa (Pittsburgh Riverhounds SC) left footed shot from the centre of the box to the bottom left corner. Assisted by Brunallergene Etou."
+    },
+    {
+      "time": "70'",
+      "event": "Brunallergene Etou (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Sean Totsch (Louisville City)."
+    },
+    {
+      "time": "72'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Burke Fahling replaces Brunallergene Etou because of an injury."
+    },
+    {
+      "time": "73'",
+      "event": "Substitution, Louisville City. Maarten Pouwels replaces Enoch Mushagalusa."
+    },
+    {
+      "time": "73'",
+      "event": "Substitution, Louisville City. Dylan Mares replaces Carlos Moguel Jr."
+    },
+    {
+      "time": "75'",
+      "event": "Burke Fahling (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Maarten Pouwels (Louisville City)."
+    },
+    {
+      "time": "77'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Burke Fahling tries a through ball, but Albert Dikwa is caught offside."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, Louisville City. Rasmus Thellufsen replaces Elijah Wynder."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Albert Dikwa (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "78'",
+      "event": "Wes Charpie (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt blocked. Wes Charpie (Louisville City) right footed shot from very close range is blocked. Assisted by Sean Totsch with a headed pass."
+    },
+    {
+      "time": "79'",
+      "event": "Foul by Marc Ybarra (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "79'",
+      "event": "Sean Totsch (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "80'",
+      "event": "Attempt missed. Cameron Lancaster (Louisville City) right footed shot from outside the box is just a bit too high from a direct free kick."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Trevor Zwetsloot replaces Albert Dikwa."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Edward Kizza replaces Robbie Mertz."
+    },
+    {
+      "time": "82'",
+      "event": "Edward Kizza (Pittsburgh Riverhounds SC) wins a free kick on the left wing."
+    },
+    {
+      "time": "82'",
+      "event": "Foul by Tyler Gibson (Louisville City)."
+    },
+    {
+      "time": "84'",
+      "event": "Attempt missed. Manny Perez (Louisville City) right footed shot from a difficult angle on the right is too high. Assisted by Sean Totsch."
+    },
+    {
+      "time": "85'",
+      "event": "Foul by Marc Ybarra (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "85'",
+      "event": "Brian Ownby (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Kenardo Forbes (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "87'",
+      "event": "Amadou Dia (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "88'",
+      "event": "Attempt blocked. Dylan Mares (Louisville City) right footed shot from outside the box is blocked. Assisted by Brian Ownby."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt missed. Dylan Mares (Louisville City) right footed shot from outside the box is too high. Assisted by Maarten Pouwels."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Edward Kizza (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Sean Totsch (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Delay in match  because of an injury Abdul Osumanu (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+5'",
+      "event": "Edward Kizza (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Maarten Pouwels (Louisville City)."
+    },
+    {
+      "time": "90+7'",
+      "event": "Attempt blocked. Brian Ownby (Louisville City) left footed shot from the centre of the box is blocked. Assisted by Maarten Pouwels with a headed pass."
+    },
+    {
+      "time": "90+7'",
+      "event": "Corner,  Louisville City. Conceded by Trevor Zwetsloot."
+    },
+    {
+      "time": "90+8'",
+      "event": "Second Half ends, Louisville City 0, Pittsburgh Riverhounds SC 1."
+    }
+  ]
+}

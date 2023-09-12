@@ -1,0 +1,57 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model MatchTeam {
+  id        Int           @id @default(autoincrement())
+  name      String
+  formation String
+  score     String
+  lineup    Json[]
+  uslTeamId Int
+}
+
+model MatchPlayer {
+  id             Int           @id @default(autoincrement())
+  shirtNumber    String
+  playerName     String
+  playerPosition String
+  playerEvents   Json[]
+  matchTeamId  Int?
+}
+model Match {
+  id         Int          @id @default(autoincrement())
+  homeTeamId Int
+  awayTeamId Int
+  homeTeamUslId Int
+  awayTeamUslId Int
+  score      String
+  stats      Json
+}
+
+model MatchEvents {
+  id      Int    @id @default(autoincrement())
+  events   Json[]
+  matchId Int
+}
+
+model UslTeams {
+  id      Int   @id @default(autoincrement())
+  name    String
+  conference String
+}
+
+model ApiUsers {
+  id      Int    @id @default(autoincrement())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  key       String
+  calls     Int  @default(0)
+}
+
+

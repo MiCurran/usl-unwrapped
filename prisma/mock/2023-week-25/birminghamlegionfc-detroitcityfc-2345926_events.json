@@ -1,0 +1,848 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Birmingham Legion FC",
+      "formation": "4-2-3-1",
+      "score": "2",
+      "lineup": {
+        "managerName": "Soehn",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Van Oekel",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Smith",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Mensah",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "48"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Crognale",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Kavita",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Own goal",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Enzo Martínez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Penalty scored",
+                "eventTime": "38"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Agudelo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Corcoran",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "56"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Kasim",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Nwegbo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Brett",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Penalty scored",
+                "eventTime": "29"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Spangenberg",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Gabriel Alves",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Rufe",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Dupont",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "96",
+            "playerName": "Freeman",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Mikey Lopez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "56"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Tabort Etaka",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "62"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Detroit City FC",
+      "formation": "4-4-2",
+      "score": "3",
+      "lineup": {
+        "managerName": "James",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Steinwascher",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Bryant",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Amoo-Mensah",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Lewis",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Carroll",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rutz",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Ballard",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Gasso",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Williams",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Morris",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "31"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "44"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "91",
+            "playerName": "Fisher",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Shellow",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Levis",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Robinson",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Billhardt",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Diop",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Rodríguez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Skage Lehland",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "67"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "64.1%",
+        "Duels_Success_Rate": "46.0%",
+        "Ariel_Duels_Won": "53.6%",
+        "Interceptions": "6",
+        "Offsides": "4",
+        "Corners_Won": "4"
+      },
+      "away": {
+        "Possession": "35.9%",
+        "Duels_Success_Rate": "54.0%",
+        "Ariel_Duels_Won": "46.4%",
+        "Interceptions": "12",
+        "Offsides": "1",
+        "Corners_Won": "1"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "514",
+        "Long_Passes": "62",
+        "Passing_Accuracy": "83.7%",
+        "Passing_Accuracy_In_Opponent_Half": "74.3%",
+        "Crosses": "19",
+        "Crossing_Accuracy": "10.5%"
+      },
+      "away": {
+        "Passes": "295",
+        "Long_Passes": "61",
+        "Passing_Accuracy": "69.8%",
+        "Passing_Accuracy_In_Opponent_Half": "56.0%",
+        "Crosses": "5",
+        "Crossing_Accuracy": "0.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "18",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "11",
+        "Shooting_Accuracy": "22.2%"
+      },
+      "away": {
+        "Goals": "3",
+        "Shots": "11",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "7",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "27.3%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "10",
+        "Tackle_Success_Rate": "60.0%",
+        "Clearances": "8"
+      },
+      "away": {
+        "Tackles": "11",
+        "Tackle_Success_Rate": "54.5%",
+        "Clearances": "19"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "14",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "6",
+        "Yellow_Cards": "0",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Foul by Michael Bryant (Detroit City FC)."
+    },
+    {
+      "time": "1'",
+      "event": "Diba Nwegbo (Birmingham Legion) wins a free kick on the left wing."
+    },
+    {
+      "time": "3'",
+      "event": "Offside, Birmingham Legion. Enzo Martínez tries a through ball, but Juan Agudelo is caught offside."
+    },
+    {
+      "time": "4'",
+      "event": "Matt Lewis (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "4'",
+      "event": "Delay in match  because of an injury Matt Lewis (Detroit City FC)."
+    },
+    {
+      "time": "5'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "6'",
+      "event": "Corner,  Detroit City FC. Conceded by Collin Smith."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt missed. Prosper Kasim (Birmingham Legion) left footed shot from the centre of the box misses to the left. Assisted by Diba Nwegbo."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt blocked. Diba Nwegbo (Birmingham Legion) right footed shot from outside the box is blocked. Assisted by Alex Crognale."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt missed. Prosper Kasim (Birmingham Legion) left footed shot from outside the box is too high."
+    },
+    {
+      "time": "12'",
+      "event": "Oniel Fisher (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "13'",
+      "event": "Offside, Birmingham Legion. Moses Mensah tries a through ball, but Neco Brett is caught offside."
+    },
+    {
+      "time": "17'",
+      "event": "Attempt missed. Neco Brett (Birmingham Legion) left footed shot from the centre of the box is close, but misses to the left. Assisted by Collin Smith."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Connor Rutz (Detroit City FC)."
+    },
+    {
+      "time": "18'",
+      "event": "Enzo Martínez (Birmingham Legion) wins a free kick on the right wing."
+    },
+    {
+      "time": "19'",
+      "event": "Attempt saved. Prosper Kasim (Birmingham Legion) left footed shot from a difficult angle and long range on the right is saved in the bottom right corner."
+    },
+    {
+      "time": "22'",
+      "event": "Oniel Fisher (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "22'",
+      "event": "Foul by Matthew Corcoran (Birmingham Legion)."
+    },
+    {
+      "time": "24'",
+      "event": "Oniel Fisher (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "27'",
+      "event": "Penalty conceded by Rhys Williams (Detroit City FC) after a foul in the penalty area."
+    },
+    {
+      "time": "27'",
+      "event": "Penalty Birmingham Legion. Enzo Martínez draws a foul in the penalty area."
+    },
+    {
+      "time": "29'",
+      "event": "Goal!  Birmingham Legion 1, Detroit City FC 0. Neco Brett (Birmingham Legion) converts the penalty with a right footed shot to the bottom left corner."
+    },
+    {
+      "time": "31'",
+      "event": "Goal!  Birmingham Legion 1, Detroit City FC 1. Ben Morris (Detroit City FC) right footed shot from very close range to the bottom right corner. Assisted by Rhys Williams."
+    },
+    {
+      "time": "32'",
+      "event": "Delay in match   (Birmingham Legion)."
+    },
+    {
+      "time": "34'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt blocked. Ben Morris (Detroit City FC) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "37'",
+      "event": "Penalty conceded by Michael Bryant (Detroit City FC) after a foul in the penalty area."
+    },
+    {
+      "time": "37'",
+      "event": "Penalty Birmingham Legion. Diba Nwegbo draws a foul in the penalty area."
+    },
+    {
+      "time": "38'",
+      "event": "Goal!  Birmingham Legion 2, Detroit City FC 1. Enzo Martínez (Birmingham Legion) converts the penalty with a right footed shot to the bottom left corner."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt saved. Ben Morris (Detroit City FC) header from the centre of the box is saved in the bottom right corner."
+    },
+    {
+      "time": "40'",
+      "event": "Devon Amoo-Mensah (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "40'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "44'",
+      "event": "Goal!  Birmingham Legion 2, Detroit City FC 2. Ben Morris (Detroit City FC) right footed shot from more than 35 yards to the bottom left corner."
+    },
+    {
+      "time": "45'",
+      "event": "Own Goal by Phanuel Kavita, Birmingham Legion.  Birmingham Legion 2, Detroit City FC 3."
+    },
+    {
+      "time": "45+3'",
+      "event": "Nathan Steinwascher (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+3'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "45+4'",
+      "event": "First Half ends, Birmingham Legion 2, Detroit City FC 3."
+    },
+    {
+      "time": "47'",
+      "event": "Dominic Gasso (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "48'",
+      "event": "Michael Bryant (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "48'",
+      "event": "Foul by Moses Mensah (Birmingham Legion)."
+    },
+    {
+      "time": "48'",
+      "event": "Moses Mensah (Birmingham Legion) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "49'",
+      "event": "Attempt blocked. Richard Ballard (Detroit City FC) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "49'",
+      "event": "Attempt blocked. Oniel Fisher (Detroit City FC) right footed shot from a difficult angle on the right is blocked."
+    },
+    {
+      "time": "49'",
+      "event": "Attempt blocked. Ben Morris (Detroit City FC) right footed shot from the centre of the box is blocked. Assisted by Michael Bryant."
+    },
+    {
+      "time": "49'",
+      "event": "Attempt blocked. Ben Morris (Detroit City FC) left footed shot from the left side of the box is blocked. Assisted by Stephen Carroll."
+    },
+    {
+      "time": "50'",
+      "event": "Connor Rutz (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "50'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt blocked. Dominic Gasso (Detroit City FC) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt missed. Diba Nwegbo (Birmingham Legion) left footed shot from the left side of the box is high and wide to the left. Assisted by Prosper Kasim."
+    },
+    {
+      "time": "56'",
+      "event": "Substitution, Birmingham Legion. Mikey Lopez replaces Matthew Corcoran."
+    },
+    {
+      "time": "58'",
+      "event": "Offside, Birmingham Legion. Phanuel Kavita tries a through ball, but Enzo Martínez is caught offside."
+    },
+    {
+      "time": "60'",
+      "event": "Oniel Fisher (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "60'",
+      "event": "Foul by Mikey Lopez (Birmingham Legion)."
+    },
+    {
+      "time": "61'",
+      "event": "Delay in match  because of an injury Oniel Fisher (Detroit City FC)."
+    },
+    {
+      "time": "61'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "62'",
+      "event": "Substitution, Birmingham Legion. Tabort Preston replaces Juan Agudelo."
+    },
+    {
+      "time": "63'",
+      "event": "Offside, Birmingham Legion. Alex Crognale tries a through ball, but Neco Brett is caught offside."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt blocked. Richard Ballard (Detroit City FC) left footed shot from the left side of the six yard box is blocked. Assisted by Devon Amoo-Mensah."
+    },
+    {
+      "time": "65'",
+      "event": "Michael Bryant (Detroit City FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Diba Nwegbo (Birmingham Legion)."
+    },
+    {
+      "time": "66'",
+      "event": "Stephen Carroll (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Mikey Lopez (Birmingham Legion)."
+    },
+    {
+      "time": "66'",
+      "event": "Mikey Lopez (Birmingham Legion) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "66'",
+      "event": "Delay in match  because of an injury Oniel Fisher (Detroit City FC)."
+    },
+    {
+      "time": "67'",
+      "event": "Substitution, Detroit City FC. Skage Simonsen replaces Oniel Fisher."
+    },
+    {
+      "time": "67'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Skage Simonsen (Detroit City FC)."
+    },
+    {
+      "time": "67'",
+      "event": "Collin Smith (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "69'",
+      "event": "Diba Nwegbo (Birmingham Legion) hits the right post with a right footed shot from the left side of the box. Assisted by Enzo Martínez."
+    },
+    {
+      "time": "70'",
+      "event": "Delay in match  because of an injury Nathan Steinwascher (Detroit City FC)."
+    },
+    {
+      "time": "72'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "75'",
+      "event": "Corner,  Birmingham Legion. Conceded by Devon Amoo-Mensah."
+    },
+    {
+      "time": "77'",
+      "event": "Delay in match  because of an injury Dominic Gasso (Detroit City FC)."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, Detroit City FC. Adrian Billhardt replaces Dominic Gasso because of an injury."
+    },
+    {
+      "time": "77'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "79'",
+      "event": "Enzo Martínez (Birmingham Legion) hits the bar with a right footed shot from the centre of the box. Assisted by Diba Nwegbo."
+    },
+    {
+      "time": "79'",
+      "event": "Corner,  Birmingham Legion. Conceded by Michael Bryant."
+    },
+    {
+      "time": "81'",
+      "event": "Attempt blocked. Tabort Preston (Birmingham Legion) right footed shot from the right side of the box is blocked. Assisted by Neco Brett."
+    },
+    {
+      "time": "81'",
+      "event": "Attempt blocked. Mikey Lopez (Birmingham Legion) right footed shot from the right side of the box is blocked."
+    },
+    {
+      "time": "82'",
+      "event": "Attempt saved. Diba Nwegbo (Birmingham Legion) right footed shot from outside the box is saved in the centre of the goal. Assisted by Moses Mensah."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Detroit City FC. Jalen Robinson replaces Richard Ballard."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Birmingham Legion. Jake Rufe replaces Collin Smith."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Birmingham Legion. Gabriel Alves replaces Moses Mensah."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Birmingham Legion. Grayson Dupont replaces Diba Nwegbo."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Devon Amoo-Mensah (Detroit City FC)."
+    },
+    {
+      "time": "87'",
+      "event": "Tabort Preston (Birmingham Legion) wins a free kick on the right wing."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt missed. Alex Crognale (Birmingham Legion) right footed shot from outside the box is high and wide to the left. Assisted by Enzo Martínez."
+    },
+    {
+      "time": "89'",
+      "event": "Offside, Detroit City FC. Skage Simonsen tries a through ball, but Adrian Billhardt is caught offside."
+    },
+    {
+      "time": "89'",
+      "event": "Devon Amoo-Mensah (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Enzo Martínez (Birmingham Legion)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt missed. Prosper Kasim (Birmingham Legion) left footed shot from outside the box misses to the left. Assisted by Mikey Lopez."
+    },
+    {
+      "time": "90+2'",
+      "event": "Hand ball by Mikey Lopez (Birmingham Legion)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Corner,  Birmingham Legion. Conceded by Rhys Williams."
+    },
+    {
+      "time": "90+4'",
+      "event": "Attempt missed. Grayson Dupont (Birmingham Legion) with an attempt from the centre of the box is close, but misses to the left. Assisted by Enzo Martínez with a cross following a corner."
+    },
+    {
+      "time": "90+5'",
+      "event": "Attempt blocked. Prosper Kasim (Birmingham Legion) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "90+5'",
+      "event": "Corner,  Birmingham Legion. Conceded by Ben Morris."
+    },
+    {
+      "time": "90+6'",
+      "event": "Attempt missed. Gabriel Alves (Birmingham Legion) header from very close range is close, but misses to the left. Assisted by Prosper Kasim with a cross following a corner."
+    },
+    {
+      "time": "90+6'",
+      "event": "Attempt missed. Connor Rutz (Detroit City FC) right footed shot from more than 35 yards misses to the right."
+    },
+    {
+      "time": "90+8'",
+      "event": "Second Half ends, Birmingham Legion 2, Detroit City FC 3."
+    }
+  ]
+}

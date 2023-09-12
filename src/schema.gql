@@ -1,0 +1,117 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+"""General Team stats"""
+type GenTeamStats {
+  Possession: String!
+  Duels_Success_Rate: String!
+  Ariel_Duels_Won: String!
+  Interceptions: String!
+  Offsides: String!
+  Corners_Won: String!
+}
+
+"""Distribution Team stats"""
+type DistTeamStats {
+  Passes: String!
+  Long_Passes: String!
+  Passing_Accuracy: String!
+  Passing_Accuracy_In_Opponent_Half: String!
+  Crosses: String!
+  Crossing_Accuracy: String!
+}
+
+"""Attack Team stats"""
+type AttackTeamStats {
+  Goals: String!
+  Shots: String!
+  Shots_On_Target: String!
+  Blocked_Shots: String!
+  Shots_Outside_Box: String!
+  Shots_Inside_Box: String!
+  Shooting_Accuracy: String!
+}
+
+"""Defense Team stats"""
+type DefenseTeamStats {
+  Tackles: String!
+  Tackle_Success_Rate: String!
+  Clearances: String!
+}
+
+"""Discipline Team stats"""
+type DisciplineTeamStats {
+  Fouls_Conceded: String!
+  Yellow_Cards: String!
+  Red_Cards: String!
+}
+
+"""General stats"""
+type GeneralStats {
+  home: GenTeamStats!
+  away: GenTeamStats!
+}
+
+"""Distribution stats"""
+type DistributionStats {
+  home: DistTeamStats!
+  away: DistTeamStats!
+}
+
+"""Attack stats"""
+type AttackStats {
+  home: AttackTeamStats!
+  away: AttackTeamStats!
+}
+
+"""Defense stats"""
+type DefenseStats {
+  home: DefenseTeamStats!
+  away: DefenseTeamStats!
+}
+
+"""Discipline stats"""
+type DisciplineStats {
+  home: DisciplineTeamStats!
+  away: DisciplineTeamStats!
+}
+
+"""Stats"""
+type Stats {
+  GENERAL_STATS: GeneralStats!
+  DISTRIBUTION_STATS: DistributionStats!
+  ATTACK_STATS: AttackStats!
+  DEFENSE_STATS: DefenseStats!
+  DISCIPLINE_STATS: DisciplineStats!
+}
+
+"""Match"""
+type MatchModel {
+  id: ID!
+  homeTeamId: Float!
+  awayTeamId: Float!
+  score: String!
+  stats: Stats!
+}
+
+"""Event"""
+type Event {
+  time: String!
+  event: String!
+}
+
+"""MatchEvents"""
+type EventsModel {
+  id: ID!
+  events: [Event!]!
+  matchId: Int!
+}
+
+type Query {
+  matches: [MatchModel!]!
+  match(id: Float!): MatchModel
+  matchesByTeam(teamId: Float!): [MatchModel!]!
+  matchEvents: [EventsModel!]!
+  singleMatchEvents(id: Float!): EventsModel
+}

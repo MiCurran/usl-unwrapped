@@ -1,0 +1,857 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "New Mexico United",
+      "formation": "5-3-2",
+      "score": "1",
+      "lineup": {
+        "managerName": "Quill",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Alex Tambakis",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Swartz",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "56"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Suggs",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "38"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Ryden",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Colonna",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "907"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Seymore",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Moreno",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "43",
+            "playerName": "Portillo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "54"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Rivas",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "902"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "49",
+            "playerName": "Borgelin",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Reyes",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Parker",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Bailey",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "56"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Garvanian",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Hamilton",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "38",
+            "playerName": "Wyparlo",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Hurst",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Moar",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Oakland Roots",
+      "formation": "3-4-3",
+      "score": "2",
+      "lineup": {
+        "managerName": "Delgado",
+        "players": [
+          {
+            "shirtNumber": "20",
+            "playerName": "Blanchette",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Barbir",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Hackshaw",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Klimenta",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Tamacas",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Diaz",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Morad",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "88"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Gómez",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Peláez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "42"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Cedeno",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Reid",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "52"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "47",
+            "playerName": "Bailey",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Donasiyano",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "88"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "906"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Her",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Matsoso",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Mfeka",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Prentice",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Rodriguez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "62.5%",
+        "Duels_Success_Rate": "62.7%",
+        "Ariel_Duels_Won": "64.9%",
+        "Interceptions": "4",
+        "Offsides": "2",
+        "Corners_Won": "5"
+      },
+      "away": {
+        "Possession": "37.5%",
+        "Duels_Success_Rate": "37.3%",
+        "Ariel_Duels_Won": "35.1%",
+        "Interceptions": "15",
+        "Offsides": "0",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "524",
+        "Long_Passes": "63",
+        "Passing_Accuracy": "80.5%",
+        "Passing_Accuracy_In_Opponent_Half": "69.4%",
+        "Crosses": "21",
+        "Crossing_Accuracy": "28.6%"
+      },
+      "away": {
+        "Passes": "322",
+        "Long_Passes": "59",
+        "Passing_Accuracy": "65.8%",
+        "Passing_Accuracy_In_Opponent_Half": "56.7%",
+        "Crosses": "10",
+        "Crossing_Accuracy": "40.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "11",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "4",
+        "Shooting_Accuracy": "54.5%"
+      },
+      "away": {
+        "Goals": "2",
+        "Shots": "11",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "54.5%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "12",
+        "Tackle_Success_Rate": "66.7%",
+        "Clearances": "16"
+      },
+      "away": {
+        "Tackles": "11",
+        "Tackle_Success_Rate": "81.8%",
+        "Clearances": "19"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "10",
+        "Yellow_Cards": "4",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "3'",
+      "event": "Foul by Emrah Klimenta (Oakland Roots)."
+    },
+    {
+      "time": "3'",
+      "event": "Amando Moreno (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "4'",
+      "event": "Emrah Klimenta (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Josh Suggs (New Mexico United)."
+    },
+    {
+      "time": "6'",
+      "event": "Attempt saved. Trayvone Reid (Oakland Roots) right footed shot from outside the box is saved in the bottom left corner. Assisted by Daniel Gomez."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Anuar Peláez (Oakland Roots)."
+    },
+    {
+      "time": "6'",
+      "event": "Kyle Colonna (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt blocked. Jacobo Reyes (New Mexico United) right footed shot from outside the box is blocked. Assisted by Sergio Rivas."
+    },
+    {
+      "time": "11'",
+      "event": "Attempt blocked. Will Seymore (New Mexico United) right footed shot from outside the box is blocked. Assisted by Harry Swartz."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Anuar Peláez (Oakland Roots)."
+    },
+    {
+      "time": "14'",
+      "event": "Josh Suggs (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Anuar Peláez (Oakland Roots)."
+    },
+    {
+      "time": "21'",
+      "event": "Kyle Colonna (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "22'",
+      "event": "Attempt missed. Amando Moreno (New Mexico United) header from the centre of the box is close, but misses to the right. Assisted by Josh Suggs with a cross."
+    },
+    {
+      "time": "23'",
+      "event": "Corner,  Oakland Roots. Conceded by Kyle Colonna."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt missed. Daniel Barbir (Oakland Roots) header from the left side of the six yard box is high and wide to the right. Assisted by Guillermo Diaz with a cross following a corner."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Trayvone Reid (Oakland Roots)."
+    },
+    {
+      "time": "24'",
+      "event": "Harry Swartz (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "26'",
+      "event": "Offside, New Mexico United. Jacobo Reyes tries a through ball, but Amando Moreno is caught offside."
+    },
+    {
+      "time": "28'",
+      "event": "Delay in match  because of an injury Tarek Morad (Oakland Roots)."
+    },
+    {
+      "time": "28'",
+      "event": "Delay in match  because of an injury Shanyder Borgelin (New Mexico United)."
+    },
+    {
+      "time": "29'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "30'",
+      "event": "Trayvone Reid (Oakland Roots) wins a free kick on the left wing."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Harry Swartz (New Mexico United)."
+    },
+    {
+      "time": "32'",
+      "event": "Corner,  Oakland Roots. Conceded by Will Seymore."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt saved. Neveal Hackshaw (Oakland Roots) header from the centre of the box is saved in the top centre of the goal. Assisted by Guillermo Diaz with a cross."
+    },
+    {
+      "time": "33'",
+      "event": "Trayvone Reid (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Will Seymore (New Mexico United)."
+    },
+    {
+      "time": "34'",
+      "event": "Attempt blocked. Trayvone Reid (Oakland Roots) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "34'",
+      "event": "Attempt blocked. Jeciel Cedeño (Oakland Roots) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "35'",
+      "event": "Bryan Tamacas (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Shanyder Borgelin (New Mexico United)."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt missed. Justin Portillo (New Mexico United) right footed shot from outside the box is too high. Assisted by Josh Suggs."
+    },
+    {
+      "time": "36'",
+      "event": "Foul by Trayvone Reid (Oakland Roots)."
+    },
+    {
+      "time": "36'",
+      "event": "Harry Swartz (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Bryan Tamacas (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Josh Suggs (New Mexico United)."
+    },
+    {
+      "time": "38'",
+      "event": "Josh Suggs (New Mexico United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "39'",
+      "event": "Corner,  Oakland Roots. Conceded by Josh Suggs."
+    },
+    {
+      "time": "42'",
+      "event": "Goal!  New Mexico United 0, Oakland Roots 1. Anuar Peláez (Oakland Roots) right footed shot from very close range to the centre of the goal. Assisted by Daniel Barbir with a cross."
+    },
+    {
+      "time": "45+2'",
+      "event": "Corner,  New Mexico United. Conceded by Emrah Klimenta."
+    },
+    {
+      "time": "45+2'",
+      "event": "Corner,  New Mexico United. Conceded by Daniel Barbir."
+    },
+    {
+      "time": "45+2'",
+      "event": "Attempt saved. Amando Moreno (New Mexico United) right footed shot from outside the box is saved in the bottom right corner."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, New Mexico United 0, Oakland Roots 1."
+    },
+    {
+      "time": "46'",
+      "event": "Attempt saved. Jacobo Reyes (New Mexico United) right footed shot from outside the box is saved in the bottom right corner. Assisted by Amando Moreno."
+    },
+    {
+      "time": "52'",
+      "event": "Goal!  New Mexico United 0, Oakland Roots 2. Trayvone Reid (Oakland Roots) left footed shot from the left side of the box to the bottom right corner. Assisted by Daniel Barbir."
+    },
+    {
+      "time": "54'",
+      "event": "Anuar Peláez (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by Justin Portillo (New Mexico United)."
+    },
+    {
+      "time": "54'",
+      "event": "Justin Portillo (New Mexico United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt blocked. Emrah Klimenta (Oakland Roots) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "55'",
+      "event": "Corner,  Oakland Roots. Conceded by Josh Suggs."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Guillermo Diaz (Oakland Roots)."
+    },
+    {
+      "time": "56'",
+      "event": "Kalen Ryden (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "56'",
+      "event": "Substitution, New Mexico United. Zico Bailey replaces Harry Swartz."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt saved. Anuar Peláez (Oakland Roots) right footed shot from outside the box is saved in the bottom right corner. Assisted by Trayvone Reid."
+    },
+    {
+      "time": "59'",
+      "event": "Hand ball by Justin Portillo (New Mexico United)."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, New Mexico United. Sam Hamilton replaces Jacobo Reyes."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Daniel Barbir (Oakland Roots)."
+    },
+    {
+      "time": "62'",
+      "event": "Will Seymore (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "64'",
+      "event": "Foul by Daniel Barbir (Oakland Roots)."
+    },
+    {
+      "time": "64'",
+      "event": "Zico Bailey (New Mexico United) wins a free kick on the right wing."
+    },
+    {
+      "time": "64'",
+      "event": "Delay in match  because of an injury Anuar Peláez (Oakland Roots)."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, Oakland Roots. Johnny Rodriguez replaces Anuar Peláez because of an injury."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, Oakland Roots. Lindo Mfeka replaces Trayvone Reid."
+    },
+    {
+      "time": "65'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "66'",
+      "event": "Attempt saved. Kyle Colonna (New Mexico United) header from the left side of the box is saved in the bottom left corner. Assisted by Justin Portillo."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt missed. Johnny Rodriguez (Oakland Roots) right footed shot from outside the box is just a bit too high. Assisted by Lindo Mfeka."
+    },
+    {
+      "time": "67'",
+      "event": "Sam Hamilton (New Mexico United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "70'",
+      "event": "Offside, New Mexico United. Josh Suggs tries a through ball, but Amando Moreno is caught offside."
+    },
+    {
+      "time": "71'",
+      "event": "Foul by Emrah Klimenta (Oakland Roots)."
+    },
+    {
+      "time": "71'",
+      "event": "Shanyder Borgelin (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "72'",
+      "event": "Emrah Klimenta (Oakland Roots) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "75'",
+      "event": "Lindo Mfeka (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Sam Hamilton (New Mexico United)."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, New Mexico United. Santi Moar replaces Amando Moreno."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, New Mexico United. Greg Hurst replaces Will Seymore."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, Oakland Roots. Napo Matsoso replaces Jeciel Cedeño."
+    },
+    {
+      "time": "82'",
+      "event": "Foul by Bryan Tamacas (Oakland Roots)."
+    },
+    {
+      "time": "82'",
+      "event": "Sam Hamilton (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt saved. Johnny Rodriguez (Oakland Roots) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Napo Matsoso."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt blocked. Santi Moar (New Mexico United) right footed shot from outside the box is blocked. Assisted by Sergio Rivas."
+    },
+    {
+      "time": "87'",
+      "event": "Corner,  New Mexico United. Conceded by Neveal Hackshaw."
+    },
+    {
+      "time": "87'",
+      "event": "Delay in match  because of an injury Tarek Morad (Oakland Roots)."
+    },
+    {
+      "time": "87'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "88'",
+      "event": "Substitution, Oakland Roots. Irakoze Donasiyano replaces Tarek Morad because of an injury."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Lindo Mfeka (Oakland Roots)."
+    },
+    {
+      "time": "88'",
+      "event": "Santi Moar (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "89'",
+      "event": "Attempt saved. Justin Portillo (New Mexico United) right footed shot from outside the box is saved in the bottom right corner."
+    },
+    {
+      "time": "89'",
+      "event": "Corner,  New Mexico United. Conceded by Paul Blanchette."
+    },
+    {
+      "time": "89'",
+      "event": "Attempt saved. Greg Hurst (New Mexico United) header from the centre of the box is saved in the bottom left corner. Assisted by Justin Portillo with a cross."
+    },
+    {
+      "time": "90+1'",
+      "event": "Delay in match  because of an injury Paul Blanchette (Oakland Roots)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+2'",
+      "event": "Corner,  New Mexico United. Conceded by Emrah Klimenta."
+    },
+    {
+      "time": "90+2'",
+      "event": "Goal!  New Mexico United 1, Oakland Roots 2. Sergio Rivas (New Mexico United) left footed shot from the centre of the box to the bottom right corner. Assisted by Sam Hamilton   following a corner."
+    },
+    {
+      "time": "90+4'",
+      "event": "Daniel Barbir (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+4'",
+      "event": "Foul by Greg Hurst (New Mexico United)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Daniel Gomez (Oakland Roots)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Sam Hamilton (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+5'",
+      "event": "Neveal Hackshaw (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Kyle Colonna (New Mexico United)."
+    },
+    {
+      "time": "90+6'",
+      "event": "Irakoze Donasiyano (Oakland Roots) is shown the yellow card."
+    },
+    {
+      "time": "90+7'",
+      "event": "Kyle Colonna (New Mexico United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+8'",
+      "event": "Second Half ends, New Mexico United 1, Oakland Roots 2."
+    }
+  ]
+}

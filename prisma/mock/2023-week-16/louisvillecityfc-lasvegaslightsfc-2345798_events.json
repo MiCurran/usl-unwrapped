@@ -1,0 +1,866 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Louisville City FC",
+      "formation": "4-1-4-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Cruz",
+        "players": [
+          {
+            "shirtNumber": "28",
+            "playerName": "Semmle",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Manny Perez",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "56"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Dia",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Totsch",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Charpie",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Gibson",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Serrano",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "28"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Mares",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "35"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "56"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Pedersen",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Mushagalusa",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "77"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Harris",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Faundez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Jimenez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "56"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "36",
+            "playerName": "DelPiccolo",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "McCabe",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "56"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Moguel",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Ownby",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "90",
+            "playerName": "Pouwels",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Las Vegas Lights FC",
+      "formation": "4-4-2",
+      "score": "0",
+      "lineup": {
+        "managerName": "Sánchez",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Díaz",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Stauffer",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Mitrano",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Carroll",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "98",
+            "playerName": "Zali",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Ingram",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "45",
+            "playerName": "Ledesma",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "60"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Jimenez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Bushue",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Oteng",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Tabort Etaka",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Zuluaga-Silva",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Lage",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Bagley",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Rios",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Soares",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Botello Faz",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Carleton",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "61.5%",
+        "Duels_Success_Rate": "50.5%",
+        "Ariel_Duels_Won": "68.8%",
+        "Interceptions": "8",
+        "Offsides": "3",
+        "Corners_Won": "4"
+      },
+      "away": {
+        "Possession": "38.5%",
+        "Duels_Success_Rate": "49.5%",
+        "Ariel_Duels_Won": "31.3%",
+        "Interceptions": "10",
+        "Offsides": "5",
+        "Corners_Won": "3"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "437",
+        "Long_Passes": "56",
+        "Passing_Accuracy": "81.5%",
+        "Passing_Accuracy_In_Opponent_Half": "71.6%",
+        "Crosses": "18",
+        "Crossing_Accuracy": "22.2%"
+      },
+      "away": {
+        "Passes": "274",
+        "Long_Passes": "71",
+        "Passing_Accuracy": "66.8%",
+        "Passing_Accuracy_In_Opponent_Half": "52.8%",
+        "Crosses": "13",
+        "Crossing_Accuracy": "30.8%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "13",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "6",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "10",
+        "Shooting_Accuracy": "23.1%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "11",
+        "Shots_On_Target": "0",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "9",
+        "Shots_Inside_Box": "2",
+        "Shooting_Accuracy": "0.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "6",
+        "Tackle_Success_Rate": "50.0%",
+        "Clearances": "14"
+      },
+      "away": {
+        "Tackles": "17",
+        "Tackle_Success_Rate": "47.1%",
+        "Clearances": "18"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "14",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Attempt saved. Rasmus Thellufsen (Louisville City) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Dylan Mares with a cross."
+    },
+    {
+      "time": "2'",
+      "event": "Offside, Las Vegas Lights FC. Leo Díaz tries a through ball, but Tabort Preston is caught offside."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Tabort Preston (Las Vegas Lights FC)."
+    },
+    {
+      "time": "3'",
+      "event": "Dylan Mares (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "4'",
+      "event": "Attempt blocked. Ray Serrano (Louisville City) right footed shot from the right side of the box is blocked. Assisted by Dylan Mares."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Alejandro Mitrano (Las Vegas Lights FC)."
+    },
+    {
+      "time": "6'",
+      "event": "Ray Serrano (Louisville City) wins a free kick on the right wing."
+    },
+    {
+      "time": "8'",
+      "event": "Attempt blocked. Wilson Harris (Louisville City) right footed shot from outside the box is blocked. Assisted by Rasmus Thellufsen."
+    },
+    {
+      "time": "8'",
+      "event": "Offside, Louisville City. Wilson Harris tries a through ball, but Ray Serrano is caught offside."
+    },
+    {
+      "time": "10'",
+      "event": "Offside, Louisville City. Ray Serrano tries a through ball, but Wilson Harris is caught offside."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Lucas Stauffer (Las Vegas Lights FC)."
+    },
+    {
+      "time": "11'",
+      "event": "Enoch Mushagalusa (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "12'",
+      "event": "Emmanuel Ledesma (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Wes Charpie (Louisville City)."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Jacob Bushue (Las Vegas Lights FC)."
+    },
+    {
+      "time": "14'",
+      "event": "Wilson Harris (Louisville City) wins a free kick on the left wing."
+    },
+    {
+      "time": "16'",
+      "event": "Offside, Las Vegas Lights FC. Lucas Stauffer tries a through ball, but Emmanuel Ledesma is caught offside."
+    },
+    {
+      "time": "16'",
+      "event": "Offside, Louisville City. Wes Charpie tries a through ball, but Enoch Mushagalusa is caught offside."
+    },
+    {
+      "time": "18'",
+      "event": "Emmanuel Ledesma (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Sean Totsch (Louisville City)."
+    },
+    {
+      "time": "19'",
+      "event": "Zach Carroll (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Wilson Harris (Louisville City)."
+    },
+    {
+      "time": "20'",
+      "event": "Foul by Jacob Bushue (Las Vegas Lights FC)."
+    },
+    {
+      "time": "20'",
+      "event": "Enoch Mushagalusa (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Eric Oteng (Las Vegas Lights FC)."
+    },
+    {
+      "time": "23'",
+      "event": "Manny Perez (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt blocked. Dylan Mares (Louisville City) right footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "25'",
+      "event": "Corner,  Louisville City. Conceded by Timothie Zali."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt missed. Enoch Mushagalusa (Louisville City) header from the centre of the box misses to the right. Assisted by Dylan Mares with a cross following a corner."
+    },
+    {
+      "time": "27'",
+      "event": "Corner,  Louisville City. Conceded by Lucas Stauffer."
+    },
+    {
+      "time": "28'",
+      "event": "Attempt blocked. Sean Totsch (Louisville City) header from the centre of the box is blocked. Assisted by Dylan Mares with a cross."
+    },
+    {
+      "time": "28'",
+      "event": "Tabort Preston (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Ray Serrano (Louisville City)."
+    },
+    {
+      "time": "28'",
+      "event": "Ray Serrano (Louisville City) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "29'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Sean Totsch."
+    },
+    {
+      "time": "30'",
+      "event": "Attempt blocked. Lucas Stauffer (Las Vegas Lights FC) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt blocked. Eric Oteng (Las Vegas Lights FC) left footed shot from outside the box is blocked. Assisted by Tabort Preston."
+    },
+    {
+      "time": "33'",
+      "event": "Eric Oteng (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Tyler Gibson (Louisville City)."
+    },
+    {
+      "time": "34'",
+      "event": "Tabort Preston (Las Vegas Lights FC) hits the bar with a right footed shot from a difficult angle and long range on the right. Assisted by Lucas Stauffer."
+    },
+    {
+      "time": "35'",
+      "event": "Andrés Jiménez (Las Vegas Lights FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Dylan Mares (Louisville City)."
+    },
+    {
+      "time": "35'",
+      "event": "Dylan Mares (Louisville City) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "36'",
+      "event": "Delay in match  because of an injury Andrés Jiménez (Las Vegas Lights FC)."
+    },
+    {
+      "time": "37'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt missed. Lucas Stauffer (Las Vegas Lights FC) right footed shot from outside the box misses to the right following a set piece situation."
+    },
+    {
+      "time": "38'",
+      "event": "Andrés Jiménez (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Amadou Dia (Louisville City)."
+    },
+    {
+      "time": "39'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Amadou Dia."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt missed. Eric Oteng (Las Vegas Lights FC) left footed shot from outside the box is close, but misses the top left corner. Assisted by Andrés Jiménez following a corner."
+    },
+    {
+      "time": "41'",
+      "event": "Attempt missed. Emmanuel Ledesma (Las Vegas Lights FC) left footed shot from more than 35 yards misses to the right. Assisted by Eric Oteng."
+    },
+    {
+      "time": "42'",
+      "event": "Andrés Jiménez (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "42'",
+      "event": "Foul by Dylan Mares (Louisville City)."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Justin Ingram (Las Vegas Lights FC)."
+    },
+    {
+      "time": "43'",
+      "event": "Sean Totsch (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+1'",
+      "event": "Hand ball by Emmanuel Ledesma (Las Vegas Lights FC)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Emmanuel Ledesma (Las Vegas Lights FC)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Tyler Gibson (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, Louisville City 0, Las Vegas Lights FC 0."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Lucas Stauffer (Las Vegas Lights FC)."
+    },
+    {
+      "time": "46'",
+      "event": "Enoch Mushagalusa (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "46'",
+      "event": "Wilson Harris (Louisville City) hits the left post with a header from the centre of the box. Assisted by Dylan Mares following a set piece situation."
+    },
+    {
+      "time": "50'",
+      "event": "Emmanuel Ledesma (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "50'",
+      "event": "Foul by Wes Charpie (Louisville City)."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt blocked. Ray Serrano (Louisville City) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Andrés Jiménez (Las Vegas Lights FC)."
+    },
+    {
+      "time": "55'",
+      "event": "Dylan Mares (Louisville City) wins a free kick on the right wing."
+    },
+    {
+      "time": "56'",
+      "event": "Substitution, Louisville City. Oscar Jiménez replaces Manny Perez."
+    },
+    {
+      "time": "56'",
+      "event": "Substitution, Louisville City. Niall McCabe replaces Dylan Mares."
+    },
+    {
+      "time": "57'",
+      "event": "Attempt blocked. Rasmus Thellufsen (Louisville City) left footed shot from the centre of the box is blocked. Assisted by Enoch Mushagalusa with a cross."
+    },
+    {
+      "time": "60'",
+      "event": "Offside, Las Vegas Lights FC. Zach Carroll tries a through ball, but Eric Oteng is caught offside."
+    },
+    {
+      "time": "60'",
+      "event": "Emmanuel Ledesma (Las Vegas Lights FC) is shown the yellow card."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, Las Vegas Lights FC. Andrew Carleton replaces Emmanuel Ledesma."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt missed. Andrés Jiménez (Las Vegas Lights FC) right footed shot from outside the box misses to the right. Assisted by Lucas Stauffer."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt missed. Andrés Jiménez (Las Vegas Lights FC) right footed shot from outside the box is high and wide to the right."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Tabort Preston (Las Vegas Lights FC)."
+    },
+    {
+      "time": "65'",
+      "event": "Wes Charpie (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "65'",
+      "event": "Justin Ingram (Las Vegas Lights FC) is shown the yellow card."
+    },
+    {
+      "time": "66'",
+      "event": "Tabort Preston (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Enoch Mushagalusa (Louisville City)."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Timothie Zali (Las Vegas Lights FC)."
+    },
+    {
+      "time": "68'",
+      "event": "Niall McCabe (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "68'",
+      "event": "Substitution, Louisville City. Brian Ownby replaces Ray Serrano."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt missed. Niall McCabe (Louisville City) right footed shot from the centre of the box is too high. Assisted by Brian Ownby."
+    },
+    {
+      "time": "71'",
+      "event": "Substitution, Las Vegas Lights FC. Tyler Bagley replaces Eric Oteng."
+    },
+    {
+      "time": "72'",
+      "event": "Andrew Carleton (Las Vegas Lights FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Wes Charpie (Louisville City)."
+    },
+    {
+      "time": "73'",
+      "event": "Offside, Las Vegas Lights FC. Justin Ingram tries a through ball, but Zach Carroll is caught offside."
+    },
+    {
+      "time": "74'",
+      "event": "Substitution, Las Vegas Lights FC. Pato Botello Faz replaces Andrés Jiménez."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt saved. Brian Ownby (Louisville City) left footed shot from outside the box is saved in the centre of the goal."
+    },
+    {
+      "time": "77'",
+      "event": "Goal!  Louisville City 1, Las Vegas Lights FC 0. Enoch Mushagalusa (Louisville City) right footed shot from the centre of the box to the centre of the goal. Assisted by Brian Ownby."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt blocked. Tyler Bagley (Las Vegas Lights FC) right footed shot from outside the box is blocked. Assisted by Justin Ingram."
+    },
+    {
+      "time": "83'",
+      "event": "Alejandro Mitrano (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "83'",
+      "event": "Foul by Oscar Jiménez (Louisville City)."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Louisville City. Paolo DelPiccolo replaces Enoch Mushagalusa."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Louisville City. Maarten Pouwels replaces Wilson Harris."
+    },
+    {
+      "time": "85'",
+      "event": "Offside, Las Vegas Lights FC. Leo Díaz tries a through ball, but Pato Botello Faz is caught offside."
+    },
+    {
+      "time": "87'",
+      "event": "Corner,  Louisville City. Conceded by Timothie Zali."
+    },
+    {
+      "time": "87'",
+      "event": "Corner,  Louisville City. Conceded by Tabort Preston."
+    },
+    {
+      "time": "87'",
+      "event": "Leo Díaz (Las Vegas Lights FC) is shown the yellow card."
+    },
+    {
+      "time": "89'",
+      "event": "Alejandro Mitrano (Las Vegas Lights FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Brian Ownby (Louisville City)."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt missed. Andrew Carleton (Las Vegas Lights FC) right footed shot from the left side of the box misses to the right."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt missed. Oscar Jiménez (Louisville City) right footed shot from the right side of the box is too high. Assisted by Brian Ownby."
+    },
+    {
+      "time": "90+3'",
+      "event": "Andrew Carleton (Las Vegas Lights FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Maarten Pouwels (Louisville City)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Sean Totsch."
+    },
+    {
+      "time": "90+4'",
+      "event": "Attempt missed. Leo Díaz (Las Vegas Lights FC) header from the centre of the box is too high. Assisted by Justin Ingram with a cross following a corner."
+    },
+    {
+      "time": "90+4'",
+      "event": "Second Half ends, Louisville City 1, Las Vegas Lights FC 0."
+    }
+  ]
+}

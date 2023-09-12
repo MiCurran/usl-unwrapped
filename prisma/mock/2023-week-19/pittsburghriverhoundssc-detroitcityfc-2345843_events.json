@@ -1,0 +1,780 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Pittsburgh Riverhounds SC",
+      "formation": "4-3-1-2",
+      "score": "2",
+      "lineup": {
+        "managerName": "Lilley",
+        "players": [
+          {
+            "shirtNumber": "26",
+            "playerName": "Waite",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Ordoñez",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "47"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Rovira",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Farrell",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "DeShields",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Zwetsloot",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Fahling",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "51"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Forbes",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "37"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Griffin",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Kizza",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "8"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Albert Dikwa",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Garner",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Hogan",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Mertz",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Ybarra",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Harmon",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Obregón Jr",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Showunmi",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "83"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Detroit City FC",
+      "formation": "3-1-4-2",
+      "score": "0",
+      "lineup": {
+        "managerName": "James",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Steinwascher",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Carroll",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Bryant",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Amoo-Mensah",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Ballard",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Levis",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Rodríguez",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Gasso",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rutz",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Matthews",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "92",
+            "playerName": "Suárez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Shellow",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Robinson",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Williams",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Billhardt",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "82"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Candela",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Morris",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Skage Lehland",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "39.9%",
+        "Duels_Success_Rate": "48.8%",
+        "Ariel_Duels_Won": "48.1%",
+        "Interceptions": "7",
+        "Offsides": "1",
+        "Corners_Won": "2"
+      },
+      "away": {
+        "Possession": "60.1%",
+        "Duels_Success_Rate": "51.2%",
+        "Ariel_Duels_Won": "51.9%",
+        "Interceptions": "8",
+        "Offsides": "2",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "348",
+        "Long_Passes": "82",
+        "Passing_Accuracy": "67.2%",
+        "Passing_Accuracy_In_Opponent_Half": "58.2%",
+        "Crosses": "11",
+        "Crossing_Accuracy": "36.4%"
+      },
+      "away": {
+        "Passes": "527",
+        "Long_Passes": "91",
+        "Passing_Accuracy": "78.6%",
+        "Passing_Accuracy_In_Opponent_Half": "65.1%",
+        "Crosses": "20",
+        "Crossing_Accuracy": "20.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "8",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "0",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "62.5%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "9",
+        "Shots_On_Target": "0",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "4",
+        "Shooting_Accuracy": "0.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "20",
+        "Tackle_Success_Rate": "70.0%",
+        "Clearances": "21"
+      },
+      "away": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "61.5%",
+        "Clearances": "7"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "17",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "7",
+        "Yellow_Cards": "0",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Foul by Michael DeShields (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "1'",
+      "event": "Richard Ballard (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Daniel Rovira (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "3'",
+      "event": "Richard Ballard (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "6'",
+      "event": "Attempt missed. Albert Dikwa (Pittsburgh Riverhounds SC) header from very close range is close, but misses to the right. Assisted by Daniel Rovira with a cross."
+    },
+    {
+      "time": "7'",
+      "event": "Kenardo Forbes (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Brett Levis (Detroit City FC)."
+    },
+    {
+      "time": "8'",
+      "event": "Goal!  Pittsburgh Riverhounds SC 1, Detroit City FC 0. Edward Kizza (Pittsburgh Riverhounds SC) left footed shot from the left side of the box to the high centre of the goal. Assisted by Michael DeShields."
+    },
+    {
+      "time": "12'",
+      "event": "Hand ball by Burke Fahling (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "16'",
+      "event": "Attempt blocked. Yazeed Matthews (Detroit City FC) right footed shot from the left side of the box is blocked. Assisted by Brett Levis."
+    },
+    {
+      "time": "16'",
+      "event": "Offside, Detroit City FC. Yazeed Matthews tries a through ball, but Connor Rutz is caught offside."
+    },
+    {
+      "time": "18'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Michael Bryant."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Albert Dikwa (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "19'",
+      "event": "Nathan Steinwascher (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "20'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Burke Fahling tries a through ball, but Albert Dikwa is caught offside."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Michael DeShields (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "21'",
+      "event": "Richard Ballard (Detroit City FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "22'",
+      "event": "Attempt missed. Albert Dikwa (Pittsburgh Riverhounds SC) header from the centre of the box misses to the right. Assisted by Burke Fahling with a cross."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt missed. Brett Levis (Detroit City FC) left footed shot from outside the box is too high."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt saved. Edward Kizza (Pittsburgh Riverhounds SC) right footed shot from the right side of the box is saved in the bottom left corner. Assisted by Albert Dikwa with a headed pass."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt saved. Kenardo Forbes (Pittsburgh Riverhounds SC) right footed shot from outside the box is saved in the top centre of the goal. Assisted by Danny Griffin."
+    },
+    {
+      "time": "27'",
+      "event": "Trevor Zwetsloot (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Brett Levis (Detroit City FC)."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Burke Fahling (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "28'",
+      "event": "Brett Levis (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Trevor Zwetsloot (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "29'",
+      "event": "Dominic Gasso (Detroit City FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "33'",
+      "event": "Trevor Zwetsloot (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Darío Suárez (Detroit City FC)."
+    },
+    {
+      "time": "34'",
+      "event": "Foul by Daniel Rovira (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "34'",
+      "event": "Richard Ballard (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "37'",
+      "event": "Foul by Kenardo Forbes (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "37'",
+      "event": "Maxi Rodriguez (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "37'",
+      "event": "Kenardo Forbes (Pittsburgh Riverhounds SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "42'",
+      "event": "Offside, Detroit City FC. Yazeed Matthews tries a through ball, but Connor Rutz is caught offside."
+    },
+    {
+      "time": "45'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Brett Levis."
+    },
+    {
+      "time": "45+1'",
+      "event": "Foul by Trevor Zwetsloot (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Michael Bryant (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, Pittsburgh Riverhounds SC 1, Detroit City FC 0."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Albert Dikwa (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "46'",
+      "event": "Maxi Rodriguez (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "47'",
+      "event": "Connor Rutz (Detroit City FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "47'",
+      "event": "Arturo Osuna (Pittsburgh Riverhounds SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "48'",
+      "event": "Edward Kizza (Pittsburgh Riverhounds SC) wins a free kick on the left wing."
+    },
+    {
+      "time": "48'",
+      "event": "Foul by Michael Bryant (Detroit City FC)."
+    },
+    {
+      "time": "49'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Dominic Gasso (Detroit City FC)."
+    },
+    {
+      "time": "51'",
+      "event": "Goal!  Pittsburgh Riverhounds SC 2, Detroit City FC 0. Burke Fahling (Pittsburgh Riverhounds SC) from a free kick with a right footed shot to the top left corner."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Danny Griffin (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "56'",
+      "event": "Darío Suárez (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "59'",
+      "event": "Hand ball by Danny Griffin (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "62'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Robbie Mertz replaces Edward Kizza."
+    },
+    {
+      "time": "62'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Marc Ybarra replaces Trevor Zwetsloot."
+    },
+    {
+      "time": "62'",
+      "event": "Substitution, Detroit City FC. Rhys Williams replaces Brett Levis."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt blocked. Maxi Rodriguez (Detroit City FC) right footed shot from outside the box is blocked. Assisted by Yazeed Matthews with a headed pass."
+    },
+    {
+      "time": "71'",
+      "event": "Arturo Osuna (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "71'",
+      "event": "Foul by Connor Rutz (Detroit City FC)."
+    },
+    {
+      "time": "71'",
+      "event": "Delay in match  because of an injury Joseph Farrell (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "72'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Patrick Hogan replaces Joseph Farrell because of an injury."
+    },
+    {
+      "time": "72'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "74'",
+      "event": "Yazeed Matthews (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Detroit City FC. Skage Simonsen replaces Dominic Gasso."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Detroit City FC. Ben Morris replaces Darío Suárez."
+    },
+    {
+      "time": "77'",
+      "event": "Attempt missed. Rhys Williams (Detroit City FC) right footed shot from outside the box is too high."
+    },
+    {
+      "time": "78'",
+      "event": "Attempt blocked. Yazeed Matthews (Detroit City FC) right footed shot from outside the box is blocked. Assisted by Skage Simonsen."
+    },
+    {
+      "time": "78'",
+      "event": "Corner,  Detroit City FC. Conceded by Patrick Hogan."
+    },
+    {
+      "time": "79'",
+      "event": "Delay in match  because of an injury Patrick Hogan (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "79'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "82'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "82'",
+      "event": "Foul by Connor Rutz (Detroit City FC)."
+    },
+    {
+      "time": "82'",
+      "event": "Substitution, Detroit City FC. Adrian Billhardt replaces Yazeed Matthews."
+    },
+    {
+      "time": "83'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Tola Showunmi replaces Albert Dikwa."
+    },
+    {
+      "time": "83'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Juan Carlos Obregón Jr replaces Kenardo Forbes."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt saved. Tola Showunmi (Pittsburgh Riverhounds SC) right footed shot from outside the box is saved in the top centre of the goal. Assisted by Marc Ybarra."
+    },
+    {
+      "time": "87'",
+      "event": "Adrian Billhardt (Detroit City FC) hits the bar with a left footed shot from the left side of the box. Assisted by Skage Simonsen."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt missed. Rhys Williams (Detroit City FC) right footed shot from the centre of the box is high and wide to the right."
+    },
+    {
+      "time": "88'",
+      "event": "Attempt missed. Skage Simonsen (Detroit City FC) right footed shot from outside the box is too high. Assisted by Stephen Carroll."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Daniel Rovira (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "89'",
+      "event": "Rhys Williams (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90'",
+      "event": "Foul by Juan Carlos Obregón Jr (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "90'",
+      "event": "Stephen Carroll (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+2'",
+      "event": "Attempt missed. Robbie Mertz (Pittsburgh Riverhounds SC) right footed shot from the right side of the box is close, but misses to the left. Assisted by Tola Showunmi."
+    },
+    {
+      "time": "90+3'",
+      "event": "Corner,  Detroit City FC. Conceded by Marc Ybarra."
+    },
+    {
+      "time": "90+4'",
+      "event": "Attempt missed. Rhys Williams (Detroit City FC) header from the centre of the box is close, but misses to the right. Assisted by Connor Rutz."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Pittsburgh Riverhounds SC 2, Detroit City FC 0."
+    }
+  ]
+}
