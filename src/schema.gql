@@ -108,10 +108,19 @@ type EventsModel {
   matchId: Int!
 }
 
+"""USL Team"""
+type UslTeam {
+  id: Float!
+  name: String!
+  conference: String!
+}
+
 type Query {
   matches: [MatchModel!]!
   match(id: Float!): MatchModel
   matchesByTeam(teamId: Float!): [MatchModel!]!
   matchEvents: [EventsModel!]!
   singleMatchEvents(id: Float!): EventsModel
+  uslTeams: [UslTeam!]!
+  uslTeam(id: Float!): UslTeam
 }

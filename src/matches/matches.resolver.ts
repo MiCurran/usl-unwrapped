@@ -1,13 +1,10 @@
 import { Resolver, Query, Args, Mutation } from '@nestjs/graphql';
 import {
-  Match as PrismaMatch,
-  MatchTeam,
-  MatchPlayer,
-  MatchEvents,
+  Match as PrismaMatch
 } from '@prisma/client';
-import { MatchModel } from './matches/matches.model';
-import { MatchesService } from './matches/matches.service';
-import { EventsService } from './events/events.service';
+import { MatchModel } from './matches.model';
+import { MatchesService } from './matches.service';
+import { EventsService } from '../events/events.service';
 
 @Resolver()
 export class MatchResolver {

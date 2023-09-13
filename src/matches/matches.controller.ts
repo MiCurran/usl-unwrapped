@@ -1,4 +1,4 @@
-import { Controller, Get, Post, Body, Put, Param, Delete } from '@nestjs/common';
+import { Controller, Get, Post, Body, Put, Param, Delete, UseGuards } from '@nestjs/common';
 import { MatchesService } from './matches.service';
 import { Match, Prisma } from '.prisma/client';
 import {
@@ -7,12 +7,23 @@ import {
   ApiResponse,
   ApiParam,
   ApiBody,
+  ApiUnauthorizedResponse
 } from '@nestjs/swagger'; // Import Swagger decorators
-
+import { AuthorizationGuard } from 'src/authorization/authorization.guard';
 @ApiTags('Matches') // Add a tag to categorize routes under "Matches"
 @Controller('matches')
 export class MatchesController {
   constructor(private readonly matchesService: MatchesService) {}
+
+  @Post()
+  @UseGuards(AuthorizationGuard)
+  @ApiOperation({ summary: 'Create a new match' })
+  @ApiResponse({ status: 201, description: 'Returns the created match.' })
+  @ApiUnauthorizedResponse({ description: 'Missing Bearer Key' }) // Document the unauthorized response
+  async create(@Body() matchData: Match): Promise<Match> {
+    const createdMatch = await this.matchesService.create(matchData);
+    return createdMatch;
+  }
 
   @Get()
   @ApiOperation({ summary: 'Get all matches' })

@@ -4,7 +4,7 @@ import { UslTeams } from '.prisma/client';
 import { Directive, Field, ID, ObjectType, Int } from '@nestjs/graphql';
 import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
 
-@ObjectType({ description: 'Event' })
+@ObjectType({ description: 'USL Team' })
 export class UslTeam implements UslTeams {
     @Field()
     @ApiProperty()

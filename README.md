@@ -1,6 +1,17 @@
 ### GraphQL example queries
 
 ```graphql
+#query all usl teams and get id's
+query {
+  uslTeams {
+    name
+    id
+  	conference
+  }
+  }
+```
+
+```graphql
 #query all matches
 query {
   matches {
