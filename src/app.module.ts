@@ -16,7 +16,8 @@ import { EventsModule } from './events/events.module';
 import { TeamsController } from './teams/teams.controller';
 import { TeamsService } from './teams/teams.service';
 import { TeamsModule } from './teams/teams.module';
-
+import { AuthorizationModule } from './authorization/authorization.module';
+import { ConfigModule } from '@nestjs/config';
 @Module({
   imports: [
     GraphQLModule.forRoot<ApolloDriverConfig>({
@@ -26,7 +27,9 @@ import { TeamsModule } from './teams/teams.module';
     }),
     MatchesModule,
     EventsModule,
-    TeamsModule
+    TeamsModule,
+    AuthorizationModule,
+    ConfigModule.forRoot()
   ],
   controllers: [AppController, MatchesController, EventsController, TeamsController],
   providers: [PrismaService, MatchResolver, AppService, MatchesService, EventsService, EventsResolver, TeamsService],

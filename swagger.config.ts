@@ -7,6 +7,7 @@ export function setupSwagger(app: INestApplication) {
     .setTitle('USL Match Statistics API Documentation')
     .setDescription('Match Statistics and Match Events from USL soccer league matches.')
     .setVersion('1.0')
+    .addBearerAuth() // Add a Bearer token authentication definition
     .build();
 
   const document = SwaggerModule.createDocument(app, options);
