@@ -9,12 +9,12 @@ import { EventsService } from './events.service';
 export class EventsResolver {
   constructor(private readonly eventsService: EventsService) {}
   @Query(() => [EventsModel])
-  async matchEvents(): Promise<MatchEvents[]> {
+  async matchEvents(): Promise<EventsModel[]> {
     return this.eventsService.findAll();
   }
 
   @Query(() => EventsModel, { nullable: true })
-  async singleMatchEvents(@Args('id') id: number): Promise<MatchEvents | null> {
+  async singleMatchEvents(@Args('id') id: number): Promise<EventsModel | null> {
     return this.eventsService.findOne(id);
   }
 }

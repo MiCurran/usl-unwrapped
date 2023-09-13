@@ -1,16 +1,17 @@
 import { Injectable } from '@nestjs/common';
 import { PrismaService } from 'src/prisma/prisma.service';
 import { MatchEvents } from '.prisma/client';
+import { EventsModel } from './events.model';
 
 @Injectable()
 export class EventsService {
   constructor(private readonly prisma: PrismaService) {}
 
-  async findAll(): Promise<MatchEvents[]> {
+  async findAll(): Promise<EventsModel[]> {
     return this.prisma.matchEvents.findMany();
   }
 
-  async findOne(id: number): Promise<MatchEvents | null> {
+  async findOne(id: number): Promise<EventsModel | null> {
     return this.prisma.matchEvents.findUnique({
       where: { id },
     });
