@@ -1,4 +1,4 @@
-import { Controller, Get, Post, Body, Put, Param, Delete, UseGuards } from '@nestjs/common';
+import { Controller, Get, Post, Body, Put, Param, Delete, UseGuards, Query } from '@nestjs/common';
 import { MatchesService } from './matches.service';
 import { Match, Prisma } from '.prisma/client';
 import {
@@ -6,8 +6,9 @@ import {
   ApiOperation,
   ApiResponse,
   ApiParam,
-  ApiBody,
-  ApiUnauthorizedResponse
+  ApiQuery,
+  ApiUnauthorizedResponse,
+  ApiExcludeEndpoint
 } from '@nestjs/swagger'; // Import Swagger decorators
 import { AuthorizationGuard } from 'src/authorization/authorization.guard';
 @ApiTags('Matches') // Add a tag to categorize routes under "Matches"
@@ -20,16 +21,18 @@ export class MatchesController {
   @ApiOperation({ summary: 'Create a new match' })
   @ApiResponse({ status: 201, description: 'Returns the created match.' })
   @ApiUnauthorizedResponse({ description: 'Missing Bearer Key' }) // Document the unauthorized response
+  @ApiExcludeEndpoint(process.env.NODE_ENV !== 'DEV')
   async create(@Body() matchData: Match): Promise<Match> {
     const createdMatch = await this.matchesService.create(matchData);
     return createdMatch;
   }
 
-  @Get()
-  @ApiOperation({ summary: 'Get all matches' })
-  @ApiResponse({ status: 200, description: 'Returns an array of matches.' })
-  findAll(): Promise<Match[]> {
-    return this.matchesService.findAll();
+  @Get('')
+  @ApiOperation({ summary: 'Get all matches - optionally by season' })
+  @ApiQuery({ name: 'season', type: String, required: false }) // Document the query parameter as optional
+  @ApiResponse({ status: 200, description: 'Returns matches - Optionally by a season string' })
+  findByTeam(@Query('season') season: string): Promise<Match[]> {
+    return this.matchesService.findMany('season', season);
   }
 
   @Get(':id')
@@ -39,14 +42,6 @@ export class MatchesController {
   @ApiResponse({ status: 404, description: 'Match not found.' })
   findOne(@Param('id') id: string): Promise<Match | null> {
     return this.matchesService.findOne(+id);
-  }
-
-  @Get('by-team/:teamId')
-  @ApiOperation({ summary: 'Get matches by team ID' })
-  @ApiParam({ name: 'teamId', type: 'integer', required: true }) // Document the route parameter
-  @ApiResponse({ status: 200, description: 'Returns matches for a team.' })
-  findByTeam(@Param('teamId') teamId: string): Promise<Match[]> {
-    return this.matchesService.findByTeam(+teamId);
   }
 
 }

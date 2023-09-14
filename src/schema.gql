@@ -122,6 +122,7 @@ type UslTeam {
   id: Float!
   name: String!
   conference: String!
+  active: Boolean!
 }
 
 type Query {

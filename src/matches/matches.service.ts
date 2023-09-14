@@ -14,6 +14,11 @@ export class MatchesService {
     return this.prisma.match.findMany();
   }
 
+  async findMany(key: string, value: string): Promise<Match[]> {
+    const f: Prisma.MatchWhereInput | any = {[key]: value}
+    return this.prisma.match.findMany({where: {...f}});
+  }
+
   async findOne(id: number): Promise<Match | null> {
     return this.prisma.match.findUnique({
       where: { id },

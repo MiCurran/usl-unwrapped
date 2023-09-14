@@ -26,7 +26,16 @@ const uslTeams = [
   { name: "Monterey Bay", conference: "Western" },
   { name: "New Mexico United", conference: "Western" },
   { name: "Rio Grande Valley FC", conference: "Western" },
-  { name: "Las Vegas Lights FC", conference: "Western" }
+  { name: "Las Vegas Lights FC", conference: "Western" },
+  { name: "New York Red Bulls II", conference: "Eastern", active: false },
+  { name: "Atlanta United II", conference: "Eastern", active: false },
+  { name: "LA Galaxy II", conference: "Western", active: false },
+  { name: "Tacoma Defiance", conference: "Western", active: false},
+  { name: "REAL MONARCHS SLC", conference: "Western", active: false},
+  { name: "Austin Bold", conference: "Western", active: false},
+  { name: "Charlotte Independence", conference: "Eastern", active: false},
+  { name: "Oklahoma City Energy", conference: "Western", active: false},
+
 ];
 const prisma = new PrismaClient()
 // pull seed data from a directory of JSON files
@@ -56,9 +65,9 @@ async function processAllFilesInDirectory(directoryPath) {
 
 async function main() {
   console.log(`Start seeding ...`);
-  //await seedUslTeams(uslTeams);
+  await seedUslTeams(uslTeams);
 
-  const directoryPath = './mock/2023-week-17'; // Replace with the actual directory path
+  const directoryPath = './mock/2023-week-22'; // Replace with the actual directory path
   await processAllFilesInDirectory(directoryPath);
 
   console.log(`Seeding finished.`);
@@ -81,6 +90,7 @@ main()
           data: {
             name: team.name,
             conference: team.conference,
+            active: team.active !== undefined ? team.active : true
           },
         });
         console.log(`Inserted team: ${team.name}`);

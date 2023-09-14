@@ -14,7 +14,10 @@ export class UslTeam implements UslTeams {
     name: string;
     @Field()
     @ApiProperty()
-    conference: string; 
+    conference: string;
+    @Field()
+    @ApiProperty()
+    active: boolean;  
 }
 
 @Injectable()

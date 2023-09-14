@@ -48,6 +48,7 @@ model UslTeams {
   id      Int   @id @default(autoincrement())
   name    String
   conference String
+  active  Boolean
 }
 
 model ApiUsers {
