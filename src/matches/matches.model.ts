@@ -173,6 +173,12 @@ export class MatchModel {
   awayTeamId: number;
 
   @Field()
+  homeTeamUslId: number;
+
+  @Field()
+  awayTeamUslId: number;
+
+  @Field()
   score: string;
 
   @Field((type) => Stats)
