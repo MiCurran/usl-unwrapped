@@ -1,6 +1,5 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
-import * as express from 'express';
 import { setupSwagger } from 'swagger.config';
 
 async function bootstrap() {
@@ -8,7 +7,7 @@ async function bootstrap() {
   app.enableCors();
   // Call the setupSwagger function with the INestApplication instance
   setupSwagger(app);
-  await app.listen(3000, () => {
+  await app.listen(process.env.PORT || 3000, () => {
     console.log(`
 🚀 Server ready at: http://localhost:3000/graphql
 ⭐️ See sample queries in README

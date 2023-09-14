@@ -56,9 +56,9 @@ async function processAllFilesInDirectory(directoryPath) {
 
 async function main() {
   console.log(`Start seeding ...`);
-  await seedUslTeams(uslTeams);
+  //await seedUslTeams(uslTeams);
 
-  const directoryPath = './mock/2023-week-26'; // Replace with the actual directory path
+  const directoryPath = './mock/2023-week-17'; // Replace with the actual directory path
   await processAllFilesInDirectory(directoryPath);
 
   console.log(`Seeding finished.`);
@@ -92,7 +92,11 @@ main()
 
   async function createMatchFromJSON(data) {
     try {
-     const getMatchDetails = async () => { 
+      const {date} = data.matchDetails.pop();
+      console.log(date);
+      const dateObject = new Date(Date.parse(date));
+      console.log(dateObject)
+     const getMatchDetails = async () => {
       const matchTeams = [];
       const homeTeamIndex = uslTeams.findIndex((team) => team.name === data.matchDetails[0].homeTeam);
       const awayTeamIndex = uslTeams.findIndex((team) => team.name === data.matchDetails[1].awayTeam);
@@ -133,6 +137,8 @@ main()
         const createMatch = async () => {
           const match = await prisma.match.create({
           data: {
+            date: dateObject,
+            season: '2023',
             homeTeamId: await matchDetails[0].id,
             awayTeamId: await matchDetails[1].id,
             homeTeamUslId: await matchDetails[0].uslTeamId,

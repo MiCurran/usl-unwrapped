@@ -89,11 +89,18 @@ type Stats {
 """Match"""
 type MatchModel {
   id: ID!
+  date: Timestamp!
+  season: String!
   homeTeamId: Float!
   awayTeamId: Float!
   score: String!
   stats: Stats!
 }
+
+"""
+`Date` type as integer. Type represents date and time as number of milliseconds from start of UNIX epoch.
+"""
+scalar Timestamp
 
 """Event"""
 type Event {

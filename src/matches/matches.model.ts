@@ -161,6 +161,12 @@ export class MatchModel {
   id: number;
 
   @Field()
+  date: Date
+
+  @Field()
+  season: string
+
+  @Field()
   homeTeamId: number;
 
   @Field()

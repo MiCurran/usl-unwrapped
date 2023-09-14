@@ -6,6 +6,8 @@ import { PrismaService } from '../prisma/prisma.service';
 const mockMatches = [
 {
     "id": 1,
+    "date": new Date as Date,
+    "season": "2023",
     "homeTeamId": 1,
     "awayTeamId": 2,
     "homeTeamUslId": 6,
@@ -96,6 +98,8 @@ const mockMatches = [
 },
 {
     "id": 2,
+    "date": new Date as Date,
+    "season": "2023",
     "homeTeamId": 3,
     "awayTeamId": 4,
     "homeTeamUslId": 8,

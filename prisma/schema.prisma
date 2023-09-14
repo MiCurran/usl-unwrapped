@@ -26,6 +26,8 @@ model MatchPlayer {
 }
 model Match {
   id         Int          @id @default(autoincrement())
+  date       DateTime
+  season     String
   homeTeamId Int
   awayTeamId Int
   homeTeamUslId Int
