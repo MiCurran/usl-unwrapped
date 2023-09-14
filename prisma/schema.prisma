@@ -32,6 +32,8 @@ model Match {
   awayTeamId Int
   homeTeamUslId Int
   awayTeamUslId Int
+  homeTeamScore String
+  awayTeamScore String
   score      String
   stats      Json
 }

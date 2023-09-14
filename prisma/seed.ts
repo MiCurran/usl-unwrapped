@@ -143,6 +143,8 @@ main()
             awayTeamId: await matchDetails[1].id,
             homeTeamUslId: await matchDetails[0].uslTeamId,
             awayTeamUslId: await matchDetails[1].uslTeamId,
+            homeTeamScore: await matchDetails[0].score,
+            awayTeamScore: await matchDetails[1].score, 
             score: `${await matchDetails[0].score}-${await matchDetails[1].score}`,
             stats: stats
           },

@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { PrismaService } from 'src/prisma/prisma.service';
+import { PrismaService } from '../prisma/prisma.service';
 import { UslTeams } from '.prisma/client';
 import { Directive, Field, ID, ObjectType, Int } from '@nestjs/graphql';
 import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
