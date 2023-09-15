@@ -95,6 +95,8 @@ type MatchModel {
   awayTeamId: Float!
   homeTeamUslId: Float!
   awayTeamUslId: Float!
+  homeTeamScore: String!
+  awayTeamScore: String!
   score: String!
   stats: Stats!
 }

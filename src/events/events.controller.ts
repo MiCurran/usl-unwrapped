@@ -12,7 +12,7 @@ export class EventsController {
 
   @Get()
   //one liner to enable auth on single routes in controller
-  //@UseGuards(AuthorizationGuard)
+  @UseGuards(AuthorizationGuard)
   @ApiOperation({ summary: 'Get all match events from all matches' })
   @ApiResponse({ status: 200, description: 'Returns an array of matches with match events', type: [EventsModel] })
   @ApiUnauthorizedResponse({ description: 'Missing Bearer Key' }) // Document the unauthorized response

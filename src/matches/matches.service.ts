@@ -14,6 +14,16 @@ export class MatchesService {
     return this.prisma.match.findMany();
   }
 
+  async findManyWithPagination(key: string, value: string, page: number, perPage: number): Promise<Match[]> {
+    const skip = (page - 1) * perPage;
+    const f: Prisma.MatchWhereInput | any = {[key]: value}
+    return this.prisma.match.findMany({
+      where: {...f},
+      skip,
+      take: perPage,
+    });
+  }
+
   async findMany(key: string, value: string): Promise<Match[]> {
     const f: Prisma.MatchWhereInput | any = {[key]: value}
     return this.prisma.match.findMany({where: {...f}});

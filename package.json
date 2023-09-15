@@ -2,7 +2,7 @@
   "name": "uslunwrapped",
   "version": "0.0.1",
   "private": true,
-  "description": "",
+  "description": "USL soccer league - Match - Player - Team Statistics",
   "license": "UNLICENSED",
   "author": "MiCurran",
   "scripts": {

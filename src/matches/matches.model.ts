@@ -1,5 +1,7 @@
 import { Directive, Field, ID, ObjectType } from '@nestjs/graphql';
-
+import { ApiProperty } from '@nestjs/swagger';
+import { Match } from '@prisma/client';
+import { JsonObject, JsonValue } from '@prisma/client/runtime/library';
 //we need to update every object field here
 
 @ObjectType({ description: 'General Team stats' })
@@ -45,7 +47,7 @@ class DistTeamStats {
 }
 
 @ObjectType({ description: 'Attack Team stats' })
-class AttackTeamStats {
+class AttackTeamStats  {
   @Field()
   Goals: string;
 
@@ -156,33 +158,50 @@ class Stats {
 
 
 @ObjectType({ description: 'Match' })
-export class MatchModel {
+export class MatchModel implements Match {
   @Field((type) => ID)
+  @ApiProperty({ description: 'The unique identifier of the match.' })
   id: number;
 
   @Field()
-  date: Date
+  @ApiProperty({ description: 'The date of the match.' })
+  date: Date;
 
   @Field()
-  season: string
+  @ApiProperty({ description: 'The season of the match.' })
+  season: string;
 
   @Field()
+  @ApiProperty({ description: 'The ID of the home team.' })
   homeTeamId: number;
 
   @Field()
+  @ApiProperty({ description: 'The ID of the away team.' })
   awayTeamId: number;
 
   @Field()
+  @ApiProperty({ description: 'The USL ID of the home team.' })
   homeTeamUslId: number;
 
   @Field()
+  @ApiProperty({ description: 'The USL ID of the away team.' })
   awayTeamUslId: number;
 
   @Field()
+  @ApiProperty({ description: 'The home team score' })
+  homeTeamScore: string;
+
+  @Field()
+  @ApiProperty({ description: 'The away team score' })
+  awayTeamScore: string;
+
+  @Field()
+  @ApiProperty({ description: 'The score of the match.' })
   score: string;
 
+  @Field(() => [Event])
+  @ApiProperty({ type: [Event] })
   @Field((type) => Stats)
-  stats: Stats;
-
-  // Add fields for other properties as needed
+  @ApiProperty({type: Stats, description: 'Statistics for the match.' })
+  stats:  any;
 }
