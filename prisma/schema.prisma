@@ -22,7 +22,7 @@ model MatchPlayer {
   playerName     String
   playerPosition String
   playerEvents   Json[]
-  matchTeamId  Int?
+  matchTeamId    Int?
 }
 model Match {
   id         Int          @id @default(autoincrement())

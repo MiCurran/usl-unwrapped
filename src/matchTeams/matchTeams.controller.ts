@@ -1,7 +1,7 @@
 
 import { Controller, Get, Param } from '@nestjs/common';
 import { MatchTeamsService } from './matchTeams.service';
-import { MatchEvents, UslTeams, Prisma } from '.prisma/client';
+import { MatchEvents, UslTeams, Prisma, MatchTeam } from '.prisma/client';
 import { ApiTags, ApiOperation, ApiResponse, ApiParam } from '@nestjs/swagger'; // Import Swagger decorators
 
 @ApiTags('Match Teams') 
@@ -15,7 +15,7 @@ export class MatchTeamsController {
   @Get()
   @ApiOperation({ summary: 'Match Team Info' })
   @ApiResponse({ status: 200, description: 'Returns an array of Match Teams' })
-  findAll(): Promise<UslTeams[]> {
+  findAll(): Promise<MatchTeam[]> {
     return this.matchTeamsService.findAll();
   }
 
@@ -24,7 +24,7 @@ export class MatchTeamsController {
   @ApiParam({ name: 'id', type: 'integer', required: true }) // Document the route parameter
   @ApiResponse({ status: 200, description: 'Returns a specific match team by id' })
   @ApiResponse({ status: 404, description: 'Team not found.' })
-  findOne(@Param('id') id: string): Promise<UslTeams | null> {
+  findOne(@Param('id') id: string): Promise<MatchTeam | null> {
     return this.matchTeamsService.findOne(+id);
   }
 }

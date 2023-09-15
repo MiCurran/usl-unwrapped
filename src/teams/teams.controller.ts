@@ -4,13 +4,15 @@ import { TeamsService, UslTeam } from './teams.service';
 import { MatchEvents, UslTeams, Prisma, MatchTeam, Match } from '.prisma/client';
 import { ApiTags, ApiOperation, ApiResponse, ApiParam } from '@nestjs/swagger'; // Import Swagger decorators
 import { MatchesService } from 'src/matches/matches.service';
+import { MatchTeamsService } from 'src/matchTeams/matchTeams.service';
 
 @ApiTags('USL TEAMS') 
 @Controller('teams')
 export class TeamsController {
   constructor(
     private readonly teamsService: TeamsService,
-    private readonly matchesService: MatchesService
+    private readonly matchesService: MatchesService,
+    private readonly matchTeamsService: MatchTeamsService
     ) {}
   @Get()
   @ApiOperation({ summary: 'Get all USL Teams' })
@@ -30,18 +32,17 @@ export class TeamsController {
 
   @Get(':id/matches')
   @ApiOperation({ summary: 'Get matches by team ID' })
-  @ApiParam({ name: 'teamId', type: 'integer', required: true }) // Document the route parameter
+  @ApiParam({ name: 'id', type: 'integer', required: true }) // Document the route parameter
   @ApiResponse({ status: 200, description: 'Returns matches for a team.' })
   findByTeam(@Param('teamId') teamId: string): Promise<Match[]> {
     return this.matchesService.findByTeam(+teamId);
   }
 
-  @Get(':id/match-teams')
-  @ApiOperation({ summary: 'Get matches teams and lineups by team ID' })
-  @ApiParam({ name: 'teamId', type: 'integer', required: true }) // Document the route parameter
+@Get(':id/match-teams')
+  @ApiOperation({ summary: 'Get match teams and lineups by team ID' })
+  @ApiParam({ name: 'id', type: 'integer', required: true }) // Document the route parameter
   @ApiResponse({ status: 200, description: 'Returns an array of match teams and lineups for a team.' })
-  findTeamsByTeam(@Param('teamId') teamId: string): Promise<MatchTeam[]> {
-    return null
-    ;this.matchesService.findByTeam(+teamId);
+  findTeamsByTeam(@Param('id') teamId: string): Promise<MatchTeam[]> {
+    return this.matchTeamsService.findByTeam(+teamId);
   }
 }
