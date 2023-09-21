@@ -32,8 +32,8 @@ export class MatchesController {
   @Get('')
   @ApiOperation({ summary: 'Get all matches - optionally by season' })
   @ApiQuery({ name: 'season', type: String, required: false }) // Document the query parameter as optional
-@ApiQuery({ name: 'page', type: Number, required: false, description: 'Page number', example: 1 })
-@ApiQuery({ name: 'perPage', type: Number, required: false, description: 'Items per page', example: 10 })
+  @ApiQuery({ name: 'page', type: Number, required: false, description: 'Page number', example: 1 })
+  @ApiQuery({ name: 'perPage', type: Number, required: false, description: 'Items per page', example: 10 })
   @ApiResponse({ status: 200, description: 'Returns matches - Optionally by a season string', type: [MatchModel] })
   findAll(
     @Query('season') season: string,

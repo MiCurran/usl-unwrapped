@@ -51,12 +51,102 @@ model UslTeams {
   active  Boolean
 }
 
-model ApiUsers {
-  id      Int    @id @default(autoincrement())
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-  key       String
-  calls     Int  @default(0)
+model GoalLeader {
+  id      Int      @id @default(autoincrement())
+  rank    String
+  name    String
+  team    String
+  value   Int
+  season  String
 }
 
+model AssistLeader {
+  id      Int      @id @default(autoincrement())
+  rank    String
+  name    String
+  team    String
+  value   Int
+  season  String
+}
+
+model ShotLeader {
+  id      Int      @id @default(autoincrement())
+  rank    String
+  name    String
+  team    String
+  value   Int
+  season  String
+}
+
+model ChancesCreatedLeader {
+  id      Int      @id @default(autoincrement())
+  rank    String
+  name    String
+  team    String
+  value   Int
+  season  String
+}
+
+model PassLeader {
+  id      Int      @id @default(autoincrement())
+  rank    String
+  name    String
+  team    String
+  value   Int
+  season  String
+}
+
+model CrossLeader {
+  id      Int      @id @default(autoincrement())
+  rank    String
+  name    String
+  team    String
+  value   Int
+  season  String
+}
+
+model CleanSheetLeader {
+  id      Int      @id @default(autoincrement())
+  rank    String
+  name    String
+  team    String
+  value   Int
+  season  String
+}
+
+model SaveLeader {
+  id      Int      @id @default(autoincrement())
+  rank    String
+  name    String
+  team    String
+  value   Int
+  season  String
+}
+
+model ClearanceLeader {
+  id      Int      @id @default(autoincrement())
+  rank    String
+  name    String
+  team    String
+  value   Int
+  season  String
+}
+
+model YellowCardLeader {
+  id      Int      @id @default(autoincrement())
+  rank    String
+  name    String
+  team    String
+  value   Int
+  season  String
+}
+
+model RedCardLeader {
+  id      Int      @id @default(autoincrement())
+  rank    String
+  name    String
+  team    String
+  value   Int
+  season  String
+}
 
