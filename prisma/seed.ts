@@ -77,19 +77,20 @@ async function processAllFilesInDirectory(directoryPath, batchSize) {
   }
 }
 async function main() {
+  //const prisma = new PrismaClient();
   console.log(`Start seeding ...`);
   //seedUslTeams(uslTeams, prisma);
   const batchSize = 5;
-  let week = 32;
+  let week = 15;
   while (week > 0) {
-    const directoryPath = `./mock/2022-week-${week}`;
+    const directoryPath = `./mock/2020-week-${week}`;
     console.log(`Processing week ${week}`);
     await processAllFilesInDirectory(directoryPath, batchSize);
     week--; // Decrement week for the next iteration
   }
   console.log(`Seeding finished.`);
 }
-  const prisma = new PrismaClient()
+const prisma = new PrismaClient()
 main2(prisma);
 
 async function seedUslTeams(teams, prisma) {
@@ -212,7 +213,7 @@ async function getRecentMatchStats(uslTeamId, prisma) {
         ],
       },
       orderBy: {
-        date: 'asc',
+        date: 'desc',
       },
       take: 5,
     });
@@ -237,7 +238,7 @@ async function getRecentMatchStatsBetweenTwoTeams(uslTeamId1, uslTeamId2, prisma
         ],
       },
       orderBy: {
-        date: 'asc',
+        date: 'desc',
       },
       take: 5,
     });
@@ -251,23 +252,23 @@ async function getRecentMatchStatsBetweenTwoTeams(uslTeamId1, uslTeamId2, prisma
 
   async function main2(prisma) {
     const TeamX_uslTeamId = 19; // Replace with the uslTeamId of TeamX
-    const TeamY_uslTeamId = 14; // Replace with the uslTeamId of TeamY
+    const TeamY_uslTeamId = 13; // Replace with the uslTeamId of TeamY
     const data = await getRecentMatchStatsBetweenTwoTeams(TeamX_uslTeamId, TeamY_uslTeamId, prisma)
-/*     const teamXStats = await getRecentMatchStats(TeamX_uslTeamId, prisma);
+     const teamXStats = await getRecentMatchStats(TeamX_uslTeamId, prisma);
     const teamYStats = await getRecentMatchStats(TeamY_uslTeamId, prisma);
   
     const outputData = {
-      "SA": teamXStats,
-      "TB": teamYStats,
-    }; */
+      "COS": teamXStats,
+      "SAC": teamYStats,
+    };
 
-    const outputData = {"Recent_Meetings": data}
+   // const outputData = {"Recent_Meetings": data}
   
     // Convert the outputData to JSON format
     const jsonData = JSON.stringify(outputData, null, 2);
   
     // Write the JSON data to a file
-    fs.writeFileSync('testings.json', jsonData, 'utf8');
+    fs.writeFileSync('COS-SAC.json', jsonData, 'utf8');
   
     console.log('JSON file "output.json" created with the Team X and Team Y stats.');
   }

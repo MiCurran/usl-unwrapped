@@ -10,15 +10,6 @@ export class MatchTeamsService {
     return this.prisma.matchTeam.findMany();
   }
 
-  async findManyWithPagination(page: number, perPage: number): Promise<MatchTeam[]> {
-    const skip = (page - 1) * perPage;
-    
-    return this.prisma.matchTeam.findMany({
-      skip,
-      take: perPage,
-    });
-  }
-
   async findOne(id: number): Promise<MatchTeam | null> {
     return this.prisma.matchTeam.findUnique({
       where: { id },
