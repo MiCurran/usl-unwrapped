@@ -32,5 +32,7 @@ export class TeamsService {
     return this.prisma.uslTeams.findUnique({
       where: { id },
     });
-  }
+
+   }
+
 }

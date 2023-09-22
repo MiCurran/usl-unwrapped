@@ -1,6 +1,7 @@
 import { PrismaClient, Prisma, Match } from '@prisma/client';
 import * as fs from 'fs';
 import * as path from 'path';
+import { getRecentMatchStats, getRecentMatchStatsBetweenTwoTeams } from 'src/utils/prismaHelpers';
 //
 // Now we have a way to make sure we arent creating a new match if one already exists with the date and ids
 // We need to keep writing methods to compare teams
@@ -202,53 +203,6 @@ const getMatchDetails = async () => {
     console.error('Error creating records:', error);
   }
 }
-
-async function getRecentMatchStats(uslTeamId, prisma) {
-  try {
-    const recentMatches = await prisma.match.findMany({
-      where: {
-        OR: [
-          { homeTeamUslId: uslTeamId },
-          { awayTeamUslId: uslTeamId },
-        ],
-      },
-      orderBy: {
-        date: 'desc',
-      },
-      take: 5,
-    });
-
-    return recentMatches;
-  } catch (error) {
-    console.error('Error:', error);
-  }
-}
-
-async function getRecentMatchStatsBetweenTwoTeams(uslTeamId1, uslTeamId2, prisma) {
-  try {
-    const recentMatches = await prisma.match.findMany({
-      where: {
-        AND: [
-          {
-            OR: [
-              { homeTeamUslId: uslTeamId1, awayTeamUslId: uslTeamId2 },
-              { homeTeamUslId: uslTeamId2, awayTeamUslId: uslTeamId1 },
-            ],
-          },
-        ],
-      },
-      orderBy: {
-        date: 'desc',
-      },
-      take: 5,
-    });
-
-    return recentMatches;
-  } catch (error) {
-    console.error('Error:', error);
-  }
-}
-
 
   async function main2(prisma) {
     const TeamX_uslTeamId = 19; // Replace with the uslTeamId of TeamX

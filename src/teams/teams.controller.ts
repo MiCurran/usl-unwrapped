@@ -1,8 +1,8 @@
 
-import { Controller, Get, Param } from '@nestjs/common';
+import { Controller, Get, Param, Query } from '@nestjs/common';
 import { TeamsService, UslTeam } from './teams.service';
 import { MatchEvents, UslTeams, Prisma, MatchTeam, Match } from '.prisma/client';
-import { ApiTags, ApiOperation, ApiResponse, ApiParam } from '@nestjs/swagger'; // Import Swagger decorators
+import { ApiTags, ApiOperation, ApiResponse, ApiParam, ApiQuery } from '@nestjs/swagger'; // Import Swagger decorators
 import { MatchesService } from 'src/matches/matches.service';
 import { MatchTeamsService } from 'src/matchTeams/matchTeams.service';
 
@@ -30,12 +30,25 @@ export class TeamsController {
     return this.teamsService.findOne(+id);
   }
 
-  @Get(':id/matches')
+  @Get(':uslTeamId/matches')
   @ApiOperation({ summary: 'Get matches by team ID' })
-  @ApiParam({ name: 'id', type: 'integer', required: true }) // Document the route parameter
+  @ApiQuery({ name: 'home/away', type: String, required: false }) // Document the query parameter as optional
+  @ApiParam({ name: 'uslTeamId', type: 'integer', required: true }) // Document the route parameter
   @ApiResponse({ status: 200, description: 'Returns matches for a team.' })
-  findByTeam(@Param('teamId') teamId: string): Promise<Match[]> {
-    return this.matchesService.findByTeam(+teamId);
+  findByTeam(
+    @Query('home/away') home_away: string,
+    @Param('uslTeamId') uslTeamId: string
+    ): Promise<Match[]> {
+    return this.matchesService.findByTeam(+uslTeamId, home_away);
+  }
+
+  @Get(':uslTeamOneId/matches/:uslTeamTwoId')
+  @ApiOperation({ summary: 'Get matches between two teams' })
+  @ApiParam({ name: 'uslTeamOneId', type: 'integer', required: true }) // Document the route parameter
+  @ApiParam({ name: 'uslTeamTwoId', type: 'integer', required: true }) // Document the route parameter
+  @ApiResponse({ status: 200, description: 'Returns 5 recent matches between two teams.' })
+  findMatchesBetweenTeams(@Param('uslTeamOneId') uslTeamOneId: string, @Param('uslTeamTwoId') uslTeamTwoId: string): Promise<Match[]> {
+    return this.matchesService.findBetweenTeams(+uslTeamOneId, +uslTeamTwoId);
   }
 
 @Get(':id/match-teams')

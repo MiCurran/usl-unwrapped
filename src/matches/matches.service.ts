@@ -1,6 +1,8 @@
 import { Injectable } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { Match, Prisma } from '.prisma/client';
+import { getRecentMatchStatsBetweenTwoTeams } from 'src/utils/prismaHelpers';
+type Where = 'home' | 'away'
 
 @Injectable()
 export class MatchesService {
@@ -35,7 +37,21 @@ export class MatchesService {
     });
   }
 
-  async findByTeam(teamId: number): Promise<Match[]> {
+  async findByTeam( teamId: number, where?: string,): Promise<Match[]> {
+    if (where.toLocaleLowerCase() === 'home') {
+      return this.prisma.match.findMany({
+        where: {
+            homeTeamUslId: teamId,
+        },
+      }); 
+    }
+    if (where.toLocaleLowerCase() === 'away') {
+      return this.prisma.match.findMany({
+        where: {
+            awayTeamUslId: teamId,
+        },
+      }); 
+    } else {
     return this.prisma.match.findMany({
       where: {
         OR: [
@@ -44,6 +60,25 @@ export class MatchesService {
         ],
       },
     });
+    }
+  }
+  async findBetweenTeams(id: number, opponentId: number): Promise<Match[]> {
+      return await this.prisma.match.findMany({
+        where: {
+          AND: [
+            {
+              OR: [
+                { homeTeamUslId: id, awayTeamUslId: opponentId },
+                { homeTeamUslId: opponentId, awayTeamUslId: id },
+              ],
+            },
+          ],
+        },
+        orderBy: {
+          date: 'desc',
+        },
+        take: 5,
+      });
   }
 
   async update(id: number, data: Prisma.MatchUpdateInput): Promise<Match> {
