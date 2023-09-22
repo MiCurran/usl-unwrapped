@@ -13,7 +13,7 @@ import {
 import { AuthorizationGuard } from 'src/authorization/authorization.guard';
 import { EventsService } from 'src/events/events.service';
 import { MatchModel } from './matches.model';
-
+type StatYear = '2023' | '2022' | '2021'
 @ApiTags('Matches') // Add a tag to categorize routes under "Matches"
 @Controller('matches')
 export class MatchesController {
@@ -32,12 +32,12 @@ export class MatchesController {
 
   @Get('')
   @ApiOperation({ summary: 'Get all matches - optionally by season' })
-  @ApiQuery({ name: 'season', type: String, required: false }) // Document the query parameter as optional
+  @ApiQuery({ name: 'season', type: String, required: false, enum: ["2023", "2022", "2021", "2020"]}) // Document the query parameter as optional
   @ApiQuery({ name: 'page', type: Number, required: false, description: 'Page number', example: 1 })
   @ApiQuery({ name: 'perPage', type: Number, required: false, description: 'Items per page', example: 10 })
   @ApiResponse({ status: 200, description: 'Returns matches - Optionally by a season string', type: [MatchModel] })
   findAll(
-    @Query('season') season: string,
+    @Query('season') season: StatYear,
     @Query('page', ParseIntPipe) page: number = 1, // Default to page 1
     @Query('perPage', ParseIntPipe) perPage: number = 10, // Default to 10 items per page
     ): Promise<MatchModel[]> {

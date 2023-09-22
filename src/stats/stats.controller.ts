@@ -22,6 +22,7 @@ type StatType =
   | 'Clearance'
   | 'YellowCard'
   | 'RedCard';
+type StatYear = '2023' | '2022' | '2021'
 @ApiTags('Stat Leaders') // Add a tag to categorize routes under "Matches"
 @Controller('stats')
 export class StatsController {
@@ -40,12 +41,13 @@ export class StatsController {
     @ApiQuery({ 
         name: 'season',
         type: String,
-        required: false
+        required: false,
+        enum: ['2023', '2022', '2021'],
     }) // Document the query parameter as optional
     @ApiResponse({ status: 200, description: 'Returns stat leaders by stat type - Optionally by a season (default 2023)' })
     findAll(
       @Param('type') type: StatType,
-      @Query('season') season: string,
+      @Query('season') season: StatYear,
       ): Promise<any[]> {
       return this.statsService.findAllByType(type, season);
     }
