@@ -1,12 +1,10 @@
 import { PrismaClient, Prisma, Match } from '@prisma/client';
 import * as fs from 'fs';
 import * as path from 'path';
-import { getRecentMatchStats, getRecentMatchStatsBetweenTwoTeams } from 'src/utils/prismaHelpers';
-//
-// Now we have a way to make sure we arent creating a new match if one already exists with the date and ids
-// We need to keep writing methods to compare teams
-// We can add these methods as graphql queries or api calls behind a paywall
-// 
+const data = require('../stats/stats-leaders-2021.json');
+//const data = require('../stats/stats-leaders-2022.json');
+//const data = require('../stats/stats-leaders-current.json');
+
 const uslTeams = [
   { name: "Pittsburgh Riverhounds SC", conference: "Eastern" },
   { name: "Tampa Bay Rowdies", conference: "Eastern" },
@@ -92,8 +90,8 @@ async function main() {
   console.log(`Seeding finished.`);
 }
 const prisma = new PrismaClient()
-main2(prisma);
-
+//main2(prisma);
+main3(data)
 async function seedUslTeams(teams, prisma) {
   try {
     for (const team of teams) {
@@ -111,6 +109,33 @@ async function seedUslTeams(teams, prisma) {
   }
 }
 
+async function seedStatsData(modelName: string, data: any[]) {
+  console.log(modelName, data)
+  try {
+    for (const item of data) {
+      await prisma[modelName].create({
+        data: {
+          rank: item.rank.trim(),
+          name: item.name.trim(),
+          team: item.team.trim(),
+          value: parseInt(item.value),
+          season: '2021',
+        },
+      });
+
+      console.log(`Inserted ${modelName}: ${item.name}`);
+    }
+  } catch (error) {
+    console.error(`Error seeding ${modelName}:`, error);
+  }
+}
+
+async function main3(jsonData){
+for (const data of jsonData) {
+  console.log('parsing:', data.label)
+  await seedStatsData(data.label, data.data);
+}
+}
 async function createMatchFromJSON(data, prisma) {
   try {
     const poppedDate = data.matchDetails[2];
@@ -204,7 +229,7 @@ const getMatchDetails = async () => {
   }
 }
 
-  async function main2(prisma) {
+/*   async function main2(prisma) {
     const TeamX_uslTeamId = 19; // Replace with the uslTeamId of TeamX
     const TeamY_uslTeamId = 13; // Replace with the uslTeamId of TeamY
     const data = await getRecentMatchStatsBetweenTwoTeams(TeamX_uslTeamId, TeamY_uslTeamId, prisma)
@@ -225,4 +250,4 @@ const getMatchDetails = async () => {
     fs.writeFileSync('COS-SAC.json', jsonData, 'utf8');
   
     console.log('JSON file "output.json" created with the Team X and Team Y stats.');
-  }
+  } */

@@ -13,6 +13,7 @@ import {
 import { AuthorizationGuard } from 'src/authorization/authorization.guard';
 import { EventsService } from 'src/events/events.service';
 import { MatchModel } from './matches.model';
+
 @ApiTags('Matches') // Add a tag to categorize routes under "Matches"
 @Controller('matches')
 export class MatchesController {
