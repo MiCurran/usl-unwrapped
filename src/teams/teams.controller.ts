@@ -5,6 +5,51 @@ import { MatchEvents, UslTeams, Prisma, MatchTeam, Match } from '.prisma/client'
 import { ApiTags, ApiOperation, ApiResponse, ApiParam, ApiQuery } from '@nestjs/swagger'; // Import Swagger decorators
 import { MatchesService } from 'src/matches/matches.service';
 import { MatchTeamsService } from 'src/matchTeams/matchTeams.service';
+type UslId = Exclude<number, 0 | 42>;
+enum UslIdEnum {
+  One = 1,
+  Two,
+  Three,
+  Four,
+  Five,
+  Six,
+  Seven,
+  Eight,
+  Nine,
+  Ten,
+  Eleven,
+  Twelve,
+  Thirteen,
+  Fourteen,
+  Fifteen,
+  Sixteen,
+  Seventeen,
+  Eighteen,
+  Nineteen,
+  Twenty,
+  TwentyOne,
+  TwentyTwo,
+  TwentyThree,
+  TwentyFour,
+  TwentyFive,
+  TwentySix,
+  TwentySeven,
+  TwentyEight,
+  TwentyNine,
+  Thirty,
+  ThirtyOne,
+  ThirtyTwo,
+  ThirtyThree,
+  ThirtyFour,
+  ThirtyFive,
+  ThirtySix,
+  ThirtySeven,
+  ThirtyEight,
+  ThirtyNine,
+  Forty,
+  FortyOne,
+  FortyTwo,
+}
 
 @ApiTags('USL TEAMS') 
 @Controller('teams')
@@ -21,17 +66,18 @@ export class TeamsController {
     return this.teamsService.findAll();
   }
 
-  @Get(':id')
+  @Get(':uslTeamId')
   @ApiOperation({ summary: 'Get USL Team by ID' })
-  @ApiParam({ name: 'id', type: 'integer', required: true }) // Document the route parameter
-  @ApiResponse({ status: 200, description: 'Returns a USL team by MatchID if found.', type: UslTeam })
+  @ApiParam({ name: 'uslTeamId', type: 'integer', required: true, enum: UslIdEnum  })
+ // Document the route parameter
+  @ApiResponse({ status: 200, description: 'Returns a USL team by USL team id if found.', type: UslTeam })
   @ApiResponse({ status: 404, description: 'USL Team not found.' })
-  findOne(@Param('id') id: string): Promise<UslTeam | null> {
-    return this.teamsService.findOne(+id);
+  findOne(@Param('uslTeamId') uslTeamId: UslId): Promise<UslTeam | null> {
+    return this.teamsService.findOne(+uslTeamId);
   }
 
   @Get(':uslTeamId/matches')
-  @ApiOperation({ summary: 'Get matches by team ID' })
+  @ApiOperation({ summary: 'Get matches by USL team ID' })
   @ApiQuery({ name: 'home/away', type: String, required: false }) // Document the query parameter as optional
   @ApiParam({ name: 'uslTeamId', type: 'integer', required: true }) // Document the route parameter
   @ApiResponse({ status: 200, description: 'Returns matches for a team.' })
@@ -51,11 +97,11 @@ export class TeamsController {
     return this.matchesService.findBetweenTeams(+uslTeamOneId, +uslTeamTwoId);
   }
 
-@Get(':id/match-teams')
-  @ApiOperation({ summary: 'Get match teams and lineups by team ID' })
-  @ApiParam({ name: 'id', type: 'integer', required: true }) // Document the route parameter
+@Get(':uslTeamId/match-teams')
+  @ApiOperation({ summary: 'Get match teams and lineups by USL team ID' })
+  @ApiParam({ name: 'uslTeamId', type: 'integer', required: true }) // Document the route parameter
   @ApiResponse({ status: 200, description: 'Returns an array of match teams and lineups for a team.' })
-  findTeamsByTeam(@Param('id') teamId: string): Promise<MatchTeam[]> {
-    return this.matchTeamsService.findByTeam(+teamId);
+  findTeamsByTeam(@Param('uslTeamId') uslTeamId: string): Promise<MatchTeam[]> {
+    return this.matchTeamsService.findByTeam(+uslTeamId);
   }
 }

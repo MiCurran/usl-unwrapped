@@ -14,6 +14,8 @@ import { AuthorizationGuard } from 'src/authorization/authorization.guard';
 import { EventsService } from 'src/events/events.service';
 import { MatchModel } from './matches.model';
 type StatYear = '2023' | '2022' | '2021'
+type SeasonYear = StatYear | '2020'
+
 @ApiTags('Matches') // Add a tag to categorize routes under "Matches"
 @Controller('matches')
 export class MatchesController {
@@ -37,7 +39,7 @@ export class MatchesController {
   @ApiQuery({ name: 'perPage', type: Number, required: false, description: 'Items per page', example: 10 })
   @ApiResponse({ status: 200, description: 'Returns matches - Optionally by a season string', type: [MatchModel] })
   findAll(
-    @Query('season') season: StatYear,
+    @Query('season') season: SeasonYear,
     @Query('page', ParseIntPipe) page: number = 1, // Default to page 1
     @Query('perPage', ParseIntPipe) perPage: number = 10, // Default to 10 items per page
     ): Promise<MatchModel[]> {
