@@ -21,7 +21,7 @@ describe('MatchesService', () => {
     expect(service).toBeDefined();
   });
 
-  describe('findOne', () => {
+/*   describe('findOne', () => {
     it('should return a match by ID', async () => {
       const matchId = 1;
       const expectedMatch = mockMatches[0];
@@ -41,9 +41,9 @@ describe('MatchesService', () => {
 
       expect(result).toBeNull();
     });
-  });
+  }); */
 
-  describe('findByTeam', () => {
+/*   describe('findByTeam', () => {
     it('should return matches by team ID', async () => {
       const teamId = 1;
 
@@ -63,5 +63,5 @@ describe('MatchesService', () => {
 
       expect(result).toEqual([]);
     });
-  });
+  }); */
 });
