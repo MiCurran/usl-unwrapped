@@ -24,6 +24,7 @@ import { MatchTeamsModule } from './matchTeams/matchTeams.module';
 import { TeamsResolver } from './teams/teams.resolver';
 import { StatsModule } from './stats/stats.module';
 import { AnalyticsModule } from './analytics/analytics.module';
+import { HealthModule } from './health/health.module';
 @Module({
   imports: [
     GraphQLModule.forRoot<ApolloDriverConfig>({
@@ -38,7 +39,8 @@ import { AnalyticsModule } from './analytics/analytics.module';
     AuthorizationModule,
     ConfigModule.forRoot(),
     StatsModule,
-    AnalyticsModule
+    AnalyticsModule,
+    HealthModule
   ],
   controllers: [AppController, MatchesController, EventsController, TeamsController, MatchTeamsController],
   providers: [PrismaService, MatchResolver, AppService, MatchesService, EventsService, EventsResolver, TeamsService, MatchTeamsService, TeamsResolver],

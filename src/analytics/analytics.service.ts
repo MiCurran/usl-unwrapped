@@ -18,8 +18,8 @@ export class AnalyticsService {
         const teamTwoName = (await this.prisma.uslTeams.findFirst({where: {id: uslTeamTwoId}})).name 
         const data = {team1: uslTeamOneData, team2: uslTeamTwoData}
         return {
-            teamOne: {team: teamOneName, stats: analyzeDataForTeam(data.team1, uslTeamOneId)},
-            teamTwo: {team: teamTwoName, stats: analyzeDataForTeam(data.team2, uslTeamTwoId)},
+            teamOne: {team: teamOneName, pastFiveMatchStats: analyzeDataForTeam(data.team1, uslTeamOneId), matchData: uslTeamOneData},
+            teamTwo: {team: teamTwoName, pastFiveMatchStats: analyzeDataForTeam(data.team2, uslTeamTwoId), matchData: uslTeamTwoData},
         }
       }
 }
@@ -163,3 +163,6 @@ function analyzeDataForTeam(teamData, uslTeamId) {
     }
     return r;
 }
+
+
+// we should also add form in here where we look at the record for the games 

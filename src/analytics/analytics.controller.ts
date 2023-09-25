@@ -1,8 +1,9 @@
-import { Controller, Get, Param, Query } from '@nestjs/common';
+import { Controller, Get, Param, Query, ParseIntPipe } from '@nestjs/common';
 import { MatchEvents, UslTeams, Prisma, MatchTeam, Match } from '.prisma/client';
-import { ApiTags, ApiOperation, ApiResponse, ApiParam, ApiQuery } from '@nestjs/swagger'; // Import Swagger decorators
+import { ApiTags, ApiOperation, ApiOkResponse, ApiParam, ApiQuery } from '@nestjs/swagger';
 import { AnalyticsService } from './analytics.service';
 import { AnalyticsModel } from './analytics.model';
+import { API_ERROR } from 'src/utils/error/api.error';
 type TeamStats = {
   totalGoalsScored: number;
   matchesWithMoreThanOneGoal: number;
@@ -15,11 +16,12 @@ type TeamStats = {
 };
 
 type TeamInfo = {
-  team: string;
-  stats: TeamStats;
+  teamName: string;
+  analyzedStats: TeamStats;
+  matchData: Match[];
 };
 
-type SwaggerResponse = {
+type AnalyticsResponse = {
   teamOne: TeamInfo;
   teamTwo: TeamInfo;
 };
@@ -32,12 +34,12 @@ export class AnalyticsController {
     @ApiOperation({ summary: 'Analyze the 5 most recent matches of two teams' })
     @ApiParam({ name: 'uslTeamOneId', type: 'integer', required: true })
     @ApiParam({ name: 'uslTeamTwoId', type: 'integer', required: true }) 
-    @ApiResponse({ status: 200, description: 'Returns ', type: AnalyticsModel })
+    @ApiOkResponse({ status: 200, description: 'Returns ', type: AnalyticsModel })
     findMatchesBetweenTeams(
-      @Param('uslTeamOneId') uslTeamOneId: string, 
-      @Param('uslTeamTwoId') uslTeamTwoId: string
-      ): Promise<any[]> {
-      return this.analyticsService.analyzeBetweenTeams(+uslTeamOneId, +uslTeamTwoId);
+      @Param('uslTeamOneId', ParseIntPipe) uslTeamOneId: number, 
+      @Param('uslTeamTwoId', ParseIntPipe) uslTeamTwoId: number
+      ): Promise<AnalyticsResponse | API_ERROR> {
+      return this.analyticsService.analyzeBetweenTeams(uslTeamOneId, uslTeamTwoId);
     }
 
 }

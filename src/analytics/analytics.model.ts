@@ -1,8 +1,9 @@
 import { ObjectType, Field } from '@nestjs/graphql';
 import { ApiProperty } from '@nestjs/swagger';
+import { MatchModel } from 'src/matches/matches.model';
 
-@ObjectType({ description: 'TeamStats' })
-class TeamStats {
+@ObjectType({ description: 'Stats from the past 5 matches' })
+class PastFiveGameStats {
   @Field()
   @ApiProperty({ description: 'Total goals scored' })
   totalGoalsScored: number;
@@ -36,24 +37,28 @@ class TeamStats {
   possessionPlusMinus: string;
 }
 
-@ObjectType({ description: 'TeamInfo' })
-class TeamInfo {
+@ObjectType({ description: 'Team Stats & Info' })
+class AnalyzedTeam {
   @Field()
   @ApiProperty({ description: 'Team name' })
-  team: string;
+  teamName: string;
 
-  @Field(() => TeamStats)
-  @ApiProperty({ type: TeamStats })
-  stats: TeamStats;
+  @Field(() => PastFiveGameStats)
+  @ApiProperty({ type: PastFiveGameStats, description: 'Team stats from previous 5 matches' })
+  pastFiveMatchStats: PastFiveGameStats;
+
+  @Field(() => MatchModel)
+  @ApiProperty({description: 'An array of match data for the past 5 matches'})
+  matchData: MatchModel[]
 }
 
-@ObjectType({ description: 'SwaggerResponse' })
+@ObjectType({ description: 'Stats from the past 5 matches for the two provided UslTeamId' })
 export class AnalyticsModel {
-  @Field(() => TeamInfo)
-  @ApiProperty({ type: TeamInfo, description: 'Team one info' })
-  teamOne: TeamInfo;
+  @Field(() => AnalyzedTeam)
+  @ApiProperty({ type: AnalyzedTeam, description: 'Team one info & stats' })
+  teamOne: AnalyzedTeam;
 
-  @Field(() => TeamInfo)
-  @ApiProperty({ type: TeamInfo, description: 'Team two info' })
-  teamTwo: TeamInfo;
+  @Field(() => AnalyzedTeam)
+  @ApiProperty({ type: AnalyzedTeam, description: 'Team two info & stats' })
+  teamTwo: AnalyzedTeam;
 }

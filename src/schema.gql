@@ -127,8 +127,8 @@ type UslTeam {
   active: Boolean!
 }
 
-"""TeamStats"""
-type TeamStats {
+"""Stats from the past 5 matches"""
+type PastFiveGameStats {
   totalGoalsScored: Float!
   matchesWithMoreThanOneGoal: Float!
   cleanSheets: Float!
@@ -139,10 +139,11 @@ type TeamStats {
   possessionPlusMinus: String!
 }
 
-"""TeamInfo"""
-type TeamInfo {
-  team: String!
-  stats: TeamStats!
+"""Team Stats & Info"""
+type AnalyzedTeam {
+  teamName: String!
+  pastFiveMatchStats: PastFiveGameStats!
+  matchData: MatchModel!
 }
 
 type Query {

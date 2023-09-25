@@ -60,7 +60,7 @@ export class MatchesController {
   @ApiParam({ name: 'id', type: 'integer', required: true }) // Document the route parameter
   @ApiResponse({ status: 200, description: 'Returns array of match events from match if id found.' })
   @ApiResponse({ status: 404, description: 'Match not found.' })
-  findMatchEvents(@Param('id') id: string): Promise<MatchEvents | null> {
+  findMatchEvents(@Param('id', ParseIntPipe) id: number): Promise<MatchEvents | null> {
     return this.eventsService.findOne(+id);
   }
 

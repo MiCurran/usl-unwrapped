@@ -1,5 +1,5 @@
 
-import { Controller, Get, Param, Query } from '@nestjs/common';
+import { Controller, Get, Param, ParseIntPipe, Query } from '@nestjs/common';
 import { MatchTeamsService } from './matchTeams.service';
 import { MatchEvents, UslTeams, Prisma, MatchTeam } from '.prisma/client';
 import { ApiTags, ApiOperation, ApiResponse, ApiParam, ApiQuery } from '@nestjs/swagger'; // Import Swagger decorators
@@ -14,19 +14,19 @@ export class MatchTeamsController {
 
   @Get()
   @ApiOperation({ summary: 'Match Team Info' })
-  @ApiQuery({ name: 'season', type: String, required: false }) // Document the query parameter as optional
+  //@ApiQuery({ name: 'season', type: String, required: false }) // Document the query parameter as optional
   @ApiResponse({ status: 200, description: 'Returns an array of Match Teams' })
-  findAll(@Query('season') season: string): Promise<MatchTeam[]> {
+  findAll(): Promise<MatchTeam[]> {
     return this.matchTeamsService.findAll();
   }
 
   @Get(':id')
   @ApiOperation({ summary: 'Get Match Team by ID' })
   @ApiParam({ name: 'id', type: 'integer', required: true }) // Document the route parameter
-  @ApiQuery({ name: 'season', type: String, required: false }) // Document the query parameter as optional
+  //@ApiQuery({ name: 'season', type: String, required: false }) // Document the query parameter as optional
   @ApiResponse({ status: 200, description: 'Returns a specific match team by id' })
   @ApiResponse({ status: 404, description: 'Team not found.' })
-  findOne(@Param('id') id: string, @Query('season') season: string): Promise<MatchTeam | null> {
-    return this.matchTeamsService.findOne(+id);
+  findOne(@Param('id', ParseIntPipe) id: number): Promise<MatchTeam | null> {
+    return this.matchTeamsService.findOne(id);
   }
 }
