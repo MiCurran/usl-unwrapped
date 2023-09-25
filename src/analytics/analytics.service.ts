@@ -141,7 +141,6 @@ function analyzeDataForTeam(teamData, uslTeamId) {
     const attackStats = getTeamStatsForMatch(teamData, uslTeamId, 'ATTACK_STATS');
     const distributionStats = getTeamStatsForMatch(teamData, uslTeamId, 'DISTRIBUTION_STATS');
     const generalStats = getTeamStatsForMatch(teamData, uslTeamId, 'GENERAL_STATS')
-    console.log(generalStats)
     const shots = getTotalShots(attackStats);
     const shotsOnTarget = getTotalShotsOnTarget(attackStats);
     const shotsVsTarget = `${shotsOnTarget}/${shots}`;
