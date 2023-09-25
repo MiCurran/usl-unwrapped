@@ -38,14 +38,14 @@ export class MatchesService {
   }
 
   async findByTeam( teamId: number, where?: string,): Promise<Match[]> {
-    if (where.toLocaleLowerCase() === 'home') {
+    if (where === 'home') {
       return this.prisma.match.findMany({
         where: {
             homeTeamUslId: teamId,
         },
       }); 
     }
-    if (where.toLocaleLowerCase() === 'away') {
+    if (where === 'away') {
       return this.prisma.match.findMany({
         where: {
             awayTeamUslId: teamId,

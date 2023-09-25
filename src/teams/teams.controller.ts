@@ -51,7 +51,6 @@ enum UslIdEnum {
   FortyTwo,
 }
 
-@ApiTags('USL TEAMS') 
 @Controller('teams')
 export class TeamsController {
   constructor(
@@ -59,6 +58,7 @@ export class TeamsController {
     private readonly matchesService: MatchesService,
     private readonly matchTeamsService: MatchTeamsService
     ) {}
+    @ApiTags('USL TEAMS') 
   @Get()
   @ApiOperation({ summary: 'Get all USL Teams' })
   @ApiResponse({ status: 200, description: 'Returns an array of USL Teams and their IDs', type: [UslTeam] })
@@ -66,20 +66,21 @@ export class TeamsController {
     return this.teamsService.findAll();
   }
 
+  @ApiTags('USL TEAMS') 
   @Get(':uslTeamId')
   @ApiOperation({ summary: 'Get USL Team by ID' })
   @ApiParam({ name: 'uslTeamId', type: 'integer', required: true, enum: UslIdEnum  })
- // Document the route parameter
   @ApiResponse({ status: 200, description: 'Returns a USL team by USL team id if found.', type: UslTeam })
   @ApiResponse({ status: 404, description: 'USL Team not found.' })
   findOne(@Param('uslTeamId') uslTeamId: UslId): Promise<UslTeam | null> {
     return this.teamsService.findOne(+uslTeamId);
   }
 
+  @ApiTags('USL TEAMS') 
   @Get(':uslTeamId/matches')
   @ApiOperation({ summary: 'Get matches by USL team ID' })
-  @ApiQuery({ name: 'home/away', type: String, required: false }) // Document the query parameter as optional
-  @ApiParam({ name: 'uslTeamId', type: 'integer', required: true }) // Document the route parameter
+  @ApiQuery({ name: 'home/away', type: String, required: false })
+  @ApiParam({ name: 'uslTeamId', type: 'integer', required: true })
   @ApiResponse({ status: 200, description: 'Returns matches for a team.' })
   findByTeam(
     @Query('home/away') home_away: string,
@@ -88,20 +89,25 @@ export class TeamsController {
     return this.matchesService.findByTeam(+uslTeamId, home_away);
   }
 
-  @Get(':uslTeamOneId/matches/:uslTeamTwoId')
-  @ApiOperation({ summary: 'Get matches between two teams' })
-  @ApiParam({ name: 'uslTeamOneId', type: 'integer', required: true }) // Document the route parameter
-  @ApiParam({ name: 'uslTeamTwoId', type: 'integer', required: true }) // Document the route parameter
-  @ApiResponse({ status: 200, description: 'Returns 5 recent matches between two teams.' })
-  findMatchesBetweenTeams(@Param('uslTeamOneId') uslTeamOneId: string, @Param('uslTeamTwoId') uslTeamTwoId: string): Promise<Match[]> {
-    return this.matchesService.findBetweenTeams(+uslTeamOneId, +uslTeamTwoId);
-  }
-
+  @ApiTags('USL TEAMS') 
 @Get(':uslTeamId/match-teams')
   @ApiOperation({ summary: 'Get match teams and lineups by USL team ID' })
-  @ApiParam({ name: 'uslTeamId', type: 'integer', required: true }) // Document the route parameter
+  @ApiParam({ name: 'uslTeamId', type: 'integer', required: true })
   @ApiResponse({ status: 200, description: 'Returns an array of match teams and lineups for a team.' })
   findTeamsByTeam(@Param('uslTeamId') uslTeamId: string): Promise<MatchTeam[]> {
     return this.matchTeamsService.findByTeam(+uslTeamId);
+  }
+
+  @ApiTags('Analytics') 
+  @Get(':uslTeamOneId/matches/:uslTeamTwoId')
+  @ApiOperation({ summary: 'Get matches between two teams' })
+  @ApiParam({ name: 'uslTeamOneId', type: 'integer', required: true })
+  @ApiParam({ name: 'uslTeamTwoId', type: 'integer', required: true }) 
+  @ApiResponse({ status: 200, description: 'Returns 5 recent matches between two teams.' })
+  findMatchesBetweenTeams(
+    @Param('uslTeamOneId') uslTeamOneId: string, 
+    @Param('uslTeamTwoId') uslTeamTwoId: string
+    ): Promise<Match[]> {
+    return this.matchesService.findBetweenTeams(+uslTeamOneId, +uslTeamTwoId);
   }
 }
