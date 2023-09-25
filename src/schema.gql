@@ -127,6 +127,24 @@ type UslTeam {
   active: Boolean!
 }
 
+"""TeamStats"""
+type TeamStats {
+  totalGoalsScored: Float!
+  matchesWithMoreThanOneGoal: Float!
+  cleanSheets: Float!
+  shotsVsTarget: String!
+  longBallPercentage: String!
+  averagePassingAccuracy: String!
+  averageCrossingAccuracy: String!
+  possessionPlusMinus: String!
+}
+
+"""TeamInfo"""
+type TeamInfo {
+  team: String!
+  stats: TeamStats!
+}
+
 type Query {
   matches: [MatchModel!]!
   match(id: Float!): MatchModel
