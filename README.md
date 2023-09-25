@@ -97,7 +97,7 @@ Your API should now be running locally at http://localhost:3000.
 The API documentation is available through Swagger UI. You can access it by navigating to http://localhost:3000/api-docs in your web browser.
 
 <br><br>  
-
+<br>
 ## GraphQL example queries
 <hr>  
 
