@@ -10,8 +10,8 @@
     },
     "env": {
       "NODE_ENV": {
-        "description": "Environment [PROD/DEV]",
-        "value": "PROD"
+        "description": "Environment [production/development]",
+        "value": "production"
       }
     },
     "formation": {
