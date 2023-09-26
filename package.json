@@ -5,6 +5,9 @@
   "description": "USL soccer league - Match - Player - Team Statistics",
   "license": "UNLICENSED",
   "author": "MiCurran",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "db:dev:rm": "docker compose rm uslunwrapped_dev_db -s -f -v",
     "db:dev:up": "docker compose up uslunwrapped_dev_db -d",
