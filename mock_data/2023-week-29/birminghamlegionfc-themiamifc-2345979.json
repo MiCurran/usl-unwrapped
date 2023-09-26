@@ -1,0 +1,894 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Birmingham Legion FC",
+      "formation": "4-1-4-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Soehn",
+        "players": [
+          {
+            "shirtNumber": "18",
+            "playerName": "Spangenberg",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Rufe",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Mensah",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Crognale",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Kavita",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Mikey Lopez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "19"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Kasim",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Agudelo",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Enzo Martínez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Missed penalty",
+                "eventTime": "50"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Nwegbo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Tabort Etaka",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Torman",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Gabriel Alves",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Smith",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Corcoran",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Dupont",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Brett",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Pasher",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "The Miami FC",
+      "formation": "4-4-2",
+      "score": "2",
+      "lineup": {
+        "managerName": "Neal",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "McGuire",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Telfer",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Stanley",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Craig",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Ofeimu",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "35"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "41"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Gabriel de Freitas",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Valot",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "22"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Akinyode",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Sorto",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Salazar",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rivas",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "903"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Zendejas",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Hernández",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Jean Francois",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Gustavo Rissi",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Dowouna",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "903"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Murphy",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Repetto",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 24, 2023 4:30 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "51.7%",
+        "Duels_Success_Rate": "44.2%",
+        "Ariel_Duels_Won": "36.8%",
+        "Interceptions": "8",
+        "Offsides": "3",
+        "Corners_Won": "5"
+      },
+      "away": {
+        "Possession": "48.3%",
+        "Duels_Success_Rate": "55.8%",
+        "Ariel_Duels_Won": "63.2%",
+        "Interceptions": "10",
+        "Offsides": "1",
+        "Corners_Won": "7"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "449",
+        "Long_Passes": "62",
+        "Passing_Accuracy": "80.2%",
+        "Passing_Accuracy_In_Opponent_Half": "73.9%",
+        "Crosses": "17",
+        "Crossing_Accuracy": "11.8%"
+      },
+      "away": {
+        "Passes": "419",
+        "Long_Passes": "63",
+        "Passing_Accuracy": "77.6%",
+        "Passing_Accuracy_In_Opponent_Half": "64.7%",
+        "Crosses": "14",
+        "Crossing_Accuracy": "28.6%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "23",
+        "Shots_On_Target": "12",
+        "Blocked_Shots": "5",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "16",
+        "Shooting_Accuracy": "52.2%"
+      },
+      "away": {
+        "Goals": "2",
+        "Shots": "9",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "55.6%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "92.3%",
+        "Clearances": "8"
+      },
+      "away": {
+        "Tackles": "18",
+        "Tackle_Success_Rate": "55.6%",
+        "Clearances": "19"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "12",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Attempt blocked. Boluwatife Akinyode (The Miami FC) left footed shot from outside the box is blocked. Assisted by Christian Sorto."
+    },
+    {
+      "time": "1'",
+      "event": "Corner,  The Miami FC. Conceded by Diba Nwegbo."
+    },
+    {
+      "time": "5'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "5'",
+      "event": "Paco Craig (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "5'",
+      "event": "Delay in match  because of an injury Jake McGuire (The Miami FC)."
+    },
+    {
+      "time": "6'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "8'",
+      "event": "Foul by Alex Crognale (Birmingham Legion)."
+    },
+    {
+      "time": "8'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Boluwatife Akinyode (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "17'",
+      "event": "Attempt saved. Tabort Preston (Birmingham Legion) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Jake Rufe."
+    },
+    {
+      "time": "17'",
+      "event": "Corner,  Birmingham Legion. Conceded by Jake McGuire."
+    },
+    {
+      "time": "19'",
+      "event": "Florian Valot (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Mikey Lopez (Birmingham Legion)."
+    },
+    {
+      "time": "19'",
+      "event": "Mikey Lopez (Birmingham Legion) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "19'",
+      "event": "Delay in match  because of an injury Florian Valot (The Miami FC)."
+    },
+    {
+      "time": "20'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Christian Sorto (The Miami FC)."
+    },
+    {
+      "time": "21'",
+      "event": "Jake Rufe (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "22'",
+      "event": "Foul by Florian Valot (The Miami FC)."
+    },
+    {
+      "time": "22'",
+      "event": "Moses Mensah (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "22'",
+      "event": "Florian Valot (The Miami FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt missed. Diba Nwegbo (Birmingham Legion) right footed shot from the left side of the box misses to the right."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt saved. Tabort Preston (Birmingham Legion) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Juan Agudelo."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Aedan Stanley (The Miami FC)."
+    },
+    {
+      "time": "26'",
+      "event": "Tabort Preston (Birmingham Legion) wins a free kick on the right wing."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt missed. Diba Nwegbo (Birmingham Legion) right footed shot from outside the box is too high. Assisted by Moses Mensah."
+    },
+    {
+      "time": "31'",
+      "event": "Enzo Martínez (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "31'",
+      "event": "Foul by Boluwatife Akinyode (The Miami FC)."
+    },
+    {
+      "time": "34'",
+      "event": "Diba Nwegbo (Birmingham Legion) wins a free kick in the attacking half."
+    },
+    {
+      "time": "34'",
+      "event": "Foul by Ryan Telfer (The Miami FC)."
+    },
+    {
+      "time": "35'",
+      "event": "Corner,  The Miami FC. Conceded by Jake Rufe."
+    },
+    {
+      "time": "35'",
+      "event": "Goal!  Birmingham Legion 0, The Miami FC 1. Ben Ofeimu (The Miami FC) header from very close range to the bottom right corner. Assisted by Gabriel Cabral with a cross   following a corner."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt saved. Diba Nwegbo (Birmingham Legion) right footed shot from the left side of the box is saved in the centre of the goal. Assisted by Phanuel Kavita."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt missed. Joaquín Rivas (The Miami FC) left footed shot from the centre of the box misses to the left."
+    },
+    {
+      "time": "39'",
+      "event": "Offside, Birmingham Legion. Enzo Martínez tries a through ball, but Tabort Preston is caught offside."
+    },
+    {
+      "time": "40'",
+      "event": "Corner,  The Miami FC. Conceded by Enzo Martínez."
+    },
+    {
+      "time": "41'",
+      "event": "Diba Nwegbo (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Ryan Telfer (The Miami FC)."
+    },
+    {
+      "time": "41'",
+      "event": "Ben Ofeimu (The Miami FC) is shown the yellow card."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt missed. Prosper Kasim (Birmingham Legion) left footed shot from the right side of the box is close, but misses to the right."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Phanuel Kavita (Birmingham Legion)."
+    },
+    {
+      "time": "43'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "44'",
+      "event": "Attempt blocked. Juan Agudelo (Birmingham Legion) header from the left side of the box is blocked. Assisted by Jake Rufe with a cross."
+    },
+    {
+      "time": "44'",
+      "event": "Attempt blocked. Prosper Kasim (Birmingham Legion) left footed shot from the centre of the box is blocked. Assisted by Diba Nwegbo."
+    },
+    {
+      "time": "45'",
+      "event": "Foul by Mikey Lopez (Birmingham Legion)."
+    },
+    {
+      "time": "45'",
+      "event": "Florian Valot (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+1'",
+      "event": "Offside, Birmingham Legion. Prosper Kasim tries a through ball, but Tabort Preston is caught offside."
+    },
+    {
+      "time": "45+3'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "45+3'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+5'",
+      "event": "Attempt saved. Gabriel Cabral (The Miami FC) right footed shot from outside the box is saved in the bottom right corner. Assisted by Christian Sorto."
+    },
+    {
+      "time": "45+5'",
+      "event": "First Half ends, Birmingham Legion 0, The Miami FC 1."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Juan Agudelo (Birmingham Legion)."
+    },
+    {
+      "time": "46'",
+      "event": "Boluwatife Akinyode (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "46'",
+      "event": "Corner,  The Miami FC. Conceded by Jake Rufe."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt missed. Ben Ofeimu (The Miami FC) header from the centre of the box misses to the left. Assisted by Gabriel Cabral with a cross following a corner."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt saved. Florian Valot (The Miami FC) right footed shot from outside the box is saved in the top centre of the goal. Assisted by Boluwatife Akinyode."
+    },
+    {
+      "time": "48'",
+      "event": "Juan Agudelo (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "48'",
+      "event": "Foul by Boluwatife Akinyode (The Miami FC)."
+    },
+    {
+      "time": "50'",
+      "event": "Offside, The Miami FC. Jake McGuire tries a through ball, but Michael Salazar is caught offside."
+    },
+    {
+      "time": "50'",
+      "event": "Penalty Birmingham Legion. Tabort Preston draws a foul in the penalty area."
+    },
+    {
+      "time": "50'",
+      "event": "Penalty conceded by Aedan Stanley (The Miami FC) after a foul in the penalty area."
+    },
+    {
+      "time": "51'",
+      "event": "Penalty saved! Enzo Martínez (Birmingham Legion) fails to capitalise on this great opportunity,  right footed shot saved  in the bottom left corner."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt saved. Tabort Preston (Birmingham Legion) right footed shot from the left side of the six yard box is saved in the bottom left corner. Assisted by Diba Nwegbo."
+    },
+    {
+      "time": "53'",
+      "event": "Corner,  Birmingham Legion. Conceded by Jake McGuire."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by Mikey Lopez (Birmingham Legion)."
+    },
+    {
+      "time": "54'",
+      "event": "Christian Sorto (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt missed. Mikey Lopez (Birmingham Legion) right footed shot from outside the box is too high. Assisted by Prosper Kasim."
+    },
+    {
+      "time": "56'",
+      "event": "Delay in match   (The Miami FC)."
+    },
+    {
+      "time": "56'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "57'",
+      "event": "Corner,  The Miami FC. Conceded by Phanuel Kavita."
+    },
+    {
+      "time": "59'",
+      "event": "Tabort Preston (Birmingham Legion) wins a free kick on the left wing."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Gabriel Cabral (The Miami FC)."
+    },
+    {
+      "time": "60'",
+      "event": "Diba Nwegbo (Birmingham Legion) wins a free kick in the attacking half."
+    },
+    {
+      "time": "60'",
+      "event": "Foul by Boluwatife Akinyode (The Miami FC)."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, Birmingham Legion. Neco Brett replaces Diba Nwegbo."
+    },
+    {
+      "time": "62'",
+      "event": "Tabort Preston (Birmingham Legion) wins a free kick in the defensive half."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Ryan Telfer (The Miami FC)."
+    },
+    {
+      "time": "63'",
+      "event": "Mikey Lopez (Birmingham Legion) wins a free kick on the left wing."
+    },
+    {
+      "time": "63'",
+      "event": "Dangerous play by Florian Valot (The Miami FC)."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt blocked. Jake Rufe (Birmingham Legion) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "65'",
+      "event": "Corner,  Birmingham Legion. Conceded by Aedan Stanley."
+    },
+    {
+      "time": "65'",
+      "event": "Attempt missed. Prosper Kasim (Birmingham Legion) left footed shot from outside the box is just a bit too high following a corner."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt blocked. Tabort Preston (Birmingham Legion) right footed shot from the right side of the box is blocked. Assisted by Mikey Lopez."
+    },
+    {
+      "time": "67'",
+      "event": "Corner,  Birmingham Legion. Conceded by Aedan Stanley."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Phanuel Kavita (Birmingham Legion)."
+    },
+    {
+      "time": "68'",
+      "event": "Paco Craig (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "69'",
+      "event": "Delay in match  because of an injury Mikey Lopez (Birmingham Legion)."
+    },
+    {
+      "time": "70'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt saved. Prosper Kasim (Birmingham Legion) left footed shot from outside the box is saved in the centre of the goal. Assisted by Juan Agudelo."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt saved. Neco Brett (Birmingham Legion) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Prosper Kasim."
+    },
+    {
+      "time": "72'",
+      "event": "Delay in match  because of an injury Michael Salazar (The Miami FC)."
+    },
+    {
+      "time": "73'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt saved. Juan Agudelo (Birmingham Legion) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Prosper Kasim."
+    },
+    {
+      "time": "74'",
+      "event": "Offside, Birmingham Legion. Juan Agudelo tries a through ball, but Tabort Preston is caught offside."
+    },
+    {
+      "time": "75'",
+      "event": "Florian Valot (The Miami FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Mikey Lopez (Birmingham Legion)."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, The Miami FC. Kyle Murphy replaces Michael Salazar."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, The Miami FC. Claudio Repetto replaces Christian Sorto."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt missed. Boluwatife Akinyode (The Miami FC) header from the centre of the box is close, but misses the top left corner. Assisted by Aedan Stanley with a cross following a set piece situation."
+    },
+    {
+      "time": "77'",
+      "event": "Foul by Ryan Telfer (The Miami FC)."
+    },
+    {
+      "time": "77'",
+      "event": "Enzo Martínez (Birmingham Legion) wins a free kick on the left wing."
+    },
+    {
+      "time": "77'",
+      "event": "Ryan Telfer (The Miami FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "78'",
+      "event": "Attempt saved. Enzo Martínez (Birmingham Legion) right footed shot from the centre of the box is saved in the top centre of the goal. Assisted by Prosper Kasim."
+    },
+    {
+      "time": "78'",
+      "event": "Corner,  Birmingham Legion. Conceded by Jake McGuire."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, Birmingham Legion. Tyler Pasher replaces Moses Mensah."
+    },
+    {
+      "time": "80'",
+      "event": "Claudio Repetto (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Phanuel Kavita (Birmingham Legion)."
+    },
+    {
+      "time": "80'",
+      "event": "Corner,  The Miami FC. Conceded by Alex Crognale."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt blocked. Neco Brett (Birmingham Legion) right footed shot from outside the box is blocked. Assisted by Tyler Pasher."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt saved. Tyler Pasher (Birmingham Legion) left footed shot from the right side of the six yard box is saved in the bottom right corner. Assisted by Neco Brett."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt missed. Enzo Martínez (Birmingham Legion) left footed shot from the centre of the box is too high."
+    },
+    {
+      "time": "84'",
+      "event": "Goal!  Birmingham Legion 0, The Miami FC 2. Kyle Murphy (The Miami FC) right footed shot from very close range to the centre of the goal."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt saved. Tyler Pasher (Birmingham Legion) left footed shot from outside the box is saved in the centre of the goal. Assisted by Jake Rufe."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt saved. Juan Agudelo (Birmingham Legion) right footed shot from the centre of the box is saved in the bottom left corner."
+    },
+    {
+      "time": "87'",
+      "event": "Delay in match  because of an injury Paco Craig (The Miami FC)."
+    },
+    {
+      "time": "88'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+3'",
+      "event": "Attempt saved. Claudio Repetto (The Miami FC) right footed shot from the centre of the box is saved in the bottom left corner. Assisted by Gabriel Cabral."
+    },
+    {
+      "time": "90+3'",
+      "event": "Corner,  The Miami FC. Conceded by Trevor Spangenberg."
+    },
+    {
+      "time": "90+3'",
+      "event": "Substitution, The Miami FC. Dennis Dowouna replaces Joaquín Rivas."
+    },
+    {
+      "time": "90+7'",
+      "event": "Second Half ends, Birmingham Legion 0, The Miami FC 2."
+    }
+  ]
+}

@@ -1,0 +1,797 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Phoenix Rising FC",
+      "formation": "3-4-3",
+      "score": "1",
+      "lineup": {
+        "managerName": "Guerra",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Rios Novo",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Traore",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Stenberg",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Fuenmayor",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Uzochokwu",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "16"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Munjoma",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernández",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "902"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "67",
+            "playerName": "C. Harvey",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "80"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "904"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Arteaga",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "40"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Trejo",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Fede Varela",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Rakovsky",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "King",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Krutzen",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "904"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Cuello",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Armenakas",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Formella",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Gallardo",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Indy Eleven",
+      "formation": "4-1-4-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Lowry",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Trilk",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "25",
+            "playerName": "Rebellón",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Boudadi",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Jerome",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Diz Pe",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "905"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Lindley",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Asante",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Blake",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Guenzatti",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Robledo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Stéfano Pinho",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "31"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "46",
+            "playerName": "Crawford",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Dambrot",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Reveno",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Vázquez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "61"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Velasquez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "42",
+            "playerName": "Martínez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Molina",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 20, 2023 8:30 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "52.9%",
+        "Duels_Success_Rate": "60.9%",
+        "Ariel_Duels_Won": "55.6%",
+        "Interceptions": "9",
+        "Offsides": "5",
+        "Corners_Won": "3"
+      },
+      "away": {
+        "Possession": "47.1%",
+        "Duels_Success_Rate": "39.1%",
+        "Ariel_Duels_Won": "44.4%",
+        "Interceptions": "8",
+        "Offsides": "2",
+        "Corners_Won": "3"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "548",
+        "Long_Passes": "50",
+        "Passing_Accuracy": "89.2%",
+        "Passing_Accuracy_In_Opponent_Half": "80.0%",
+        "Crosses": "12",
+        "Crossing_Accuracy": "16.7%"
+      },
+      "away": {
+        "Passes": "489",
+        "Long_Passes": "61",
+        "Passing_Accuracy": "87.7%",
+        "Passing_Accuracy_In_Opponent_Half": "78.1%",
+        "Crosses": "11",
+        "Crossing_Accuracy": "36.4%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "14",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "5",
+        "Shots_Outside_Box": "8",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "21.4%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "9",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "33.3%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "17",
+        "Tackle_Success_Rate": "70.6%",
+        "Clearances": "5"
+      },
+      "away": {
+        "Tackles": "10",
+        "Tackle_Success_Rate": "60.0%",
+        "Clearances": "12"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "8",
+        "Yellow_Cards": "4",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "8",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Attempt missed. Solomon Asante (Indy Eleven) right footed shot from outside the box misses to the left. Assisted by Stéfano Pinho with a headed pass."
+    },
+    {
+      "time": "3'",
+      "event": "Attempt missed. Stéfano Pinho (Indy Eleven) left footed shot from the centre of the box misses to the left. Assisted by Sebastián Guenzatti."
+    },
+    {
+      "time": "3'",
+      "event": "Corner,  Indy Eleven. Conceded by John Stenberg."
+    },
+    {
+      "time": "8'",
+      "event": "Manuel Arteaga (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "8'",
+      "event": "Foul by Mechack Jérôme (Indy Eleven)."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by José Hernández (Phoenix Rising)."
+    },
+    {
+      "time": "12'",
+      "event": "Sebastián Guenzatti (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Offside, Phoenix Rising. Eddie Munjoma tries a through ball, but Manuel Arteaga is caught offside."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Henry Uzochukwu (Phoenix Rising)."
+    },
+    {
+      "time": "16'",
+      "event": "Harrison Robledo (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "16'",
+      "event": "Henry Uzochukwu (Phoenix Rising) is shown the yellow card."
+    },
+    {
+      "time": "17'",
+      "event": "Offside, Indy Eleven. Cam Lindley tries a through ball, but Solomon Asante is caught offside."
+    },
+    {
+      "time": "19'",
+      "event": "Corner,  Indy Eleven. Conceded by Henry Uzochukwu."
+    },
+    {
+      "time": "19'",
+      "event": "Attempt missed. Bryam Rebellón (Indy Eleven) header from the centre of the box is too high. Assisted by Cam Lindley with a cross following a corner."
+    },
+    {
+      "time": "22'",
+      "event": "Attempt missed. Manuel Arteaga (Phoenix Rising) left footed shot from outside the box is close, but misses to the right."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by John Stenberg (Phoenix Rising)."
+    },
+    {
+      "time": "23'",
+      "event": "Stéfano Pinho (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "27'",
+      "event": "Henry Uzochukwu (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Stéfano Pinho (Indy Eleven)."
+    },
+    {
+      "time": "29'",
+      "event": "Attempt saved. Henry Uzochukwu (Phoenix Rising) left footed shot from outside the box is saved in the centre of the goal. Assisted by Carlos Harvey."
+    },
+    {
+      "time": "31'",
+      "event": "José Hernández (Phoenix Rising) wins a free kick in the attacking half."
+    },
+    {
+      "time": "31'",
+      "event": "Foul by Stéfano Pinho (Indy Eleven)."
+    },
+    {
+      "time": "31'",
+      "event": "Stéfano Pinho (Indy Eleven) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "32'",
+      "event": "Offside, Phoenix Rising. Federico Varela tries a through ball, but Danny Trejo is caught offside."
+    },
+    {
+      "time": "34'",
+      "event": "Attempt saved. Younes Boudadi (Indy Eleven) right footed shot from outside the box is saved in the centre of the goal. Assisted by Jack Blake."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt saved. Solomon Asante (Indy Eleven) right footed shot from a difficult angle and long range on the right is saved in the top centre of the goal. Assisted by Sebastián Guenzatti."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt blocked. Stéfano Pinho (Indy Eleven) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "36'",
+      "event": "Sebastián Guenzatti (Indy Eleven) hits the bar with a right footed shot from the right side of the box. Assisted by Jack Blake."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Henry Uzochukwu (Phoenix Rising)."
+    },
+    {
+      "time": "39'",
+      "event": "Younes Boudadi (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "40'",
+      "event": "Foul by Manuel Arteaga (Phoenix Rising)."
+    },
+    {
+      "time": "40'",
+      "event": "Adrián Diz (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "40'",
+      "event": "Manuel Arteaga (Phoenix Rising) is shown the yellow card."
+    },
+    {
+      "time": "41'",
+      "event": "Delay in match  because of an injury Adrián Diz (Indy Eleven)."
+    },
+    {
+      "time": "41'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "43'",
+      "event": "Carlos Harvey (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Carlos Harvey (Phoenix Rising) wins a free kick on the left wing."
+    },
+    {
+      "time": "45+1'",
+      "event": "Foul by Bryam Rebellón (Indy Eleven)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Attempt blocked. Federico Varela (Phoenix Rising) right footed shot from the centre of the box is blocked. Assisted by Eddie Munjoma."
+    },
+    {
+      "time": "45+2'",
+      "event": "Attempt missed. Manuel Arteaga (Phoenix Rising) left footed shot from outside the box is close, but misses to the left. Assisted by Henry Uzochukwu."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, Phoenix Rising 0, Indy Eleven 0."
+    },
+    {
+      "time": "49'",
+      "event": "Corner,  Phoenix Rising. Conceded by Adrián Diz."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt blocked. Danny Trejo (Phoenix Rising) right footed shot from outside the box is blocked. Assisted by Federico Varela."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt missed. Carlos Harvey (Phoenix Rising) left footed shot from outside the box is close, but misses to the right. Assisted by Eddie Munjoma."
+    },
+    {
+      "time": "54'",
+      "event": "Delay in match  because of an injury Cam Lindley (Indy Eleven)."
+    },
+    {
+      "time": "54'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, Phoenix Rising. Dariusz Formella replaces Henry Uzochukwu."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, Phoenix Rising. Panos Armenakas replaces Federico Varela."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt missed. Manuel Arteaga (Phoenix Rising) right footed shot from the centre of the box misses to the right. Assisted by Carlos Harvey."
+    },
+    {
+      "time": "58'",
+      "event": "Offside, Phoenix Rising. Manuel Arteaga tries a through ball, but Dariusz Formella is caught offside."
+    },
+    {
+      "time": "61'",
+      "event": "Substitution, Indy Eleven. Jesús Vázquez replaces Bryam Rebellón."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Alejandro Fuenmayor (Phoenix Rising)."
+    },
+    {
+      "time": "62'",
+      "event": "Stéfano Pinho (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "62'",
+      "event": "Alejandro Fuenmayor (Phoenix Rising) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt missed. Stéfano Pinho (Indy Eleven) header from the right side of the six yard box misses to the left. Assisted by Younes Boudadi with a cross."
+    },
+    {
+      "time": "64'",
+      "event": "Carlos Harvey (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "64'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, Indy Eleven. Douglas Martínez replaces Harrison Robledo."
+    },
+    {
+      "time": "68'",
+      "event": "Attempt blocked. Panos Armenakas (Phoenix Rising) left footed shot from outside the box is blocked. Assisted by José Hernández."
+    },
+    {
+      "time": "69'",
+      "event": "Delay in match  because of an injury Tim Trilk (Indy Eleven)."
+    },
+    {
+      "time": "70'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "73'",
+      "event": "Attempt missed. Manuel Arteaga (Phoenix Rising) right footed shot from outside the box is just a bit too high. Assisted by Danny Trejo."
+    },
+    {
+      "time": "75'",
+      "event": "Attempt saved. Panos Armenakas (Phoenix Rising) left footed shot from outside the box is saved in the bottom left corner. Assisted by Dariusz Formella."
+    },
+    {
+      "time": "75'",
+      "event": "Corner,  Phoenix Rising. Conceded by Tim Trilk."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "75'",
+      "event": "José Hernández (Phoenix Rising) wins a free kick on the left wing."
+    },
+    {
+      "time": "75'",
+      "event": "Jack Blake (Indy Eleven) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, Indy Eleven. Ben Reveno replaces Stéfano Pinho."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt blocked. Manuel Arteaga (Phoenix Rising) right footed shot from the centre of the box is blocked. Assisted by Carlos Harvey."
+    },
+    {
+      "time": "80'",
+      "event": "Goal!  Phoenix Rising 1, Indy Eleven 0. Carlos Harvey (Phoenix Rising) header from very close range to the centre of the goal. Assisted by Danny Trejo."
+    },
+    {
+      "time": "84'",
+      "event": "Delay in match   (Phoenix Rising)."
+    },
+    {
+      "time": "84'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "85'",
+      "event": "Substitution, Phoenix Rising. Darnell King replaces Manuel Arteaga."
+    },
+    {
+      "time": "88'",
+      "event": "Offside, Phoenix Rising. Darnell King tries a through ball, but Dariusz Formella is caught offside."
+    },
+    {
+      "time": "88'",
+      "event": "Jack Blake (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Carlos Harvey (Phoenix Rising)."
+    },
+    {
+      "time": "90'",
+      "event": "Offside, Phoenix Rising. Panos Armenakas tries a through ball, but Dariusz Formella is caught offside."
+    },
+    {
+      "time": "90+1'",
+      "event": "Adrián Diz (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Dariusz Formella (Phoenix Rising)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Solomon Asante (Indy Eleven)."
+    },
+    {
+      "time": "90+1'",
+      "event": "José Hernández (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+2'",
+      "event": "José Hernández (Phoenix Rising) is shown the yellow card."
+    },
+    {
+      "time": "90+3'",
+      "event": "Offside, Indy Eleven. Younes Boudadi tries a through ball, but Solomon Asante is caught offside."
+    },
+    {
+      "time": "90+4'",
+      "event": "Substitution, Phoenix Rising. Daniël Krutzen replaces Carlos Harvey."
+    },
+    {
+      "time": "90+5'",
+      "event": "Corner,  Indy Eleven. Conceded by Alejandro Fuenmayor."
+    },
+    {
+      "time": "90+5'",
+      "event": "Goal!  Phoenix Rising 1, Indy Eleven 1. Adrián Diz (Indy Eleven) header from the centre of the box to the bottom right corner. Assisted by Cam Lindley with a cross   following a corner."
+    },
+    {
+      "time": "90+6'",
+      "event": "Attempt blocked. John Stenberg (Phoenix Rising) left footed shot from the right side of the box is blocked. Assisted by Darnell King."
+    },
+    {
+      "time": "90+6'",
+      "event": "Corner,  Phoenix Rising. Conceded by Jesús Vázquez."
+    },
+    {
+      "time": "90+7'",
+      "event": "Attempt missed. Danny Trejo (Phoenix Rising) header from the right side of the six yard box misses to the left. Assisted by Panos Armenakas with a cross following a corner."
+    },
+    {
+      "time": "90+8'",
+      "event": "Second Half ends, Phoenix Rising 1, Indy Eleven 1."
+    }
+  ]
+}

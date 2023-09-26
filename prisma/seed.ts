@@ -1,7 +1,7 @@
 import { PrismaClient, Prisma, Match } from '@prisma/client';
 import * as fs from 'fs';
 import * as path from 'path';
-const data = require('../stats/stats-leaders-2021.json');
+//const data = require('../stats/stats-leaders-2021.json');
 //const data = require('../stats/stats-leaders-2022.json');
 //const data = require('../stats/stats-leaders-current.json');
 
@@ -80,18 +80,17 @@ async function main() {
   console.log(`Start seeding ...`);
   //seedUslTeams(uslTeams, prisma);
   const batchSize = 5;
-  let week = 15;
-  while (week > 0) {
-    const directoryPath = `./mock/2020-week-${week}`;
+  let week = 29;
+  //while (week > 0) {
+    const directoryPath = `./mock_data/2023-week-${week}`;
     console.log(`Processing week ${week}`);
     await processAllFilesInDirectory(directoryPath, batchSize);
     week--; // Decrement week for the next iteration
-  }
+  //}
   console.log(`Seeding finished.`);
 }
 const prisma = new PrismaClient()
-//main2(prisma);
-main3(data)
+main()
 async function seedUslTeams(teams, prisma) {
   try {
     for (const team of teams) {
@@ -228,26 +227,3 @@ const getMatchDetails = async () => {
     console.error('Error creating records:', error);
   }
 }
-
-/*   async function main2(prisma) {
-    const TeamX_uslTeamId = 19; // Replace with the uslTeamId of TeamX
-    const TeamY_uslTeamId = 13; // Replace with the uslTeamId of TeamY
-    const data = await getRecentMatchStatsBetweenTwoTeams(TeamX_uslTeamId, TeamY_uslTeamId, prisma)
-     const teamXStats = await getRecentMatchStats(TeamX_uslTeamId, prisma);
-    const teamYStats = await getRecentMatchStats(TeamY_uslTeamId, prisma);
-  
-    const outputData = {
-      "COS": teamXStats,
-      "SAC": teamYStats,
-    };
-
-   // const outputData = {"Recent_Meetings": data}
-  
-    // Convert the outputData to JSON format
-    const jsonData = JSON.stringify(outputData, null, 2);
-  
-    // Write the JSON data to a file
-    fs.writeFileSync('COS-SAC.json', jsonData, 'utf8');
-  
-    console.log('JSON file "output.json" created with the Team X and Team Y stats.');
-  } */

@@ -1,0 +1,785 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "El Paso Locomotive FC",
+      "formation": "4-4-2",
+      "score": "1",
+      "lineup": {
+        "managerName": "Clarhaut",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Díaz",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Navarro",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Petar Petrovic",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "McCue",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "73"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Dollenmayer",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Kostyshyn",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "40"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Lyons",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Rose",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Calvillo",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Aaron Gómez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "56"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "80"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Knudsen",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Garcia",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Carrillo",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Hinds",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Herrera",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Sonupe",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Garcia",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Zacarias",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "80"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Phoenix Rising FC",
+      "formation": "3-4-3",
+      "score": "1",
+      "lineup": {
+        "managerName": "Guerra",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Rios Novo",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Traore",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Stenberg",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Fuenmayor",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "King",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Munjoma",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "65"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernández",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "67",
+            "playerName": "C. Harvey",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Arteaga",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Trejo",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Armenakas",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Rakovsky",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Krutzen",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Uzochokwu",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Cuello",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Fede Varela",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Formella",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "65"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Gallardo",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 23, 2023 7:30 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "37.2%",
+        "Duels_Success_Rate": "50.0%",
+        "Ariel_Duels_Won": "37.5%",
+        "Interceptions": "9",
+        "Offsides": "0",
+        "Corners_Won": "1"
+      },
+      "away": {
+        "Possession": "62.8%",
+        "Duels_Success_Rate": "50.0%",
+        "Ariel_Duels_Won": "62.5%",
+        "Interceptions": "7",
+        "Offsides": "5",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "363",
+        "Long_Passes": "54",
+        "Passing_Accuracy": "80.7%",
+        "Passing_Accuracy_In_Opponent_Half": "65.4%",
+        "Crosses": "6",
+        "Crossing_Accuracy": "16.7%"
+      },
+      "away": {
+        "Passes": "609",
+        "Long_Passes": "76",
+        "Passing_Accuracy": "88.8%",
+        "Passing_Accuracy_In_Opponent_Half": "79.5%",
+        "Crosses": "16",
+        "Crossing_Accuracy": "25.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "13",
+        "Shots_On_Target": "7",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "53.8%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "14",
+        "Shots_On_Target": "2",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "10",
+        "Shooting_Accuracy": "14.3%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "92.3%",
+        "Clearances": "14"
+      },
+      "away": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "76.9%",
+        "Clearances": "7"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "7",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "11",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Foul by Alejandro Fuenmayor (Phoenix Rising)."
+    },
+    {
+      "time": "1'",
+      "event": "Eric Calvillo (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "3'",
+      "event": "Offside, Phoenix Rising. Manuel Arteaga tries a through ball, but Darnell King is caught offside."
+    },
+    {
+      "time": "4'",
+      "event": "Denys Kostyshyn (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Danny Trejo (Phoenix Rising)."
+    },
+    {
+      "time": "8'",
+      "event": "Attempt blocked. Eddie Munjoma (Phoenix Rising) right footed shot from the left side of the box is blocked. Assisted by Mohamed Traore."
+    },
+    {
+      "time": "8'",
+      "event": "Foul by Eric Calvillo (El Paso Locomotive)."
+    },
+    {
+      "time": "8'",
+      "event": "Alejandro Fuenmayor (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt missed. Josué Gómez (El Paso Locomotive) left footed shot from the centre of the box is close, but misses to the right. Assisted by Petur Knudsen."
+    },
+    {
+      "time": "12'",
+      "event": "Offside, Phoenix Rising. Mohamed Traore tries a through ball, but Manuel Arteaga is caught offside."
+    },
+    {
+      "time": "14'",
+      "event": "Marc Navarro (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Manuel Arteaga (Phoenix Rising)."
+    },
+    {
+      "time": "16'",
+      "event": "Attempt saved. Petur Knudsen (El Paso Locomotive) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Eric Calvillo."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Denys Kostyshyn (El Paso Locomotive)."
+    },
+    {
+      "time": "17'",
+      "event": "José Hernández (Phoenix Rising) wins a free kick on the left wing."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Liam Rose (El Paso Locomotive)."
+    },
+    {
+      "time": "18'",
+      "event": "José Hernández (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Attempt missed. Panos Armenakas (Phoenix Rising) left footed shot from more than 35 yards misses to the right. Assisted by Darnell King."
+    },
+    {
+      "time": "19'",
+      "event": "Offside, Phoenix Rising. Panos Armenakas tries a through ball, but Manuel Arteaga is caught offside."
+    },
+    {
+      "time": "25'",
+      "event": "Hand ball by Eric Calvillo (El Paso Locomotive)."
+    },
+    {
+      "time": "27'",
+      "event": "Attempt saved. Josué Gómez (El Paso Locomotive) left footed shot from a difficult angle on the left is saved in the bottom left corner."
+    },
+    {
+      "time": "28'",
+      "event": "Attempt saved. Eric Calvillo (El Paso Locomotive) right footed shot from the left side of the box is saved in the bottom left corner. Assisted by Erik McCue."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Eric Calvillo (El Paso Locomotive)."
+    },
+    {
+      "time": "29'",
+      "event": "Carlos Harvey (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt missed. Manuel Arteaga (Phoenix Rising) header from the centre of the box is close, but misses to the left. Assisted by Alejandro Fuenmayor with a cross."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt saved. Denys Kostyshyn (El Paso Locomotive) left footed shot from outside the box is saved in the centre of the goal. Assisted by Liam Rose."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt missed. Petar Petrovic (El Paso Locomotive) left footed shot from the left side of the box is close, but misses to the left."
+    },
+    {
+      "time": "32'",
+      "event": "Josué Gómez (El Paso Locomotive) hits the left post with a right footed shot from the centre of the box. Assisted by Petar Petrovic."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt blocked. Eddie Munjoma (Phoenix Rising) right footed shot from the left side of the box is blocked. Assisted by Alejandro Fuenmayor."
+    },
+    {
+      "time": "35'",
+      "event": "Offside, Phoenix Rising. Danny Trejo tries a through ball, but Eddie Munjoma is caught offside."
+    },
+    {
+      "time": "36'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick in the attacking half."
+    },
+    {
+      "time": "36'",
+      "event": "Foul by Panos Armenakas (Phoenix Rising)."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt missed. Petar Petrovic (El Paso Locomotive) right footed shot from outside the box misses to the left from a direct free kick."
+    },
+    {
+      "time": "40'",
+      "event": "Foul by Denys Kostyshyn (El Paso Locomotive)."
+    },
+    {
+      "time": "40'",
+      "event": "Mohamed Traore (Phoenix Rising) wins a free kick on the left wing."
+    },
+    {
+      "time": "40'",
+      "event": "Denys Kostyshyn (El Paso Locomotive) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "41'",
+      "event": "Denys Kostyshyn (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Panos Armenakas (Phoenix Rising)."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt blocked. Petar Petrovic (El Paso Locomotive) right footed shot from the left side of the box is blocked. Assisted by Eric Calvillo."
+    },
+    {
+      "time": "44'",
+      "event": "Attempt missed. Darnell King (Phoenix Rising) left footed shot from the right side of the box misses to the right. Assisted by John Stenberg."
+    },
+    {
+      "time": "45+1'",
+      "event": "Corner,  El Paso Locomotive. Conceded by Mohamed Traore."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, El Paso Locomotive 0, Phoenix Rising 0."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Phoenix Rising. Daniël Krutzen replaces Alejandro Fuenmayor."
+    },
+    {
+      "time": "47'",
+      "event": "Petar Petrovic (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Darnell King (Phoenix Rising)."
+    },
+    {
+      "time": "48'",
+      "event": "Attempt missed. Marc Navarro (El Paso Locomotive) right footed shot from outside the box is high and wide to the right. Assisted by Petar Petrovic."
+    },
+    {
+      "time": "50'",
+      "event": "Delay in match  because of an injury Denys Kostyshyn (El Paso Locomotive)."
+    },
+    {
+      "time": "51'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "52'",
+      "event": "Attempt saved. Josué Gómez (El Paso Locomotive) left footed shot from the left side of the box is saved in the bottom left corner. Assisted by Erik McCue."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt saved. Manuel Arteaga (Phoenix Rising) right footed shot from the right side of the box is saved in the top centre of the goal. Assisted by Panos Armenakas."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt missed. Panos Armenakas (Phoenix Rising) right footed shot from outside the box is too high. Assisted by Manuel Arteaga."
+    },
+    {
+      "time": "56'",
+      "event": "Goal!  El Paso Locomotive 1, Phoenix Rising 0. Josué Gómez (El Paso Locomotive) right footed shot from very close range to the centre of the goal. Assisted by Petar Petrovic."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt missed. Daniël Krutzen (Phoenix Rising) left footed shot from outside the box misses to the right. Assisted by Panos Armenakas."
+    },
+    {
+      "time": "59'",
+      "event": "Delay in match  because of an injury Mohamed Traore (Phoenix Rising)."
+    },
+    {
+      "time": "60'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "61'",
+      "event": "Offside, Phoenix Rising. Carlos Harvey tries a through ball, but Eddie Munjoma is caught offside."
+    },
+    {
+      "time": "64'",
+      "event": "Corner,  Phoenix Rising. Conceded by Marc Navarro."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt missed. Carlos Harvey (Phoenix Rising) header from the centre of the box is close, but misses to the right. Assisted by Panos Armenakas with a cross following a corner."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Phoenix Rising. Erickson Gallardo replaces Darnell King."
+    },
+    {
+      "time": "65'",
+      "event": "Substitution, Phoenix Rising. Dariusz Formella replaces Eddie Munjoma."
+    },
+    {
+      "time": "66'",
+      "event": "Attempt blocked. Danny Trejo (Phoenix Rising) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, El Paso Locomotive. Louis Herrera replaces Denys Kostyshyn."
+    },
+    {
+      "time": "66'",
+      "event": "Substitution, El Paso Locomotive. Emmanuel Sonupe replaces Petur Knudsen."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt blocked. Manuel Arteaga (Phoenix Rising) right footed shot from outside the box is blocked. Assisted by Carlos Harvey."
+    },
+    {
+      "time": "68'",
+      "event": "Emmanuel Sonupe (El Paso Locomotive) wins a free kick in the attacking half."
+    },
+    {
+      "time": "68'",
+      "event": "Foul by Mohamed Traore (Phoenix Rising)."
+    },
+    {
+      "time": "69'",
+      "event": "Mohamed Traore (Phoenix Rising) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt saved. Petar Petrovic (El Paso Locomotive) right footed shot from outside the box is saved in the centre of the goal."
+    },
+    {
+      "time": "72'",
+      "event": "Petar Petrovic (El Paso Locomotive) wins a free kick on the left wing."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Daniël Krutzen (Phoenix Rising)."
+    },
+    {
+      "time": "73'",
+      "event": "Foul by Erik McCue (El Paso Locomotive)."
+    },
+    {
+      "time": "73'",
+      "event": "Erickson Gallardo (Phoenix Rising) wins a free kick in the defensive half."
+    },
+    {
+      "time": "73'",
+      "event": "Erik McCue (El Paso Locomotive) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "74'",
+      "event": "Louis Herrera (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Danny Trejo (Phoenix Rising)."
+    },
+    {
+      "time": "75'",
+      "event": "Attempt missed. Manuel Arteaga (Phoenix Rising) right footed shot from the right side of the box is close, but misses to the right. Assisted by Panos Armenakas."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, Phoenix Rising. Emil Cuello replaces Manuel Arteaga."
+    },
+    {
+      "time": "76'",
+      "event": "Corner,  Phoenix Rising. Conceded by Petar Petrovic."
+    },
+    {
+      "time": "77'",
+      "event": "Attempt missed. Emil Cuello (Phoenix Rising) header from very close range is close, but misses to the left. Assisted by José Hernández with a cross following a corner."
+    },
+    {
+      "time": "78'",
+      "event": "Josué Gómez (El Paso Locomotive) wins a free kick on the left wing."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Daniël Krutzen (Phoenix Rising)."
+    },
+    {
+      "time": "80'",
+      "event": "Josué Gómez (El Paso Locomotive) is shown the yellow card."
+    },
+    {
+      "time": "80'",
+      "event": "Substitution, El Paso Locomotive. Nick Hinds replaces Petar Petrovic."
+    },
+    {
+      "time": "80'",
+      "event": "Substitution, El Paso Locomotive. Ricardo Zacarías replaces Josué Gómez."
+    },
+    {
+      "time": "87'",
+      "event": "Nick Hinds (El Paso Locomotive) wins a free kick in the defensive half."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Erickson Gallardo (Phoenix Rising)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Goal!  El Paso Locomotive 1, Phoenix Rising 1. Dariusz Formella (Phoenix Rising) right footed shot from the centre of the box to the bottom right corner. Assisted by Carlos Harvey."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, El Paso Locomotive 1, Phoenix Rising 1."
+    }
+  ]
+}

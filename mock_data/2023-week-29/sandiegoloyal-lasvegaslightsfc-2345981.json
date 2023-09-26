@@ -1,0 +1,810 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "San Diego Loyal",
+      "formation": "3-5-2",
+      "score": "1",
+      "lineup": {
+        "managerName": "Miller",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Koke Vegas",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Guzmán",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Stoneman",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Riley",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Pérez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "27"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Bodily",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Tumi Moshobane",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Adams",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Guido",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "62"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Conway",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Damus",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Bailey",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "60",
+            "playerName": "Ferree",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Chilaka",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Corona",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "50",
+            "playerName": "Gnaulati",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Hackworth",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Moon",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Las Vegas Lights FC",
+      "formation": "3-4-3",
+      "score": "1",
+      "lineup": {
+        "managerName": "Sánchez 52‎'‎",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Díaz",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "98",
+            "playerName": "Zali",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Carroll",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Lage",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Stauffer",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Mitrano",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Jimenez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "39"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Bushue",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Bagley",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "903"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Rios",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "16"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Gonzalez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Zuluaga-Silva",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Attard",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Ayimbila",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Oteng",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Romero",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Soares",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Dolling",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "903"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 24, 2023 4:00 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "65.7%",
+        "Duels_Success_Rate": "47.8%",
+        "Ariel_Duels_Won": "75.0%",
+        "Interceptions": "10",
+        "Offsides": "2",
+        "Corners_Won": "9"
+      },
+      "away": {
+        "Possession": "34.3%",
+        "Duels_Success_Rate": "52.2%",
+        "Ariel_Duels_Won": "25.0%",
+        "Interceptions": "11",
+        "Offsides": "1",
+        "Corners_Won": "1"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "516",
+        "Long_Passes": "49",
+        "Passing_Accuracy": "86.2%",
+        "Passing_Accuracy_In_Opponent_Half": "74.5%",
+        "Crosses": "27",
+        "Crossing_Accuracy": "22.2%"
+      },
+      "away": {
+        "Passes": "277",
+        "Long_Passes": "66",
+        "Passing_Accuracy": "74.0%",
+        "Passing_Accuracy_In_Opponent_Half": "64.5%",
+        "Crosses": "6",
+        "Crossing_Accuracy": "33.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "17",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "11",
+        "Shooting_Accuracy": "23.5%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "8",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "2",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "75.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "11",
+        "Tackle_Success_Rate": "72.7%",
+        "Clearances": "1"
+      },
+      "away": {
+        "Tackles": "29",
+        "Tackle_Success_Rate": "79.3%",
+        "Clearances": "34"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "9",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "16",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "3'",
+      "event": "Alejandro Guido (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "3'",
+      "event": "Foul by Daniel Ríos (Las Vegas Lights FC)."
+    },
+    {
+      "time": "4'",
+      "event": "Attempt blocked. Charlie Adams (San Diego Loyal) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "4'",
+      "event": "Attempt missed. Ronaldo Damus (San Diego Loyal) right footed shot from the centre of the box misses to the left following a set piece situation."
+    },
+    {
+      "time": "5'",
+      "event": "Attempt saved. Grant Stoneman (San Diego Loyal) right footed shot from the centre of the box is saved in the top centre of the goal."
+    },
+    {
+      "time": "5'",
+      "event": "Corner,  San Diego Loyal. Conceded by Leo Díaz."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Daniel Ríos (Las Vegas Lights FC)."
+    },
+    {
+      "time": "6'",
+      "event": "Alejandro Guido (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "10'",
+      "event": "Offside, San Diego Loyal. Blake Bodily tries a through ball, but Ronaldo Damus is caught offside."
+    },
+    {
+      "time": "11'",
+      "event": "Attempt missed. Charlie Adams (San Diego Loyal) left footed shot from outside the box is close, but misses the top right corner. Assisted by Ronaldo Damus."
+    },
+    {
+      "time": "13'",
+      "event": "Timothie Zali (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Ronaldo Damus (San Diego Loyal)."
+    },
+    {
+      "time": "14'",
+      "event": "Attempt saved. Ronaldo Damus (San Diego Loyal) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Camden Riley."
+    },
+    {
+      "time": "16'",
+      "event": "Hand ball by Tyler Bagley (Las Vegas Lights FC)."
+    },
+    {
+      "time": "16'",
+      "event": "Attempt saved. Tyler Bagley (Las Vegas Lights FC) left footed shot from the left side of the box is saved in the bottom left corner. Assisted by Azriel González."
+    },
+    {
+      "time": "16'",
+      "event": "Goal!  San Diego Loyal 0, Las Vegas Lights FC 1. Daniel Ríos (Las Vegas Lights FC) left footed shot from very close range to the bottom right corner."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Jacob Bushue (Las Vegas Lights FC)."
+    },
+    {
+      "time": "18'",
+      "event": "Alejandro Guido (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt missed. Ronaldo Damus (San Diego Loyal) header from the centre of the box is too high. Assisted by Blake Bodily with a cross."
+    },
+    {
+      "time": "22'",
+      "event": "Hand ball by Lucas Stauffer (Las Vegas Lights FC)."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt missed. Azriel González (Las Vegas Lights FC) left footed shot from the left side of the box is close, but misses to the left. Assisted by Lucas Stauffer following a fast break."
+    },
+    {
+      "time": "27'",
+      "event": "Corner,  San Diego Loyal. Conceded by Leo Díaz."
+    },
+    {
+      "time": "27'",
+      "event": "Goal!  San Diego Loyal 1, Las Vegas Lights FC 1. Adrien Perez (San Diego Loyal) header from very close range to the top right corner. Assisted by Charlie Adams with a cross   following a corner."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Andrés Jiménez (Las Vegas Lights FC)."
+    },
+    {
+      "time": "33'",
+      "event": "Camden Riley (San Diego Loyal) wins a free kick on the right wing."
+    },
+    {
+      "time": "33'",
+      "event": "Delay in match  because of an injury Andrés Jiménez (Las Vegas Lights FC)."
+    },
+    {
+      "time": "34'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "34'",
+      "event": "Attempt saved. Tyler Bagley (Las Vegas Lights FC) right footed shot from outside the box is saved in the bottom left corner. Assisted by Andrés Jiménez."
+    },
+    {
+      "time": "36'",
+      "event": "Alejandro Mitrano (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "36'",
+      "event": "Foul by Tumi Moshobane (San Diego Loyal)."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Andrés Jiménez (Las Vegas Lights FC)."
+    },
+    {
+      "time": "39'",
+      "event": "Charlie Adams (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "39'",
+      "event": "Andrés Jiménez (Las Vegas Lights FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "41'",
+      "event": "Attempt blocked. Alejandro Guido (San Diego Loyal) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "41'",
+      "event": "Delay in match  because of an injury Jacob Bushue (Las Vegas Lights FC)."
+    },
+    {
+      "time": "42'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "43'",
+      "event": "Offside, Las Vegas Lights FC. Azriel González tries a through ball, but Tyler Bagley is caught offside."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt saved. Ronaldo Damus (San Diego Loyal) left footed shot from the left side of the box is saved in the centre of the goal. Assisted by Alejandro Guido."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt missed. Evan Conway (San Diego Loyal) right footed shot from the centre of the box is close, but misses to the right."
+    },
+    {
+      "time": "45+2'",
+      "event": "Attempt missed. Tumi Moshobane (San Diego Loyal) left footed shot from outside the box is just a bit too high. Assisted by Adrien Perez."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, San Diego Loyal 1, Las Vegas Lights FC 1."
+    },
+    {
+      "time": "47'",
+      "event": "Hand ball by Evan Conway (San Diego Loyal)."
+    },
+    {
+      "time": "48'",
+      "event": "Foul by Timothie Zali (Las Vegas Lights FC)."
+    },
+    {
+      "time": "48'",
+      "event": "Tumi Moshobane (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "50'",
+      "event": "Corner,  San Diego Loyal. Conceded by Marcelo Lage."
+    },
+    {
+      "time": "53'",
+      "event": "Corner,  San Diego Loyal. Conceded by Timothie Zali."
+    },
+    {
+      "time": "54'",
+      "event": "Corner,  San Diego Loyal. Conceded by Zach Carroll."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt missed. Evan Conway (San Diego Loyal) left footed shot from the centre of the box is close, but misses to the left. Assisted by Tumi Moshobane following a corner."
+    },
+    {
+      "time": "56'",
+      "event": "Andrés Jiménez (Las Vegas Lights FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Alejandro Guido (San Diego Loyal)."
+    },
+    {
+      "time": "57'",
+      "event": "Foul by Daniel Ríos (Las Vegas Lights FC)."
+    },
+    {
+      "time": "57'",
+      "event": "Blake Bodily (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "57'",
+      "event": "Attempt missed. Charlie Adams (San Diego Loyal) left footed shot from outside the box is close, but misses to the right. Assisted by Tumi Moshobane."
+    },
+    {
+      "time": "59'",
+      "event": "Attempt saved. Azriel González (Las Vegas Lights FC) header from the centre of the box is saved in the bottom left corner. Assisted by Daniel Ríos with a cross."
+    },
+    {
+      "time": "62'",
+      "event": "Alejandro Mitrano (Las Vegas Lights FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Alejandro Guido (San Diego Loyal)."
+    },
+    {
+      "time": "62'",
+      "event": "Alejandro Guido (San Diego Loyal) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt blocked. Azriel González (Las Vegas Lights FC) right footed shot from the left side of the box is blocked. Assisted by Tyler Bagley."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Timothie Zali (Las Vegas Lights FC)."
+    },
+    {
+      "time": "63'",
+      "event": "Ronaldo Damus (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "69'",
+      "event": "Corner,  San Diego Loyal. Conceded by Daniel Ríos."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Daniel Ríos (Las Vegas Lights FC)."
+    },
+    {
+      "time": "70'",
+      "event": "Alejandro Guido (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Las Vegas Lights FC. Alexander Romero replaces Daniel Ríos."
+    },
+    {
+      "time": "71'",
+      "event": "Substitution, Las Vegas Lights FC. Eric Oteng replaces Azriel González."
+    },
+    {
+      "time": "71'",
+      "event": "Substitution, San Diego Loyal. Joe Corona replaces Tumi Moshobane."
+    },
+    {
+      "time": "71'",
+      "event": "Substitution, San Diego Loyal. Morgan Hackworth replaces Evan Conway."
+    },
+    {
+      "time": "71'",
+      "event": "Substitution, San Diego Loyal. Xavi Gnaulati replaces Alejandro Guido."
+    },
+    {
+      "time": "73'",
+      "event": "Corner,  San Diego Loyal. Conceded by Timothie Zali."
+    },
+    {
+      "time": "73'",
+      "event": "Attempt blocked. Morgan Hackworth (San Diego Loyal) right footed shot from the right side of the box is blocked. Assisted by Camden Riley."
+    },
+    {
+      "time": "74'",
+      "event": "Corner,  San Diego Loyal. Conceded by Marcelo Lage."
+    },
+    {
+      "time": "77'",
+      "event": "Andrés Jiménez (Las Vegas Lights FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "77'",
+      "event": "Foul by Carlos Guzmán (San Diego Loyal)."
+    },
+    {
+      "time": "79'",
+      "event": "Foul by Alexander Romero (Las Vegas Lights FC)."
+    },
+    {
+      "time": "79'",
+      "event": "Joe Corona (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "79'",
+      "event": "Corner,  San Diego Loyal. Conceded by Zach Carroll."
+    },
+    {
+      "time": "80'",
+      "event": "Attempt missed. Ronaldo Damus (San Diego Loyal) header from the centre of the box is just a bit too high. Assisted by Joe Corona with a cross following a corner."
+    },
+    {
+      "time": "81'",
+      "event": "Offside, San Diego Loyal. Grant Stoneman tries a through ball, but Ronaldo Damus is caught offside."
+    },
+    {
+      "time": "83'",
+      "event": "Eric Oteng (Las Vegas Lights FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "83'",
+      "event": "Foul by Camden Riley (San Diego Loyal)."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Marcelo Lage (Las Vegas Lights FC)."
+    },
+    {
+      "time": "84'",
+      "event": "Xavi Gnaulati (San Diego Loyal) wins a free kick on the left wing."
+    },
+    {
+      "time": "85'",
+      "event": "Attempt missed. Ronaldo Damus (San Diego Loyal) header from the centre of the box is close, but misses the top right corner. Assisted by Joe Corona with a cross following a set piece situation."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt saved. Timothie Zali (Las Vegas Lights FC) header from the centre of the box is saved in the top centre of the goal. Assisted by Tyler Bagley with a cross."
+    },
+    {
+      "time": "88'",
+      "event": "Tyler Bagley (Las Vegas Lights FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Carlos Guzmán (San Diego Loyal)."
+    },
+    {
+      "time": "89'",
+      "event": "Alexander Romero (Las Vegas Lights FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Carlos Guzmán (San Diego Loyal)."
+    },
+    {
+      "time": "89'",
+      "event": "Carlos Guzmán (San Diego Loyal) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+1'",
+      "event": "Attempt saved. Tyler Bagley (Las Vegas Lights FC) right footed shot from outside the box is saved in the centre of the goal."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Andrés Jiménez (Las Vegas Lights FC)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Blake Bodily (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+1'",
+      "event": "Corner,  Las Vegas Lights FC. Conceded by Camden Riley."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Eric Oteng (Las Vegas Lights FC)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Ronaldo Damus (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Jacob Bushue (Las Vegas Lights FC)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Charlie Adams (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Substitution, Las Vegas Lights FC. Josh Dolling replaces Tyler Bagley."
+    },
+    {
+      "time": "90+4'",
+      "event": "Attempt missed. Charlie Adams (San Diego Loyal) left footed shot from outside the box is too high. Assisted by Joe Corona."
+    },
+    {
+      "time": "90+4'",
+      "event": "Second Half ends, San Diego Loyal 1, Las Vegas Lights FC 1."
+    }
+  ]
+}

@@ -1,0 +1,980 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Indy Eleven",
+      "formation": "4-1-4-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Lowry",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Trilk",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "25",
+            "playerName": "Rebellón",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Boudadi",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Jerome",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Diz Pe",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Lindley",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Asante",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Blake",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "12"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Guenzatti",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Robledo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "55"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Stéfano Pinho",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "46",
+            "playerName": "Crawford",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Dambrot",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "46"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Reveno",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Vázquez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Velasquez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "42",
+            "playerName": "Martínez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Molina",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Rio Grande Valley FC",
+      "formation": "4-2-3-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Cabrera",
+        "players": [
+          {
+            "shirtNumber": "21",
+            "playerName": "Merancio Valdez",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Ricketts",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "22"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Coronado",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "904"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Nodarse",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Benítez",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "18"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Knapp",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "8"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Pinzon",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "904"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Cabezas",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Davila",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Monis",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Frank López",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "18"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "453"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Kinzner",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "904"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Pimentel",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "904"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Ritondale",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Cerro",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "François",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Galindrez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 24, 2023 3:00 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "57.3%",
+        "Duels_Success_Rate": "57.3%",
+        "Ariel_Duels_Won": "61.1%",
+        "Interceptions": "12",
+        "Offsides": "6",
+        "Corners_Won": "4"
+      },
+      "away": {
+        "Possession": "42.7%",
+        "Duels_Success_Rate": "42.7%",
+        "Ariel_Duels_Won": "38.9%",
+        "Interceptions": "13",
+        "Offsides": "3",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "554",
+        "Long_Passes": "46",
+        "Passing_Accuracy": "85.6%",
+        "Passing_Accuracy_In_Opponent_Half": "73.7%",
+        "Crosses": "12",
+        "Crossing_Accuracy": "58.3%"
+      },
+      "away": {
+        "Passes": "412",
+        "Long_Passes": "63",
+        "Passing_Accuracy": "79.1%",
+        "Passing_Accuracy_In_Opponent_Half": "68.6%",
+        "Crosses": "10",
+        "Crossing_Accuracy": "0.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "11",
+        "Shots_On_Target": "2",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "8",
+        "Shooting_Accuracy": "18.2%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "4",
+        "Shots_On_Target": "2",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "1",
+        "Shots_Inside_Box": "3",
+        "Shooting_Accuracy": "50.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "21",
+        "Tackle_Success_Rate": "66.7%",
+        "Clearances": "12"
+      },
+      "away": {
+        "Tackles": "15",
+        "Tackle_Success_Rate": "80.0%",
+        "Clearances": "22"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "18",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "22",
+        "Yellow_Cards": "4",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "2'",
+      "event": "Foul by Jonathan Ricketts (Rio Grande Valley)."
+    },
+    {
+      "time": "2'",
+      "event": "Harrison Robledo (Indy Eleven) wins a free kick on the left wing."
+    },
+    {
+      "time": "3'",
+      "event": "Offside, Indy Eleven. Adrián Diz tries a through ball, but Solomon Asante is caught offside."
+    },
+    {
+      "time": "4'",
+      "event": "Robert Coronado (Rio Grande Valley) wins a free kick in the attacking half."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "5'",
+      "event": "Corner,  Rio Grande Valley. Conceded by Harrison Robledo."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Robert Coronado (Rio Grande Valley)."
+    },
+    {
+      "time": "6'",
+      "event": "Bryam Rebellón (Indy Eleven) wins a free kick on the right wing."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Frank López (Rio Grande Valley)."
+    },
+    {
+      "time": "6'",
+      "event": "Adrián Diz (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "7'",
+      "event": "Christian Pinzón (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Bryam Rebellón (Indy Eleven)."
+    },
+    {
+      "time": "8'",
+      "event": "Foul by Michael Knapp (Rio Grande Valley)."
+    },
+    {
+      "time": "8'",
+      "event": "Jack Blake (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "8'",
+      "event": "Michael Knapp (Rio Grande Valley) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Jonathan Ricketts (Rio Grande Valley)."
+    },
+    {
+      "time": "9'",
+      "event": "Harrison Robledo (Indy Eleven) wins a free kick on the left wing."
+    },
+    {
+      "time": "10'",
+      "event": "Offside, Indy Eleven. Adrián Diz tries a through ball, but Sebastián Guenzatti is caught offside."
+    },
+    {
+      "time": "11'",
+      "event": "Attempt blocked. Robert Coronado (Rio Grande Valley) left footed shot from the centre of the box is blocked. Assisted by Frank López."
+    },
+    {
+      "time": "11'",
+      "event": "Delay in match  because of an injury Mechack Jérôme (Indy Eleven)."
+    },
+    {
+      "time": "11'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "12'",
+      "event": "Robert Coronado (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "12'",
+      "event": "Jack Blake (Indy Eleven) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "13'",
+      "event": "Jonathan Ricketts (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Harrison Robledo (Indy Eleven)."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Michael Knapp (Rio Grande Valley)."
+    },
+    {
+      "time": "16'",
+      "event": "Sebastián Guenzatti (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Christian Pinzón (Rio Grande Valley)."
+    },
+    {
+      "time": "17'",
+      "event": "Bryam Rebellón (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Gabriel Benítez (Rio Grande Valley)."
+    },
+    {
+      "time": "18'",
+      "event": "Solomon Asante (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "18'",
+      "event": "Gabriel Benítez (Rio Grande Valley) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "18'",
+      "event": "Goal!  Indy Eleven 0, Rio Grande Valley 1. Frank López (Rio Grande Valley) right footed shot from the centre of the box to the bottom right corner. Assisted by Taylor Davila with a through ball."
+    },
+    {
+      "time": "21'",
+      "event": "Offside, Indy Eleven. Jack Blake tries a through ball, but Stéfano Pinho is caught offside."
+    },
+    {
+      "time": "22'",
+      "event": "Foul by Jonathan Ricketts (Rio Grande Valley)."
+    },
+    {
+      "time": "22'",
+      "event": "Harrison Robledo (Indy Eleven) wins a free kick on the left wing."
+    },
+    {
+      "time": "22'",
+      "event": "Jonathan Ricketts (Rio Grande Valley) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "23'",
+      "event": "Corner,  Indy Eleven. Conceded by Michael Knapp."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt missed. Stéfano Pinho (Indy Eleven) header from the centre of the box misses to the right. Assisted by Cam Lindley with a cross following a corner."
+    },
+    {
+      "time": "27'",
+      "event": "Offside, Indy Eleven. Stéfano Pinho tries a through ball, but Sebastián Guenzatti is caught offside."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Frank López (Rio Grande Valley)."
+    },
+    {
+      "time": "28'",
+      "event": "Mechack Jérôme (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "28'",
+      "event": "Michael Knapp (Rio Grande Valley) wins a free kick in the attacking half."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Harrison Robledo (Indy Eleven)."
+    },
+    {
+      "time": "29'",
+      "event": "Robert Coronado (Rio Grande Valley) wins a free kick on the right wing."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Younes Boudadi (Indy Eleven)."
+    },
+    {
+      "time": "32'",
+      "event": "Foul by Christian Pinzón (Rio Grande Valley)."
+    },
+    {
+      "time": "32'",
+      "event": "Cam Lindley (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt missed. Younes Boudadi (Indy Eleven) right footed shot from outside the box is high and wide to the right."
+    },
+    {
+      "time": "33'",
+      "event": "Frank López (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Adrián Diz (Indy Eleven)."
+    },
+    {
+      "time": "34'",
+      "event": "Foul by Robert Coronado (Rio Grande Valley)."
+    },
+    {
+      "time": "34'",
+      "event": "Jack Blake (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "35'",
+      "event": "Hand ball by Jack Blake (Indy Eleven)."
+    },
+    {
+      "time": "36'",
+      "event": "Hand ball by Frank López (Rio Grande Valley)."
+    },
+    {
+      "time": "36'",
+      "event": "Foul by Frank Nodarse (Rio Grande Valley)."
+    },
+    {
+      "time": "36'",
+      "event": "Stéfano Pinho (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "37'",
+      "event": "Delay in match  because of an injury Frank López (Rio Grande Valley)."
+    },
+    {
+      "time": "38'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "39'",
+      "event": "Offside, Rio Grande Valley. Christian Pinzón tries a through ball, but Frank López is caught offside."
+    },
+    {
+      "time": "39'",
+      "event": "Jonathan Ricketts (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Younes Boudadi (Indy Eleven)."
+    },
+    {
+      "time": "41'",
+      "event": "Alex Monis (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Harrison Robledo (Indy Eleven)."
+    },
+    {
+      "time": "42'",
+      "event": "Frank López (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "42'",
+      "event": "Foul by Adrián Diz (Indy Eleven)."
+    },
+    {
+      "time": "44'",
+      "event": "Frank López (Rio Grande Valley) wins a free kick on the right wing."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by Adrián Diz (Indy Eleven)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Frank López (Rio Grande Valley) wins a free kick on the left wing."
+    },
+    {
+      "time": "45+1'",
+      "event": "Foul by Bryam Rebellón (Indy Eleven)."
+    },
+    {
+      "time": "45+3'",
+      "event": "Attempt saved. Bryam Rebellón (Indy Eleven) header from the right side of the box is saved in the bottom right corner. Assisted by Cam Lindley with a cross."
+    },
+    {
+      "time": "45+3'",
+      "event": "Foul by Frank López (Rio Grande Valley)."
+    },
+    {
+      "time": "45+3'",
+      "event": "Bryam Rebellón (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+3'",
+      "event": "Frank López (Rio Grande Valley) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "45+4'",
+      "event": "First Half ends, Indy Eleven 0, Rio Grande Valley 1."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Indy Eleven. Robby Dambrot replaces Bryam Rebellón."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Indy Eleven. Douglas Martínez replaces Stéfano Pinho."
+    },
+    {
+      "time": "46'",
+      "event": "Frank López (Rio Grande Valley) wins a free kick on the right wing."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Robby Dambrot (Indy Eleven)."
+    },
+    {
+      "time": "46'",
+      "event": "Robby Dambrot (Indy Eleven) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Taylor Davila (Rio Grande Valley)."
+    },
+    {
+      "time": "47'",
+      "event": "Sebastián Guenzatti (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "49'",
+      "event": "Offside, Indy Eleven. Harrison Robledo tries a through ball, but Robby Dambrot is caught offside."
+    },
+    {
+      "time": "52'",
+      "event": "Offside, Indy Eleven. Younes Boudadi tries a through ball, but Sebastián Guenzatti is caught offside."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt saved. Robert Coronado (Rio Grande Valley) left footed shot from very close range is saved in the centre of the goal. Assisted by Christian Pinzón."
+    },
+    {
+      "time": "54'",
+      "event": "Corner,  Rio Grande Valley. Conceded by Robby Dambrot."
+    },
+    {
+      "time": "54'",
+      "event": "Corner,  Rio Grande Valley. Conceded by Younes Boudadi."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Gabriel Benítez (Rio Grande Valley)."
+    },
+    {
+      "time": "55'",
+      "event": "Douglas Martínez (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Jonathan Ricketts (Rio Grande Valley) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Harrison Robledo (Indy Eleven)."
+    },
+    {
+      "time": "55'",
+      "event": "Harrison Robledo (Indy Eleven) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "56'",
+      "event": "Attempt blocked. Sebastián Guenzatti (Indy Eleven) right footed shot from the centre of the box is blocked. Assisted by Younes Boudadi."
+    },
+    {
+      "time": "58'",
+      "event": "Offside, Rio Grande Valley. Jonathan Ricketts tries a through ball, but Frank López is caught offside."
+    },
+    {
+      "time": "59'",
+      "event": "Attempt missed. Harrison Robledo (Indy Eleven) right footed shot from outside the box is high and wide to the right. Assisted by Cam Lindley."
+    },
+    {
+      "time": "61'",
+      "event": "Corner,  Indy Eleven. Conceded by Carlos Merancio."
+    },
+    {
+      "time": "62'",
+      "event": "Attempt missed. Adrián Diz (Indy Eleven) header from the left side of the six yard box is too high. Assisted by Cam Lindley with a cross following a corner."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, Indy Eleven. Sebastián Velásquez replaces Harrison Robledo."
+    },
+    {
+      "time": "65'",
+      "event": "Attempt missed. Robby Dambrot (Indy Eleven) left footed shot from the left side of the box misses to the right. Assisted by Sebastián Velásquez."
+    },
+    {
+      "time": "66'",
+      "event": "Delay in match  because of an injury Frank López (Rio Grande Valley)."
+    },
+    {
+      "time": "67'",
+      "event": "Substitution, Rio Grande Valley. Christiano François replaces Frank López because of an injury."
+    },
+    {
+      "time": "67'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "69'",
+      "event": "Attempt missed. Solomon Asante (Indy Eleven) right footed shot from outside the box is high and wide to the left. Assisted by Jack Blake."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Christian Pinzón (Rio Grande Valley)."
+    },
+    {
+      "time": "72'",
+      "event": "Adrián Diz (Indy Eleven) wins a free kick in the attacking half."
+    },
+    {
+      "time": "73'",
+      "event": "Attempt missed. Robby Dambrot (Indy Eleven) left footed shot from the left side of the box misses to the right. Assisted by Solomon Asante with a cross."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Christiano François (Rio Grande Valley)."
+    },
+    {
+      "time": "75'",
+      "event": "Jack Blake (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, Indy Eleven. Roberto Molina replaces Jack Blake."
+    },
+    {
+      "time": "76'",
+      "event": "Substitution, Rio Grande Valley. Ian Cerro replaces Alex Monis."
+    },
+    {
+      "time": "78'",
+      "event": "Jonathan Ricketts (Rio Grande Valley) wins a free kick on the right wing."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Roberto Molina (Indy Eleven)."
+    },
+    {
+      "time": "80'",
+      "event": "Attempt missed. Robert Coronado (Rio Grande Valley) right footed shot from outside the box is close, but misses to the right. Assisted by Christiano François."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Juan Cabezas (Rio Grande Valley)."
+    },
+    {
+      "time": "80'",
+      "event": "Sebastián Guenzatti (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "81'",
+      "event": "Foul by Gabriel Benítez (Rio Grande Valley)."
+    },
+    {
+      "time": "81'",
+      "event": "Younes Boudadi (Indy Eleven) wins a free kick in the defensive half."
+    },
+    {
+      "time": "81'",
+      "event": "Attempt blocked. Roberto Molina (Indy Eleven) left footed shot from the left side of the box is blocked. Assisted by Sebastián Velásquez."
+    },
+    {
+      "time": "83'",
+      "event": "Corner,  Rio Grande Valley. Conceded by Mechack Jérôme."
+    },
+    {
+      "time": "84'",
+      "event": "Offside, Rio Grande Valley. Robert Coronado tries a through ball, but Ian Cerro is caught offside."
+    },
+    {
+      "time": "85'",
+      "event": "Ian Cerro (Rio Grande Valley) wins a free kick on the right wing."
+    },
+    {
+      "time": "85'",
+      "event": "Foul by Roberto Molina (Indy Eleven)."
+    },
+    {
+      "time": "88'",
+      "event": "Hand ball by Sebastián Guenzatti (Indy Eleven)."
+    },
+    {
+      "time": "89'",
+      "event": "Corner,  Indy Eleven. Conceded by Jonathan Ricketts."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Frank Nodarse (Rio Grande Valley)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Sebastián Velásquez (Indy Eleven) wins a free kick on the right wing."
+    },
+    {
+      "time": "90+3'",
+      "event": "Delay in match  because of an injury Gabriel Benítez (Rio Grande Valley)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+4'",
+      "event": "Substitution, Rio Grande Valley. Eric Kinzner replaces Robert Coronado."
+    },
+    {
+      "time": "90+4'",
+      "event": "Substitution, Rio Grande Valley. Érik Pimentel replaces Christian Pinzón."
+    },
+    {
+      "time": "90+5'",
+      "event": "Corner,  Indy Eleven. Conceded by Michael Knapp."
+    },
+    {
+      "time": "90+6'",
+      "event": "Attempt saved. Adrián Diz (Indy Eleven) header from the centre of the box is saved in the bottom left corner. Assisted by Cam Lindley with a cross."
+    },
+    {
+      "time": "90+6'",
+      "event": "Delay in match  because of an injury Frank Nodarse (Rio Grande Valley)."
+    },
+    {
+      "time": "90+6'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+8'",
+      "event": "Second Half ends, Indy Eleven 0, Rio Grande Valley 1."
+    }
+  ]
+}

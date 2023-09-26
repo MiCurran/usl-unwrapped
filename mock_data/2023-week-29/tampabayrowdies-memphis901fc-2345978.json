@@ -1,0 +1,890 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Tampa Bay Rowdies",
+      "formation": "4-3-3",
+      "score": "2",
+      "lineup": {
+        "managerName": "Law",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Sparrow",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "20"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Doherty",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "98",
+            "playerName": "Josh Pérez",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Kleemann",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Antley",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Hilton",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Harris",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "28"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Ekra",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Jennings",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "17"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "32"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Dennis",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "J.J. Williams",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "42"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Breno",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Dalgaard",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "LaCava",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "28"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Martínez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Lucky Mkosana",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Memphis 901 FC",
+      "formation": "4-3-3",
+      "score": "4",
+      "lineup": {
+        "managerName": "Glass",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Romig",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "37",
+            "playerName": "McFadden",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Ward",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Smith",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "5"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Peters",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Lucas Turci",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Molloy",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "76"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Paul",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Rodrigo da Costa",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "24"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "35"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "80"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Luiz Fernando",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Kelly",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Seeger",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Careaga",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "67"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Kissiedou",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Bruno Lapa",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Borczak",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Dally",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Pickering",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 23, 2023 5:30 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "52.4%",
+        "Duels_Success_Rate": "56.8%",
+        "Ariel_Duels_Won": "63.2%",
+        "Interceptions": "2",
+        "Offsides": "4",
+        "Corners_Won": "6"
+      },
+      "away": {
+        "Possession": "47.6%",
+        "Duels_Success_Rate": "43.2%",
+        "Ariel_Duels_Won": "36.8%",
+        "Interceptions": "7",
+        "Offsides": "2",
+        "Corners_Won": "1"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "385",
+        "Long_Passes": "55",
+        "Passing_Accuracy": "81.6%",
+        "Passing_Accuracy_In_Opponent_Half": "64.6%",
+        "Crosses": "13",
+        "Crossing_Accuracy": "23.1%"
+      },
+      "away": {
+        "Passes": "359",
+        "Long_Passes": "66",
+        "Passing_Accuracy": "79.1%",
+        "Passing_Accuracy_In_Opponent_Half": "63.4%",
+        "Crosses": "3",
+        "Crossing_Accuracy": "0.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "13",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "7",
+        "Shooting_Accuracy": "46.2%"
+      },
+      "away": {
+        "Goals": "4",
+        "Shots": "12",
+        "Shots_On_Target": "8",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "66.7%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "11",
+        "Tackle_Success_Rate": "54.5%",
+        "Clearances": "8"
+      },
+      "away": {
+        "Tackles": "12",
+        "Tackle_Success_Rate": "91.7%",
+        "Clearances": "14"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "10",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "17",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "4'",
+      "event": "Foul by Conner Antley (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "4'",
+      "event": "Aaron Molloy (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "5'",
+      "event": "Jerome Williams (Tampa Bay Rowdies) wins a free kick in the attacking half."
+    },
+    {
+      "time": "5'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "5'",
+      "event": "Graham Smith (Memphis 901) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "6'",
+      "event": "Offside, Tampa Bay Rowdies. Lewis Hilton tries a through ball, but Yann Ekra is caught offside."
+    },
+    {
+      "time": "10'",
+      "event": "Charlie Dennis (Tampa Bay Rowdies) wins a free kick in the attacking half."
+    },
+    {
+      "time": "10'",
+      "event": "Foul by Aaron Molloy (Memphis 901)."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt blocked. Charlie Dennis (Tampa Bay Rowdies) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Freddy Kleemann (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "13'",
+      "event": "Rodrigo da Costa (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "14'",
+      "event": "Luiz Fernando (Memphis 901) wins a free kick on the left wing."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Conner Antley (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "17'",
+      "event": "Goal!  Tampa Bay Rowdies 1, Memphis 901 0. Cal Jennings (Tampa Bay Rowdies) left footed shot from the left side of the box to the bottom left corner. Assisted by Yann Ekra   following a fast break."
+    },
+    {
+      "time": "20'",
+      "event": "Foul by Connor Sparrow (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "20'",
+      "event": "Akeem Ward (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "20'",
+      "event": "Connor Sparrow (Tampa Bay Rowdies) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt saved. Aaron Molloy (Memphis 901) right footed shot from outside the box is saved in the bottom left corner."
+    },
+    {
+      "time": "21'",
+      "event": "Yann Ekra (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Rodrigo da Costa (Memphis 901)."
+    },
+    {
+      "time": "22'",
+      "event": "Foul by Jerome Williams (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "22'",
+      "event": "Leston Paul (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "22'",
+      "event": "Joshua Pérez (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "22'",
+      "event": "Foul by Aiden McFadden (Memphis 901)."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt missed. Aiden McFadden (Memphis 901) left footed shot from the right side of the box misses to the left. Assisted by Aaron Molloy."
+    },
+    {
+      "time": "24'",
+      "event": "Goal!  Tampa Bay Rowdies 1, Memphis 901 1. Rodrigo da Costa (Memphis 901) left footed shot from outside the box to the bottom left corner. Assisted by Leston Paul."
+    },
+    {
+      "time": "26'",
+      "event": "Delay in match  because of an injury Dayonn Harris (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "26'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Yann Ekra (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "28'",
+      "event": "Rodrigo da Costa (Memphis 901) wins a free kick in the attacking half."
+    },
+    {
+      "time": "28'",
+      "event": "Substitution, Tampa Bay Rowdies. Jake LaCava replaces Dayonn Harris because of an injury."
+    },
+    {
+      "time": "29'",
+      "event": "Delay in match  because of an injury Jelani Peters (Memphis 901)."
+    },
+    {
+      "time": "30'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "31'",
+      "event": "Offside, Memphis 901. Jelani Peters tries a through ball, but Rodrigo da Costa is caught offside."
+    },
+    {
+      "time": "32'",
+      "event": "Goal!  Tampa Bay Rowdies 2, Memphis 901 1. Cal Jennings (Tampa Bay Rowdies) right footed shot from the centre of the box to the bottom left corner. Assisted by Jerome Williams   following a fast break."
+    },
+    {
+      "time": "35'",
+      "event": "Goal!  Tampa Bay Rowdies 2, Memphis 901 2. Rodrigo da Costa (Memphis 901) left footed shot from the centre of the box to the bottom left corner. Assisted by Aiden McFadden."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt blocked. Charlie Dennis (Tampa Bay Rowdies) right footed shot from the right side of the box is blocked. Assisted by Jake LaCava."
+    },
+    {
+      "time": "37'",
+      "event": "Corner,  Tampa Bay Rowdies. Conceded by Aaron Molloy."
+    },
+    {
+      "time": "38'",
+      "event": "Yann Ekra (Tampa Bay Rowdies) wins a free kick on the right wing."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Jeremy Kelly (Memphis 901)."
+    },
+    {
+      "time": "39'",
+      "event": "Offside, Memphis 901. Luiz Fernando tries a through ball, but Jeremy Kelly is caught offside."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Jerome Williams (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "41'",
+      "event": "Jelani Peters (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "42'",
+      "event": "Jerome Williams (Tampa Bay Rowdies) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt missed. Luiz Fernando (Memphis 901) left footed shot from the centre of the box is close, but misses to the left."
+    },
+    {
+      "time": "45+1'",
+      "event": "Offside, Tampa Bay Rowdies. Conner Antley tries a through ball, but Cal Jennings is caught offside."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, Tampa Bay Rowdies 2, Memphis 901 2."
+    },
+    {
+      "time": "48'",
+      "event": "Corner,  Tampa Bay Rowdies. Conceded by Akeem Ward."
+    },
+    {
+      "time": "49'",
+      "event": "Lewis Hilton (Tampa Bay Rowdies) wins a free kick on the left wing."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Aaron Molloy (Memphis 901)."
+    },
+    {
+      "time": "51'",
+      "event": "Conner Antley (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Akeem Ward (Memphis 901)."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt missed. Rodrigo da Costa (Memphis 901) left footed shot from more than 35 yards is just a bit too high."
+    },
+    {
+      "time": "53'",
+      "event": "Corner,  Tampa Bay Rowdies. Conceded by Lucas Turci."
+    },
+    {
+      "time": "54'",
+      "event": "Charlie Dennis (Tampa Bay Rowdies) hits the bar with a left footed shot from outside the box. Assisted by Joshua Pérez following a corner."
+    },
+    {
+      "time": "54'",
+      "event": "Attempt saved. Charlie Dennis (Tampa Bay Rowdies) left footed shot from outside the box is saved in the top centre of the goal."
+    },
+    {
+      "time": "54'",
+      "event": "Corner,  Tampa Bay Rowdies. Conceded by Drew Romig."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt missed. Jake LaCava (Tampa Bay Rowdies) right footed shot from the right side of the box is just a bit too high."
+    },
+    {
+      "time": "57'",
+      "event": "Joshua Pérez (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "57'",
+      "event": "Foul by Aiden McFadden (Memphis 901)."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, Memphis 901. Rashawn Dally replaces Luiz Fernando."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, Memphis 901. Samuel Careaga replaces Jelani Peters."
+    },
+    {
+      "time": "58'",
+      "event": "Yann Ekra (Tampa Bay Rowdies) wins a free kick in the attacking half."
+    },
+    {
+      "time": "58'",
+      "event": "Foul by Aaron Molloy (Memphis 901)."
+    },
+    {
+      "time": "60'",
+      "event": "Attempt missed. Lewis Hilton (Tampa Bay Rowdies) right footed shot from outside the box is too high from a direct free kick."
+    },
+    {
+      "time": "60'",
+      "event": "Attempt saved. Rodrigo da Costa (Memphis 901) left footed shot from the left side of the box is saved in the bottom left corner. Assisted by Akeem Ward."
+    },
+    {
+      "time": "62'",
+      "event": "Charlie Dennis (Tampa Bay Rowdies) wins a free kick in the attacking half."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Graham Smith (Memphis 901)."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt saved. Charlie Dennis (Tampa Bay Rowdies) left footed shot from outside the box is saved in the top left corner."
+    },
+    {
+      "time": "63'",
+      "event": "Corner,  Tampa Bay Rowdies. Conceded by Drew Romig."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Yann Ekra (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "66'",
+      "event": "Aaron Molloy (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt saved. Rodrigo da Costa (Memphis 901) left footed shot from outside the box is saved in the centre of the goal. Assisted by Samuel Careaga."
+    },
+    {
+      "time": "67'",
+      "event": "Goal!  Tampa Bay Rowdies 2, Memphis 901 3. Samuel Careaga (Memphis 901) left footed shot from outside the box to the bottom left corner."
+    },
+    {
+      "time": "67'",
+      "event": "Delay in match  because of an injury Rodrigo da Costa (Memphis 901)."
+    },
+    {
+      "time": "69'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt saved. Rashawn Dally (Memphis 901) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Rodrigo da Costa."
+    },
+    {
+      "time": "70'",
+      "event": "Corner,  Memphis 901. Conceded by Connor Sparrow."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt blocked. Samuel Careaga (Memphis 901) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt saved. Jerome Williams (Tampa Bay Rowdies) header from the centre of the box is saved in the top left corner. Assisted by Cal Jennings with a cross."
+    },
+    {
+      "time": "75'",
+      "event": "Yann Ekra (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Aaron Molloy (Memphis 901)."
+    },
+    {
+      "time": "76'",
+      "event": "Lewis Hilton (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "76'",
+      "event": "Foul by Aaron Molloy (Memphis 901)."
+    },
+    {
+      "time": "76'",
+      "event": "Aaron Molloy (Memphis 901) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "77'",
+      "event": "Foul by Charlie Dennis (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "77'",
+      "event": "Jeremy Kelly (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "78'",
+      "event": "Yann Ekra (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Leston Paul (Memphis 901)."
+    },
+    {
+      "time": "80'",
+      "event": "Goal!  Tampa Bay Rowdies 2, Memphis 901 4. Rodrigo da Costa (Memphis 901) left footed shot from the centre of the box to the top right corner. Assisted by Samuel Careaga."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, Tampa Bay Rowdies. Lucky Mkosana replaces Jake LaCava."
+    },
+    {
+      "time": "82'",
+      "event": "Offside, Tampa Bay Rowdies. Jordan Doherty tries a through ball, but Lucky Mkosana is caught offside."
+    },
+    {
+      "time": "83'",
+      "event": "Jerome Williams (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "83'",
+      "event": "Foul by Aiden McFadden (Memphis 901)."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt saved. Cal Jennings (Tampa Bay Rowdies) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Lewis Hilton."
+    },
+    {
+      "time": "83'",
+      "event": "Corner,  Tampa Bay Rowdies. Conceded by Drew Romig."
+    },
+    {
+      "time": "84'",
+      "event": "Rashawn Dally (Memphis 901) wins a free kick in the defensive half."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Charlie Dennis (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Rashawn Dally (Memphis 901)."
+    },
+    {
+      "time": "86'",
+      "event": "Freddy Kleemann (Tampa Bay Rowdies) wins a free kick in the defensive half."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, Memphis 901. Dylan Borczak replaces Rodrigo da Costa."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, Memphis 901. Nighte Pickering replaces Graham Smith."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Nighte Pickering (Memphis 901)."
+    },
+    {
+      "time": "88'",
+      "event": "Jerome Williams (Tampa Bay Rowdies) wins a free kick on the left wing."
+    },
+    {
+      "time": "88'",
+      "event": "Offside, Tampa Bay Rowdies. Lewis Hilton tries a through ball, but Jordan Doherty is caught offside."
+    },
+    {
+      "time": "89'",
+      "event": "Substitution, Memphis 901. Bruno Lapa replaces Jeremy Kelly."
+    },
+    {
+      "time": "90+1'",
+      "event": "Delay in match  because of an injury Joshua Pérez (Tampa Bay Rowdies)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Substitution, Tampa Bay Rowdies. Sebastian Dalgaard replaces Joshua Pérez because of an injury."
+    },
+    {
+      "time": "90+1'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+2'",
+      "event": "Hand ball by Samuel Careaga (Memphis 901)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Attempt missed. Cal Jennings (Tampa Bay Rowdies) right footed shot from outside the box is close, but misses to the left."
+    },
+    {
+      "time": "90+3'",
+      "event": "Attempt missed. Cal Jennings (Tampa Bay Rowdies) right footed shot from a difficult angle on the right is close, but misses the top right corner. Assisted by Charlie Dennis."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Tampa Bay Rowdies 2, Memphis 901 4."
+    }
+  ]
+}

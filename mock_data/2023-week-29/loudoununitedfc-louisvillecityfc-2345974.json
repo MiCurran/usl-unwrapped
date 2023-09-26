@@ -1,0 +1,977 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Loudoun United FC",
+      "formation": "4-4-2",
+      "score": "1",
+      "lineup": {
+        "managerName": "Martin",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Jacomen",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Neville",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Koanda",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Leerman",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Turner",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "32"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Rocha",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "40"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "ElMedkhar",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Landry",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Jake Morris",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Ryan",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "20"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Hegardt",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Fauroux",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "36",
+            "playerName": "Clark",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Garay",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Zanne",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Espinal",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Leggett",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Williamson",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Louisville City FC",
+      "formation": "3-5-2",
+      "score": "2",
+      "lineup": {
+        "managerName": "Cruz",
+        "players": [
+          {
+            "shirtNumber": "28",
+            "playerName": "Semmle",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "32",
+            "playerName": "Adams",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "39"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Totsch",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Charpie",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Manny Perez",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Jimenez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Moguel",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Gibson",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Wynder",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Harris",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "56"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Ownby",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Faundez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "67",
+            "playerName": "Damm",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "36",
+            "playerName": "DelPiccolo",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Mares",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "68"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "74"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Pedersen",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Gonzalez Asensi",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "81"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Serrano",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 23, 2023 4:30 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "50.2%",
+        "Duels_Success_Rate": "55.8%",
+        "Ariel_Duels_Won": "50.0%",
+        "Interceptions": "8",
+        "Offsides": "1",
+        "Corners_Won": "7"
+      },
+      "away": {
+        "Possession": "49.8%",
+        "Duels_Success_Rate": "44.2%",
+        "Ariel_Duels_Won": "50.0%",
+        "Interceptions": "15",
+        "Offsides": "2",
+        "Corners_Won": "14"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "419",
+        "Long_Passes": "85",
+        "Passing_Accuracy": "72.8%",
+        "Passing_Accuracy_In_Opponent_Half": "60.3%",
+        "Crosses": "14",
+        "Crossing_Accuracy": "14.3%"
+      },
+      "away": {
+        "Passes": "400",
+        "Long_Passes": "72",
+        "Passing_Accuracy": "76.0%",
+        "Passing_Accuracy_In_Opponent_Half": "58.1%",
+        "Crosses": "27",
+        "Crossing_Accuracy": "22.2%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "1",
+        "Shots": "9",
+        "Shots_On_Target": "2",
+        "Blocked_Shots": "6",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "22.2%"
+      },
+      "away": {
+        "Goals": "2",
+        "Shots": "18",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "6",
+        "Shots_Outside_Box": "8",
+        "Shots_Inside_Box": "10",
+        "Shooting_Accuracy": "33.3%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "23",
+        "Tackle_Success_Rate": "65.2%",
+        "Clearances": "16"
+      },
+      "away": {
+        "Tackles": "12",
+        "Tackle_Success_Rate": "75.0%",
+        "Clearances": "10"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "14",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "16",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Foul by Oscar Jiménez (Louisville City)."
+    },
+    {
+      "time": "1'",
+      "event": "Christopher Hegardt (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "5'",
+      "event": "Brian Ownby (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "5'",
+      "event": "Foul by Houssou Landry (Loudoun United)."
+    },
+    {
+      "time": "8'",
+      "event": "Wilson Harris (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "8'",
+      "event": "Foul by Aidan Rocha (Loudoun United)."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Tyler Gibson (Louisville City)."
+    },
+    {
+      "time": "11'",
+      "event": "Kalil ElMedkhar (Loudoun United) wins a free kick on the left wing."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt blocked. Aidan Rocha (Loudoun United) right footed shot from outside the box is blocked. Assisted by Jake Morris."
+    },
+    {
+      "time": "12'",
+      "event": "Corner,  Loudoun United. Conceded by Elijah Wynder."
+    },
+    {
+      "time": "14'",
+      "event": "Brian Ownby (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Yanis Leerman (Loudoun United)."
+    },
+    {
+      "time": "14'",
+      "event": "Offside, Louisville City. Sean Totsch tries a through ball, but Wilson Harris is caught offside."
+    },
+    {
+      "time": "16'",
+      "event": "Corner,  Loudoun United. Conceded by Wes Charpie."
+    },
+    {
+      "time": "17'",
+      "event": "Corner,  Loudoun United. Conceded by Kyle Adams."
+    },
+    {
+      "time": "19'",
+      "event": "Attempt saved. Elijah Wynder (Louisville City) right footed shot from outside the box is saved in the top centre of the goal. Assisted by Tyler Gibson."
+    },
+    {
+      "time": "20'",
+      "event": "Corner,  Loudoun United. Conceded by Wes Charpie."
+    },
+    {
+      "time": "20'",
+      "event": "Goal!  Loudoun United 1, Louisville City 0. Zach Ryan (Loudoun United) header from a difficult angle on the left to the high centre of the goal. Assisted by Harvey Neville with a cross   following a corner."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt missed. Carlos Moguel Jr (Louisville City) right footed shot from outside the box is close, but misses to the left. Assisted by Brian Ownby."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt missed. Wilson Harris (Louisville City) left footed shot from the centre of the box is close, but misses to the right. Assisted by Brian Ownby."
+    },
+    {
+      "time": "27'",
+      "event": "Oscar Jiménez (Louisville City) wins a free kick on the left wing."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Harvey Neville (Loudoun United)."
+    },
+    {
+      "time": "29'",
+      "event": "Wilson Harris (Louisville City) wins a free kick on the left wing."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Aidan Rocha (Loudoun United)."
+    },
+    {
+      "time": "30'",
+      "event": "Offside, Louisville City. Brian Ownby tries a through ball, but Elijah Wynder is caught offside."
+    },
+    {
+      "time": "32'",
+      "event": "Brian Ownby (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "32'",
+      "event": "Foul by Cole Turner (Loudoun United)."
+    },
+    {
+      "time": "32'",
+      "event": "Cole Turner (Loudoun United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "33'",
+      "event": "Carlos Moguel Jr (Louisville City) hits the left post with a right footed shot from outside the box from a direct free kick."
+    },
+    {
+      "time": "34'",
+      "event": "Corner,  Loudoun United. Conceded by Manny Perez."
+    },
+    {
+      "time": "37'",
+      "event": "Brian Ownby (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "37'",
+      "event": "Foul by Harvey Neville (Loudoun United)."
+    },
+    {
+      "time": "38'",
+      "event": "Oscar Jiménez (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Christopher Hegardt (Loudoun United)."
+    },
+    {
+      "time": "39'",
+      "event": "Attempt blocked. Wilson Harris (Louisville City) left footed shot from outside the box is blocked. Assisted by Elijah Wynder."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Kyle Adams (Louisville City)."
+    },
+    {
+      "time": "39'",
+      "event": "Christopher Hegardt (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "39'",
+      "event": "Kyle Adams (Louisville City) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "40'",
+      "event": "Elijah Wynder (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "40'",
+      "event": "Foul by Aidan Rocha (Loudoun United)."
+    },
+    {
+      "time": "40'",
+      "event": "Aidan Rocha (Loudoun United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Sean Totsch (Louisville City)."
+    },
+    {
+      "time": "41'",
+      "event": "Zach Ryan (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "44'",
+      "event": "Delay in match  because of an injury Zach Ryan (Loudoun United)."
+    },
+    {
+      "time": "45'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "45'",
+      "event": "Foul by Manny Perez (Louisville City)."
+    },
+    {
+      "time": "45'",
+      "event": "Abdoul Koanda (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+2'",
+      "event": "Corner,  Louisville City. Conceded by Yanis Leerman."
+    },
+    {
+      "time": "45+3'",
+      "event": "Attempt missed. Kyle Adams (Louisville City) header from very close range misses to the left. Assisted by Carlos Moguel Jr with a cross following a corner."
+    },
+    {
+      "time": "45+4'",
+      "event": "First Half ends, Loudoun United 1, Louisville City 0."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Louisville City. Paolo DelPiccolo replaces Elijah Wynder."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Loudoun United. Tommy Williamson replaces Zach Ryan."
+    },
+    {
+      "time": "50'",
+      "event": "Corner,  Louisville City. Conceded by Abdoul Koanda."
+    },
+    {
+      "time": "50'",
+      "event": "Corner,  Louisville City. Conceded by Aidan Rocha."
+    },
+    {
+      "time": "50'",
+      "event": "Attempt missed. Wes Charpie (Louisville City) with an attempt from very close range is close, but misses to the right. Assisted by Oscar Jiménez with a cross following a corner."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Paolo DelPiccolo (Louisville City)."
+    },
+    {
+      "time": "51'",
+      "event": "Abdoul Koanda (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Paolo DelPiccolo (Louisville City)."
+    },
+    {
+      "time": "51'",
+      "event": "Jake Morris (Loudoun United) wins a free kick on the right wing."
+    },
+    {
+      "time": "53'",
+      "event": "Corner,  Louisville City. Conceded by Kalil ElMedkhar."
+    },
+    {
+      "time": "53'",
+      "event": "Brian Ownby (Louisville City) hits the right post with a with an attempt from very close range. Assisted by Oscar Jiménez with a cross following a corner."
+    },
+    {
+      "time": "53'",
+      "event": "Corner,  Louisville City. Conceded by Jake Morris."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Wilson Harris (Louisville City)."
+    },
+    {
+      "time": "56'",
+      "event": "Christopher Hegardt (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "56'",
+      "event": "Wilson Harris (Louisville City) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "57'",
+      "event": "Foul by Carlos Moguel Jr (Louisville City)."
+    },
+    {
+      "time": "57'",
+      "event": "Aidan Rocha (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt saved. Kalil ElMedkhar (Loudoun United) header from the centre of the box is saved in the bottom right corner."
+    },
+    {
+      "time": "59'",
+      "event": "Attempt blocked. Wilson Harris (Louisville City) right footed shot from the left side of the box is blocked. Assisted by Oscar Jiménez."
+    },
+    {
+      "time": "60'",
+      "event": "Attempt blocked. Kalil ElMedkhar (Loudoun United) right footed shot from outside the box is blocked. Assisted by Tommy Williamson."
+    },
+    {
+      "time": "60'",
+      "event": "Attempt blocked. Houssou Landry (Loudoun United) right footed shot from the centre of the box is blocked. Assisted by Kalil ElMedkhar."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt blocked. Jake Morris (Loudoun United) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "61'",
+      "event": "Corner,  Loudoun United. Conceded by Oscar Jiménez."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt missed. Houssou Landry (Loudoun United) left footed shot from the centre of the box misses to the left following a corner."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt blocked. Houssou Landry (Loudoun United) right footed shot from the centre of the box is blocked. Assisted by Jake Morris."
+    },
+    {
+      "time": "62'",
+      "event": "Manny Perez (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Houssou Landry (Loudoun United)."
+    },
+    {
+      "time": "62'",
+      "event": "Manny Perez (Louisville City) wins a free kick on the right wing."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Kalil ElMedkhar (Loudoun United)."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Carlos Moguel Jr (Louisville City)."
+    },
+    {
+      "time": "63'",
+      "event": "Houssou Landry (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "64'",
+      "event": "Corner,  Louisville City. Conceded by Cole Turner."
+    },
+    {
+      "time": "64'",
+      "event": "Corner,  Louisville City. Conceded by Dane Jacomen."
+    },
+    {
+      "time": "66'",
+      "event": "Brian Ownby (Louisville City) wins a free kick on the left wing."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Houssou Landry (Loudoun United)."
+    },
+    {
+      "time": "66'",
+      "event": "Corner,  Louisville City. Conceded by Houssou Landry."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt saved. Sean Totsch (Louisville City) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Oscar Jiménez with a cross."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt blocked. Wes Charpie (Louisville City) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "67'",
+      "event": "Corner,  Louisville City. Conceded by Dane Jacomen."
+    },
+    {
+      "time": "67'",
+      "event": "Corner,  Louisville City. Conceded by Cole Turner."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Carlos Moguel Jr (Louisville City)."
+    },
+    {
+      "time": "67'",
+      "event": "Christopher Hegardt (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "68'",
+      "event": "Substitution, Louisville City. Dylan Mares replaces Tyler Gibson."
+    },
+    {
+      "time": "68'",
+      "event": "Substitution, Louisville City. Owen Damm replaces Oscar Jiménez."
+    },
+    {
+      "time": "68'",
+      "event": "Substitution, Loudoun United. Jeremy Garay replaces Houssou Landry."
+    },
+    {
+      "time": "68'",
+      "event": "Substitution, Loudoun United. Wesley Leggett replaces Jake Morris."
+    },
+    {
+      "time": "69'",
+      "event": "Offside, Loudoun United. Tommy Williamson tries a through ball, but Wesley Leggett is caught offside."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt blocked. Dylan Mares (Louisville City) left footed shot from the centre of the box is blocked. Assisted by Owen Damm."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Manny Perez (Louisville City)."
+    },
+    {
+      "time": "70'",
+      "event": "Abdoul Koanda (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "73'",
+      "event": "Corner,  Louisville City. Conceded by Yanis Leerman."
+    },
+    {
+      "time": "74'",
+      "event": "Goal!  Loudoun United 1, Louisville City 1. Dylan Mares (Louisville City) left footed shot from outside the box to the high centre of the goal    following a corner."
+    },
+    {
+      "time": "75'",
+      "event": "Attempt blocked. Brian Ownby (Louisville City) left footed shot from the centre of the box is blocked. Assisted by Dylan Mares."
+    },
+    {
+      "time": "77'",
+      "event": "Foul by Dylan Mares (Louisville City)."
+    },
+    {
+      "time": "77'",
+      "event": "Aidan Rocha (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "79'",
+      "event": "Foul by Dylan Mares (Louisville City)."
+    },
+    {
+      "time": "79'",
+      "event": "Wesley Leggett (Loudoun United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "79'",
+      "event": "Dylan Mares (Louisville City) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "80'",
+      "event": "Substitution, Loudoun United. Abdoul Zanne replaces Kalil ElMedkhar."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, Loudoun United. Jace Clark replaces Harvey Neville."
+    },
+    {
+      "time": "81'",
+      "event": "Substitution, Louisville City. Jorge González replaces Brian Ownby."
+    },
+    {
+      "time": "82'",
+      "event": "Corner,  Louisville City. Conceded by Abdoul Zanne."
+    },
+    {
+      "time": "84'",
+      "event": "Abdoul Koanda (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Paolo DelPiccolo (Louisville City)."
+    },
+    {
+      "time": "84'",
+      "event": "Delay in match   (Loudoun United)."
+    },
+    {
+      "time": "84'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "85'",
+      "event": "Attempt saved. Dylan Mares (Louisville City) right footed shot from outside the box is saved in the bottom left corner. Assisted by Carlos Moguel Jr with a headed pass."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt blocked. Jorge González (Louisville City) right footed shot from outside the box is blocked. Assisted by Paolo DelPiccolo."
+    },
+    {
+      "time": "86'",
+      "event": "Corner,  Louisville City. Conceded by Jace Clark."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt saved. Jorge González (Louisville City) header from the centre of the box is saved in the bottom right corner. Assisted by Carlos Moguel Jr with a cross."
+    },
+    {
+      "time": "89'",
+      "event": "Corner,  Louisville City. Conceded by Abdoul Zanne."
+    },
+    {
+      "time": "89'",
+      "event": "Dane Jacomen (Loudoun United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Paolo DelPiccolo (Louisville City)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Goal!  Loudoun United 1, Louisville City 2. Wilson Harris (Louisville City) left footed shot from outside the box to the top left corner. Assisted by Dylan Mares."
+    },
+    {
+      "time": "90+2'",
+      "event": "Corner,  Loudoun United. Conceded by Kyle Adams."
+    },
+    {
+      "time": "90+3'",
+      "event": "Attempt blocked. Aidan Rocha (Loudoun United) header from the centre of the box is blocked. Assisted by Christopher Hegardt with a cross."
+    },
+    {
+      "time": "90+4'",
+      "event": "Owen Damm (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+4'",
+      "event": "Foul by Christopher Hegardt (Loudoun United)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Jorge González (Louisville City) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Aidan Rocha (Loudoun United)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Loudoun United 1, Louisville City 2."
+    }
+  ]
+}

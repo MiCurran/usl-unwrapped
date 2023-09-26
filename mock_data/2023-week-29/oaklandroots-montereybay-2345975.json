@@ -1,0 +1,765 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Oakland Roots",
+      "formation": "3-4-3",
+      "score": "2",
+      "lineup": {
+        "managerName": "Delgado",
+        "players": [
+          {
+            "shirtNumber": "20",
+            "playerName": "Blanchette",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Barbir",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "44"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Hackshaw",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "90"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Klimenta",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Tamacas",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Diaz",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Donasiyano",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "79"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Matsoso",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "65"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Peláez",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Rodriguez",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Reid",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "60",
+            "playerName": "Syrel",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Morad",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Njie",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Prentice",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Cedeno",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "38",
+            "playerName": "Cruz",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "48",
+            "playerName": "Saldana",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "86"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Monterey Bay",
+      "formation": "5-4-1",
+      "score": "2",
+      "lineup": {
+        "managerName": "Yallop",
+        "players": [
+          {
+            "shirtNumber": "21",
+            "playerName": "Herrera",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Doner",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Martinez",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Roberts",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Greene",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Lara",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Gleadle",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Murphy",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Baca",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Hugh Alexander Dixon",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "3"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Okoli",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Siaha",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Glasser",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Rebollar",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Yoseke",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Boone",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Enríquez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Volesky",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 23, 2023 8:00 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "64.2%",
+        "Duels_Success_Rate": "53.3%",
+        "Ariel_Duels_Won": "62.5%",
+        "Interceptions": "9",
+        "Offsides": "1",
+        "Corners_Won": "5"
+      },
+      "away": {
+        "Possession": "35.8%",
+        "Duels_Success_Rate": "46.7%",
+        "Ariel_Duels_Won": "37.5%",
+        "Interceptions": "10",
+        "Offsides": "1",
+        "Corners_Won": "1"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "634",
+        "Long_Passes": "60",
+        "Passing_Accuracy": "83.0%",
+        "Passing_Accuracy_In_Opponent_Half": "74.0%",
+        "Crosses": "18",
+        "Crossing_Accuracy": "22.2%"
+      },
+      "away": {
+        "Passes": "357",
+        "Long_Passes": "59",
+        "Passing_Accuracy": "72.3%",
+        "Passing_Accuracy_In_Opponent_Half": "58.2%",
+        "Crosses": "7",
+        "Crossing_Accuracy": "28.6%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "19",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "10",
+        "Shots_Outside_Box": "8",
+        "Shots_Inside_Box": "11",
+        "Shooting_Accuracy": "21.1%"
+      },
+      "away": {
+        "Goals": "2",
+        "Shots": "7",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "4",
+        "Shooting_Accuracy": "42.9%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "13",
+        "Tackle_Success_Rate": "69.2%",
+        "Clearances": "7"
+      },
+      "away": {
+        "Tackles": "17",
+        "Tackle_Success_Rate": "64.7%",
+        "Clearances": "26"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "10",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "12",
+        "Yellow_Cards": "0",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "3'",
+      "event": "Goal!  Oakland Roots 0, Monterey Bay 1. Alex Dixon (Monterey Bay) left footed shot from the centre of the box to the bottom right corner. Assisted by Sam Gleadle."
+    },
+    {
+      "time": "7'",
+      "event": "Delay in match  because of an injury Neveal Hackshaw (Oakland Roots)."
+    },
+    {
+      "time": "7'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "8'",
+      "event": "Attempt saved. Sam Gleadle (Monterey Bay) right footed shot from outside the box is saved in the bottom left corner. Assisted by Sean Okoli."
+    },
+    {
+      "time": "12'",
+      "event": "Foul by Hugh Roberts II (Monterey Bay)."
+    },
+    {
+      "time": "12'",
+      "event": "Anuar Peláez (Oakland Roots) wins a free kick on the right wing."
+    },
+    {
+      "time": "13'",
+      "event": "Sean Okoli (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Neveal Hackshaw (Oakland Roots)."
+    },
+    {
+      "time": "14'",
+      "event": "Hand ball by Morey Doner (Monterey Bay)."
+    },
+    {
+      "time": "16'",
+      "event": "Attempt blocked. Neveal Hackshaw (Oakland Roots) left footed shot from the right side of the box is blocked."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Sam Gleadle (Monterey Bay)."
+    },
+    {
+      "time": "16'",
+      "event": "Irakoze Donasiyano (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by James Murphy (Monterey Bay)."
+    },
+    {
+      "time": "19'",
+      "event": "Irakoze Donasiyano (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Morey Doner (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Trayvone Reid (Oakland Roots)."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt missed. Sean Okoli (Monterey Bay) right footed shot from outside the box misses to the right. Assisted by Alex Lara."
+    },
+    {
+      "time": "22'",
+      "event": "Hand ball by Anuar Peláez (Oakland Roots)."
+    },
+    {
+      "time": "23'",
+      "event": "Attempt missed. Sam Gleadle (Monterey Bay) left footed shot from the centre of the box misses to the left. Assisted by Alex Dixon."
+    },
+    {
+      "time": "27'",
+      "event": "Corner,  Oakland Roots. Conceded by Alex Lara."
+    },
+    {
+      "time": "28'",
+      "event": "Attempt blocked. Trayvone Reid (Oakland Roots) right footed shot from outside the box is blocked. Assisted by Johnny Rodriguez."
+    },
+    {
+      "time": "28'",
+      "event": "Attempt saved. Guillermo Diaz (Oakland Roots) right footed shot from outside the box is saved in the bottom right corner. Assisted by Trayvone Reid."
+    },
+    {
+      "time": "31'",
+      "event": "Attempt missed. Anuar Peláez (Oakland Roots) right footed shot from the centre of the box misses to the left. Assisted by Bryan Tamacas."
+    },
+    {
+      "time": "34'",
+      "event": "Foul by Rafael Baca (Monterey Bay)."
+    },
+    {
+      "time": "34'",
+      "event": "Johnny Rodriguez (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "39'",
+      "event": "James Murphy (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Napo Matsoso (Oakland Roots)."
+    },
+    {
+      "time": "41'",
+      "event": "Delay in match  because of an injury Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "41'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt blocked. Bryan Tamacas (Oakland Roots) left footed shot from outside the box is blocked. Assisted by Neveal Hackshaw."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt blocked. Bryan Tamacas (Oakland Roots) right footed shot from long range on the right is blocked. Assisted by Johnny Rodriguez."
+    },
+    {
+      "time": "44'",
+      "event": "Goal!  Oakland Roots 1, Monterey Bay 1. Daniel Barbir (Oakland Roots) left footed shot from very close range to the centre of the goal."
+    },
+    {
+      "time": "45'",
+      "event": "Offside, Oakland Roots. Johnny Rodriguez tries a through ball, but Anuar Peláez is caught offside."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt missed. Johnny Rodriguez (Oakland Roots) header from the centre of the box is close, but misses to the right. Assisted by Trayvone Reid."
+    },
+    {
+      "time": "45+3'",
+      "event": "Attempt blocked. Anuar Peláez (Oakland Roots) right footed shot from the left side of the box is blocked. Assisted by Trayvone Reid."
+    },
+    {
+      "time": "45+4'",
+      "event": "Morey Doner (Monterey Bay) wins a free kick on the right wing."
+    },
+    {
+      "time": "45+4'",
+      "event": "Foul by Irakoze Donasiyano (Oakland Roots)."
+    },
+    {
+      "time": "45+5'",
+      "event": "First Half ends, Oakland Roots 1, Monterey Bay 1."
+    },
+    {
+      "time": "46'",
+      "event": "Corner,  Oakland Roots. Conceded by Hugh Roberts II."
+    },
+    {
+      "time": "47'",
+      "event": "Offside, Monterey Bay. Morey Doner tries a through ball, but Alex Dixon is caught offside."
+    },
+    {
+      "time": "48'",
+      "event": "Attempt missed. Johnny Rodriguez (Oakland Roots) header from the centre of the box is close, but misses the top left corner. Assisted by Daniel Barbir with a cross."
+    },
+    {
+      "time": "52'",
+      "event": "Attempt blocked. Irakoze Donasiyano (Oakland Roots) right footed shot from outside the box is blocked. Assisted by Guillermo Diaz."
+    },
+    {
+      "time": "56'",
+      "event": "Hand ball by Anuar Peláez (Oakland Roots)."
+    },
+    {
+      "time": "56'",
+      "event": "Attempt blocked. Trayvone Reid (Oakland Roots) right footed shot from the left side of the box is blocked. Assisted by Anuar Peláez."
+    },
+    {
+      "time": "58'",
+      "event": "Foul by Rafael Baca (Monterey Bay)."
+    },
+    {
+      "time": "58'",
+      "event": "Irakoze Donasiyano (Oakland Roots) wins a free kick in the attacking half."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, Oakland Roots. Jeciel Cedeño replaces Trayvone Reid."
+    },
+    {
+      "time": "60'",
+      "event": "Corner,  Monterey Bay. Conceded by Irakoze Donasiyano."
+    },
+    {
+      "time": "60'",
+      "event": "Attempt blocked. Alex Dixon (Monterey Bay) header from the right side of the box is blocked. Assisted by James Murphy with a cross."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt blocked. Alex Dixon (Monterey Bay) right footed shot from outside the box is blocked. Assisted by Morey Doner."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "62'",
+      "event": "Daniel Barbir (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "62'",
+      "event": "Neveal Hackshaw (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "64'",
+      "event": "Goal!  Oakland Roots 1, Monterey Bay 2. Sean Okoli (Monterey Bay) right footed shot from the centre of the box to the bottom left corner."
+    },
+    {
+      "time": "65'",
+      "event": "Sean Okoli (Monterey Bay) wins a free kick in the attacking half."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Napo Matsoso (Oakland Roots)."
+    },
+    {
+      "time": "65'",
+      "event": "Napo Matsoso (Oakland Roots) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Morey Doner (Monterey Bay)."
+    },
+    {
+      "time": "66'",
+      "event": "Guillermo Diaz (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "67'",
+      "event": "Sam Gleadle (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Guillermo Diaz (Oakland Roots)."
+    },
+    {
+      "time": "71'",
+      "event": "Corner,  Oakland Roots. Conceded by Hugh Roberts II."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt blocked. Neveal Hackshaw (Oakland Roots) right footed shot from the centre of the box is blocked. Assisted by Guillermo Diaz with a cross."
+    },
+    {
+      "time": "72'",
+      "event": "Kai Greene (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Emrah Klimenta (Oakland Roots)."
+    },
+    {
+      "time": "73'",
+      "event": "Foul by Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "73'",
+      "event": "Emrah Klimenta (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "73'",
+      "event": "Delay in match  because of an injury Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "74'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt blocked. Johnny Rodriguez (Oakland Roots) header from the centre of the box is blocked. Assisted by Jeciel Cedeño."
+    },
+    {
+      "time": "75'",
+      "event": "Attempt missed. Emrah Klimenta (Oakland Roots) right footed shot from outside the box misses to the left. Assisted by Napo Matsoso."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Oakland Roots. Baboucarr Njie replaces Napo Matsoso."
+    },
+    {
+      "time": "76'",
+      "event": "Foul by Walmer Martinez (Monterey Bay)."
+    },
+    {
+      "time": "76'",
+      "event": "Emrah Klimenta (Oakland Roots) wins a free kick on the right wing."
+    },
+    {
+      "time": "77'",
+      "event": "Corner,  Oakland Roots. Conceded by Walmer Martinez."
+    },
+    {
+      "time": "78'",
+      "event": "Attempt saved. Jeciel Cedeño (Oakland Roots) left footed shot from outside the box is saved in the centre of the goal."
+    },
+    {
+      "time": "79'",
+      "event": "Sean Okoli (Monterey Bay) wins a free kick in the attacking half."
+    },
+    {
+      "time": "79'",
+      "event": "Foul by Irakoze Donasiyano (Oakland Roots)."
+    },
+    {
+      "time": "79'",
+      "event": "Irakoze Donasiyano (Oakland Roots) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "80'",
+      "event": "Substitution, Monterey Bay. Chase Boone replaces Sam Gleadle."
+    },
+    {
+      "time": "82'",
+      "event": "Foul by Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "82'",
+      "event": "Bryan Tamacas (Oakland Roots) wins a free kick in the defensive half."
+    },
+    {
+      "time": "84'",
+      "event": "Corner,  Oakland Roots. Conceded by Alex Dixon."
+    },
+    {
+      "time": "85'",
+      "event": "Attempt blocked. Baboucarr Njie (Oakland Roots) left footed shot from outside the box is blocked. Assisted by Irakoze Donasiyano."
+    },
+    {
+      "time": "86'",
+      "event": "Substitution, Oakland Roots. Tarek Morad replaces Irakoze Donasiyano."
+    },
+    {
+      "time": "86'",
+      "event": "Substitution, Oakland Roots. Luis Saldana replaces Bryan Tamacas."
+    },
+    {
+      "time": "90'",
+      "event": "Goal!  Oakland Roots 2, Monterey Bay 2. Neveal Hackshaw (Oakland Roots) left footed shot from the centre of the box to the bottom left corner."
+    },
+    {
+      "time": "90+2'",
+      "event": "Attempt missed. Guillermo Diaz (Oakland Roots) header from the centre of the box misses to the right."
+    },
+    {
+      "time": "90+4'",
+      "event": "Second Half ends, Oakland Roots 2, Monterey Bay 2."
+    }
+  ]
+}

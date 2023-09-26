@@ -1,0 +1,899 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "The Miami FC",
+      "formation": "4-2-3-1",
+      "score": "4",
+      "lineup": {
+        "managerName": "Neal",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "McGuire",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Segbers",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "35"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Stanley",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Ofeimu",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Craig",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Gabriel de Freitas",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Telfer",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Valot",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rivas",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "62"
+              },
+              {
+                "event": "Penalty scored",
+                "eventTime": "86"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Sorto",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "32"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Murphy",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Zendejas",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Hernández",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Jean Francois",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Gustavo Rissi",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Dowouna",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Salazar",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Repetto",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "903"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Louisville City FC",
+      "formation": "4-1-4-1",
+      "score": "3",
+      "lineup": {
+        "managerName": "Cruz",
+        "players": [
+          {
+            "shirtNumber": "28",
+            "playerName": "Semmle",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Manny Perez",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Charpie",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "79"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Totsch",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "15"
+              },
+              {
+                "event": "Penalty scored",
+                "eventTime": "74"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "32",
+            "playerName": "Adams",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Moguel",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Serrano",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "36",
+            "playerName": "DelPiccolo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Wynder",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "30"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Gonzalez Asensi",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "57"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "90",
+            "playerName": "Pouwels",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Faundez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Jimenez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Gibson",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Mares",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Pedersen",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Harris",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "48"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Ownby",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "57"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 20, 2023 5:00 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "50.1%",
+        "Duels_Success_Rate": "53.1%",
+        "Ariel_Duels_Won": "41.7%",
+        "Interceptions": "8",
+        "Offsides": "2",
+        "Corners_Won": "5"
+      },
+      "away": {
+        "Possession": "49.9%",
+        "Duels_Success_Rate": "46.9%",
+        "Ariel_Duels_Won": "58.3%",
+        "Interceptions": "9",
+        "Offsides": "0",
+        "Corners_Won": "3"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "468",
+        "Long_Passes": "72",
+        "Passing_Accuracy": "84.8%",
+        "Passing_Accuracy_In_Opponent_Half": "72.1%",
+        "Crosses": "15",
+        "Crossing_Accuracy": "33.3%"
+      },
+      "away": {
+        "Passes": "464",
+        "Long_Passes": "69",
+        "Passing_Accuracy": "85.1%",
+        "Passing_Accuracy_In_Opponent_Half": "76.1%",
+        "Crosses": "21",
+        "Crossing_Accuracy": "28.6%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "4",
+        "Shots": "12",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "50.0%"
+      },
+      "away": {
+        "Goals": "3",
+        "Shots": "16",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "37.5%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "10",
+        "Tackle_Success_Rate": "70.0%",
+        "Clearances": "20"
+      },
+      "away": {
+        "Tackles": "10",
+        "Tackle_Success_Rate": "70.0%",
+        "Clearances": "10"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "12",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "19",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Foul by Elijah Wynder (Louisville City)."
+    },
+    {
+      "time": "1'",
+      "event": "Joaquín Rivas (The Miami FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "2'",
+      "event": "Attempt blocked. Ben Ofeimu (The Miami FC) right footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "2'",
+      "event": "Corner,  The Miami FC. Conceded by Kyle Adams."
+    },
+    {
+      "time": "3'",
+      "event": "Corner,  The Miami FC. Conceded by Kyle Adams."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Paolo DelPiccolo (Louisville City)."
+    },
+    {
+      "time": "4'",
+      "event": "Ryan Telfer (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "6'",
+      "event": "Carlos Moguel Jr (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Joaquín Rivas (The Miami FC)."
+    },
+    {
+      "time": "8'",
+      "event": "Attempt missed. Jorge González (Louisville City) right footed shot from outside the box is too high. Assisted by Maarten Pouwels with a headed pass."
+    },
+    {
+      "time": "10'",
+      "event": "Attempt blocked. Paolo DelPiccolo (Louisville City) right footed shot from outside the box is blocked. Assisted by Ray Serrano."
+    },
+    {
+      "time": "10'",
+      "event": "Corner,  Louisville City. Conceded by Gabriel Cabral."
+    },
+    {
+      "time": "11'",
+      "event": "Attempt blocked. Jorge González (Louisville City) right footed shot from the right side of the six yard box is blocked. Assisted by Carlos Moguel Jr with a through ball."
+    },
+    {
+      "time": "11'",
+      "event": "Attempt missed. Maarten Pouwels (Louisville City) header from very close range misses to the left. Assisted by Ray Serrano with a cross."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Paco Craig (The Miami FC)."
+    },
+    {
+      "time": "14'",
+      "event": "Maarten Pouwels (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "14'",
+      "event": "Corner,  Louisville City. Conceded by Jake McGuire."
+    },
+    {
+      "time": "15'",
+      "event": "Goal!  The Miami FC 0, Louisville City 1. Sean Totsch (Louisville City) header from the left side of the six yard box to the high centre of the goal. Assisted by Carlos Moguel Jr with a cross   following a corner."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Mark Segbers (The Miami FC)."
+    },
+    {
+      "time": "16'",
+      "event": "Jorge González (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "20'",
+      "event": "Corner,  The Miami FC. Conceded by Kyle Adams."
+    },
+    {
+      "time": "24'",
+      "event": "Christian Sorto (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Carlos Moguel Jr (Louisville City)."
+    },
+    {
+      "time": "25'",
+      "event": "Foul by Mark Segbers (The Miami FC)."
+    },
+    {
+      "time": "25'",
+      "event": "Jorge González (Louisville City) wins a free kick on the left wing."
+    },
+    {
+      "time": "25'",
+      "event": "Mark Segbers (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "25'",
+      "event": "Foul by Jorge González (Louisville City)."
+    },
+    {
+      "time": "28'",
+      "event": "Gabriel Cabral (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "28'",
+      "event": "Foul by Elijah Wynder (Louisville City)."
+    },
+    {
+      "time": "30'",
+      "event": "Florian Valot (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Elijah Wynder (Louisville City)."
+    },
+    {
+      "time": "30'",
+      "event": "Elijah Wynder (Louisville City) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "31'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "31'",
+      "event": "Foul by Ray Serrano (Louisville City)."
+    },
+    {
+      "time": "32'",
+      "event": "Goal!  The Miami FC 1, Louisville City 1. Christian Sorto (The Miami FC) right footed shot from the centre of the box to the bottom left corner    following a set piece situation."
+    },
+    {
+      "time": "33'",
+      "event": "Attempt blocked. Carlos Moguel Jr (Louisville City) right footed shot from outside the box is blocked. Assisted by Jorge González."
+    },
+    {
+      "time": "35'",
+      "event": "Foul by Mark Segbers (The Miami FC)."
+    },
+    {
+      "time": "35'",
+      "event": "Wes Charpie (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "35'",
+      "event": "Mark Segbers (The Miami FC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt missed. Jorge González (Louisville City) header from the centre of the box misses to the right. Assisted by Carlos Moguel Jr with a cross following a set piece situation."
+    },
+    {
+      "time": "37'",
+      "event": "Gabriel Cabral (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "37'",
+      "event": "Foul by Paolo DelPiccolo (Louisville City)."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Christian Sorto (The Miami FC)."
+    },
+    {
+      "time": "38'",
+      "event": "Ray Serrano (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "41'",
+      "event": "Attempt missed. Paolo DelPiccolo (Louisville City) left footed shot from outside the box is close, but misses to the right."
+    },
+    {
+      "time": "41'",
+      "event": "Christian Sorto (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Maarten Pouwels (Louisville City)."
+    },
+    {
+      "time": "42'",
+      "event": "Attempt saved. Ryan Telfer (The Miami FC) left footed shot from outside the box is saved in the centre of the goal. Assisted by Gabriel Cabral."
+    },
+    {
+      "time": "42'",
+      "event": "Corner,  The Miami FC. Conceded by Oliver Semmle."
+    },
+    {
+      "time": "43'",
+      "event": "Attempt missed. Kyle Murphy (The Miami FC) header from the centre of the box is high and wide to the left. Assisted by Joaquín Rivas with a cross."
+    },
+    {
+      "time": "45+1'",
+      "event": "Joaquín Rivas (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+1'",
+      "event": "Foul by Jorge González (Louisville City)."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, The Miami FC 1, Louisville City 1."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, The Miami FC. Michael Salazar replaces Ryan Telfer."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Louisville City. Wilson Harris replaces Maarten Pouwels."
+    },
+    {
+      "time": "48'",
+      "event": "Goal!  The Miami FC 1, Louisville City 2. Wilson Harris (Louisville City) left footed shot from the centre of the box to the bottom right corner. Assisted by Ray Serrano with a cross."
+    },
+    {
+      "time": "50'",
+      "event": "Kyle Murphy (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "50'",
+      "event": "Foul by Sean Totsch (Louisville City)."
+    },
+    {
+      "time": "51'",
+      "event": "Corner,  The Miami FC. Conceded by Ray Serrano."
+    },
+    {
+      "time": "54'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by Carlos Moguel Jr (Louisville City)."
+    },
+    {
+      "time": "56'",
+      "event": "Attempt saved. Ray Serrano (Louisville City) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Elijah Wynder."
+    },
+    {
+      "time": "57'",
+      "event": "Substitution, Louisville City. Brian Ownby replaces Jorge González."
+    },
+    {
+      "time": "57'",
+      "event": "Foul by Mark Segbers (The Miami FC)."
+    },
+    {
+      "time": "57'",
+      "event": "Brian Ownby (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "59'",
+      "event": "Attempt missed. Brian Ownby (Louisville City) right footed shot from outside the box is too high."
+    },
+    {
+      "time": "60'",
+      "event": "Attempt missed. Joaquín Rivas (The Miami FC) left footed shot from the centre of the box misses to the left. Assisted by Aedan Stanley with a cross."
+    },
+    {
+      "time": "60'",
+      "event": "Offside, The Miami FC. Joaquín Rivas tries a through ball, but Kyle Murphy is caught offside."
+    },
+    {
+      "time": "61'",
+      "event": "Aedan Stanley (The Miami FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "61'",
+      "event": "Foul by Manny Perez (Louisville City)."
+    },
+    {
+      "time": "62'",
+      "event": "Goal!  The Miami FC 2, Louisville City 2. Joaquín Rivas (The Miami FC) left footed shot from the centre of the box to the top left corner. Assisted by Paco Craig   following a set piece situation."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt blocked. Joaquín Rivas (The Miami FC) left footed shot from the right side of the box is blocked. Assisted by Gabriel Cabral."
+    },
+    {
+      "time": "65'",
+      "event": "Kyle Murphy (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Kyle Adams (Louisville City)."
+    },
+    {
+      "time": "66'",
+      "event": "Attempt saved. Ray Serrano (Louisville City) right footed shot from outside the box is saved in the centre of the goal. Assisted by Sean Totsch."
+    },
+    {
+      "time": "69'",
+      "event": "Mark Segbers (The Miami FC) hits the bar with a right footed shot from outside the box. Assisted by Gabriel Cabral."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, The Miami FC. Claudio Repetto replaces Kyle Murphy."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Louisville City. Dylan Mares replaces Paolo DelPiccolo."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Louisville City. Tyler Gibson replaces Carlos Moguel Jr."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt saved. Joaquín Rivas (The Miami FC) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Christian Sorto with a cross."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt blocked. Florian Valot (The Miami FC) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "73'",
+      "event": "Foul by Gabriel Cabral (The Miami FC)."
+    },
+    {
+      "time": "73'",
+      "event": "Dylan Mares (Louisville City) wins a free kick in the attacking half."
+    },
+    {
+      "time": "73'",
+      "event": "Penalty conceded by Michael Salazar (The Miami FC) after a foul in the penalty area."
+    },
+    {
+      "time": "73'",
+      "event": "Penalty Louisville City. Brian Ownby draws a foul in the penalty area."
+    },
+    {
+      "time": "74'",
+      "event": "Goal!  The Miami FC 2, Louisville City 3. Sean Totsch (Louisville City) converts the penalty with a right footed shot to the bottom right corner."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Michael Salazar (The Miami FC)."
+    },
+    {
+      "time": "75'",
+      "event": "Tyler Gibson (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "77'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "77'",
+      "event": "Foul by Wes Charpie (Louisville City)."
+    },
+    {
+      "time": "78'",
+      "event": "Goal!  The Miami FC 3, Louisville City 3. Gabriel Cabral (The Miami FC) left footed shot from the centre of the box to the top left corner. Assisted by Michael Salazar."
+    },
+    {
+      "time": "79'",
+      "event": "Foul by Wes Charpie (Louisville City)."
+    },
+    {
+      "time": "79'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "79'",
+      "event": "Wes Charpie (Louisville City) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "82'",
+      "event": "Offside, The Miami FC. Joaquín Rivas tries a through ball, but Claudio Repetto is caught offside."
+    },
+    {
+      "time": "82'",
+      "event": "Attempt blocked. Wilson Harris (Louisville City) left footed shot from outside the box is blocked. Assisted by Ray Serrano."
+    },
+    {
+      "time": "82'",
+      "event": "Corner,  Louisville City. Conceded by Ben Ofeimu."
+    },
+    {
+      "time": "83'",
+      "event": "Ray Serrano (Louisville City) wins a free kick on the right wing."
+    },
+    {
+      "time": "83'",
+      "event": "Foul by Joaquín Rivas (The Miami FC)."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Louisville City. Oscar Jiménez replaces Wes Charpie."
+    },
+    {
+      "time": "84'",
+      "event": "Attempt missed. Wilson Harris (Louisville City) left footed shot from the centre of the box is high and wide to the left following a set piece situation."
+    },
+    {
+      "time": "85'",
+      "event": "Foul by Dylan Mares (Louisville City)."
+    },
+    {
+      "time": "85'",
+      "event": "Florian Valot (The Miami FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "86'",
+      "event": "Penalty conceded by Sean Totsch (Louisville City) after a foul in the penalty area."
+    },
+    {
+      "time": "86'",
+      "event": "Penalty The Miami FC. Joaquín Rivas draws a foul in the penalty area."
+    },
+    {
+      "time": "86'",
+      "event": "Goal!  The Miami FC 4, Louisville City 3. Joaquín Rivas (The Miami FC) converts the penalty with a left footed shot to the bottom right corner."
+    },
+    {
+      "time": "88'",
+      "event": "Attempt missed. Oscar Jiménez (Louisville City) right footed shot from the centre of the box is just a bit too high. Assisted by Ray Serrano with a cross."
+    },
+    {
+      "time": "90+2'",
+      "event": "Michael Salazar (The Miami FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Oscar Jiménez (Louisville City)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Claudio Repetto (The Miami FC)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Kyle Adams (Louisville City) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Claudio Repetto (The Miami FC) is shown the yellow card."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, The Miami FC 4, Louisville City 3."
+    }
+  ]
+}

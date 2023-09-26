@@ -1,0 +1,869 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Charleston Battery",
+      "formation": "4-2-3-1",
+      "score": "2",
+      "lineup": {
+        "managerName": "Pirmann 45‎+‎1‎'‎",
+        "players": [
+          {
+            "shirtNumber": "24",
+            "playerName": "Kuzemka",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Dodson",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Crawford",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Archer",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "A.J. Cochran",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Allan",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Barajas",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "4"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "31"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "40"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Booth",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Ycaza",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "27"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Trager",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Williams",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "25",
+            "playerName": "Muse",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Paterson",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Reedy",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "Wynne",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "72"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Schmidt",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "69",
+            "playerName": "Avila",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Randall",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "FC Tulsa",
+      "formation": "3-5-2",
+      "score": "1",
+      "lineup": {
+        "managerName": "Gavin",
+        "players": [
+          {
+            "shirtNumber": "24",
+            "playerName": "Nelson",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Bonet",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Tetteh",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Hughes",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Malou",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "59"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Seagrist",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "48",
+            "playerName": "Bird",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "25"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Worth",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "87"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Ferri",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Haji",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Weah",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "59"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Wormell",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Bernal",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "59"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Bromstedt",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Corrales",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Fernandez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "59"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "89"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "McCabe",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Dyer",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 23, 2023 5:30 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "51.5%",
+        "Duels_Success_Rate": "49.0%",
+        "Ariel_Duels_Won": "50.0%",
+        "Interceptions": "7",
+        "Offsides": "0",
+        "Corners_Won": "5"
+      },
+      "away": {
+        "Possession": "48.5%",
+        "Duels_Success_Rate": "51.0%",
+        "Ariel_Duels_Won": "50.0%",
+        "Interceptions": "6",
+        "Offsides": "3",
+        "Corners_Won": "2"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "440",
+        "Long_Passes": "61",
+        "Passing_Accuracy": "80.2%",
+        "Passing_Accuracy_In_Opponent_Half": "69.4%",
+        "Crosses": "17",
+        "Crossing_Accuracy": "17.6%"
+      },
+      "away": {
+        "Passes": "421",
+        "Long_Passes": "47",
+        "Passing_Accuracy": "79.6%",
+        "Passing_Accuracy_In_Opponent_Half": "74.7%",
+        "Crosses": "9",
+        "Crossing_Accuracy": "33.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "11",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "2",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "36.4%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "7",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "1",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "3",
+        "Shooting_Accuracy": "42.9%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "12",
+        "Tackle_Success_Rate": "58.3%",
+        "Clearances": "17"
+      },
+      "away": {
+        "Tackles": "20",
+        "Tackle_Success_Rate": "70.0%",
+        "Clearances": "14"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "17",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "2'",
+      "event": "Foul by Andrew Booth (Charleston Battery)."
+    },
+    {
+      "time": "2'",
+      "event": "Eric Bird (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "3'",
+      "event": "Attempt missed. Ruxi (FC Tulsa) header from the centre of the box misses to the right. Assisted by Nathan Worth with a cross following a set piece situation."
+    },
+    {
+      "time": "4'",
+      "event": "Goal!  Charleston Battery 1, FC Tulsa 0. Fidel Barajas (Charleston Battery) left footed shot from the right side of the box to the bottom left corner. Assisted by Emilio Ycaza with a headed pass."
+    },
+    {
+      "time": "7'",
+      "event": "Attempt missed. Andrew Booth (Charleston Battery) right footed shot from outside the box misses to the right."
+    },
+    {
+      "time": "8'",
+      "event": "Corner,  Charleston Battery. Conceded by Rashid Tetteh."
+    },
+    {
+      "time": "10'",
+      "event": "Offside, FC Tulsa. Patrick Seagrist tries a through ball, but Patrick Weah is caught offside."
+    },
+    {
+      "time": "10'",
+      "event": "Nathan Worth (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "10'",
+      "event": "Foul by Emilio Ycaza (Charleston Battery)."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Patrick Weah (FC Tulsa)."
+    },
+    {
+      "time": "11'",
+      "event": "Derek Dodson (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "15'",
+      "event": "Justin Malou (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "15'",
+      "event": "Foul by Augustine Williams (Charleston Battery)."
+    },
+    {
+      "time": "19'",
+      "event": "Blaine Ferri (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Chris Allan (Charleston Battery)."
+    },
+    {
+      "time": "20'",
+      "event": "Foul by Patrick Weah (FC Tulsa)."
+    },
+    {
+      "time": "20'",
+      "event": "Andrew Booth (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "23'",
+      "event": "Corner,  Charleston Battery. Conceded by Justin Malou."
+    },
+    {
+      "time": "25'",
+      "event": "Foul by Eric Bird (FC Tulsa)."
+    },
+    {
+      "time": "25'",
+      "event": "Andrew Booth (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "25'",
+      "event": "Eric Bird (FC Tulsa) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "27'",
+      "event": "Nathan Worth (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Emilio Ycaza (Charleston Battery)."
+    },
+    {
+      "time": "27'",
+      "event": "Emilio Ycaza (Charleston Battery) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Eric Bird (FC Tulsa)."
+    },
+    {
+      "time": "29'",
+      "event": "Andrew Booth (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "30'",
+      "event": "Eric Bird (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Andrew Booth (Charleston Battery)."
+    },
+    {
+      "time": "31'",
+      "event": "Nathan Worth (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "31'",
+      "event": "Foul by Fidel Barajas (Charleston Battery)."
+    },
+    {
+      "time": "31'",
+      "event": "Fidel Barajas (Charleston Battery) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "33'",
+      "event": "Attempt missed. Derek Dodson (Charleston Battery) right footed shot from the right side of the box is high and wide to the right. Assisted by Emilio Ycaza."
+    },
+    {
+      "time": "33'",
+      "event": "Patrick Weah (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Alec Cochran (Charleston Battery)."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt missed. Siad Haji (FC Tulsa) right footed shot from outside the box is high and wide to the right. Assisted by Nathan Worth."
+    },
+    {
+      "time": "36'",
+      "event": "Delay in match  because of an injury Augustine Williams (Charleston Battery)."
+    },
+    {
+      "time": "37'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "39'",
+      "event": "Attempt saved. Augustine Williams (Charleston Battery) right footed shot from the left side of the box is saved in the centre of the goal. Assisted by Tristan Trager."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt blocked. Fidel Barajas (Charleston Battery) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "40'",
+      "event": "Goal!  Charleston Battery 2, FC Tulsa 0. Fidel Barajas (Charleston Battery) left footed shot from the right side of the box to the top left corner."
+    },
+    {
+      "time": "45'",
+      "event": "Offside, FC Tulsa. Patrick Seagrist tries a through ball, but Patrick Weah is caught offside."
+    },
+    {
+      "time": "45+1'",
+      "event": "Foul by Patrick Seagrist (FC Tulsa)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Fidel Barajas (Charleston Battery) wins a free kick on the right wing."
+    },
+    {
+      "time": "45+3'",
+      "event": "Patrick Weah (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "45+3'",
+      "event": "Foul by Alec Cochran (Charleston Battery)."
+    },
+    {
+      "time": "45+4'",
+      "event": "First Half ends, Charleston Battery 2, FC Tulsa 0."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Keegan Hughes (FC Tulsa)."
+    },
+    {
+      "time": "46'",
+      "event": "Tristan Trager (Charleston Battery) wins a free kick on the left wing."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt saved. Patrick Seagrist (FC Tulsa) left footed shot from outside the box is saved in the centre of the goal. Assisted by Patrick Weah."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Nathan Worth (FC Tulsa)."
+    },
+    {
+      "time": "49'",
+      "event": "Augustine Williams (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "49'",
+      "event": "Patrick Weah (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Alec Cochran (Charleston Battery)."
+    },
+    {
+      "time": "50'",
+      "event": "Foul by Patrick Seagrist (FC Tulsa)."
+    },
+    {
+      "time": "50'",
+      "event": "Derek Dodson (Charleston Battery) wins a free kick on the right wing."
+    },
+    {
+      "time": "51'",
+      "event": "Attempt missed. Andrew Booth (Charleston Battery) left footed shot from the centre of the box is too high. Assisted by Derek Dodson following a set piece situation."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Nathan Worth (FC Tulsa)."
+    },
+    {
+      "time": "56'",
+      "event": "Emilio Ycaza (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt missed. Fidel Barajas (Charleston Battery) left footed shot from the right side of the box misses to the left."
+    },
+    {
+      "time": "59'",
+      "event": "Substitution, FC Tulsa. Collin Fernandez replaces Patrick Weah."
+    },
+    {
+      "time": "59'",
+      "event": "Substitution, FC Tulsa. Angel Bernal replaces Justin Malou."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt blocked. Eric Bird (FC Tulsa) right footed shot from outside the box is blocked. Assisted by Blaine Ferri."
+    },
+    {
+      "time": "63'",
+      "event": "Corner,  FC Tulsa. Conceded by Robbie Crawford."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt missed. Eric Bird (FC Tulsa) left footed shot from the centre of the box misses to the right. Assisted by Nathan Worth with a cross following a corner."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Charleston Battery. Roberto Avila replaces Emilio Ycaza."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Keegan Hughes (FC Tulsa)."
+    },
+    {
+      "time": "66'",
+      "event": "Tristan Trager (Charleston Battery) wins a free kick on the left wing."
+    },
+    {
+      "time": "66'",
+      "event": "Attempt missed. Augustine Williams (Charleston Battery) header from the centre of the box misses to the right. Assisted by Robbie Crawford with a cross following a set piece situation."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt saved. Angel Bernal (FC Tulsa) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Eric Bird."
+    },
+    {
+      "time": "69'",
+      "event": "Delay in match  because of an injury Robbie Crawford (Charleston Battery)."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, FC Tulsa. Moses Dyer replaces Blaine Ferri."
+    },
+    {
+      "time": "72'",
+      "event": "Substitution, Charleston Battery. Deklan Wynne replaces Robbie Crawford because of an injury."
+    },
+    {
+      "time": "72'",
+      "event": "Substitution, Charleston Battery. Pierre Reedy replaces Fidel Barajas because of an injury."
+    },
+    {
+      "time": "72'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "73'",
+      "event": "Corner,  FC Tulsa. Conceded by Alec Cochran."
+    },
+    {
+      "time": "74'",
+      "event": "Moses Dyer (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Leland Archer (Charleston Battery)."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Ruxi (FC Tulsa)."
+    },
+    {
+      "time": "74'",
+      "event": "Augustine Williams (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "75'",
+      "event": "Corner,  Charleston Battery. Conceded by Ruxi."
+    },
+    {
+      "time": "75'",
+      "event": "Michael Nelson (FC Tulsa) wins a free kick in the defensive half."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Tristan Trager (Charleston Battery)."
+    },
+    {
+      "time": "76'",
+      "event": "Foul by Eric Bird (FC Tulsa)."
+    },
+    {
+      "time": "76'",
+      "event": "Chris Allan (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "76'",
+      "event": "Offside, FC Tulsa. Collin Fernandez tries a through ball, but Moses Dyer is caught offside."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Patrick Seagrist (FC Tulsa)."
+    },
+    {
+      "time": "80'",
+      "event": "Pierre Reedy (Charleston Battery) wins a free kick on the right wing."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Angel Bernal (FC Tulsa)."
+    },
+    {
+      "time": "80'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "83'",
+      "event": "Goal!  Charleston Battery 2, FC Tulsa 1. Eric Bird (FC Tulsa) right footed shot from outside the box to the bottom left corner. Assisted by Siad Haji."
+    },
+    {
+      "time": "84'",
+      "event": "Attempt saved. Augustine Williams (Charleston Battery) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Roberto Avila."
+    },
+    {
+      "time": "86'",
+      "event": "Attempt missed. Roberto Avila (Charleston Battery) right footed shot from outside the box misses to the left. Assisted by Andrew Booth with a headed pass."
+    },
+    {
+      "time": "86'",
+      "event": "Eric Bird (FC Tulsa) wins a free kick in the attacking half."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Andrew Booth (Charleston Battery)."
+    },
+    {
+      "time": "87'",
+      "event": "Foul by Nathan Worth (FC Tulsa)."
+    },
+    {
+      "time": "87'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "87'",
+      "event": "Nathan Worth (FC Tulsa) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, Charleston Battery. Joe Schmidt replaces Tristan Trager."
+    },
+    {
+      "time": "87'",
+      "event": "Substitution, Charleston Battery. Arthur Paterson replaces Augustine Williams."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Collin Fernandez (FC Tulsa)."
+    },
+    {
+      "time": "89'",
+      "event": "Joe Schmidt (Charleston Battery) wins a free kick in the attacking half."
+    },
+    {
+      "time": "89'",
+      "event": "Collin Fernandez (FC Tulsa) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Patrick Seagrist (FC Tulsa)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Roberto Avila (Charleston Battery) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+4'",
+      "event": "Corner,  Charleston Battery. Conceded by Nathan Worth."
+    },
+    {
+      "time": "90+5'",
+      "event": "Corner,  Charleston Battery. Conceded by Nathan Worth."
+    },
+    {
+      "time": "90+6'",
+      "event": "Second Half ends, Charleston Battery 2, FC Tulsa 1."
+    }
+  ]
+}

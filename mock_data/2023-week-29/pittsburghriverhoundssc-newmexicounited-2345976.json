@@ -1,0 +1,1008 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Pittsburgh Riverhounds SC",
+      "formation": "5-3-2",
+      "score": "2",
+      "lineup": {
+        "managerName": "Lilley",
+        "players": [
+          {
+            "shirtNumber": "26",
+            "playerName": "Waite",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Rovira",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Etou",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Dossantos",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Farrell",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "17"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "27"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Ordoñez",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "37"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Ybarra",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Griffin",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Forbes",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Kizza",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Albert Dikwa",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "903"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Garner",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Biasi",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Hogan",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Mertz",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Blackstock",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Obregón Jr",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Showunmi",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "903"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "New Mexico United",
+      "formation": "4-2-3-1",
+      "score": "1",
+      "lineup": {
+        "managerName": "Quill",
+        "players": [
+          {
+            "shirtNumber": "26",
+            "playerName": "Andy Thomas",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Astorga",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "56"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Bailey",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Seymore",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Ryden",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "2"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "43",
+            "playerName": "Portillo",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Penalty scored",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Rivas",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "79"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Hamilton",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernandez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Reyes",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Hurst",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "46"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Parker",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Colonna",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Yearwood",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "25",
+            "playerName": "Bruce",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "71"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Moreno",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "49",
+            "playerName": "Borgelin",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Moar",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "79"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 23, 2023 5:00 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "40.2%",
+        "Duels_Success_Rate": "56.7%",
+        "Ariel_Duels_Won": "65.2%",
+        "Interceptions": "5",
+        "Offsides": "5",
+        "Corners_Won": "4"
+      },
+      "away": {
+        "Possession": "59.8%",
+        "Duels_Success_Rate": "43.3%",
+        "Ariel_Duels_Won": "34.8%",
+        "Interceptions": "5",
+        "Offsides": "2",
+        "Corners_Won": "6"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "321",
+        "Long_Passes": "72",
+        "Passing_Accuracy": "68.8%",
+        "Passing_Accuracy_In_Opponent_Half": "60.4%",
+        "Crosses": "13",
+        "Crossing_Accuracy": "53.8%"
+      },
+      "away": {
+        "Passes": "484",
+        "Long_Passes": "92",
+        "Passing_Accuracy": "75.4%",
+        "Passing_Accuracy_In_Opponent_Half": "54.0%",
+        "Crosses": "13",
+        "Crossing_Accuracy": "23.1%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "13",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "2",
+        "Shots_Inside_Box": "11",
+        "Shooting_Accuracy": "46.2%"
+      },
+      "away": {
+        "Goals": "1",
+        "Shots": "15",
+        "Shots_On_Target": "3",
+        "Blocked_Shots": "7",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "11",
+        "Shooting_Accuracy": "20.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "10",
+        "Tackle_Success_Rate": "70.0%",
+        "Clearances": "16"
+      },
+      "away": {
+        "Tackles": "6",
+        "Tackle_Success_Rate": "50.0%",
+        "Clearances": "9"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "16",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "18",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "2'",
+      "event": "Foul by Kalen Ryden (New Mexico United)."
+    },
+    {
+      "time": "2'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick on the right wing."
+    },
+    {
+      "time": "2'",
+      "event": "Kalen Ryden (New Mexico United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "2'",
+      "event": "Attempt missed. Joseph Farrell (Pittsburgh Riverhounds SC) header from the centre of the box misses to the right. Assisted by Danny Griffin with a cross following a set piece situation."
+    },
+    {
+      "time": "4'",
+      "event": "Jacobo Reyes (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Marc Ybarra (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "8'",
+      "event": "Attempt blocked. Jacobo Reyes (New Mexico United) right footed shot from outside the box is blocked. Assisted by Sam Hamilton."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Kenardo Forbes (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "9'",
+      "event": "Nicky Hernandez (New Mexico United) wins a free kick on the right wing."
+    },
+    {
+      "time": "10'",
+      "event": "Foul by Daniel Rovira (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "10'",
+      "event": "Zico Bailey (New Mexico United) wins a free kick on the left wing."
+    },
+    {
+      "time": "11'",
+      "event": "Attempt blocked. Greg Hurst (New Mexico United) right footed shot from the left side of the box is blocked. Assisted by Sergio Rivas."
+    },
+    {
+      "time": "11'",
+      "event": "Corner,  New Mexico United. Conceded by Joseph Farrell."
+    },
+    {
+      "time": "11'",
+      "event": "Attempt missed. Greg Hurst (New Mexico United) header from the centre of the box is close, but misses the top right corner. Assisted by Justin Portillo with a cross following a corner."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt saved. Marc Ybarra (Pittsburgh Riverhounds SC) header from the centre of the box is saved in the bottom right corner. Assisted by Kenardo Forbes with a cross."
+    },
+    {
+      "time": "13'",
+      "event": "Daniel Rovira (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Sergio Rivas (New Mexico United)."
+    },
+    {
+      "time": "13'",
+      "event": "Edward Kizza (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Will Seymore (New Mexico United)."
+    },
+    {
+      "time": "14'",
+      "event": "Corner,  New Mexico United. Conceded by Joseph Farrell."
+    },
+    {
+      "time": "15'",
+      "event": "Foul by Nathan Dossantos (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "15'",
+      "event": "Sergio Rivas (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "16'",
+      "event": "Attempt saved. Sergio Rivas (New Mexico United) left footed shot from the left side of the box is saved in the centre of the goal. Assisted by Greg Hurst with a headed pass."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by Joseph Farrell (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "17'",
+      "event": "Jacobo Reyes (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "17'",
+      "event": "Joseph Farrell (Pittsburgh Riverhounds SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "18'",
+      "event": "Attempt blocked. Justin Portillo (New Mexico United) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "21'",
+      "event": "Corner,  New Mexico United. Conceded by Joseph Farrell."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt missed. Kalen Ryden (New Mexico United) right footed shot from the centre of the box misses to the right. Assisted by Justin Portillo with a cross following a corner."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Brunallergene Etou (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "23'",
+      "event": "Arturo Astorga (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Arturo Osuna (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "24'",
+      "event": "Foul by Jacobo Reyes (New Mexico United)."
+    },
+    {
+      "time": "26'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Andrew Thomas."
+    },
+    {
+      "time": "27'",
+      "event": "Goal!  Pittsburgh Riverhounds SC 1, New Mexico United 0. Joseph Farrell (Pittsburgh Riverhounds SC) header from very close range to the bottom left corner. Assisted by Kenardo Forbes with a cross   following a corner."
+    },
+    {
+      "time": "28'",
+      "event": "Attempt missed. Albert Dikwa (Pittsburgh Riverhounds SC) right footed shot from the right side of the box misses to the right. Assisted by Edward Kizza."
+    },
+    {
+      "time": "29'",
+      "event": "Offside, New Mexico United. Justin Portillo tries a through ball, but Greg Hurst is caught offside."
+    },
+    {
+      "time": "32'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Arturo Osuna tries a through ball, but Albert Dikwa is caught offside."
+    },
+    {
+      "time": "33'",
+      "event": "Attempt missed. Edward Kizza (Pittsburgh Riverhounds SC) right footed shot from the right side of the box is high and wide to the right."
+    },
+    {
+      "time": "34'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "34'",
+      "event": "Foul by Justin Portillo (New Mexico United)."
+    },
+    {
+      "time": "35'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Edward Kizza tries a through ball, but Albert Dikwa is caught offside."
+    },
+    {
+      "time": "36'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Arturo Astorga."
+    },
+    {
+      "time": "37'",
+      "event": "Goal!  Pittsburgh Riverhounds SC 2, New Mexico United 0. Arturo Osuna (Pittsburgh Riverhounds SC) header from very close range to the centre of the goal. Assisted by Kenardo Forbes with a cross   following a corner."
+    },
+    {
+      "time": "38'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "38'",
+      "event": "Foul by Kalen Ryden (New Mexico United)."
+    },
+    {
+      "time": "42'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Kalen Ryden."
+    },
+    {
+      "time": "43'",
+      "event": "Joseph Farrell (Pittsburgh Riverhounds SC) hits the bar with a header from the centre of the box. Assisted by Kenardo Forbes with a cross following a corner."
+    },
+    {
+      "time": "44'",
+      "event": "Attempt blocked. Justin Portillo (New Mexico United) right footed shot from outside the box is blocked. Assisted by Arturo Astorga."
+    },
+    {
+      "time": "44'",
+      "event": "Corner,  New Mexico United. Conceded by Arturo Osuna."
+    },
+    {
+      "time": "45'",
+      "event": "Corner,  New Mexico United. Conceded by Daniel Rovira."
+    },
+    {
+      "time": "45'",
+      "event": "Attempt missed. Kalen Ryden (New Mexico United) header from the centre of the box is close, but misses to the left. Assisted by Justin Portillo with a cross following a corner."
+    },
+    {
+      "time": "45+2'",
+      "event": "First Half ends, Pittsburgh Riverhounds SC 2, New Mexico United 0."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, New Mexico United. Amando Moreno replaces Sam Hamilton."
+    },
+    {
+      "time": "46'",
+      "event": "Arturo Osuna (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Greg Hurst (New Mexico United)."
+    },
+    {
+      "time": "46'",
+      "event": "Greg Hurst (New Mexico United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "47'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Albert Dikwa tries a through ball, but Daniel Rovira is caught offside."
+    },
+    {
+      "time": "48'",
+      "event": "Arturo Osuna (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "48'",
+      "event": "Foul by Amando Moreno (New Mexico United)."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Daniel Rovira (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "49'",
+      "event": "Zico Bailey (New Mexico United) wins a free kick on the left wing."
+    },
+    {
+      "time": "49'",
+      "event": "Corner,  New Mexico United. Conceded by Brunallergene Etou."
+    },
+    {
+      "time": "50'",
+      "event": "Greg Hurst (New Mexico United) hits the right post with a right footed shot from a difficult angle on the right. Assisted by Jacobo Reyes."
+    },
+    {
+      "time": "51'",
+      "event": "Attempt saved. Sergio Rivas (New Mexico United) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Amando Moreno."
+    },
+    {
+      "time": "52'",
+      "event": "Delay in match  because of an injury Sergio Rivas (New Mexico United)."
+    },
+    {
+      "time": "52'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "53'",
+      "event": "Edward Kizza (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Kalen Ryden (New Mexico United)."
+    },
+    {
+      "time": "54'",
+      "event": "Attempt blocked. Kenardo Forbes (Pittsburgh Riverhounds SC) right footed shot from the left side of the box is blocked. Assisted by Edward Kizza."
+    },
+    {
+      "time": "54'",
+      "event": "Offside, New Mexico United. Nicky Hernandez tries a through ball, but Greg Hurst is caught offside."
+    },
+    {
+      "time": "55'",
+      "event": "Foul by Kenardo Forbes (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "55'",
+      "event": "Arturo Astorga (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "56'",
+      "event": "Brunallergene Etou (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Arturo Astorga (New Mexico United)."
+    },
+    {
+      "time": "56'",
+      "event": "Arturo Astorga (New Mexico United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "57'",
+      "event": "Delay in match  because of an injury Brunallergene Etou (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "58'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt saved. Albert Dikwa (Pittsburgh Riverhounds SC) right footed shot from outside the box is saved in the bottom left corner. Assisted by Danny Griffin."
+    },
+    {
+      "time": "60'",
+      "event": "Corner,  Pittsburgh Riverhounds SC. Conceded by Arturo Astorga."
+    },
+    {
+      "time": "60'",
+      "event": "Attempt blocked. Albert Dikwa (Pittsburgh Riverhounds SC) header from the right side of the six yard box is blocked. Assisted by Kenardo Forbes with a cross."
+    },
+    {
+      "time": "60'",
+      "event": "Foul by Kenardo Forbes (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "60'",
+      "event": "Greg Hurst (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt saved. Daniel Rovira (Pittsburgh Riverhounds SC) right footed shot from outside the box is saved in the bottom right corner. Assisted by Albert Dikwa."
+    },
+    {
+      "time": "62'",
+      "event": "Hand ball by Zico Bailey (New Mexico United)."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, New Mexico United. Shanyder Borgelin replaces Greg Hurst."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, New Mexico United. Austin Yearwood replaces Jacobo Reyes."
+    },
+    {
+      "time": "65'",
+      "event": "Attempt blocked. Shanyder Borgelin (New Mexico United) right footed shot from the centre of the box is blocked. Assisted by Zico Bailey."
+    },
+    {
+      "time": "65'",
+      "event": "Attempt blocked. Nicky Hernandez (New Mexico United) right footed shot from the centre of the box is blocked. Assisted by Shanyder Borgelin."
+    },
+    {
+      "time": "66'",
+      "event": "Daniel Rovira (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Amando Moreno (New Mexico United)."
+    },
+    {
+      "time": "70'",
+      "event": "Danny Griffin (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Nicky Hernandez (New Mexico United)."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Juan Carlos Obregón Jr replaces Edward Kizza."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Robbie Mertz replaces Kenardo Forbes."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Luke Biasi replaces Daniel Rovira."
+    },
+    {
+      "time": "71'",
+      "event": "Substitution, New Mexico United. Daniel Bruce replaces Nicky Hernandez."
+    },
+    {
+      "time": "71'",
+      "event": "Juan Carlos Obregón Jr (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "71'",
+      "event": "Foul by Will Seymore (New Mexico United)."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt blocked. Robbie Mertz (Pittsburgh Riverhounds SC) right footed shot from the centre of the box is blocked. Assisted by Brunallergene Etou."
+    },
+    {
+      "time": "72'",
+      "event": "Joseph Farrell (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "72'",
+      "event": "Foul by Shanyder Borgelin (New Mexico United)."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Nathan Dossantos (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "75'",
+      "event": "Sergio Rivas (New Mexico United) wins a free kick on the right wing."
+    },
+    {
+      "time": "75'",
+      "event": "Nathan Dossantos (Pittsburgh Riverhounds SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "76'",
+      "event": "Delay in match  because of an injury Sergio Rivas (New Mexico United)."
+    },
+    {
+      "time": "77'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "78'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Luke Biasi tries a through ball, but Juan Carlos Obregón Jr is caught offside."
+    },
+    {
+      "time": "79'",
+      "event": "Delay in match  because of an injury Sergio Rivas (New Mexico United)."
+    },
+    {
+      "time": "79'",
+      "event": "Substitution, New Mexico United. Santi Moar replaces Sergio Rivas because of an injury."
+    },
+    {
+      "time": "79'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Patrick Hogan replaces Joseph Farrell."
+    },
+    {
+      "time": "79'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "80'",
+      "event": "Patrick Hogan (Pittsburgh Riverhounds SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Amando Moreno (New Mexico United)."
+    },
+    {
+      "time": "80'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Kalen Ryden (New Mexico United)."
+    },
+    {
+      "time": "81'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) hits the right post with a header from the centre of the box. Assisted by Robbie Mertz following a set piece situation."
+    },
+    {
+      "time": "82'",
+      "event": "Penalty conceded by Luke Biasi (Pittsburgh Riverhounds SC) with a hand ball in the penalty area."
+    },
+    {
+      "time": "83'",
+      "event": "Goal!  Pittsburgh Riverhounds SC 2, New Mexico United 1. Justin Portillo (New Mexico United) converts the penalty with a right footed shot to the top right corner."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Brunallergene Etou (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "88'",
+      "event": "Daniel Bruce (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "89'",
+      "event": "Attempt missed. Justin Portillo (New Mexico United) right footed shot from outside the box is high and wide to the left from a direct free kick."
+    },
+    {
+      "time": "89'",
+      "event": "Albert Dikwa (Pittsburgh Riverhounds SC) wins a free kick on the right wing."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Will Seymore (New Mexico United)."
+    },
+    {
+      "time": "90'",
+      "event": "Offside, Pittsburgh Riverhounds SC. Robbie Mertz tries a through ball, but Luke Biasi is caught offside."
+    },
+    {
+      "time": "90'",
+      "event": "Foul by Arturo Osuna (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "90'",
+      "event": "Shanyder Borgelin (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Foul by Albert Dikwa (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Will Seymore (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Substitution, Pittsburgh Riverhounds SC. Tola Showunmi replaces Albert Dikwa."
+    },
+    {
+      "time": "90+4'",
+      "event": "Foul by Tola Showunmi (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "90+4'",
+      "event": "Will Seymore (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Robbie Mertz (Pittsburgh Riverhounds SC)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Santi Moar (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+6'",
+      "event": "Attempt blocked. Shanyder Borgelin (New Mexico United) left footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "90+6'",
+      "event": "Second Half ends, Pittsburgh Riverhounds SC 2, New Mexico United 1."
+    }
+  ]
+}

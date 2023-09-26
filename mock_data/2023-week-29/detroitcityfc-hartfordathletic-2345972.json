@@ -1,0 +1,797 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Detroit City FC",
+      "formation": "4-4-2",
+      "score": "3",
+      "lineup": {
+        "managerName": "James",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Steinwascher",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Bryant",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "31"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Amoo-Mensah",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Lewis",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "57"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Carroll",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Diop",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Rutz",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Rodríguez",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Levis",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "92",
+            "playerName": "Suárez",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "24"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "25"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Morris",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Shellow",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "91",
+            "playerName": "Fisher",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Robinson",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Williams",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Billhardt",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "58"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Gasso",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "73",
+            "playerName": "Bibout",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Hartford Athletic",
+      "formation": "5-4-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Namazi",
+        "players": [
+          {
+            "shirtNumber": "13",
+            "playerName": "Rice",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "72",
+            "playerName": "Rito",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Hoppenot",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "58"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Hodge",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "28",
+            "playerName": "McGlynn",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Mendez",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "26"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Saydee",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "77",
+            "playerName": "Lewis",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Kibato",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Barrera",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Amoh",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Dorchin",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "50",
+            "playerName": "Logue",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Merrill",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Sheldon",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Makangila",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "26"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Torres",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "78"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Edwards",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 23, 2023 5:30 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "40.1%",
+        "Duels_Success_Rate": "51.5%",
+        "Ariel_Duels_Won": "53.1%",
+        "Interceptions": "8",
+        "Offsides": "0",
+        "Corners_Won": "4"
+      },
+      "away": {
+        "Possession": "59.9%",
+        "Duels_Success_Rate": "48.5%",
+        "Ariel_Duels_Won": "46.9%",
+        "Interceptions": "6",
+        "Offsides": "4",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "368",
+        "Long_Passes": "79",
+        "Passing_Accuracy": "79.1%",
+        "Passing_Accuracy_In_Opponent_Half": "68.4%",
+        "Crosses": "12",
+        "Crossing_Accuracy": "25.0%"
+      },
+      "away": {
+        "Passes": "555",
+        "Long_Passes": "47",
+        "Passing_Accuracy": "85.8%",
+        "Passing_Accuracy_In_Opponent_Half": "70.2%",
+        "Crosses": "14",
+        "Crossing_Accuracy": "14.3%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "3",
+        "Shots": "9",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "3",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "44.4%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "13",
+        "Shots_On_Target": "6",
+        "Blocked_Shots": "0",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "46.2%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "21",
+        "Tackle_Success_Rate": "90.5%",
+        "Clearances": "19"
+      },
+      "away": {
+        "Tackles": "14",
+        "Tackle_Success_Rate": "78.6%",
+        "Clearances": "12"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "10",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "12",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "3'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "3'",
+      "event": "Matt Lewis (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "5'",
+      "event": "Foul by Modesto Méndez (Hartford Athletic)."
+    },
+    {
+      "time": "5'",
+      "event": "Darío Suárez (Detroit City FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "8'",
+      "event": "Attempt missed. Ben Morris (Detroit City FC) right footed shot from the left side of the box is close, but misses the top right corner. Assisted by Connor Rutz."
+    },
+    {
+      "time": "9'",
+      "event": "Offside, Hartford Athletic. Kembo Kibato tries a through ball, but Elvis Amoh is caught offside."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt saved. Antoine Hoppenot (Hartford Athletic) left footed shot from the left side of the box is saved in the top centre of the goal. Assisted by Kembo Kibato."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt saved. Elvis Amoh (Hartford Athletic) left footed shot from the right side of the six yard box is saved in the bottom right corner."
+    },
+    {
+      "time": "15'",
+      "event": "Attempt missed. Darío Suárez (Detroit City FC) right footed shot from outside the box misses to the right. Assisted by Brett Levis."
+    },
+    {
+      "time": "16'",
+      "event": "Foul by Danny Barrera (Hartford Athletic)."
+    },
+    {
+      "time": "16'",
+      "event": "Michael Bryant (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Brett Levis (Detroit City FC)."
+    },
+    {
+      "time": "19'",
+      "event": "Andre Lewis (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "22'",
+      "event": "Attempt missed. Danny Barrera (Hartford Athletic) right footed shot from the centre of the box misses to the right."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt saved. Connor Rutz (Detroit City FC) right footed shot from outside the box is saved in the top centre of the goal."
+    },
+    {
+      "time": "24'",
+      "event": "Goal!  Detroit City FC 1, Hartford Athletic 0. Darío Suárez (Detroit City FC) right footed shot from the centre of the box to the bottom left corner."
+    },
+    {
+      "time": "25'",
+      "event": "Darío Suárez (Detroit City FC) is shown the yellow card for excessive celebration."
+    },
+    {
+      "time": "26'",
+      "event": "Substitution, Hartford Athletic. Beverly Makangila replaces Modesto Méndez."
+    },
+    {
+      "time": "26'",
+      "event": "Offside, Hartford Athletic. Edgardo Rito tries a through ball, but Prince Saydee is caught offside."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Abdoulaye Diop (Detroit City FC)."
+    },
+    {
+      "time": "27'",
+      "event": "Kembo Kibato (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "27'",
+      "event": "Foul by Brett Levis (Detroit City FC)."
+    },
+    {
+      "time": "27'",
+      "event": "Prince Saydee (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "30'",
+      "event": "Brett Levis (Detroit City FC) wins a free kick on the left wing."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Andre Lewis (Hartford Athletic)."
+    },
+    {
+      "time": "31'",
+      "event": "Goal!  Detroit City FC 2, Hartford Athletic 0. Michael Bryant (Detroit City FC) header from the right side of the six yard box to the high centre of the goal. Assisted by Maxi Rodriguez with a cross   following a set piece situation."
+    },
+    {
+      "time": "32'",
+      "event": "Darío Suárez (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "32'",
+      "event": "Foul by Andre Lewis (Hartford Athletic)."
+    },
+    {
+      "time": "34'",
+      "event": "Hand ball by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "35'",
+      "event": "Corner,  Hartford Athletic. Conceded by Matt Lewis."
+    },
+    {
+      "time": "37'",
+      "event": "Offside, Hartford Athletic. Andre Lewis tries a through ball, but Elvis Amoh is caught offside."
+    },
+    {
+      "time": "39'",
+      "event": "Foul by Connor Rutz (Detroit City FC)."
+    },
+    {
+      "time": "39'",
+      "event": "Antoine Hoppenot (Hartford Athletic) wins a free kick on the left wing."
+    },
+    {
+      "time": "41'",
+      "event": "Ben Morris (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "41'",
+      "event": "Foul by Beverly Makangila (Hartford Athletic)."
+    },
+    {
+      "time": "42'",
+      "event": "Delay in match  because of an injury Maxi Rodriguez (Detroit City FC)."
+    },
+    {
+      "time": "44'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "45+1'",
+      "event": "Hand ball by Abdoulaye Diop (Detroit City FC)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Attempt saved. Kembo Kibato (Hartford Athletic) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Edgardo Rito."
+    },
+    {
+      "time": "45+1'",
+      "event": "Corner,  Hartford Athletic. Conceded by Nathan Steinwascher."
+    },
+    {
+      "time": "45+2'",
+      "event": "Foul by Darío Suárez (Detroit City FC)."
+    },
+    {
+      "time": "45+2'",
+      "event": "Triston Hodge (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+2'",
+      "event": "Offside, Hartford Athletic. Andre Lewis tries a through ball, but Edgardo Rito is caught offside."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, Detroit City FC 2, Hartford Athletic 0."
+    },
+    {
+      "time": "46'",
+      "event": "Maxi Rodriguez (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "49'",
+      "event": "Corner,  Hartford Athletic. Conceded by Stephen Carroll."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt missed. Elvis Amoh (Hartford Athletic) header from the centre of the box misses to the right. Assisted by Antoine Hoppenot."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt missed. Edgardo Rito (Hartford Athletic) header from the right side of the six yard box misses to the left. Assisted by Elvis Amoh."
+    },
+    {
+      "time": "53'",
+      "event": "Attempt saved. Danny Barrera (Hartford Athletic) right footed shot from very close range is saved in the centre of the goal."
+    },
+    {
+      "time": "54'",
+      "event": "Foul by Michael Bryant (Detroit City FC)."
+    },
+    {
+      "time": "54'",
+      "event": "Prince Saydee (Hartford Athletic) wins a free kick on the left wing."
+    },
+    {
+      "time": "56'",
+      "event": "Attempt blocked. Connor Rutz (Detroit City FC) right footed shot from the right side of the box is blocked. Assisted by Devon Amoo-Mensah."
+    },
+    {
+      "time": "56'",
+      "event": "Corner,  Detroit City FC. Conceded by Triston Hodge."
+    },
+    {
+      "time": "57'",
+      "event": "Goal!  Detroit City FC 3, Hartford Athletic 0. Matt Lewis (Detroit City FC) right footed shot from the right side of the six yard box to the bottom left corner. Assisted by Brett Levis with a cross   following a corner."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, Detroit City FC. Adrian Billhardt replaces Brett Levis."
+    },
+    {
+      "time": "58'",
+      "event": "Substitution, Detroit City FC. Rhys Williams replaces Darío Suárez."
+    },
+    {
+      "time": "58'",
+      "event": "Antoine Hoppenot (Hartford Athletic) is shown the yellow card."
+    },
+    {
+      "time": "61'",
+      "event": "Corner,  Detroit City FC. Conceded by Edgardo Rito."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, Hartford Athletic. Kyle Edwards replaces Danny Barrera."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt saved. Elvis Amoh (Hartford Athletic) right footed shot from the centre of the box is saved in the centre of the goal."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Rhys Williams (Detroit City FC)."
+    },
+    {
+      "time": "67'",
+      "event": "Elvis Amoh (Hartford Athletic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "68'",
+      "event": "Attempt missed. Elvis Amoh (Hartford Athletic) right footed shot from outside the box is high and wide to the right from a direct free kick."
+    },
+    {
+      "time": "69'",
+      "event": "Delay in match  because of an injury Conor McGlynn (Hartford Athletic)."
+    },
+    {
+      "time": "71'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "71'",
+      "event": "Corner,  Detroit City FC. Conceded by Andre Lewis."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt blocked. Rhys Williams (Detroit City FC) right footed shot from outside the box is blocked. Assisted by Devon Amoo-Mensah."
+    },
+    {
+      "time": "72'",
+      "event": "Corner,  Detroit City FC. Conceded by Triston Hodge."
+    },
+    {
+      "time": "72'",
+      "event": "Attempt missed. Stephen Carroll (Detroit City FC) with an attempt from the centre of the box is high and wide to the right. Assisted by Adrian Billhardt with a cross following a corner."
+    },
+    {
+      "time": "74'",
+      "event": "Attempt missed. Prince Saydee (Hartford Athletic) right footed shot from outside the box is too high."
+    },
+    {
+      "time": "74'",
+      "event": "Maxi Rodriguez (Detroit City FC) wins a free kick on the right wing."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Antoine Hoppenot (Hartford Athletic)."
+    },
+    {
+      "time": "76'",
+      "event": "Foul by Connor Rutz (Detroit City FC)."
+    },
+    {
+      "time": "76'",
+      "event": "Beverly Makangila (Hartford Athletic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "77'",
+      "event": "Attempt missed. Beverly Makangila (Hartford Athletic) right footed shot from outside the box misses to the left. Assisted by Andre Lewis."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, Detroit City FC. Aaron Bibout replaces Ben Morris."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, Hartford Athletic. Luke Merrill replaces Edgardo Rito."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, Hartford Athletic. Niall Logue replaces Antoine Hoppenot."
+    },
+    {
+      "time": "78'",
+      "event": "Substitution, Hartford Athletic. Juan Pablo Torres replaces Kembo Kibato."
+    },
+    {
+      "time": "80'",
+      "event": "Corner,  Hartford Athletic. Conceded by Matt Lewis."
+    },
+    {
+      "time": "81'",
+      "event": "Attempt saved. Conor McGlynn (Hartford Athletic) right footed shot from outside the box is saved in the top left corner. Assisted by Triston Hodge."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Rhys Williams (Detroit City FC)."
+    },
+    {
+      "time": "84'",
+      "event": "Triston Hodge (Hartford Athletic) wins a free kick on the left wing."
+    },
+    {
+      "time": "86'",
+      "event": "Devon Amoo-Mensah (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Elvis Amoh (Hartford Athletic)."
+    },
+    {
+      "time": "89'",
+      "event": "Attempt missed. Juan Pablo Torres (Hartford Athletic) right footed shot from the centre of the box is too high. Assisted by Elvis Amoh."
+    },
+    {
+      "time": "90+2'",
+      "event": "Aaron Bibout (Detroit City FC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Beverly Makangila (Hartford Athletic)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Stephen Carroll (Detroit City FC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+2'",
+      "event": "Foul by Prince Saydee (Hartford Athletic)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Second Half ends, Detroit City FC 3, Hartford Athletic 0."
+    }
+  ]
+}

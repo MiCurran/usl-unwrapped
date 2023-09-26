@@ -1,0 +1,870 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Colorado Springs Switchbacks FC",
+      "formation": "4-2-3-1",
+      "score": "2",
+      "lineup": {
+        "managerName": "Hogan",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Herrera",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Skundrich",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Duke Lacroix",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Mahoney",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "66"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "41",
+            "playerName": "Musa",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Chapman",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Beckford",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "84"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "80",
+            "playerName": "Williams",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Magee",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "453"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "99",
+            "playerName": "Foster",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Romario Williams",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "29"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "40",
+            "playerName": "dubrovich",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Pierre",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Henriquez",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "62"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "902"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "44",
+            "playerName": "Rios",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Fjeldberg",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "84"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "27",
+            "playerName": "Tejada",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "62"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Wheeler",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "901"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "909"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Sacramento Republic FC",
+      "formation": "3-4-3",
+      "score": "0",
+      "lineup": {
+        "managerName": "Briggs",
+        "players": [
+          {
+            "shirtNumber": "31",
+            "playerName": "Vitiello",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Desmond",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Timmer",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Wiedt",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Gurr",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Viader",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "López",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "23"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "96",
+            "playerName": "Felipe",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Herrera",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Cicerone",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Rodrigo López",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Saldaña",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Donovan",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "40",
+            "playerName": "Sanchez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Parano",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "63"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Nick Ross",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Keko",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "45"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Lewis",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "83"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 23, 2023 6:00 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "49.6%",
+        "Duels_Success_Rate": "45.0%",
+        "Ariel_Duels_Won": "35.3%",
+        "Interceptions": "12",
+        "Offsides": "0",
+        "Corners_Won": "8"
+      },
+      "away": {
+        "Possession": "50.4%",
+        "Duels_Success_Rate": "55.0%",
+        "Ariel_Duels_Won": "64.7%",
+        "Interceptions": "18",
+        "Offsides": "1",
+        "Corners_Won": "5"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "495",
+        "Long_Passes": "61",
+        "Passing_Accuracy": "82.6%",
+        "Passing_Accuracy_In_Opponent_Half": "72.3%",
+        "Crosses": "9",
+        "Crossing_Accuracy": "11.1%"
+      },
+      "away": {
+        "Passes": "478",
+        "Long_Passes": "37",
+        "Passing_Accuracy": "82.8%",
+        "Passing_Accuracy_In_Opponent_Half": "73.2%",
+        "Crosses": "29",
+        "Crossing_Accuracy": "27.6%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "19",
+        "Shots_On_Target": "10",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "15",
+        "Shooting_Accuracy": "52.6%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "17",
+        "Shots_On_Target": "1",
+        "Blocked_Shots": "8",
+        "Shots_Outside_Box": "8",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "5.9%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "9",
+        "Tackle_Success_Rate": "100.0%",
+        "Clearances": "25"
+      },
+      "away": {
+        "Tackles": "19",
+        "Tackle_Success_Rate": "63.2%",
+        "Clearances": "13"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "11",
+        "Yellow_Cards": "4",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "4",
+        "Yellow_Cards": "1",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "5'",
+      "event": "Attempt blocked. Deshane Beckford (Colorado Springs Switchbacks) right footed shot from the right side of the box is blocked. Assisted by Maalique Foster."
+    },
+    {
+      "time": "5'",
+      "event": "Attempt saved. Jay Chapman (Colorado Springs Switchbacks) left footed shot from outside the box is saved in the bottom right corner."
+    },
+    {
+      "time": "5'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Danny Vitiello."
+    },
+    {
+      "time": "6'",
+      "event": "Attempt missed. Tyreek Magee (Colorado Springs Switchbacks) left footed shot from the right side of the box misses to the left. Assisted by Drew Skundrich following a corner."
+    },
+    {
+      "time": "7'",
+      "event": "Attempt saved. Romario Williams (Colorado Springs Switchbacks) left footed shot from the centre of the box is saved in the bottom left corner. Assisted by Maalique Foster."
+    },
+    {
+      "time": "9'",
+      "event": "Foul by Duke Lacroix (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "9'",
+      "event": "Jack Gurr (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "10'",
+      "event": "Foul by Jay Chapman (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "10'",
+      "event": "Luis Rodrigues (Sacramento Republic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "13'",
+      "event": "Corner,  Sacramento Republic. Conceded by Matt Mahoney."
+    },
+    {
+      "time": "14'",
+      "event": "Attempt missed. Arnold López (Sacramento Republic) right footed shot from outside the box is too high following a corner."
+    },
+    {
+      "time": "16'",
+      "event": "Attempt missed. Luis Rodrigues (Sacramento Republic) right footed shot from the right side of the box is too high. Assisted by Lee Desmond."
+    },
+    {
+      "time": "17'",
+      "event": "Attempt missed. Romario Williams (Colorado Springs Switchbacks) header from very close range misses to the right. Assisted by Drew Skundrich."
+    },
+    {
+      "time": "19'",
+      "event": "Duke Lacroix (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Russell Cicerone (Sacramento Republic)."
+    },
+    {
+      "time": "22'",
+      "event": "Attempt blocked. Juan Herrera (Sacramento Republic) right footed shot from the right side of the six yard box is blocked. Assisted by Jack Gurr with a cross."
+    },
+    {
+      "time": "23'",
+      "event": "Devon Williams (Colorado Springs Switchbacks) wins a free kick in the attacking half."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Arnold López (Sacramento Republic)."
+    },
+    {
+      "time": "23'",
+      "event": "Arnold López (Sacramento Republic) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt missed. Devon Williams (Colorado Springs Switchbacks) header from very close range misses to the right. Assisted by Duke Lacroix with a cross."
+    },
+    {
+      "time": "27'",
+      "event": "Attempt blocked. Russell Cicerone (Sacramento Republic) left footed shot from outside the box is blocked. Assisted by Arnold López."
+    },
+    {
+      "time": "29'",
+      "event": "Goal!  Colorado Springs Switchbacks 1, Sacramento Republic 0. Romario Williams (Colorado Springs Switchbacks) right footed shot from outside the box to the top right corner. Assisted by Devon Williams."
+    },
+    {
+      "time": "31'",
+      "event": "Russell Cicerone (Sacramento Republic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "31'",
+      "event": "Foul by James Musa (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "32'",
+      "event": "Attempt missed. Damià Viader (Sacramento Republic) left footed shot from outside the box misses to the right. Assisted by Luis Rodrigues following a set piece situation."
+    },
+    {
+      "time": "34'",
+      "event": "Attempt saved. Drew Skundrich (Colorado Springs Switchbacks) right footed shot from the right side of the box is saved in the bottom left corner. Assisted by Maalique Foster."
+    },
+    {
+      "time": "34'",
+      "event": "Attempt blocked. Duke Lacroix (Colorado Springs Switchbacks) left footed shot from the left side of the six yard box is blocked."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt missed. Maalique Foster (Colorado Springs Switchbacks) right footed shot from the centre of the box is close, but misses to the left. Assisted by Tyreek Magee following a fast break."
+    },
+    {
+      "time": "36'",
+      "event": "Attempt saved. Russell Cicerone (Sacramento Republic) right footed shot from outside the box is saved in the centre of the goal. Assisted by Rodrigo López."
+    },
+    {
+      "time": "37'",
+      "event": "Attempt missed. Russell Cicerone (Sacramento Republic) header from the centre of the box misses to the right. Assisted by Jack Gurr with a cross."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt saved. Deshane Beckford (Colorado Springs Switchbacks) right footed shot from the centre of the box is saved in the top left corner. Assisted by Tyreek Magee."
+    },
+    {
+      "time": "38'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Danny Vitiello."
+    },
+    {
+      "time": "43'",
+      "event": "Rodrigo López (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Devon Williams (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "44'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Jared Timmer."
+    },
+    {
+      "time": "45+2'",
+      "event": "Arnold López (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "45+2'",
+      "event": "Foul by Tyreek Magee (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "45+3'",
+      "event": "Tyreek Magee (Colorado Springs Switchbacks) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "45+5'",
+      "event": "First Half ends, Colorado Springs Switchbacks 1, Sacramento Republic 0."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Sacramento Republic. Nicholas Ross replaces Arnold López."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Sacramento Republic. Keko Gontán replaces Rodrigo López."
+    },
+    {
+      "time": "45'",
+      "event": "Substitution, Sacramento Republic. Conor Donovan replaces Jared Timmer."
+    },
+    {
+      "time": "46'",
+      "event": "Delay in match   (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "47'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "48'",
+      "event": "Attempt blocked. Romario Williams (Colorado Springs Switchbacks) right footed shot from the right side of the box is blocked. Assisted by Deshane Beckford."
+    },
+    {
+      "time": "48'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Shane Wiedt."
+    },
+    {
+      "time": "48'",
+      "event": "Attempt missed. Maalique Foster (Colorado Springs Switchbacks) right footed shot from outside the box misses to the right. Assisted by Tyreek Magee following a corner."
+    },
+    {
+      "time": "49'",
+      "event": "Juan Herrera (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Drew Skundrich (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "50'",
+      "event": "Attempt blocked. Conor Donovan (Sacramento Republic) right footed shot from outside the box is blocked. Assisted by Nicholas Ross."
+    },
+    {
+      "time": "50'",
+      "event": "Corner,  Sacramento Republic. Conceded by Devon Williams."
+    },
+    {
+      "time": "51'",
+      "event": "Attempt blocked. Keko Gontán (Sacramento Republic) left footed shot from the right side of the box is blocked. Assisted by Damià Viader with a cross."
+    },
+    {
+      "time": "53'",
+      "event": "Corner,  Sacramento Republic. Conceded by Romario Williams."
+    },
+    {
+      "time": "57'",
+      "event": "Attempt saved. Deshane Beckford (Colorado Springs Switchbacks) left footed shot from the right side of the box is saved in the top centre of the goal. Assisted by Devon Williams."
+    },
+    {
+      "time": "59'",
+      "event": "Attempt missed. Deshane Beckford (Colorado Springs Switchbacks) right footed shot from the right side of the box misses to the left."
+    },
+    {
+      "time": "59'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Lee Desmond."
+    },
+    {
+      "time": "59'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Russell Cicerone."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt blocked. Drew Skundrich (Colorado Springs Switchbacks) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "61'",
+      "event": "Delay in match  because of an injury Conor Donovan (Sacramento Republic)."
+    },
+    {
+      "time": "62'",
+      "event": "Substitution, Colorado Springs Switchbacks. Jairo Henríquez replaces Tyreek Magee."
+    },
+    {
+      "time": "62'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "62'",
+      "event": "Substitution, Colorado Springs Switchbacks. Juan Tejada replaces Maalique Foster."
+    },
+    {
+      "time": "63'",
+      "event": "Substitution, Sacramento Republic. Cristian Parano replaces Juan Herrera."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Cristian Parano (Sacramento Republic)."
+    },
+    {
+      "time": "65'",
+      "event": "James Musa (Colorado Springs Switchbacks) wins a free kick in the defensive half."
+    },
+    {
+      "time": "66'",
+      "event": "Cristian Parano (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Juan Tejada (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "66'",
+      "event": "Russell Cicerone (Sacramento Republic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Matt Mahoney (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "66'",
+      "event": "Matt Mahoney (Colorado Springs Switchbacks) is shown the yellow card."
+    },
+    {
+      "time": "67'",
+      "event": "Attempt blocked. Cristian Parano (Sacramento Republic) right footed shot from the centre of the box is blocked. Assisted by Conor Donovan with a headed pass."
+    },
+    {
+      "time": "67'",
+      "event": "Corner,  Sacramento Republic. Conceded by James Musa."
+    },
+    {
+      "time": "68'",
+      "event": "Delay in match  because of an injury Christian Herrera (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "70'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt missed. Damià Viader (Sacramento Republic) header from the centre of the box is close, but misses to the left. Assisted by Jack Gurr with a cross."
+    },
+    {
+      "time": "73'",
+      "event": "Delay in match  because of an injury Christian Herrera (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "74'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "75'",
+      "event": "Keko Gontán (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "75'",
+      "event": "Foul by Drew Skundrich (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "77'",
+      "event": "Attempt missed. Keko Gontán (Sacramento Republic) right footed shot from the centre of the box misses to the left. Assisted by Jack Gurr with a cross."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt saved. Deshane Beckford (Colorado Springs Switchbacks) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Duke Lacroix."
+    },
+    {
+      "time": "80'",
+      "event": "Delay in match  because of an injury Devon Williams (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "80'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "81'",
+      "event": "Corner,  Sacramento Republic. Conceded by Duke Lacroix."
+    },
+    {
+      "time": "82'",
+      "event": "Attempt missed. Jack Gurr (Sacramento Republic) left footed shot from outside the box misses to the right following a corner."
+    },
+    {
+      "time": "83'",
+      "event": "Substitution, Sacramento Republic. Zeiko Lewis replaces Luis Rodrigues."
+    },
+    {
+      "time": "84'",
+      "event": "Substitution, Colorado Springs Switchbacks. Jonas Fjeldberg replaces Deshane Beckford."
+    },
+    {
+      "time": "84'",
+      "event": "Deshane Beckford (Colorado Springs Switchbacks) is shown the yellow card."
+    },
+    {
+      "time": "86'",
+      "event": "Conor Donovan (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Jairo Henríquez (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "87'",
+      "event": "Attempt blocked. Zeiko Lewis (Sacramento Republic) right footed shot from outside the box is blocked. Assisted by Damià Viader."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt blocked. Cristian Parano (Sacramento Republic) left footed shot from outside the box is blocked. Assisted by Keko Gontán."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt missed. Keko Gontán (Sacramento Republic) left footed shot from the centre of the box is too high."
+    },
+    {
+      "time": "90+1'",
+      "event": "Substitution, Colorado Springs Switchbacks. Aaron Wheeler replaces Romario Williams."
+    },
+    {
+      "time": "90+1'",
+      "event": "Aaron Wheeler (Colorado Springs Switchbacks) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Shane Wiedt (Sacramento Republic)."
+    },
+    {
+      "time": "90+2'",
+      "event": "Goal!  Colorado Springs Switchbacks 2, Sacramento Republic 0. Jairo Henríquez (Colorado Springs Switchbacks) right footed shot from the centre of the box to the top right corner."
+    },
+    {
+      "time": "90+4'",
+      "event": "Offside, Sacramento Republic. Cristian Parano tries a through ball, but Keko Gontán is caught offside."
+    },
+    {
+      "time": "90+5'",
+      "event": "Attempt blocked. Keko Gontán (Sacramento Republic) right footed shot from the right side of the box is blocked."
+    },
+    {
+      "time": "90+5'",
+      "event": "Foul by Aaron Wheeler (Colorado Springs Switchbacks)."
+    },
+    {
+      "time": "90+5'",
+      "event": "Lee Desmond (Sacramento Republic) wins a free kick on the left wing."
+    },
+    {
+      "time": "90+9'",
+      "event": "Attempt saved. Jairo Henríquez (Colorado Springs Switchbacks) right footed shot from the centre of the box is saved in the centre of the goal."
+    },
+    {
+      "time": "90+9'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Danny Vitiello."
+    },
+    {
+      "time": "90+9'",
+      "event": "Aaron Wheeler (Colorado Springs Switchbacks) is shown the yellow card."
+    },
+    {
+      "time": "90+9'",
+      "event": "Corner,  Colorado Springs Switchbacks. Conceded by Keko Gontán."
+    },
+    {
+      "time": "90+10'",
+      "event": "Second Half ends, Colorado Springs Switchbacks 2, Sacramento Republic 0."
+    }
+  ]
+}

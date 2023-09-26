@@ -1,0 +1,970 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "San Antonio FC",
+      "formation": "4-4-2",
+      "score": "4",
+      "lineup": {
+        "managerName": "Marcina",
+        "players": [
+          {
+            "shirtNumber": "21",
+            "playerName": "Marsman",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Maloney",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Jome",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "90"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Yacoubou",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "50"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Taintor",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Zouhir",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Nathan",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "6"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "21"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernández",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Hayes",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "44"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Oluwaseyi",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "57"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Patiño",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "61"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "62"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Farr",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Batista",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Parker",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "90"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Azócar",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Boni",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Bailone",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Dhillon",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "83"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "Orange County SC",
+      "formation": "4-1-4-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Karlsen",
+        "players": [
+          {
+            "shirtNumber": "75",
+            "playerName": "López",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Lamb",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Doghman",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "30",
+            "playerName": "Nakkim",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Powers",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Casiple",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "53"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Lankford",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Iloski",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "51"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "26",
+            "playerName": "Scott",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Iloski",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "21",
+            "playerName": "Amang",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "29",
+            "playerName": "Santana",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Fox",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Miles",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Richards",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Villanueva",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Jamison",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "55"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "McNulty",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "55"
+              },
+              {
+                "event": "Yellow card",
+                "eventTime": "67"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 23, 2023 6:30 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "47.4%",
+        "Duels_Success_Rate": "45.5%",
+        "Ariel_Duels_Won": "63.6%",
+        "Interceptions": "11",
+        "Offsides": "2",
+        "Corners_Won": "7"
+      },
+      "away": {
+        "Possession": "52.6%",
+        "Duels_Success_Rate": "54.5%",
+        "Ariel_Duels_Won": "36.4%",
+        "Interceptions": "4",
+        "Offsides": "0",
+        "Corners_Won": "4"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "330",
+        "Long_Passes": "37",
+        "Passing_Accuracy": "79.4%",
+        "Passing_Accuracy_In_Opponent_Half": "66.4%",
+        "Crosses": "18",
+        "Crossing_Accuracy": "16.7%"
+      },
+      "away": {
+        "Passes": "365",
+        "Long_Passes": "69",
+        "Passing_Accuracy": "73.7%",
+        "Passing_Accuracy_In_Opponent_Half": "66.7%",
+        "Crosses": "18",
+        "Crossing_Accuracy": "27.8%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "4",
+        "Shots": "15",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "4",
+        "Shots_Outside_Box": "6",
+        "Shots_Inside_Box": "9",
+        "Shooting_Accuracy": "33.3%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "10",
+        "Shots_On_Target": "5",
+        "Blocked_Shots": "2",
+        "Shots_Outside_Box": "2",
+        "Shots_Inside_Box": "8",
+        "Shooting_Accuracy": "50.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "12",
+        "Tackle_Success_Rate": "75.0%",
+        "Clearances": "17"
+      },
+      "away": {
+        "Tackles": "18",
+        "Tackle_Success_Rate": "88.9%",
+        "Clearances": "17"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "18",
+        "Yellow_Cards": "4",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "11",
+        "Yellow_Cards": "4",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "1'",
+      "event": "Attempt saved. Jorge Hernández (San Antonio) right footed shot from the left side of the box is saved in the bottom left corner."
+    },
+    {
+      "time": "6'",
+      "event": "Goal!  San Antonio 1, Orange County SC 0. Nathan Fogaça (San Antonio) left footed shot from the left side of the box to the bottom right corner. Assisted by Tani Oluwaseyi."
+    },
+    {
+      "time": "7'",
+      "event": "Milan Iloski (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Connor Maloney (San Antonio)."
+    },
+    {
+      "time": "8'",
+      "event": "Markus Nakkim (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "8'",
+      "event": "Foul by Tani Oluwaseyi (San Antonio)."
+    },
+    {
+      "time": "9'",
+      "event": "Delay in match  because of an injury Ryan Doghman (Orange County SC)."
+    },
+    {
+      "time": "10'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "12'",
+      "event": "Corner,  San Antonio. Conceded by Ryan Doghman."
+    },
+    {
+      "time": "13'",
+      "event": "Delay in match  because of an injury Milan Iloski (Orange County SC)."
+    },
+    {
+      "time": "14'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "14'",
+      "event": "Dillon Powers (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Tulu (San Antonio)."
+    },
+    {
+      "time": "15'",
+      "event": "Milan Iloski (Orange County SC) wins a free kick on the left wing."
+    },
+    {
+      "time": "15'",
+      "event": "Foul by Jacori Hayes (San Antonio)."
+    },
+    {
+      "time": "15'",
+      "event": "Brian Iloski (Orange County SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "15'",
+      "event": "Foul by Rida Zouhir (San Antonio)."
+    },
+    {
+      "time": "17'",
+      "event": "Attempt saved. Brian Iloski (Orange County SC) left footed shot from outside the box is saved in the top centre of the goal."
+    },
+    {
+      "time": "17'",
+      "event": "Corner,  San Antonio. Conceded by Ryan Doghman."
+    },
+    {
+      "time": "18'",
+      "event": "Attempt missed. Mitchell Taintor (San Antonio) header from a difficult angle on the left misses to the left. Assisted by Jorge Hernández with a cross following a corner."
+    },
+    {
+      "time": "20'",
+      "event": "Corner,  San Antonio. Conceded by Kevin Lankford."
+    },
+    {
+      "time": "21'",
+      "event": "Attempt blocked. Nathan Fogaça (San Antonio) header from the centre of the box is blocked."
+    },
+    {
+      "time": "21'",
+      "event": "Brian Iloski (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Nathan Fogaça (San Antonio)."
+    },
+    {
+      "time": "21'",
+      "event": "Nathan Fogaça (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "23'",
+      "event": "Jorge Hernández (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Brian Iloski (Orange County SC)."
+    },
+    {
+      "time": "23'",
+      "event": "Jorge Hernández (San Antonio) wins a free kick on the left wing."
+    },
+    {
+      "time": "23'",
+      "event": "Foul by Seth Casiple (Orange County SC)."
+    },
+    {
+      "time": "24'",
+      "event": "Attempt missed. Rida Zouhir (San Antonio) right footed shot from outside the box is too high following a set piece situation."
+    },
+    {
+      "time": "25'",
+      "event": "Dillon Powers (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "25'",
+      "event": "Foul by Tani Oluwaseyi (San Antonio)."
+    },
+    {
+      "time": "26'",
+      "event": "Jorge Hernández (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Brian Iloski (Orange County SC)."
+    },
+    {
+      "time": "27'",
+      "event": "Attempt blocked. Rida Zouhir (San Antonio) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "32'",
+      "event": "Corner,  Orange County SC. Conceded by Ismaila Jome."
+    },
+    {
+      "time": "33'",
+      "event": "Attempt saved. Thomas Amang (Orange County SC) header from the centre of the box is saved in the top left corner. Assisted by Ryan Doghman with a cross."
+    },
+    {
+      "time": "35'",
+      "event": "Corner,  San Antonio. Conceded by Owen Lambe."
+    },
+    {
+      "time": "36'",
+      "event": "Corner,  San Antonio. Conceded by Thomas Amang."
+    },
+    {
+      "time": "38'",
+      "event": "Attempt blocked. Kevin Lankford (Orange County SC) right footed shot from the right side of the box is blocked. Assisted by Ryan Doghman with a cross."
+    },
+    {
+      "time": "39'",
+      "event": "Attempt missed. Milan Iloski (Orange County SC) right footed shot from the centre of the box is high and wide to the left. Assisted by Owen Lambe."
+    },
+    {
+      "time": "42'",
+      "event": "Foul by Santiago Patiño (San Antonio)."
+    },
+    {
+      "time": "42'",
+      "event": "Markus Nakkim (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Rida Zouhir (San Antonio)."
+    },
+    {
+      "time": "43'",
+      "event": "Kyle Scott (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "43'",
+      "event": "Nathan Fogaça (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Ryan Doghman (Orange County SC)."
+    },
+    {
+      "time": "44'",
+      "event": "Foul by Jacori Hayes (San Antonio)."
+    },
+    {
+      "time": "44'",
+      "event": "Milan Iloski (Orange County SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "44'",
+      "event": "Jacori Hayes (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "45'",
+      "event": "Delay in match  because of an injury Milan Iloski (Orange County SC)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "45+2'",
+      "event": "Attempt blocked. Markus Nakkim (Orange County SC) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "45+2'",
+      "event": "Corner,  Orange County SC. Conceded by Mitchell Taintor."
+    },
+    {
+      "time": "45+4'",
+      "event": "Attempt blocked. Tani Oluwaseyi (San Antonio) left footed shot from the left side of the box is blocked. Assisted by Rida Zouhir."
+    },
+    {
+      "time": "45+4'",
+      "event": "Corner,  San Antonio. Conceded by Owen Lambe."
+    },
+    {
+      "time": "45+5'",
+      "event": "First Half ends, San Antonio 1, Orange County SC 0."
+    },
+    {
+      "time": "47'",
+      "event": "Foul by Tani Oluwaseyi (San Antonio)."
+    },
+    {
+      "time": "47'",
+      "event": "Owen Lambe (Orange County SC) wins a free kick on the right wing."
+    },
+    {
+      "time": "48'",
+      "event": "Rida Zouhir (San Antonio) wins a free kick on the right wing."
+    },
+    {
+      "time": "48'",
+      "event": "Foul by Kyle Scott (Orange County SC)."
+    },
+    {
+      "time": "49'",
+      "event": "Jacori Hayes (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Thomas Amang (Orange County SC)."
+    },
+    {
+      "time": "50'",
+      "event": "Goal!  San Antonio 2, Orange County SC 0. Tulu (San Antonio) header from the centre of the box to the bottom left corner. Assisted by Jorge Hernández with a cross   following a set piece situation."
+    },
+    {
+      "time": "51'",
+      "event": "Jorge Hernández (San Antonio) wins a free kick on the left wing."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Brian Iloski (Orange County SC)."
+    },
+    {
+      "time": "51'",
+      "event": "Brian Iloski (Orange County SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "52'",
+      "event": "Attempt missed. Santiago Patiño (San Antonio) header from very close range is too high. Assisted by Mitchell Taintor with a headed pass following a set piece situation."
+    },
+    {
+      "time": "53'",
+      "event": "Jorge Hernández (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Seth Casiple (Orange County SC)."
+    },
+    {
+      "time": "53'",
+      "event": "Seth Casiple (Orange County SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "54'",
+      "event": "Attempt blocked. Rida Zouhir (San Antonio) right footed shot from outside the box is blocked."
+    },
+    {
+      "time": "55'",
+      "event": "Substitution, Orange County SC. Bryce Jamison replaces Kevin Lankford."
+    },
+    {
+      "time": "55'",
+      "event": "Substitution, Orange County SC. Marc McNulty replaces Brian Iloski."
+    },
+    {
+      "time": "55'",
+      "event": "Substitution, Orange County SC. Andrew Fox replaces Ryan Doghman."
+    },
+    {
+      "time": "56'",
+      "event": "Ismaila Jome (San Antonio) wins a free kick on the left wing."
+    },
+    {
+      "time": "56'",
+      "event": "Foul by Bryce Jamison (Orange County SC)."
+    },
+    {
+      "time": "57'",
+      "event": "Goal!  San Antonio 3, Orange County SC 0. Tani Oluwaseyi (San Antonio) left footed shot from outside the box to the bottom right corner. Assisted by Rida Zouhir."
+    },
+    {
+      "time": "59'",
+      "event": "Foul by Ismaila Jome (San Antonio)."
+    },
+    {
+      "time": "59'",
+      "event": "Bryce Jamison (Orange County SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "61'",
+      "event": "Goal!  San Antonio 4, Orange County SC 0. Santiago Patiño (San Antonio) right footed shot from the centre of the box to the bottom left corner. Assisted by Nathan Fogaça."
+    },
+    {
+      "time": "62'",
+      "event": "Foul by Santiago Patiño (San Antonio)."
+    },
+    {
+      "time": "62'",
+      "event": "Markus Nakkim (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "62'",
+      "event": "Santiago Patiño (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "63'",
+      "event": "Attempt missed. Marc McNulty (Orange County SC) right footed shot from the centre of the box is too high. Assisted by Milan Iloski."
+    },
+    {
+      "time": "64'",
+      "event": "Attempt missed. Santiago Patiño (San Antonio) right footed shot from the right side of the box is too high. Assisted by Jacori Hayes."
+    },
+    {
+      "time": "66'",
+      "event": "Attempt missed. Jorge Hernández (San Antonio) left footed shot from outside the box is too high. Assisted by Jacori Hayes."
+    },
+    {
+      "time": "67'",
+      "event": "Jorge Hernández (San Antonio) wins a free kick in the attacking half."
+    },
+    {
+      "time": "67'",
+      "event": "Foul by Marc McNulty (Orange County SC)."
+    },
+    {
+      "time": "67'",
+      "event": "Marc McNulty (Orange County SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "68'",
+      "event": "Attempt missed. Nathan Fogaça (San Antonio) right footed shot from outside the box is too high from a direct free kick."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Connor Maloney (San Antonio)."
+    },
+    {
+      "time": "70'",
+      "event": "Milan Iloski (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "70'",
+      "event": "Foul by Tani Oluwaseyi (San Antonio)."
+    },
+    {
+      "time": "70'",
+      "event": "Owen Lambe (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "71'",
+      "event": "Attempt saved. Bryce Jamison (Orange County SC) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Milan Iloski."
+    },
+    {
+      "time": "72'",
+      "event": "Delay in match  because of an injury Tulu (San Antonio)."
+    },
+    {
+      "time": "73'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "74'",
+      "event": "Corner,  San Antonio. Conceded by Seth Casiple."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Tani Oluwaseyi (San Antonio)."
+    },
+    {
+      "time": "74'",
+      "event": "Thomas Amang (Orange County SC) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Corner,  Orange County SC. Conceded by Ismaila Jome."
+    },
+    {
+      "time": "75'",
+      "event": "Attempt saved. Thomas Amang (Orange County SC) header from the centre of the box is saved in the bottom left corner. Assisted by Owen Lambe with a cross."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, Orange County SC. Alex Villanueva replaces Thomas Amang."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, San Antonio. Ignacio Bailone replaces Santiago Patiño."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, San Antonio. Juan Azócar replaces Nathan Fogaça."
+    },
+    {
+      "time": "78'",
+      "event": "Offside, San Antonio. Tani Oluwaseyi tries a through ball, but Ignacio Bailone is caught offside."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Ismaila Jome (San Antonio)."
+    },
+    {
+      "time": "78'",
+      "event": "Bryce Jamison (Orange County SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt saved. Marc McNulty (Orange County SC) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Bryce Jamison."
+    },
+    {
+      "time": "80'",
+      "event": "Ignacio Bailone (San Antonio) wins a free kick in the defensive half."
+    },
+    {
+      "time": "80'",
+      "event": "Foul by Markus Nakkim (Orange County SC)."
+    },
+    {
+      "time": "80'",
+      "event": "Markus Nakkim (Orange County SC) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "82'",
+      "event": "Attempt missed. Milan Iloski (Orange County SC) right footed shot from the centre of the box is close, but misses to the left. Assisted by Alex Villanueva."
+    },
+    {
+      "time": "83'",
+      "event": "Substitution, San Antonio. Trova Boni replaces Rida Zouhir."
+    },
+    {
+      "time": "83'",
+      "event": "Substitution, San Antonio. Justin Dhillon replaces Tani Oluwaseyi."
+    },
+    {
+      "time": "84'",
+      "event": "Offside, San Antonio. Justin Dhillon tries a through ball, but Ignacio Bailone is caught offside."
+    },
+    {
+      "time": "85'",
+      "event": "Foul by Mitchell Taintor (San Antonio)."
+    },
+    {
+      "time": "85'",
+      "event": "Marc McNulty (Orange County SC) wins a free kick in the attacking half."
+    },
+    {
+      "time": "85'",
+      "event": "Mitchell Taintor (San Antonio) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "86'",
+      "event": "Corner,  Orange County SC. Conceded by Ignacio Bailone."
+    },
+    {
+      "time": "90'",
+      "event": "Substitution, San Antonio. Isaiah Parker replaces Ismaila Jome."
+    },
+    {
+      "time": "90+3'",
+      "event": "Delay in match  because of an injury Tulu (San Antonio)."
+    },
+    {
+      "time": "90+3'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, San Antonio 4, Orange County SC 0."
+    }
+  ]
+}

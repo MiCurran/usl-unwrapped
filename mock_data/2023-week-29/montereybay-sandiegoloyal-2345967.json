@@ -1,0 +1,855 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Monterey Bay",
+      "formation": "5-4-1",
+      "score": "2",
+      "lineup": {
+        "managerName": "Yallop",
+        "players": [
+          {
+            "shirtNumber": "21",
+            "playerName": "Herrera",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Doner",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Martinez",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Roberts",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "33",
+            "playerName": "Greene",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Lara",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "37"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Gleadle",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "23"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Murphy",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Baca",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Hugh Alexander Dixon",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Okoli",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Siaha",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Glasser",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "75"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Rebollar",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Yoseke",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "31",
+            "playerName": "Boone",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Enríquez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Volesky",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "San Diego Loyal",
+      "formation": "3-5-2",
+      "score": "3",
+      "lineup": {
+        "managerName": "Miller",
+        "players": [
+          {
+            "shirtNumber": "1",
+            "playerName": "Koke Vegas",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Guzmán",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Stoneman",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "13",
+            "playerName": "Riley",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "82"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "14",
+            "playerName": "Pérez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Goal",
+                "eventTime": "44"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Bodily",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Corona",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Adams",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "80"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Collin Martin",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "451"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Conway",
+            "playerPosition": "Forward",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Damus",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "60",
+            "playerName": "Ferree",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "23",
+            "playerName": "Chilaka",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "50",
+            "playerName": "Gnaulati",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "80"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "90"
+              },
+              {
+                "event": "Goal",
+                "eventTime": "903"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Guido",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "68"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Hackworth",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "85"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Moon",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Tumi Moshobane",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "68"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 20, 2023 8:00 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "27.6%",
+        "Duels_Success_Rate": "56.1%",
+        "Ariel_Duels_Won": "60.5%",
+        "Interceptions": "9",
+        "Offsides": "1",
+        "Corners_Won": "2"
+      },
+      "away": {
+        "Possession": "72.4%",
+        "Duels_Success_Rate": "43.9%",
+        "Ariel_Duels_Won": "39.5%",
+        "Interceptions": "4",
+        "Offsides": "1",
+        "Corners_Won": "7"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "257",
+        "Long_Passes": "73",
+        "Passing_Accuracy": "62.3%",
+        "Passing_Accuracy_In_Opponent_Half": "56.8%",
+        "Crosses": "7",
+        "Crossing_Accuracy": "14.3%"
+      },
+      "away": {
+        "Passes": "666",
+        "Long_Passes": "46",
+        "Passing_Accuracy": "86.3%",
+        "Passing_Accuracy_In_Opponent_Half": "77.2%",
+        "Crosses": "30",
+        "Crossing_Accuracy": "30.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "2",
+        "Shots": "12",
+        "Shots_On_Target": "4",
+        "Blocked_Shots": "3",
+        "Shots_Outside_Box": "7",
+        "Shots_Inside_Box": "5",
+        "Shooting_Accuracy": "33.3%"
+      },
+      "away": {
+        "Goals": "3",
+        "Shots": "18",
+        "Shots_On_Target": "8",
+        "Blocked_Shots": "5",
+        "Shots_Outside_Box": "5",
+        "Shots_Inside_Box": "13",
+        "Shooting_Accuracy": "44.4%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "14",
+        "Tackle_Success_Rate": "71.4%",
+        "Clearances": "24"
+      },
+      "away": {
+        "Tackles": "9",
+        "Tackle_Success_Rate": "55.6%",
+        "Clearances": "10"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "14",
+        "Yellow_Cards": "0",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "13",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "4'",
+      "event": "Offside, Monterey Bay. Alex Lara tries a through ball, but Sean Okoli is caught offside."
+    },
+    {
+      "time": "4'",
+      "event": "Walmer Martinez (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "4'",
+      "event": "Foul by Adrien Perez (San Diego Loyal)."
+    },
+    {
+      "time": "6'",
+      "event": "Kai Greene (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "6'",
+      "event": "Foul by Ronaldo Damus (San Diego Loyal)."
+    },
+    {
+      "time": "9'",
+      "event": "Attempt blocked. Adrien Perez (San Diego Loyal) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "11'",
+      "event": "Attempt missed. Charlie Adams (San Diego Loyal) left footed shot from outside the box is close, but misses to the right. Assisted by Evan Conway."
+    },
+    {
+      "time": "11'",
+      "event": "Corner,  San Diego Loyal. Conceded by Alex Lara."
+    },
+    {
+      "time": "12'",
+      "event": "Attempt missed. Ronaldo Damus (San Diego Loyal) header from the centre of the box is close, but misses to the left. Assisted by Charlie Adams with a cross following a corner."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Alex Lara (Monterey Bay)."
+    },
+    {
+      "time": "14'",
+      "event": "Evan Conway (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "15'",
+      "event": "Corner,  San Diego Loyal. Conceded by Hugh Roberts II."
+    },
+    {
+      "time": "17'",
+      "event": "Foul by James Murphy (Monterey Bay)."
+    },
+    {
+      "time": "17'",
+      "event": "Collin Martin (San Diego Loyal) wins a free kick on the right wing."
+    },
+    {
+      "time": "18'",
+      "event": "Foul by Rafael Baca (Monterey Bay)."
+    },
+    {
+      "time": "18'",
+      "event": "Charlie Adams (San Diego Loyal) wins a free kick on the right wing."
+    },
+    {
+      "time": "18'",
+      "event": "Attempt blocked. James Murphy (Monterey Bay) right footed shot from outside the box is blocked. Assisted by Alex Dixon."
+    },
+    {
+      "time": "18'",
+      "event": "Attempt missed. Sam Gleadle (Monterey Bay) header from the centre of the box misses to the right."
+    },
+    {
+      "time": "20'",
+      "event": "Hand ball by Morey Doner (Monterey Bay)."
+    },
+    {
+      "time": "21'",
+      "event": "Morey Doner (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Blake Bodily (San Diego Loyal)."
+    },
+    {
+      "time": "23'",
+      "event": "Goal!  Monterey Bay 1, San Diego Loyal 0. Sam Gleadle (Monterey Bay) right footed shot from the right side of the box to the bottom right corner. Assisted by Rafael Baca   following a fast break."
+    },
+    {
+      "time": "29'",
+      "event": "Attempt blocked. Evan Conway (San Diego Loyal) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "30'",
+      "event": "Alex Dixon (Monterey Bay) hits the left post with a left footed shot from the left side of the box. Assisted by Sean Okoli."
+    },
+    {
+      "time": "30'",
+      "event": "Corner,  Monterey Bay. Conceded by Koke Vegas."
+    },
+    {
+      "time": "34'",
+      "event": "Attempt saved. Adrien Perez (San Diego Loyal) left footed shot from the right side of the box is saved in the bottom right corner."
+    },
+    {
+      "time": "34'",
+      "event": "Corner,  San Diego Loyal. Conceded by Carlos Herrera."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt missed. Camden Riley (San Diego Loyal) header from very close range misses to the left. Assisted by Charlie Adams with a cross following a corner."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt missed. Evan Conway (San Diego Loyal) header from very close range is just a bit too high. Assisted by Camden Riley following a corner."
+    },
+    {
+      "time": "36'",
+      "event": "Alex Dixon (Monterey Bay) wins a free kick in the attacking half."
+    },
+    {
+      "time": "36'",
+      "event": "Foul by Evan Conway (San Diego Loyal)."
+    },
+    {
+      "time": "37'",
+      "event": "Goal!  Monterey Bay 2, San Diego Loyal 0. Alex Lara (Monterey Bay) header from the left side of the six yard box to the high centre of the goal. Assisted by James Murphy with a cross   following a set piece situation."
+    },
+    {
+      "time": "39'",
+      "event": "Offside, San Diego Loyal. Blake Bodily tries a through ball, but Ronaldo Damus is caught offside."
+    },
+    {
+      "time": "41'",
+      "event": "Attempt saved. Joe Corona (San Diego Loyal) right footed shot from the centre of the box is saved in the bottom right corner. Assisted by Collin Martin with a cross."
+    },
+    {
+      "time": "42'",
+      "event": "Foul by Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "42'",
+      "event": "Charlie Adams (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "43'",
+      "event": "Alex Dixon (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "43'",
+      "event": "Foul by Camden Riley (San Diego Loyal)."
+    },
+    {
+      "time": "44'",
+      "event": "Goal!  Monterey Bay 2, San Diego Loyal 1. Adrien Perez (San Diego Loyal) header from the centre of the box to the bottom right corner."
+    },
+    {
+      "time": "45'",
+      "event": "Attempt saved. Sean Okoli (Monterey Bay) right footed shot from a difficult angle and long range on the left is saved in the bottom left corner."
+    },
+    {
+      "time": "45+1'",
+      "event": "James Murphy (Monterey Bay) wins a free kick in the attacking half."
+    },
+    {
+      "time": "45+1'",
+      "event": "Foul by Collin Martin (San Diego Loyal)."
+    },
+    {
+      "time": "45+1'",
+      "event": "Collin Martin (San Diego Loyal) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "45+2'",
+      "event": "Attempt blocked. Sean Okoli (Monterey Bay) right footed shot from outside the box is blocked. Assisted by Sam Gleadle."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, Monterey Bay 2, San Diego Loyal 1."
+    },
+    {
+      "time": "46'",
+      "event": "Sean Okoli (Monterey Bay) wins a free kick in the attacking half."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Collin Martin (San Diego Loyal)."
+    },
+    {
+      "time": "47'",
+      "event": "Corner,  Monterey Bay. Conceded by Blake Bodily."
+    },
+    {
+      "time": "50'",
+      "event": "Attempt missed. Alex Dixon (Monterey Bay) right footed shot from outside the box is close, but misses to the left. Assisted by Morey Doner."
+    },
+    {
+      "time": "51'",
+      "event": "Attempt saved. Adrien Perez (San Diego Loyal) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Camden Riley."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt saved. Adrien Perez (San Diego Loyal) left footed shot from outside the box is saved in the top centre of the goal. Assisted by Joe Corona."
+    },
+    {
+      "time": "58'",
+      "event": "Corner,  San Diego Loyal. Conceded by Carlos Herrera."
+    },
+    {
+      "time": "58'",
+      "event": "Attempt blocked. Adrien Perez (San Diego Loyal) header from the centre of the box is blocked. Assisted by Charlie Adams with a cross."
+    },
+    {
+      "time": "58'",
+      "event": "Corner,  San Diego Loyal. Conceded by Sean Okoli."
+    },
+    {
+      "time": "61'",
+      "event": "Foul by Kai Greene (Monterey Bay)."
+    },
+    {
+      "time": "61'",
+      "event": "Ronaldo Damus (San Diego Loyal) wins a free kick on the left wing."
+    },
+    {
+      "time": "63'",
+      "event": "Sam Gleadle (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "63'",
+      "event": "Foul by Charlie Adams (San Diego Loyal)."
+    },
+    {
+      "time": "64'",
+      "event": "Kai Greene (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "64'",
+      "event": "Foul by Ronaldo Damus (San Diego Loyal)."
+    },
+    {
+      "time": "65'",
+      "event": "Foul by Kai Greene (Monterey Bay)."
+    },
+    {
+      "time": "65'",
+      "event": "Joe Corona (San Diego Loyal) wins a free kick in the attacking half."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "66'",
+      "event": "Camden Riley (San Diego Loyal) wins a free kick on the right wing."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Walmer Martinez (Monterey Bay)."
+    },
+    {
+      "time": "66'",
+      "event": "Adrien Perez (San Diego Loyal) wins a free kick on the right wing."
+    },
+    {
+      "time": "68'",
+      "event": "Substitution, San Diego Loyal. Alejandro Guido replaces Collin Martin."
+    },
+    {
+      "time": "68'",
+      "event": "Substitution, San Diego Loyal. Tumi Moshobane replaces Ronaldo Damus."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by James Murphy (Monterey Bay)."
+    },
+    {
+      "time": "69'",
+      "event": "Charlie Adams (San Diego Loyal) wins a free kick on the left wing."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Monterey Bay. Chase Boone replaces Sam Gleadle."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, Monterey Bay. Adrian Rebollar replaces James Murphy."
+    },
+    {
+      "time": "70'",
+      "event": "Attempt missed. Adrien Perez (San Diego Loyal) right footed shot from the centre of the box is close, but misses to the left following a set piece situation."
+    },
+    {
+      "time": "73'",
+      "event": "Corner,  San Diego Loyal. Conceded by Walmer Martinez."
+    },
+    {
+      "time": "74'",
+      "event": "Walmer Martinez (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Adrien Perez (San Diego Loyal)."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Sean Okoli (Monterey Bay)."
+    },
+    {
+      "time": "74'",
+      "event": "Blake Bodily (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Alex Lara (Monterey Bay)."
+    },
+    {
+      "time": "74'",
+      "event": "Tumi Moshobane (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "75'",
+      "event": "Substitution, Monterey Bay. Max Glasser replaces Alex Dixon."
+    },
+    {
+      "time": "77'",
+      "event": "Corner,  San Diego Loyal. Conceded by Hugh Roberts II."
+    },
+    {
+      "time": "78'",
+      "event": "Attempt blocked. Chase Boone (Monterey Bay) right footed shot from outside the box is blocked. Assisted by Sean Okoli."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Chase Boone (Monterey Bay)."
+    },
+    {
+      "time": "78'",
+      "event": "Alejandro Guido (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt saved. Max Glasser (Monterey Bay) right footed shot from outside the box is saved in the bottom left corner. Assisted by Walmer Martinez."
+    },
+    {
+      "time": "79'",
+      "event": "Delay in match  because of an injury Charlie Adams (San Diego Loyal)."
+    },
+    {
+      "time": "79'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "80'",
+      "event": "Substitution, San Diego Loyal. Xavi Gnaulati replaces Charlie Adams because of an injury."
+    },
+    {
+      "time": "80'",
+      "event": "Attempt missed. Morey Doner (Monterey Bay) right footed shot from outside the box is close, but misses the top right corner. Assisted by Chase Boone."
+    },
+    {
+      "time": "82'",
+      "event": "Chase Boone (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "82'",
+      "event": "Foul by Camden Riley (San Diego Loyal)."
+    },
+    {
+      "time": "82'",
+      "event": "Camden Riley (San Diego Loyal) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "83'",
+      "event": "Attempt blocked. Adrien Perez (San Diego Loyal) header from the centre of the box is blocked. Assisted by Blake Bodily with a cross."
+    },
+    {
+      "time": "84'",
+      "event": "Chase Boone (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Alejandro Guido (San Diego Loyal)."
+    },
+    {
+      "time": "85'",
+      "event": "Substitution, San Diego Loyal. Morgan Hackworth replaces Camden Riley."
+    },
+    {
+      "time": "86'",
+      "event": "Kai Greene (Monterey Bay) wins a free kick in the defensive half."
+    },
+    {
+      "time": "86'",
+      "event": "Foul by Xavi Gnaulati (San Diego Loyal)."
+    },
+    {
+      "time": "89'",
+      "event": "Attempt missed. Adrian Rebollar (Monterey Bay) right footed shot from the centre of the box is just a bit too high. Assisted by Max Glasser with a headed pass."
+    },
+    {
+      "time": "90'",
+      "event": "Goal!  Monterey Bay 2, San Diego Loyal 2. Xavi Gnaulati (San Diego Loyal) right footed shot from the centre of the box to the bottom right corner. Assisted by Blake Bodily with a cross."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Max Glasser (Monterey Bay)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Carlos Guzmán (San Diego Loyal) wins a free kick in the defensive half."
+    },
+    {
+      "time": "90+3'",
+      "event": "Attempt blocked. Joe Corona (San Diego Loyal) right footed shot from outside the box is blocked. Assisted by Blake Bodily."
+    },
+    {
+      "time": "90+3'",
+      "event": "Attempt saved. Evan Conway (San Diego Loyal) header from the centre of the box is saved in the centre of the goal. Assisted by Morgan Hackworth."
+    },
+    {
+      "time": "90+3'",
+      "event": "Goal!  Monterey Bay 2, San Diego Loyal 3. Xavi Gnaulati (San Diego Loyal) right footed shot from very close range to the centre of the goal."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Monterey Bay 2, San Diego Loyal 3."
+    }
+  ]
+}

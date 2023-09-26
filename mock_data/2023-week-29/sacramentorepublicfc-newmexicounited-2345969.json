@@ -1,0 +1,887 @@
+{
+  "matchDetails": [
+    {
+      "homeTeam": "Sacramento Republic FC",
+      "formation": "3-4-3",
+      "score": "0",
+      "lineup": {
+        "managerName": "Briggs 86‎'‎",
+        "players": [
+          {
+            "shirtNumber": "31",
+            "playerName": "Vitiello",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Desmond",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "24",
+            "playerName": "Donovan",
+            "playerPosition": "Defender",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "69"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "6",
+            "playerName": "Wiedt",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "2",
+            "playerName": "Gurr",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Viader",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Nick Ross",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "96",
+            "playerName": "Felipe",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "901"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "9",
+            "playerName": "Herrera",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Parano",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "77"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Keko",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "37"
+              },
+              {
+                "event": "Substitution off",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "1",
+            "playerName": "Saldaña",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "40",
+            "playerName": "Sanchez",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "5",
+            "playerName": "Timmer",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Jauregui",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Rodrigo López",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Cicerone",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "64"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Lewis",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "77"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "awayTeam": "New Mexico United",
+      "formation": "4-1-4-1",
+      "score": "0",
+      "lineup": {
+        "managerName": "Quill",
+        "players": [
+          {
+            "shirtNumber": "26",
+            "playerName": "Andy Thomas",
+            "playerPosition": "Goalkeeper",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "15",
+            "playerName": "Astorga",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "3",
+            "playerName": "Yearwood",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "16",
+            "playerName": "Seymore",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "22",
+            "playerName": "Ryden",
+            "playerPosition": "Defender",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "4",
+            "playerName": "Hamilton",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "19",
+            "playerName": "Bailey",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "34"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "8",
+            "playerName": "Hernandez",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Yellow card",
+                "eventTime": "49"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "7",
+            "playerName": "Rivas",
+            "playerPosition": "Midfielder",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "10",
+            "playerName": "Moreno",
+            "playerPosition": "Midfielder",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "83"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "49",
+            "playerName": "Borgelin",
+            "playerPosition": "Forward",
+            "playerEvents": [
+              {
+                "event": "Substitution off",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "12",
+            "playerName": "Parker",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "18",
+            "playerName": "Colonna",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "25",
+            "playerName": "Bruce",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "17",
+            "playerName": "Hurst",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "70"
+              }
+            ]
+          },
+          {
+            "shirtNumber": "11",
+            "playerName": "Moar",
+            "playerPosition": "Substitute",
+            "playerEvents": []
+          },
+          {
+            "shirtNumber": "20",
+            "playerName": "Reyes",
+            "playerPosition": "Substitute",
+            "playerEvents": [
+              {
+                "event": "Substitution on",
+                "eventTime": "83"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "September 20, 2023 8:00 PM"
+    }
+  ],
+  "stats": {
+    "GENERAL_STATS": {
+      "home": {
+        "Possession": "51.2%",
+        "Duels_Success_Rate": "57.8%",
+        "Ariel_Duels_Won": "77.8%",
+        "Interceptions": "20",
+        "Offsides": "4",
+        "Corners_Won": "6"
+      },
+      "away": {
+        "Possession": "48.8%",
+        "Duels_Success_Rate": "42.2%",
+        "Ariel_Duels_Won": "22.2%",
+        "Interceptions": "13",
+        "Offsides": "1",
+        "Corners_Won": "7"
+      }
+    },
+    "DISTRIBUTION_STATS": {
+      "home": {
+        "Passes": "407",
+        "Long_Passes": "52",
+        "Passing_Accuracy": "75.9%",
+        "Passing_Accuracy_In_Opponent_Half": "67.6%",
+        "Crosses": "28",
+        "Crossing_Accuracy": "17.9%"
+      },
+      "away": {
+        "Passes": "402",
+        "Long_Passes": "50",
+        "Passing_Accuracy": "75.9%",
+        "Passing_Accuracy_In_Opponent_Half": "61.9%",
+        "Crosses": "14",
+        "Crossing_Accuracy": "0.0%"
+      }
+    },
+    "ATTACK_STATS": {
+      "home": {
+        "Goals": "0",
+        "Shots": "14",
+        "Shots_On_Target": "2",
+        "Blocked_Shots": "8",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "10",
+        "Shooting_Accuracy": "14.3%"
+      },
+      "away": {
+        "Goals": "0",
+        "Shots": "10",
+        "Shots_On_Target": "2",
+        "Blocked_Shots": "5",
+        "Shots_Outside_Box": "4",
+        "Shots_Inside_Box": "6",
+        "Shooting_Accuracy": "20.0%"
+      }
+    },
+    "DEFENSE_STATS": {
+      "home": {
+        "Tackles": "16",
+        "Tackle_Success_Rate": "87.5%",
+        "Clearances": "19"
+      },
+      "away": {
+        "Tackles": "15",
+        "Tackle_Success_Rate": "46.7%",
+        "Clearances": "18"
+      }
+    },
+    "DISCIPLINE_STATS": {
+      "home": {
+        "Fouls_Conceded": "17",
+        "Yellow_Cards": "3",
+        "Red_Cards": "0"
+      },
+      "away": {
+        "Fouls_Conceded": "15",
+        "Yellow_Cards": "2",
+        "Red_Cards": "0"
+      }
+    }
+  },
+  "events": [
+    {
+      "time": "2'",
+      "event": "Attempt blocked. Amando Moreno (New Mexico United) right footed shot from outside the box is blocked. Assisted by Sergio Rivas with a headed pass."
+    },
+    {
+      "time": "2'",
+      "event": "Foul by Shanyder Borgelin (New Mexico United)."
+    },
+    {
+      "time": "2'",
+      "event": "Jack Gurr (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "3'",
+      "event": "Attempt missed. Shanyder Borgelin (New Mexico United) right footed shot from the centre of the box misses to the right. Assisted by Sergio Rivas."
+    },
+    {
+      "time": "4'",
+      "event": "Corner,  New Mexico United. Conceded by Lee Desmond."
+    },
+    {
+      "time": "6'",
+      "event": "Corner,  Sacramento Republic. Conceded by Austin Yearwood."
+    },
+    {
+      "time": "7'",
+      "event": "Foul by Nicky Hernandez (New Mexico United)."
+    },
+    {
+      "time": "7'",
+      "event": "Cristian Parano (Sacramento Republic) wins a free kick on the right wing."
+    },
+    {
+      "time": "8'",
+      "event": "Foul by Zico Bailey (New Mexico United)."
+    },
+    {
+      "time": "8'",
+      "event": "Keko Gontán (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "8'",
+      "event": "Offside, Sacramento Republic. Cristian Parano tries a through ball, but Juan Herrera is caught offside."
+    },
+    {
+      "time": "11'",
+      "event": "Nicky Hernandez (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "11'",
+      "event": "Foul by Nicholas Ross (Sacramento Republic)."
+    },
+    {
+      "time": "11'",
+      "event": "Corner,  Sacramento Republic. Conceded by Arturo Astorga."
+    },
+    {
+      "time": "13'",
+      "event": "Kalen Ryden (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "13'",
+      "event": "Foul by Keko Gontán (Sacramento Republic)."
+    },
+    {
+      "time": "14'",
+      "event": "Foul by Zico Bailey (New Mexico United)."
+    },
+    {
+      "time": "14'",
+      "event": "Keko Gontán (Sacramento Republic) wins a free kick on the left wing."
+    },
+    {
+      "time": "15'",
+      "event": "Attempt blocked. Cristian Parano (Sacramento Republic) right footed shot from the centre of the box is blocked."
+    },
+    {
+      "time": "15'",
+      "event": "Corner,  Sacramento Republic. Conceded by Austin Yearwood."
+    },
+    {
+      "time": "16'",
+      "event": "Attempt missed. Luis Rodrigues (Sacramento Republic) header from the centre of the box misses to the left. Assisted by Keko Gontán with a cross following a corner."
+    },
+    {
+      "time": "17'",
+      "event": "Attempt missed. Zico Bailey (New Mexico United) left footed shot from outside the box is too high. Assisted by Amando Moreno."
+    },
+    {
+      "time": "19'",
+      "event": "Foul by Amando Moreno (New Mexico United)."
+    },
+    {
+      "time": "19'",
+      "event": "Keko Gontán (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "19'",
+      "event": "Offside, Sacramento Republic. Shane Wiedt tries a through ball, but Juan Herrera is caught offside."
+    },
+    {
+      "time": "21'",
+      "event": "Sam Hamilton (New Mexico United) wins a free kick on the left wing."
+    },
+    {
+      "time": "21'",
+      "event": "Foul by Juan Herrera (Sacramento Republic)."
+    },
+    {
+      "time": "25'",
+      "event": "Attempt blocked. Amando Moreno (New Mexico United) right footed shot from the centre of the box is blocked. Assisted by Austin Yearwood."
+    },
+    {
+      "time": "26'",
+      "event": "Austin Yearwood (New Mexico United) wins a free kick on the left wing."
+    },
+    {
+      "time": "26'",
+      "event": "Foul by Jack Gurr (Sacramento Republic)."
+    },
+    {
+      "time": "29'",
+      "event": "Foul by Shanyder Borgelin (New Mexico United)."
+    },
+    {
+      "time": "29'",
+      "event": "Conor Donovan (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "30'",
+      "event": "Foul by Kalen Ryden (New Mexico United)."
+    },
+    {
+      "time": "30'",
+      "event": "Keko Gontán (Sacramento Republic) wins a free kick on the right wing."
+    },
+    {
+      "time": "33'",
+      "event": "Attempt saved. Keko Gontán (Sacramento Republic) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Cristian Parano."
+    },
+    {
+      "time": "33'",
+      "event": "Attempt blocked. Zico Bailey (New Mexico United) right footed shot from outside the box is blocked. Assisted by Nicky Hernandez."
+    },
+    {
+      "time": "33'",
+      "event": "Foul by Zico Bailey (New Mexico United)."
+    },
+    {
+      "time": "33'",
+      "event": "Damià Viader (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "34'",
+      "event": "Zico Bailey (New Mexico United) is shown the yellow card."
+    },
+    {
+      "time": "34'",
+      "event": "Hand ball by Damià Viader (Sacramento Republic)."
+    },
+    {
+      "time": "35'",
+      "event": "Attempt missed. Amando Moreno (New Mexico United) right footed shot from the centre of the box is close, but misses to the left. Assisted by Arturo Astorga."
+    },
+    {
+      "time": "36'",
+      "event": "Foul by Arturo Astorga (New Mexico United)."
+    },
+    {
+      "time": "36'",
+      "event": "Juan Herrera (Sacramento Republic) wins a free kick on the left wing."
+    },
+    {
+      "time": "37'",
+      "event": "Nicky Hernandez (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "37'",
+      "event": "Foul by Keko Gontán (Sacramento Republic)."
+    },
+    {
+      "time": "37'",
+      "event": "Keko Gontán (Sacramento Republic) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "38'",
+      "event": "Corner,  New Mexico United. Conceded by Danny Vitiello."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt blocked. Juan Herrera (Sacramento Republic) header from the centre of the box is blocked. Assisted by Keko Gontán with a cross."
+    },
+    {
+      "time": "40'",
+      "event": "Attempt saved. Juan Herrera (Sacramento Republic) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Cristian Parano."
+    },
+    {
+      "time": "41'",
+      "event": "Corner,  New Mexico United. Conceded by Luis Rodrigues."
+    },
+    {
+      "time": "42'",
+      "event": "Shanyder Borgelin (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "42'",
+      "event": "Foul by Shane Wiedt (Sacramento Republic)."
+    },
+    {
+      "time": "42'",
+      "event": "Delay in match  because of an injury Sergio Rivas (New Mexico United)."
+    },
+    {
+      "time": "42'",
+      "event": "Delay in match  because of an injury Conor Donovan (Sacramento Republic)."
+    },
+    {
+      "time": "44'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "45'",
+      "event": "Corner,  New Mexico United. Conceded by Luis Rodrigues."
+    },
+    {
+      "time": "45'",
+      "event": "Attempt blocked. Nicky Hernandez (New Mexico United) right footed shot from the left side of the box is blocked. Assisted by Austin Yearwood."
+    },
+    {
+      "time": "45'",
+      "event": "Corner,  New Mexico United. Conceded by Nicholas Ross."
+    },
+    {
+      "time": "45+2'",
+      "event": "Hand ball by Cristian Parano (Sacramento Republic)."
+    },
+    {
+      "time": "45+3'",
+      "event": "First Half ends, Sacramento Republic 0, New Mexico United 0."
+    },
+    {
+      "time": "46'",
+      "event": "Sergio Rivas (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "46'",
+      "event": "Foul by Luis Rodrigues (Sacramento Republic)."
+    },
+    {
+      "time": "47'",
+      "event": "Attempt missed. Cristian Parano (Sacramento Republic) header from the centre of the box is too high. Assisted by Keko Gontán with a cross."
+    },
+    {
+      "time": "49'",
+      "event": "Foul by Nicky Hernandez (New Mexico United)."
+    },
+    {
+      "time": "49'",
+      "event": "Cristian Parano (Sacramento Republic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "49'",
+      "event": "Nicky Hernandez (New Mexico United) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "51'",
+      "event": "Offside, New Mexico United. Zico Bailey tries a through ball, but Amando Moreno is caught offside."
+    },
+    {
+      "time": "51'",
+      "event": "Foul by Will Seymore (New Mexico United)."
+    },
+    {
+      "time": "51'",
+      "event": "Juan Herrera (Sacramento Republic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "53'",
+      "event": "Amando Moreno (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Shane Wiedt (Sacramento Republic)."
+    },
+    {
+      "time": "53'",
+      "event": "Foul by Shanyder Borgelin (New Mexico United)."
+    },
+    {
+      "time": "53'",
+      "event": "Conor Donovan (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "55'",
+      "event": "Attempt saved. Shanyder Borgelin (New Mexico United) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Amando Moreno."
+    },
+    {
+      "time": "58'",
+      "event": "Delay in match  because of an injury Will Seymore (New Mexico United)."
+    },
+    {
+      "time": "58'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "61'",
+      "event": "Attempt blocked. Luis Rodrigues (Sacramento Republic) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "61'",
+      "event": "Corner,  Sacramento Republic. Conceded by Sam Hamilton."
+    },
+    {
+      "time": "62'",
+      "event": "Attempt blocked. Conor Donovan (Sacramento Republic) right footed shot from the centre of the box is blocked. Assisted by Keko Gontán with a cross."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Sacramento Republic. Rodrigo López replaces Keko Gontán."
+    },
+    {
+      "time": "64'",
+      "event": "Substitution, Sacramento Republic. Russell Cicerone replaces Juan Herrera."
+    },
+    {
+      "time": "64'",
+      "event": "Offside, Sacramento Republic. Nicholas Ross tries a through ball, but Russell Cicerone is caught offside."
+    },
+    {
+      "time": "65'",
+      "event": "Attempt blocked. Cristian Parano (Sacramento Republic) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "66'",
+      "event": "Nicky Hernandez (New Mexico United) wins a free kick on the left wing."
+    },
+    {
+      "time": "66'",
+      "event": "Foul by Jack Gurr (Sacramento Republic)."
+    },
+    {
+      "time": "68'",
+      "event": "Attempt missed. Damià Viader (Sacramento Republic) right footed shot from the centre of the box is close, but misses to the left. Assisted by Cristian Parano."
+    },
+    {
+      "time": "69'",
+      "event": "Shanyder Borgelin (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "69'",
+      "event": "Foul by Conor Donovan (Sacramento Republic)."
+    },
+    {
+      "time": "69'",
+      "event": "Conor Donovan (Sacramento Republic) is shown the yellow card for a bad foul."
+    },
+    {
+      "time": "70'",
+      "event": "Substitution, New Mexico United. Greg Hurst replaces Shanyder Borgelin."
+    },
+    {
+      "time": "71'",
+      "event": "Foul by Zico Bailey (New Mexico United)."
+    },
+    {
+      "time": "71'",
+      "event": "Cristian Parano (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "72'",
+      "event": "Offside, Sacramento Republic. Cristian Parano tries a through ball, but Russell Cicerone is caught offside."
+    },
+    {
+      "time": "74'",
+      "event": "Nicky Hernandez (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "74'",
+      "event": "Foul by Cristian Parano (Sacramento Republic)."
+    },
+    {
+      "time": "75'",
+      "event": "Attempt saved. Sergio Rivas (New Mexico United) left footed shot from outside the box is saved in the bottom left corner. Assisted by Amando Moreno."
+    },
+    {
+      "time": "75'",
+      "event": "Corner,  New Mexico United. Conceded by Danny Vitiello."
+    },
+    {
+      "time": "76'",
+      "event": "Attempt missed. Jack Gurr (Sacramento Republic) left footed shot from outside the box is just a bit too high. Assisted by Lee Desmond."
+    },
+    {
+      "time": "77'",
+      "event": "Substitution, Sacramento Republic. Zeiko Lewis replaces Cristian Parano."
+    },
+    {
+      "time": "78'",
+      "event": "Foul by Sergio Rivas (New Mexico United)."
+    },
+    {
+      "time": "78'",
+      "event": "Luis Rodrigues (Sacramento Republic) wins a free kick in the defensive half."
+    },
+    {
+      "time": "78'",
+      "event": "Corner,  Sacramento Republic. Conceded by Arturo Astorga."
+    },
+    {
+      "time": "79'",
+      "event": "Attempt blocked. Zico Bailey (New Mexico United) right footed shot from the centre of the box is blocked. Assisted by Amando Moreno."
+    },
+    {
+      "time": "79'",
+      "event": "Corner,  New Mexico United. Conceded by Lee Desmond."
+    },
+    {
+      "time": "81'",
+      "event": "Nicky Hernandez (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "81'",
+      "event": "Foul by Luis Rodrigues (Sacramento Republic)."
+    },
+    {
+      "time": "83'",
+      "event": "Substitution, New Mexico United. Jacobo Reyes replaces Amando Moreno."
+    },
+    {
+      "time": "84'",
+      "event": "Kalen Ryden (New Mexico United) wins a free kick on the left wing."
+    },
+    {
+      "time": "84'",
+      "event": "Foul by Russell Cicerone (Sacramento Republic)."
+    },
+    {
+      "time": "85'",
+      "event": "Delay in match  because of an injury Zico Bailey (New Mexico United)."
+    },
+    {
+      "time": "86'",
+      "event": "Delay over. They are ready to continue."
+    },
+    {
+      "time": "88'",
+      "event": "Foul by Jacobo Reyes (New Mexico United)."
+    },
+    {
+      "time": "88'",
+      "event": "Shane Wiedt (Sacramento Republic) wins a free kick in the attacking half."
+    },
+    {
+      "time": "89'",
+      "event": "Jacobo Reyes (New Mexico United) wins a free kick in the defensive half."
+    },
+    {
+      "time": "89'",
+      "event": "Foul by Rodrigo López (Sacramento Republic)."
+    },
+    {
+      "time": "89'",
+      "event": "Attempt blocked. Luis Rodrigues (Sacramento Republic) left footed shot from outside the box is blocked."
+    },
+    {
+      "time": "89'",
+      "event": "Corner,  Sacramento Republic. Conceded by Will Seymore."
+    },
+    {
+      "time": "90'",
+      "event": "Attempt blocked. Russell Cicerone (Sacramento Republic) header from the centre of the box is blocked. Assisted by Rodrigo López with a cross."
+    },
+    {
+      "time": "90+1'",
+      "event": "Sam Hamilton (New Mexico United) wins a free kick in the attacking half."
+    },
+    {
+      "time": "90+1'",
+      "event": "Foul by Luis Rodrigues (Sacramento Republic)."
+    },
+    {
+      "time": "90+1'",
+      "event": "Luis Rodrigues (Sacramento Republic) is shown the yellow card."
+    },
+    {
+      "time": "90+5'",
+      "event": "Attempt blocked. Russell Cicerone (Sacramento Republic) right footed shot from the centre of the box is blocked. Assisted by Shane Wiedt."
+    },
+    {
+      "time": "90+5'",
+      "event": "Second Half ends, Sacramento Republic 0, New Mexico United 0."
+    }
+  ]
+}
