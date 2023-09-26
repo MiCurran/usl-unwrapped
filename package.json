@@ -71,7 +71,8 @@
     "reflect-metadata": "0.1.13",
     "rimraf": "3.0.2",
     "rxjs": "7.6.0",
-    "swagger-ui-express": "^5.0.0"
+    "swagger-ui-express": "^5.0.0",
+    "ts-node": "10.9.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.1.5",
