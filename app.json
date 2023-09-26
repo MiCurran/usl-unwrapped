@@ -1,0 +1,29 @@
+{
+    "name": "USL Unwrapped",
+    "description": "USL match and player stats analytics",
+    "website": "",
+    "repository": "https://github.com/micurran/uslunwrapped",
+    "logo": "",
+    "success_url": "/",
+    "scripts":{
+      "predeploy": "npm install && npm run build"
+    },
+    "env": {
+      "NODE_ENV": {
+        "description": "Environment [PROD/DEV]",
+        "value": "PROD"
+      }
+    },
+    "formation": {
+      "web": {
+        "quantity": 1
+      }
+    },
+    "image": "heroku/nodejs",
+    "addons": ["heroku-postgresql"],
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      }
+    ]
+  }
