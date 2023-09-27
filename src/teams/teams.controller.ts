@@ -51,6 +51,11 @@ enum UslIdEnum {
   FortyTwo,
 }
 
+enum Where {
+  home = 'home',
+  away = 'away'
+}
+
 @Controller('teams')
 export class TeamsController {
   constructor(
@@ -79,7 +84,7 @@ export class TeamsController {
   @ApiTags('USL TEAMS') 
   @Get(':uslTeamId/matches')
   @ApiOperation({ summary: 'Get matches by USL team ID' })
-  @ApiQuery({ name: 'home/away', type: String, required: false, enum: UslIdEnum })
+  @ApiQuery({ name: 'home/away', type: 'string', required: false, enum: Where })
   @ApiParam({ name: 'uslTeamId', type: 'integer', required: true, enum: UslIdEnum })
   @ApiResponse({ status: 200, description: 'Returns matches for a team.' })
   findByTeam(

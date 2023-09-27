@@ -1,3 +1,8 @@
+<img src=".github/images/usl.svg">  
+
+<hr>
+
+
 # USL Unwrapped API
 
 Welcome to the USL Unwrapped API repository! This API provides access to match, player, and team statistics from the USL soccer league. Below, you'll find information on how to set up and use this API for your development and testing needs.
