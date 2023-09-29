@@ -2,14 +2,15 @@ import { Injectable } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { Match, Prisma } from '.prisma/client';
 import { getRecentMatchStatsBetweenTwoTeams } from 'src/utils/prismaHelpers';
+import { createMatchFromJSON } from 'src/utils/createMatchFromJSON';
 type Where = 'home' | 'away'
 
 @Injectable()
 export class MatchesService {
   constructor(private readonly prisma: PrismaService) {}
 
-  async create(data: Prisma.MatchCreateInput): Promise<Match> {
-    return this.prisma.match.create({ data });
+  async create(data: any): Promise<Match> {
+    return createMatchFromJSON(data, this.prisma)
   }
 
   async findAll(): Promise<Match[]> {
@@ -21,6 +22,7 @@ export class MatchesService {
     const f: Prisma.MatchWhereInput | any = {[key]: value}
     return this.prisma.match.findMany({
       where: {...f},
+      orderBy: {date: 'desc'},
       skip,
       take: perPage,
     });
@@ -28,7 +30,7 @@ export class MatchesService {
 
   async findMany(key: string, value: string): Promise<Match[]> {
     const f: Prisma.MatchWhereInput | any = {[key]: value}
-    return this.prisma.match.findMany({where: {...f}});
+    return this.prisma.match.findMany({where: {...f}, orderBy: {date: 'desc'}});
   }
 
   async findOne(id: number): Promise<Match | null> {
@@ -43,6 +45,9 @@ export class MatchesService {
         where: {
             homeTeamUslId: teamId,
         },
+        orderBy: {
+          date: 'desc', // 'desc' stands for descending order (most recent to oldest)
+        },
       }); 
     }
     if (where === 'away') {
@@ -50,6 +55,10 @@ export class MatchesService {
         where: {
             awayTeamUslId: teamId,
         },
+        orderBy: {
+          date: 'desc', // 'desc' stands for descending order (most recent to oldest)
+        },
+        
       }); 
     } else {
     return this.prisma.match.findMany({
@@ -58,6 +67,9 @@ export class MatchesService {
           { homeTeamUslId: teamId },
           { awayTeamUslId: teamId },
         ],
+      },
+      orderBy: {
+        date: 'desc', // 'desc' stands for descending order (most recent to oldest)
       },
     });
     }

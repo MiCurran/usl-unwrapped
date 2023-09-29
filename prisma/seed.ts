@@ -195,7 +195,6 @@ const getMatchDetails = async () => {
     }
 
     const createMatch = async () => {
-      //HOW IS IT STILL SAVING INCORRECT DATA TO PRISMA IF ITS CORRECT ABOVE??
       const match = await prisma.match.create({
         data: {
           date: date,

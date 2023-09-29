@@ -8,7 +8,7 @@ export class EventsService {
   constructor(private readonly prisma: PrismaService) {}
 
   async findAll(): Promise<EventsModel[]> {
-    return this.prisma.matchEvents.findMany();
+    return this.prisma.matchEvents.findMany({orderBy: {id: 'desc'}});
   }
 
   async findOne(id: number): Promise<EventsModel | null> {
