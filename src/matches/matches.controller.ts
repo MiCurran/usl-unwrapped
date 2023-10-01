@@ -39,7 +39,7 @@ export class MatchesController {
   @ApiQuery({ name: 'perPage', type: Number, required: false, description: 'Items per page', example: 10 })
   @ApiResponse({ status: 200, description: 'Returns matches - Optionally by a season string', type: [MatchModel] })
   findAll(
-    @Query('season') season: SeasonYear,
+    @Query('season') season: SeasonYear = '2023',
     @Query('page', ParseIntPipe) page: number = 1, // Default to page 1
     @Query('perPage', ParseIntPipe) perPage: number = 10, // Default to 10 items per page
     ): Promise<MatchModel[]> {
