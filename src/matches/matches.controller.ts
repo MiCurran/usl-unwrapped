@@ -22,10 +22,10 @@ export class MatchesController {
   constructor(private readonly matchesService: MatchesService, private readonly eventsService: EventsService) {}
 
   @Post()
-  @UseGuards(AuthorizationGuard)
+  //@UseGuards(AuthorizationGuard)
   @ApiOperation({ summary: 'Create a new match' })
   @ApiResponse({ status: 201, description: 'Returns the created match.', type: MatchModel })
-  @ApiUnauthorizedResponse({ description: 'Missing Bearer Key' }) // Document the unauthorized response
+  //@ApiUnauthorizedResponse({ description: 'Missing Bearer Key' }) // Document the unauthorized response
   @ApiExcludeEndpoint(process.env.NODE_ENV !== 'DEV')
   async create(@Body() matchData: any): Promise<MatchModel> {
     const createdMatch = await this.matchesService.create(matchData);
