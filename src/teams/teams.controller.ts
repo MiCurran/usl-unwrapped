@@ -1,10 +1,11 @@
 
-import { Controller, Get, Param, ParseIntPipe, Query } from '@nestjs/common';
+import { Controller, Get, Param, ParseIntPipe, Query, UseInterceptors } from '@nestjs/common';
 import { TeamsService, UslTeam } from './teams.service';
 import { MatchEvents, UslTeams, Prisma, MatchTeam, Match } from '.prisma/client';
 import { ApiTags, ApiOperation, ApiResponse, ApiParam, ApiQuery } from '@nestjs/swagger'; // Import Swagger decorators
 import { MatchesService } from 'src/matches/matches.service';
 import { MatchTeamsService } from 'src/matchTeams/matchTeams.service';
+import { CacheInterceptor, CacheTTL } from '@nestjs/cache-manager';
 type UslId = Exclude<number, 0 | 42>;
 enum UslIdEnum {
   One = 1,
@@ -65,6 +66,8 @@ export class TeamsController {
     ) {}
     @ApiTags('USL TEAMS') 
   @Get()
+  @UseInterceptors(CacheInterceptor)
+  @CacheTTL(3600)
   @ApiOperation({ summary: 'Get all USL Teams' })
   @ApiResponse({ status: 200, description: 'Returns an array of USL Teams and their IDs', type: [UslTeam] })
   findAll(): Promise<UslTeam[]> {

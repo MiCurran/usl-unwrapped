@@ -9,7 +9,7 @@ import {
   ApiQuery,
   ApiUnauthorizedResponse,
   ApiExcludeEndpoint
-} from '@nestjs/swagger'; // Import Swagger decorators
+} from '@nestjs/swagger'; 
 import { AuthorizationGuard } from 'src/authorization/authorization.guard';
 import { EventsService } from 'src/events/events.service';
 import { MatchModel } from './matches.model';

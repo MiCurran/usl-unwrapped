@@ -129,6 +129,7 @@ type UslTeam {
 
 """Stats from the past 5 matches"""
 type PastFiveGameStats {
+  form: String!
   totalGoalsScored: Float!
   matchesWithMoreThanOneGoal: Float!
   cleanSheets: Float!
