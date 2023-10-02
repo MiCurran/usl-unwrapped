@@ -1,8 +1,9 @@
 
-import { Controller, Get, Param, ParseIntPipe, Query } from '@nestjs/common';
+import { Controller, Get, Param, ParseIntPipe, Query, UseGuards } from '@nestjs/common';
 import { MatchTeamsService } from './matchTeams.service';
 import { MatchEvents, UslTeams, Prisma, MatchTeam } from '.prisma/client';
-import { ApiTags, ApiOperation, ApiResponse, ApiParam, ApiQuery } from '@nestjs/swagger'; // Import Swagger decorators
+import { ApiTags, ApiOperation, ApiResponse, ApiParam, ApiQuery, ApiUnauthorizedResponse } from '@nestjs/swagger'; // Import Swagger decorators
+import { AuthorizationGuard } from 'src/authorization/authorization.guard';
 
 @ApiTags('Match Teams') 
 @Controller('match-teams')
@@ -13,8 +14,10 @@ export class MatchTeamsController {
 // we need to update the return types here
 
   @Get()
+  @UseGuards(AuthorizationGuard)
   @ApiOperation({ summary: 'Match Team Info' })
   //@ApiQuery({ name: 'season', type: String, required: false }) // Document the query parameter as optional
+  @ApiUnauthorizedResponse({status: 401, description: 'Bearer Key'})
   @ApiResponse({ status: 200, description: 'Returns an array of Match Teams' })
   findAll(): Promise<MatchTeam[]> {
     return this.matchTeamsService.findAll();
