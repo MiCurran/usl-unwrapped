@@ -1,4 +1,5 @@
-import { MiddlewareConsumer, Module } from '@nestjs/common';
+import { MiddlewareConsumer, Module, NestModule } from '@nestjs/common';
+import { CacheModule } from '@nestjs/cache-manager';
 import { GraphQLModule } from '@nestjs/graphql';
 import { PrismaService } from './prisma/prisma.service';
 import { join } from 'path';
@@ -26,9 +27,11 @@ import { StatsModule } from './stats/stats.module';
 import { AnalyticsModule } from './analytics/analytics.module';
 import { HealthModule } from './health/health.module';
 import { LoggerModule } from 'nestjs-pino';
+import { DeprecationMiddleware } from './deprecation/deprecation.middleware';
 
 @Module({
   imports: [
+    CacheModule.register({isGlobal: true}), 
     GraphQLModule.forRoot<ApolloDriverConfig>({
       driver: ApolloDriver,
       autoSchemaFile: join(process.cwd(), 'src/schema.gql'),
@@ -55,10 +58,13 @@ import { LoggerModule } from 'nestjs-pino';
     ConfigModule.forRoot(),
     StatsModule,
     AnalyticsModule,
-    HealthModule
+    HealthModule,
   ],
   controllers: [AppController, MatchesController, EventsController, TeamsController, MatchTeamsController],
   providers: [PrismaService, MatchResolver, AppService, MatchesService, EventsService, EventsResolver, TeamsService, MatchTeamsService, TeamsResolver],
 })
-export class AppModule { 
+export class AppModule implements NestModule {
+  configure(consumer: MiddlewareConsumer) {
+    consumer.apply(DeprecationMiddleware).forRoutes('analytics/:uslTeamOneId/matches/:uslTeamTwoId');
+  }
 }

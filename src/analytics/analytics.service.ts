@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { Match } from '@prisma/client';
+import { Match, Prisma } from '@prisma/client';
 import { MatchesService } from 'src/matches/matches.service';
 import { PrismaService } from 'src/prisma/prisma.service';
 
@@ -93,31 +93,31 @@ function getTeamStatsForMatch(matches: Match[], uslTeamId: number, statType: str
 
 
 // Function to calculate the total shots on target
-function getTotalShotsOnTarget(data) {
-  return data.reduce((total, match) => total + parseInt(match.Shots_On_Target), 0);
+function getTotalShotsOnTarget(data: any[]) {
+  return data.reduce((total: number, match: { Shots_On_Target: string; }) => total + parseInt(match.Shots_On_Target), 0);
 }
 
 // Function to calculate the total shots
-function getTotalShots(data) {
-  return data.reduce((total, match) => total + parseInt(match.Shots), 0);
+function getTotalShots(data: any[]) {
+  return data.reduce((total: number, match: { Shots: string; }) => total + parseInt(match.Shots), 0);
 }
 
-function getTotalPasses(data) {
-    return data.reduce((total, match) => total + parseInt(match.Passes), 0);
+function getTotalPasses(data: any[]) {
+    return data.reduce((total: number, match: { Passes: string; }) => total + parseInt(match.Passes), 0);
   }
   
   // Function to calculate the total shots
-  function getTotalLongPasses(data) {
-    return data.reduce((total, match) => total + parseInt(match.Long_Passes), 0);
+  function getTotalLongPasses(data: any[]) {
+    return data.reduce((total: number, match: { Long_Passes: string; }) => total + parseInt(match.Long_Passes), 0);
   }
 
 // Function to calculate the average of a specific property
-function calculateAverage(data, property) {
-    const total = data.reduce((sum, match) => sum + parseFloat(match[property]), 0);
+function calculateAverage(data: any[], property: string) {
+    const total = data.reduce((sum: number, match: { [x: string]: string; }) => sum + parseFloat(match[property]), 0);
     return total / data.length;
   }
 
-  function calculatePossessionDifference(matches) {
+  function calculatePossessionDifference(matches: any[]) {
     let totalDifference = 0;
   
     for (const match of matches) {
@@ -135,9 +135,79 @@ function calculateAverage(data, property) {
     return totalDifference;
   }
   
+function getForm (uslTeamId: number, teamData: any[]) {
+  const winMatches = teamData.filter(match => {
+    if (match.homeTeamUslId === uslTeamId) {
+      return parseInt(match.homeTeamScore) > parseInt(match.awayTeamScore);
+    } else if (match.awayTeamUslId === uslTeamId) {
+      return parseInt(match.awayTeamScore) > parseInt(match.homeTeamScore);
+    }
+    return false;
+  });
 
+  const loseMatches = teamData.filter(match => {
+    if (match.homeTeamUslId === uslTeamId) {
+      return parseInt(match.homeTeamScore) < parseInt(match.awayTeamScore);
+    } else if (match.awayTeamUslId === uslTeamId) {
+      return parseInt(match.awayTeamScore) < parseInt(match.homeTeamScore);
+    }
+    return false;
+  });
 
-function analyzeDataForTeam(teamData, uslTeamId) {
+  const drawMatches = teamData.filter(match => {
+    const homeScore = parseInt(match.homeTeamScore);
+    const awayScore = parseInt(match.awayTeamScore);
+    return (
+      (match.homeTeamUslId === uslTeamId || match.awayTeamUslId === uslTeamId) &&
+      homeScore === awayScore
+    );
+  });
+
+  const wins = winMatches.length;
+  const losses = loseMatches.length;
+  const draws = drawMatches.length;
+
+  const form = `${wins}-${draws}-${losses}`;
+  return form
+}
+
+/**
+ * The function analyzes team data to provide various statistics and metrics for a specific team.
+ * @param {{ 
+ *     id: number; 
+ *     date: Date; 
+ *     season: string; 
+ *     homeTeamId: number; 
+ *     awayTeamId: number; 
+ *     homeTeamUslId: number; 
+ *     awayTeamUslId: number; 
+ *     homeTeamScore: string; 
+ *     awayTeamScore: string; 
+ *     score: string; 
+ *     stats: Prisma.JsonValue; 
+ *     }[]} teamData - An array of objects containing data for each match played by a team. Each object
+ * has the following properties:
+ * @param {number} uslTeamId - The `uslTeamId` parameter is the ID of the team for which you want to
+ * analyze the data. It is used to filter the team data and calculate various statistics specific to
+ * that team.
+ * @returns an object
+ */
+function analyzeDataForTeam(
+  teamData: { 
+    id: number; 
+    date: Date; 
+    season: string; 
+    homeTeamId: number; 
+    awayTeamId: number; 
+    homeTeamUslId: number; 
+    awayTeamUslId: number; 
+    homeTeamScore: string; 
+    awayTeamScore: string; 
+    score: string; 
+    stats: Prisma.JsonValue; 
+    }[],
+  uslTeamId: number
+) {
     const attackStats = getTeamStatsForMatch(teamData, uslTeamId, 'ATTACK_STATS');
     const distributionStats = getTeamStatsForMatch(teamData, uslTeamId, 'DISTRIBUTION_STATS');
     const generalStats = getTeamStatsForMatch(teamData, uslTeamId, 'GENERAL_STATS')
@@ -151,6 +221,7 @@ function analyzeDataForTeam(teamData, uslTeamId) {
     const longPassAverage = ((longPasses / passes) * 100).toFixed(2)
     const possessionPlusMinus = calculatePossessionDifference(generalStats).toFixed(2)
     const r = {
+        form: getForm(uslTeamId, teamData),
         totalGoalsScored: getTeamScore(teamData, uslTeamId).reduce((acc, currentValue) => acc + currentValue, 0),
         matchesWithMoreThanOneGoal: getTeamScore(teamData, uslTeamId).reduce((acc, currentValue) => currentValue > 1 ? acc + 1 : acc, 0),
         cleanSheets: getOpposingTeamScores(teamData, uslTeamId).reduce((acc, currentValue) => currentValue === 0 ? acc + 1 : acc, 0),
@@ -162,6 +233,3 @@ function analyzeDataForTeam(teamData, uslTeamId) {
     }
     return r;
 }
-
-
-// we should also add form in here where we look at the record for the games 

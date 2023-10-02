@@ -5,6 +5,10 @@ import { MatchModel } from 'src/matches/matches.model';
 @ObjectType({ description: 'Stats from the past 5 matches' })
 class PastFiveGameStats {
   @Field()
+  @ApiProperty({ description: 'Recent W-D-L record' })
+  form: string;
+
+  @Field()
   @ApiProperty({ description: 'Total goals scored' })
   totalGoalsScored: number;
 
