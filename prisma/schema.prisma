@@ -150,3 +150,15 @@ model RedCardLeader {
   season  String
 }
 
+model LiveScores {
+  id Int @id @default(autoincrement())
+  date       DateTime
+  homeTeamId Int
+  awayTeamId Int
+  homeTeamUslId Int
+  awayTeamUslId Int
+  homeTeamScore String
+  awayTeamScore String
+  score      String
+  stats      Json 
+}

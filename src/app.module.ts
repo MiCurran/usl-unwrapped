@@ -28,6 +28,7 @@ import { AnalyticsModule } from './analytics/analytics.module';
 import { HealthModule } from './health/health.module';
 import { LoggerModule } from 'nestjs-pino';
 import { DeprecationMiddleware } from './deprecation/deprecation.middleware';
+import { ScoresModule } from './scores/scores.module';
 
 @Module({
   imports: [
@@ -59,6 +60,7 @@ import { DeprecationMiddleware } from './deprecation/deprecation.middleware';
     StatsModule,
     AnalyticsModule,
     HealthModule,
+    ScoresModule,
   ],
   controllers: [AppController, MatchesController, EventsController, TeamsController, MatchTeamsController],
   providers: [PrismaService, MatchResolver, AppService, MatchesService, EventsService, EventsResolver, TeamsService, MatchTeamsService, TeamsResolver],
