@@ -29,6 +29,11 @@ import { HealthModule } from './health/health.module';
 import { LoggerModule } from 'nestjs-pino';
 import { DeprecationMiddleware } from './deprecation/deprecation.middleware';
 import { ScoresModule } from './scores/scores.module';
+import { ScheduleModule } from '@nestjs/schedule';
+import { TasksService } from './task/task.service';
+import { ScrapingService } from './scraping/scraping.service';
+import { TaskModule } from './task/task.module';
+
 
 @Module({
   imports: [
@@ -61,9 +66,11 @@ import { ScoresModule } from './scores/scores.module';
     AnalyticsModule,
     HealthModule,
     ScoresModule,
+    ScheduleModule.forRoot(),
+    TaskModule,
   ],
   controllers: [AppController, MatchesController, EventsController, TeamsController, MatchTeamsController],
-  providers: [PrismaService, MatchResolver, AppService, MatchesService, EventsService, EventsResolver, TeamsService, MatchTeamsService, TeamsResolver],
+  providers: [PrismaService, MatchResolver, AppService, MatchesService, EventsService, EventsResolver, TeamsService, MatchTeamsService, TeamsResolver, TasksService, ScrapingService],
 })
 export class AppModule implements NestModule {
   configure(consumer: MiddlewareConsumer) {

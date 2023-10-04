@@ -153,8 +153,8 @@ model RedCardLeader {
 model LiveScores {
   id Int @id @default(autoincrement())
   date       DateTime
-  homeTeamId Int
-  awayTeamId Int
+  homeTeamName String
+  awayTeamName String
   homeTeamUslId Int
   awayTeamUslId Int
   homeTeamScore String
