@@ -1,6 +1,6 @@
 echo -e "Store puppeteer executable in cache\n"
 
-apt apt-get install libatk1.0-0
+apt apt install libatk1.0-0
 
 mkdir ./.cache
 
