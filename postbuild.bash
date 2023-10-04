@@ -1,6 +1,6 @@
 echo -e "Store puppeteer executable in cache\n"
 
-apt install libnss3-dev libgdk-pixbuf2.0-dev libgtk-3-dev libxss-dev
+apt apt-get install libatk1.0-0
 
 mkdir ./.cache
 
