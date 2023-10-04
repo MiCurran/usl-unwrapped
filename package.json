@@ -15,6 +15,7 @@
     "db:clean:seed": "npm run db:clean && sleep 1 && npx prisma db seed",
     "db:dev:init": "npm run db:dev:up && sleep 1 && npx prisma migrate dev && npx prisma db seed",
     "clean": "ts-node prisma/cleanDb.ts",
+    "heroku-postbuild": "bash postbuild.bash",
     "prebuild": "rimraf dist",
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
