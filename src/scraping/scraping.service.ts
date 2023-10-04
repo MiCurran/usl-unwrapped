@@ -7,7 +7,7 @@ export class ScrapingService {
         const returnArr = [];
         const url = 'https://www.uslchampionship.com/league-scores'
           try {
-            const browser = await puppeteer.launch({ headless: 'new' });
+            const browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox','--disable-setuid-sandbox']});
             const page = await browser.newPage();
         
             await page.goto(url);
