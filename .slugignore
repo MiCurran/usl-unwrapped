@@ -1,0 +1,4 @@
+mock/*
+prisma/mock/*
+.github/*
+mock_data/*
