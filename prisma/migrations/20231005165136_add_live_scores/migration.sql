@@ -8,7 +8,7 @@
 DROP TABLE "ApiUsers";
 
 -- CreateTable
-CREATE TABLE "LiveScores" (
+CREATE TABLE IF NOT EXISTS "LiveScores" (
     "id" SERIAL NOT NULL,
     "date" TIMESTAMP(3) NOT NULL,
     "homeTeamName" TEXT NOT NULL,
