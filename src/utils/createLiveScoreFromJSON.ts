@@ -105,7 +105,7 @@ const getMatchDetails = async () => {
       else return null
     }
 
-const updatedMatch = checkAndUpdateMatch();
+const updatedMatch = await checkAndUpdateMatch();
 
     if(updatedMatch === null){
       const createLiveScore = async () => {
@@ -135,7 +135,3 @@ const updatedMatch = checkAndUpdateMatch();
     console.error('Error creating records:', error);
   }
 }
-
-// this should work to handle live scores
-// we just need a way to handle scraping the data periodically
-// this script should help as a 1 stop hit for the json data that is created when we scrape
