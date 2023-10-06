@@ -66,11 +66,23 @@ import { TaskModule } from './task/task.module';
     AnalyticsModule,
     HealthModule,
     ScoresModule,
-    ScheduleModule.forRoot(),
-    TaskModule,
+    //ScheduleModule.forRoot(),
+    //TaskModule,
   ],
   controllers: [AppController, MatchesController, EventsController, TeamsController, MatchTeamsController],
-  providers: [PrismaService, MatchResolver, AppService, MatchesService, EventsService, EventsResolver, TeamsService, MatchTeamsService, TeamsResolver, TasksService, ScrapingService],
+  providers: [
+    PrismaService, 
+    MatchResolver,
+    AppService, 
+    MatchesService, 
+    EventsService, 
+    EventsResolver, 
+    TeamsService, 
+    MatchTeamsService,
+    TeamsResolver, 
+    //TasksService, 
+    //ScrapingService
+  ],
 })
 export class AppModule implements NestModule {
   configure(consumer: MiddlewareConsumer) {

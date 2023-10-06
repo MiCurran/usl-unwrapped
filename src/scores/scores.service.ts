@@ -16,4 +16,7 @@ export class ScoresService {
     return this.prisma.liveScores.findMany();
   }
 
+  async deleteAll(): Promise<any> {
+    return this.prisma.liveScores.deleteMany({})
+  }
 }

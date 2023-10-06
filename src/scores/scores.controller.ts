@@ -1,8 +1,16 @@
-import { ApiTags, ApiOperation, ApiResponse, ApiParam, ApiUnauthorizedResponse } from '@nestjs/swagger'; // Import Swagger decorators
-import { Controller, Get } from '@nestjs/common';
+import { 
+  ApiOperation,
+  ApiResponse,
+  ApiTags,
+  ApiUnauthorizedResponse,
+  ApiExcludeEndpoint
+} from '@nestjs/swagger';
+import { Controller, Delete, Get, UseGuards } from '@nestjs/common';
 import { ScoresService } from './scores.service';
 import { LiveScores } from '@prisma/client';
+import { AuthorizationGuard } from 'src/authorization/authorization.guard';
 
+@ApiTags('Live Scores')
 @Controller('live-scores')
 export class ScoresController {
     constructor(private readonly scoresService: ScoresService){}
@@ -13,4 +21,12 @@ export class ScoresController {
     return this.scoresService.getLiveScores();
   }
 
+  @Delete()
+  @ApiExcludeEndpoint(process.env.NODE_ENV !== 'DEV')
+  @UseGuards(AuthorizationGuard)
+  @ApiResponse({ status: 200, description: 'Removes current live scores'})
+  @ApiUnauthorizedResponse({status: 401, description: 'Missing bearer key'})
+  deleteAllLiveScores(): Promise<any> {
+    return this.scoresService.deleteAll();
+  }
 }
