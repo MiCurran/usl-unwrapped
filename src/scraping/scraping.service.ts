@@ -4,6 +4,7 @@ import * as cheerio from 'cheerio';
 @Injectable()
 export class ScrapingService {
     async scrapeLiveScores(): Promise<any[]> {
+        const batchSize = 2;
         const returnArr = [];
         const url = 'https://www.uslchampionship.com/league-scores'
           try {
@@ -19,10 +20,11 @@ export class ScrapingService {
               const linkElements = Array.from(document.querySelectorAll('div.LinksPart a:first-child'));
               return linkElements.map(link => (link as HTMLAnchorElement).href).slice(0,3);
             });
-            console.log('links:', links)
             const errorArr = [];
-        
-            for (const link of links) {
+            
+            for (let i = 0; i < links.length; i += batchSize) {
+              const batch = links.slice(i, i + batchSize);
+              for (const link of batch) {
 
               try {
                 console.log('now scraping link', link)
@@ -37,9 +39,6 @@ export class ScrapingService {
                   errorArr.push(errorObj);
                   continue;
                 }
-                const selector = 'footer.snFooterContainer';
-                 // scroll selector into view
-                // Scroll to the desired element
                 await page.evaluate(() => {
                   const element = document.querySelector('#siteFooter');
                   if (element) {
@@ -70,8 +69,12 @@ export class ScrapingService {
                   const disciplineStats = tableHtmlList[8];
         
               let extractedMatchDetails = await scrapeMatchDetails(tableHtml);
+              if (extractedMatchDetails[0].score === 'n/a' || extractedMatchDetails[0].score === 'N/A' ||
+                extractedMatchDetails[1].score === 'n/a' || extractedMatchDetails[1].score === 'N/A') {
+                await page.close(); // Close the page after scraping
+                continue;
+              }
               let GENERAL_STATS, DISTRIBUTION_STATS, ATTACK_STATS, DEFENSE_STATS, DISCIPLINE_STATS;
-        
               try {
                   GENERAL_STATS = await scrapeGeneralStats(generalStats, 0, 'GENERAL') ;
                   DISTRIBUTION_STATS = await scrapeGeneralStats(distributionStats, 1, 'DISTRIBUTION' )
@@ -126,7 +129,6 @@ export class ScrapingService {
                   events: events
                 };
                 await page.close(); // Close the page after scraping
-                console.log(returnData.matchDetails);
                 returnArr.push(returnData);
               } 
                 //-----THIS CATCH STATEMENT IS FOR EACH MACH URL-----\\
@@ -135,12 +137,12 @@ export class ScrapingService {
                 errorArr.push({error: err, match: link})
               }
               }
-        
+            }
             await browser.close();
           
             console.log('----✅----')
             console.log(`Done! Successfully scraped live matches ${url}`)
-            return returnArr.slice(0,3);
+            return returnArr;
           }
           //-----THIS CATCH STATEMENT IS FOR THE MATCH WEEK URL TOP MOST LEVEL-----\\
           catch (err) {
