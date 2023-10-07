@@ -59,7 +59,7 @@ export class ScrapingService {
             await page.waitForSelector('div.LinksPart');
             const links = await page.evaluate(() => {
               const linkElements = Array.from(document.querySelectorAll('div.LinksPart a:first-child'));
-              return linkElements.map(link => (link as HTMLAnchorElement).href).slice(0,11);
+              return linkElements.map(link => (link as HTMLAnchorElement).href).slice(0,4);
             });
             const errorArr = [];
             
