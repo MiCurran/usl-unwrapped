@@ -3,12 +3,13 @@ import { Controller, Get, Post, UseGuards } from '@nestjs/common';
 import { ScrapingService } from './scraping.service';
 import { AuthorizationGuard } from 'src/authorization/authorization.guard';
 import { ApiExcludeController } from '@nestjs/swagger';
+import { ScoresService } from 'src/scores/scores.service';
 
 @UseGuards(AuthorizationGuard)
 @ApiExcludeController(true)
 @Controller('scraping')
 export class ScrapingController {
-  constructor(private readonly scrapingService: ScrapingService) {}
+  constructor(private readonly scrapingService: ScrapingService, private readonly scoresService: ScoresService) {}
 
 @Get('')
  isTaskRunning(){
@@ -16,9 +17,12 @@ export class ScrapingController {
  }
 
   @Post('start')
-  startScraping() {
+  async startScraping() {
     if (!this.scrapingService.isTaskRunning()) {
-      this.scrapingService.scrapeLiveScores();
+      const scores = await this.scrapingService.scrapeLiveScores();
+      for(const score of scores){
+        this.scoresService.createLiveScore(score)
+      }
       return 'Scraping job started.';
     } else {
       return 'Scraping job is already running.';

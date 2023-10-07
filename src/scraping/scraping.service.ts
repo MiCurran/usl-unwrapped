@@ -45,7 +45,7 @@ export class ScrapingService {
   async scrapeLiveScores(): Promise<ScrapedMatch[]> {
     if (!this.isTaskActive) {
       this.isTaskActive = true;
-        const batchSize = 2;
+        const batchSize = 1;
         const returnArr: ScrapedMatch[] = [];
           
         try {
@@ -59,7 +59,7 @@ export class ScrapingService {
             await page.waitForSelector('div.LinksPart');
             const links = await page.evaluate(() => {
               const linkElements = Array.from(document.querySelectorAll('div.LinksPart a:first-child'));
-              return linkElements.map(link => (link as HTMLAnchorElement).href).slice(0,4);
+              return linkElements.map(link => (link as HTMLAnchorElement).href).slice(0,2);
             });
             const errorArr = [];
             
