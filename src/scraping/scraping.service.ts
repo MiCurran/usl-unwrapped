@@ -41,7 +41,7 @@ export class ScrapingService {
     return this.isTaskActive;
   }
   
-  @Cron('*/8 * * * *')
+  //@Cron('*/8 * * * *')
   async scrapeLiveScores(): Promise<ScrapedMatch[]> {
     if (!this.isTaskActive) {
       this.isTaskActive = true;
