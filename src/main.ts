@@ -11,6 +11,7 @@ function checkEnvironment(configService: ConfigService) {
     'DATABASE_URL',
     'AUTH0_AUDIENCE',
     'AUTH0_DOMAIN',
+    'LIVE_SCORES_URL'
   ];
 
   requiredEnvVars.forEach((envVar) => {
@@ -28,16 +29,13 @@ async function bootstrap() {
   app.useGlobalPipes(new ValidationPipe());
   app.useLogger(app.get(Logger));
   app.useGlobalInterceptors(new LoggerErrorInterceptor());
-  // Call the setupSwagger function with the INestApplication instance
   setupSwagger(app);
-  // Use the class-based middleware
-  // Instantiate and register the class-based middleware
   const simpleMiddleware = new SimpleMiddleware();
   app.use(simpleMiddleware.use.bind(simpleMiddleware));
   await app.listen(configService.get<string>('PORT') || 3000,
     () => {
       console.log(`
-        🚀 Server ready at: http://localhost:3000/graphql
+        🚀 Server ready at: /graphql
         ⭐️ See sample queries in README
       `);
   })

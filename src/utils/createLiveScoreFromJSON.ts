@@ -1,4 +1,6 @@
 import { PrismaClient, LiveScores } from "@prisma/client";
+import { LiveScoreModel } from "src/scores/scores.model";
+import { ScrapedMatch } from "src/scraping/scraping.service";
 
 const uslTeams = [
   { name: "Pittsburgh Riverhounds SC", conference: "Eastern" },
@@ -45,7 +47,7 @@ const uslTeams = [
   { name: "Bethlehem Steel FC", conference: "Eastern", active: false}
 ];
 
-export async function createLiveScoreFromJSON(data): Promise<LiveScores> {
+export async function createLiveScoreFromJSON(data: ScrapedMatch): Promise<LiveScoreModel> {
 const prisma = new PrismaClient();
   try {
     const poppedDate = data.matchDetails[2];

@@ -1,24 +1,65 @@
 import { Injectable } from '@nestjs/common';
 import * as puppeteer from 'puppeteer';
 import * as cheerio from 'cheerio';
+import { ConfigService } from '@nestjs/config';
+import { Cron } from '@nestjs/schedule';
+
+export type ScrapedMatch = {
+    matchDetails: any[];
+    stats: {
+        GENERAL_STATS: any;
+        DISTRIBUTION_STATS: any;
+        ATTACK_STATS: any;
+        DEFENSE_STATS: any;
+        DISCIPLINE_STATS: any;
+    };
+    events: any[];
+}
+
 @Injectable()
 export class ScrapingService {
-    async scrapeLiveScores(): Promise<any[]> {
+  private task;
+  private isTaskActive = false;
+  private LIVE_SCORES_URL: string
+  constructor(
+    private configService: ConfigService, 
+    ){
+    this.LIVE_SCORES_URL = this.configService.get('LIVE_SCORES_URL')
+  }
+
+  stopTask() {
+    if (this.task) {
+      this.task.stop();
+      console.log('Scraping job stopped.');
+    }
+  }
+
+  setTask(task) {
+    this.task = task;
+  }
+  isTaskRunning() {
+    return this.isTaskActive;
+  }
+  
+  @Cron('*/8 * * * *')
+  async scrapeLiveScores(): Promise<ScrapedMatch[]> {
+    if (!this.isTaskActive) {
+      this.isTaskActive = true;
         const batchSize = 2;
-        const returnArr = [];
-        const url = 'https://www.uslchampionship.com/league-scores'
-          try {
+        const returnArr: ScrapedMatch[] = [];
+          
+        try {
             const browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox','--disable-setuid-sandbox']});
             const page = await browser.newPage();
         
-            await page.goto(url);
-            console.log('scraping url:', url)
+            await page.goto(this.LIVE_SCORES_URL);
+            console.log('scraping LIVE_SCORE_URL:', this.LIVE_SCORES_URL)
             // ||||||----------THIS IS FOR 2023 ONLY--------------||||||||
           // Extract the links from the div with class 'LinksPart'    
             await page.waitForSelector('div.LinksPart');
             const links = await page.evaluate(() => {
               const linkElements = Array.from(document.querySelectorAll('div.LinksPart a:first-child'));
-              return linkElements.map(link => (link as HTMLAnchorElement).href).slice(0,3);
+              return linkElements.map(link => (link as HTMLAnchorElement).href).slice(0,11);
             });
             const errorArr = [];
             
@@ -116,7 +157,6 @@ export class ScrapingService {
                   return reversedEvents;
                 }, eventsHtml);
                 
-                // OKAY RIGHT HERE WE WANT TO RETURN THIS JSON OBJECT INSTEAD OF WRITING IT TO A FILE
                 const returnData = {
                   matchDetails: extractedMatchDetails, 
                   stats: {
@@ -139,16 +179,18 @@ export class ScrapingService {
               }
             }
             await browser.close();
-          
+            this.isTaskActive = false; // Set it to false when scraping is done
             console.log('----✅----')
-            console.log(`Done! Successfully scraped live matches ${url}`)
+            console.log(`Done! Successfully scraped live matches ${this.LIVE_SCORES_URL}`)
             return returnArr;
           }
           //-----THIS CATCH STATEMENT IS FOR THE MATCH WEEK URL TOP MOST LEVEL-----\\
           catch (err) {
             console.error(`Error: Live Results`, err);
           }
-    }
+        }
+  }
+
 }
 
 const genKeys = [
@@ -222,14 +264,12 @@ const keys = keysArr[indexToScrape]
 
     return { ...generalStats };
 } catch (err) {
-/*     console.error(error(`‼️ Error Processing stats`))
-    console.error(error(`For match: ${matchUrl}`)) */
     throw new Error(`Error processing ${statType} stats in scrapeGeneralStats module:\n${err.stack}`);
 } 
 }
 
 
-async function scrapeMatchDetails(tableHtml) {
+async function scrapeMatchDetails(tableHtml: string | cheerio.AnyNode | cheerio.AnyNode[] | Buffer) {
     try {
       const $ = cheerio.load(tableHtml);
       const extractedMatchDetails = [];

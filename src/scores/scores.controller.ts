@@ -15,8 +15,8 @@ import { AuthorizationGuard } from 'src/authorization/authorization.guard';
 export class ScoresController {
     constructor(private readonly scoresService: ScoresService){}
   @Get()
-  @ApiOperation({ summary: 'Get all live matches' })
-  @ApiResponse({ status: 200, description: 'Returns an array of live matches' })
+  @ApiOperation({ summary: 'Get all live scores' })
+  @ApiResponse({ status: 200, description: 'Returns an array of live scores' })
   findAll(): Promise<LiveScores[]> {
     return this.scoresService.getLiveScores();
   }
@@ -24,7 +24,7 @@ export class ScoresController {
   @Delete()
   @ApiExcludeEndpoint(process.env.NODE_ENV !== 'DEV')
   @UseGuards(AuthorizationGuard)
-  @ApiResponse({ status: 200, description: 'Removes current live scores'})
+  @ApiResponse({ status: 200, description: 'Removes all current live score records from db'})
   @ApiUnauthorizedResponse({status: 401, description: 'Missing bearer key'})
   deleteAllLiveScores(): Promise<any> {
     return this.scoresService.deleteAll();

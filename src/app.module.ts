@@ -30,9 +30,17 @@ import { LoggerModule } from 'nestjs-pino';
 import { DeprecationMiddleware } from './deprecation/deprecation.middleware';
 import { ScoresModule } from './scores/scores.module';
 import { ScheduleModule } from '@nestjs/schedule';
-import { TasksService } from './task/task.service';
 import { ScrapingService } from './scraping/scraping.service';
-import { TaskModule } from './task/task.module';
+import { ScrapingModule } from './scraping/scraping.module';
+import { ScoresController } from './scores/scores.controller';
+import { AnalyticsController } from './analytics/analytics.controller';
+import { HealthController } from './health/health.controller';
+import { ScrapingController } from './scraping/scraping.controller';
+import { StatsController } from './stats/stats.controller';
+import { StatsService } from './stats/stats.service';
+import { ScoresService } from './scores/scores.service';
+import { AnalyticsService } from './analytics/analytics.service';
+import { HealthService } from './health/health.service';
 
 
 @Module({
@@ -66,10 +74,21 @@ import { TaskModule } from './task/task.module';
     AnalyticsModule,
     HealthModule,
     ScoresModule,
-    //ScheduleModule.forRoot(),
-    //TaskModule,
+    ScrapingModule,
+    ScheduleModule.forRoot(),
   ],
-  controllers: [AppController, MatchesController, EventsController, TeamsController, MatchTeamsController],
+  controllers: [
+    AppController,
+    AnalyticsController,
+    HealthController,
+    MatchesController,
+    EventsController,
+    TeamsController,
+    MatchTeamsController,
+    ScoresController,
+    ScrapingController,
+    StatsController,
+  ],
   providers: [
     PrismaService, 
     MatchResolver,
@@ -80,8 +99,11 @@ import { TaskModule } from './task/task.module';
     TeamsService, 
     MatchTeamsService,
     TeamsResolver, 
-    //TasksService, 
-    //ScrapingService
+    ScrapingService,
+    StatsService,
+    ScoresService,
+    AnalyticsService,
+    HealthService
   ],
 })
 export class AppModule implements NestModule {
