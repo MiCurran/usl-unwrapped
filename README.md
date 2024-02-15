@@ -289,27 +289,3 @@ query {
   }
   }
 ```
-
-### Dumping and Transfering Data
-
-First we get the data from the working db to a tmp/dump file on the container
-`docker exec -t uslunwrapped_dev_db pg_dump -U POSTGRES -d uslunwrapped -f /tmp/data_dump.sql`
-
-Move that dump to the local machine
-`docker cp uslunwrapped_dev_db:/tmp/data_dump.sql ./data_dump.sql`
-
-Connect to Heroku PostgreSQL: Use the Heroku CLI to access your Heroku PostgreSQL database:
-
-```bash
-heroku pg:psql -a your-heroku-app-name
-```
-Import Data: Once connected to your Heroku database, you can import the data from the dump file into the production database:
-
-```bash
-Copy code
-\i path/to/data_dump.sql
-```
-Replace path/to/data_dump.sql with the actual path to your data dump file.
-
-Verify Data: 
-After the import is complete, you can verify that the data has been successfully seeded into your Heroku production database by running queries in the PostgreSQL terminal.
