@@ -76,16 +76,16 @@ async function processAllFilesInDirectory(directoryPath, batchSize) {
   }
 }
 async function main() {
-  //const prisma = new PrismaClient();
+  const prisma = new PrismaClient();
   console.log(`Start seeding ...`);
-  //seedUslTeams(uslTeams, prisma);
-  const batchSize = 5;
-  let week = 29;
+  seedUslTeams(uslTeams, prisma);
+  //const batchSize = 5;
+  //let week = 29;
   //while (week > 0) {
-    const directoryPath = `./mock_data/2023-week-${week}`;
-    console.log(`Processing week ${week}`);
-    await processAllFilesInDirectory(directoryPath, batchSize);
-    week--; // Decrement week for the next iteration
+    //const directoryPath = `./mock_data/2023-week-${week}`;
+    //console.log(`Processing week ${week}`);
+    //await processAllFilesInDirectory(directoryPath, batchSize);
+    //week--; // Decrement week for the next iteration
   //}
   console.log(`Seeding finished.`);
 }
