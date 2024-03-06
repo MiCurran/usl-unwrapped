@@ -1,8 +1,8 @@
 
-import { Controller, Get, Param, ParseIntPipe, Post, Put, Query, UseGuards, UseInterceptors } from '@nestjs/common';
+import { Body, Controller, Get, Param, ParseIntPipe, Post, Put, Query, UseGuards, UseInterceptors } from '@nestjs/common';
 import { TeamsService, UslTeam } from './teams.service';
 import { MatchEvents, UslTeams, Prisma, MatchTeam, Match } from '.prisma/client';
-import { ApiTags, ApiOperation, ApiResponse, ApiParam, ApiQuery } from '@nestjs/swagger'; // Import Swagger decorators
+import { ApiTags, ApiOperation, ApiResponse, ApiParam, ApiQuery, ApiBody } from '@nestjs/swagger'; // Import Swagger decorators
 import { MatchesService } from 'src/matches/matches.service';
 import { MatchTeamsService } from 'src/matchTeams/matchTeams.service';
 import { CacheInterceptor, CacheTTL } from '@nestjs/cache-manager';
@@ -84,7 +84,7 @@ export class TeamsController {
   @ApiOperation({ summary: 'Create a new USL Team' })
   @ApiResponse({ status: 201, description: 'The USL Team has been successfully created.' })
   @ApiResponse({ status: 400, description: 'Bad request.' })
-  createOne(@Param('data') data: Prisma.UslTeamsCreateInput): Promise<UslTeam> {
+  createOne(@Body() data: Prisma.UslTeamsCreateInput): Promise<UslTeam> {
     return this.teamsService.createOne(data);
   }
 
@@ -96,7 +96,7 @@ export class TeamsController {
   @ApiParam({ name: 'uslTeamId', type: 'integer', required: true, enum: UslIdEnum })
   @ApiResponse({ status: 200, description: 'The USL Team has been successfully updated.' })
   @ApiResponse({ status: 400, description: 'Bad request.' })
-  updateOne(@Param('uslTeamId', ParseIntPipe) uslTeamId: UslId, @Param('data') data: Prisma.UslTeamsUpdateInput): Promise<UslTeam> {
+  updateOne(@Param('uslTeamId', ParseIntPipe) uslTeamId: UslId, @Body() data: Prisma.UslTeamsUpdateInput): Promise<UslTeam> {
     return this.teamsService.updateOne(uslTeamId, data);
   }
 
