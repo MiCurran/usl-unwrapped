@@ -1,12 +1,13 @@
 
-import { Controller, Get, Param, ParseIntPipe, Query, UseInterceptors } from '@nestjs/common';
+import { Controller, Get, Param, ParseIntPipe, Post, Put, Query, UseGuards, UseInterceptors } from '@nestjs/common';
 import { TeamsService, UslTeam } from './teams.service';
 import { MatchEvents, UslTeams, Prisma, MatchTeam, Match } from '.prisma/client';
 import { ApiTags, ApiOperation, ApiResponse, ApiParam, ApiQuery } from '@nestjs/swagger'; // Import Swagger decorators
 import { MatchesService } from 'src/matches/matches.service';
 import { MatchTeamsService } from 'src/matchTeams/matchTeams.service';
 import { CacheInterceptor, CacheTTL } from '@nestjs/cache-manager';
-type UslId = Exclude<number, 0 | 42>;
+import { AuthorizationGuard } from 'src/authorization/authorization.guard';
+type UslId = Exclude<number, 0 | 44>;
 enum UslIdEnum {
   One = 1,
   Two,
@@ -50,6 +51,8 @@ enum UslIdEnum {
   Forty,
   FortyOne,
   FortyTwo,
+  FortyThree,
+  FortyFour
 }
 
 enum Where {
@@ -72,6 +75,29 @@ export class TeamsController {
   @ApiResponse({ status: 200, description: 'Returns an array of USL Teams and their IDs', type: [UslTeam] })
   findAll(): Promise<UslTeam[]> {
     return this.teamsService.findAll();
+  }
+
+  //create usl team
+  @ApiTags('USL TEAMS')
+  @Post()
+  @UseGuards(AuthorizationGuard) // we only want authorized users to be able to create a new team
+  @ApiOperation({ summary: 'Create a new USL Team' })
+  @ApiResponse({ status: 201, description: 'The USL Team has been successfully created.' })
+  @ApiResponse({ status: 400, description: 'Bad request.' })
+  createOne(@Param('data') data: Prisma.UslTeamsCreateInput): Promise<UslTeam> {
+    return this.teamsService.createOne(data);
+  }
+
+  //update usl team
+  @ApiTags('USL TEAMS')
+  @Put(':uslTeamId')
+  @UseGuards(AuthorizationGuard) // we only want authorized users to be able to update a team
+  @ApiOperation({ summary: 'Update a USL Team' })
+  @ApiParam({ name: 'uslTeamId', type: 'integer', required: true, enum: UslIdEnum })
+  @ApiResponse({ status: 200, description: 'The USL Team has been successfully updated.' })
+  @ApiResponse({ status: 400, description: 'Bad request.' })
+  updateOne(@Param('uslTeamId', ParseIntPipe) uslTeamId: UslId, @Param('data') data: Prisma.UslTeamsUpdateInput): Promise<UslTeam> {
+    return this.teamsService.updateOne(uslTeamId, data);
   }
 
   @ApiTags('USL TEAMS') 

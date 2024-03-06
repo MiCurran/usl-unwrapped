@@ -1,21 +1,21 @@
 import { Injectable } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
-import { UslTeams } from '.prisma/client';
-import { Directive, Field, ID, ObjectType, Int } from '@nestjs/graphql';
+import { UslTeams, Prisma } from '.prisma/client';
 import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
 
-@ObjectType({ description: 'USL Team' })
+export class CreateTeamDTO {
+  name: string;
+  conference: string;
+  active: boolean;
+}
+
 export class UslTeam implements UslTeams {
-    @Field()
     @ApiProperty()
     id: number;
-    @Field()
     @ApiProperty()
     name: string;
-    @Field()
     @ApiProperty()
     conference: string;
-    @Field()
     @ApiProperty()
     active: boolean;  
 }
@@ -34,5 +34,22 @@ export class TeamsService {
     });
 
    }
+
+  async createOne(data: CreateTeamDTO): Promise<UslTeam> {
+    return this.prisma.uslTeams.create({
+      data: {
+        ...data
+      },
+    });
+  }
+
+  async updateOne(id: number, data: Prisma.UslTeamsUpdateInput): Promise<UslTeam> {
+    return this.prisma.uslTeams.update({
+      where: { id },
+      data: {
+        ...data
+      },
+    });
+  }
 
 }

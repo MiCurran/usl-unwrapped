@@ -1,18 +1,12 @@
 import { MiddlewareConsumer, Module, NestModule } from '@nestjs/common';
-import { CacheModule } from '@nestjs/cache-manager';
-import { GraphQLModule } from '@nestjs/graphql';
 import { PrismaService } from './prisma/prisma.service';
-import { join } from 'path';
-import { ApolloDriver, ApolloDriverConfig } from '@nestjs/apollo';
 import { AppService } from './app.service';
 import { AppController } from './app.controller';
-import { MatchResolver } from './matches/matches.resolver';
 import { MatchesModule } from './matches/matches.module';
 import { MatchesService } from './matches/matches.service';
 import { MatchesController } from './matches/matches.controller';
 import { EventsController } from './events/events.controller';
 import { EventsService } from './events/events.service';
-import { EventsResolver } from './events/events.resolver';
 import { EventsModule } from './events/events.module';
 import { TeamsController } from './teams/teams.controller';
 import { TeamsService } from './teams/teams.service';
@@ -22,7 +16,6 @@ import { ConfigModule } from '@nestjs/config';
 import { MatchTeamsController } from './matchTeams/matchTeams.controller';
 import { MatchTeamsService } from './matchTeams/matchTeams.service';
 import { MatchTeamsModule } from './matchTeams/matchTeams.module';
-import { TeamsResolver } from './teams/teams.resolver';
 import { StatsModule } from './stats/stats.module';
 import { AnalyticsModule } from './analytics/analytics.module';
 import { HealthModule } from './health/health.module';
@@ -45,12 +38,6 @@ import { HealthService } from './health/health.service';
 
 @Module({
   imports: [
-    CacheModule.register({isGlobal: true}), 
-    GraphQLModule.forRoot<ApolloDriverConfig>({
-      driver: ApolloDriver,
-      autoSchemaFile: join(process.cwd(), 'src/schema.gql'),
-      buildSchemaOptions: { dateScalarMode: 'timestamp' },
-    }),
     LoggerModule.forRoot({
       pinoHttp: {
         customProps: (req, res) => ({
@@ -91,14 +78,11 @@ import { HealthService } from './health/health.service';
   ],
   providers: [
     PrismaService, 
-    MatchResolver,
     AppService, 
     MatchesService, 
     EventsService, 
-    EventsResolver, 
     TeamsService, 
     MatchTeamsService,
-    TeamsResolver, 
     ScrapingService,
     StatsService,
     ScoresService,
