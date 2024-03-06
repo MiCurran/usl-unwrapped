@@ -7,7 +7,7 @@ import { MatchesService } from 'src/matches/matches.service';
 import { MatchTeamsService } from 'src/matchTeams/matchTeams.service';
 import { CacheInterceptor, CacheTTL } from '@nestjs/cache-manager';
 import { AuthorizationGuard } from 'src/authorization/authorization.guard';
-type UslId = Exclude<number, 0 | 44>;
+type UslId = Exclude<number, 0 | 43>;
 enum UslIdEnum {
   One = 1,
   Two,
@@ -52,7 +52,6 @@ enum UslIdEnum {
   FortyOne,
   FortyTwo,
   FortyThree,
-  FortyFour
 }
 
 enum Where {
